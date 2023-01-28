@@ -1,0 +1,652 @@
+{
+  "type": "Feature",
+  "name": "Co-op Mart",
+  "POI:Category": "",
+  "store_url": "http://www.co-opmart.com.vn/lienhe/hethongcoopmart.aspx",
+  "website": "http://www.co-opmart.com.vn",
+  "properties": {
+    "attributes": [
+      {
+        "name": "Co.opmart Bà Rịa",
+        "address": "Phường Phước Trung, TX. Bà Rịa, Tỉnh Bà Rịa – Vũng Tàu",
+        "phone": "(0254) 3739 359"
+      },
+      {
+        "name": "Co.opmart Biên Hoà",
+        "address": "121 Quốc lộ 15, P.Tân Tiến, Tp.Biên Hoà - Đồng Nai",
+        "phone": "(0251) 3949 992"
+      },
+      {
+        "name": "Co.opmart Bình Dương",
+        "address": "Đường 30 tháng 4, phường Chánh Nghĩa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương",
+        "phone": "(0274) 38 18 667"
+      },
+      {
+        "name": "Co.opmart Bình Dương 2",
+        "address": "Trung tâm Thương Mại Bình Dương Square - Số 1 Phú Lợi, P. Phú Hòa, TP. Thủ Dầu Một, Tỉnh Bình Dương",
+        "phone": "(0274) 6259 779"
+      },
+      {
+        "name": "Co.opmart Châu Thành",
+        "address": "Đường 781, khu phố 3, thị trấn Châu Thành, huyện Châu Thành, tỉnh Tây Ninh",
+        "phone": "(0276) 3 887799"
+      },
+      {
+        "name": "Co.opmart Đồng Phú",
+        "address": "Đường CMT8 - ĐT.741, khu phố Tân An, thị trấn Tân Phú, huyện Đồng Phú, Tỉnh Bình Phước",
+        "phone": "(0271) 3908 001"
+      },
+      {
+        "name": "Co.opmart Đồng Xoài",
+        "address": "TTTM Đồng Xoài, Phú Riềng Đỏ, P. Tân Bình, TX. Đồng Xoài – Tỉnh Bình Phước",
+        "phone": "(0271) 3865 555"
+      },
+      {
+        "name": "Co.opmart Dương Minh Châu",
+        "address": "Khu phố 1, Thị trấn Dương Minh Châu, Huyện Dương Minh Châu, Tỉnh Tây Ninh",
+        "phone": "02763 747979"
+      },
+      {
+        "name": "Co.opmart Gò Dầu",
+        "address": "Quốc lộ 22B Khu phố Rạch Sơn, Thị trấn Gò Dầu, Huyện Gò Dầu, Tỉnh Tây Ninh (Bến xe Gò Dầu cũ)",
+        "phone": "(0276) 3522 568"
+      },
+      {
+        "name": "Co.opmart Phước Đông",
+        "address": "Khu công nghiệp Phước Đông, Xã Phước Đông, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "phone": "(0276) 3510 158"
+      },
+      {
+        "name": "Co.opmart SCA Tây Ninh",
+        "address": "TTTM TTC Plaza Tây Ninh, số 217 - 219 đường 30/4, P.2, TP. Tây Ninh, Tỉnh Tây Ninh",
+        "phone": "(0276) 3753 939"
+      },
+      {
+        "name": "Co.opmart Tân Biên",
+        "address": "Khu phố 3 đường Nguyễn Văn Linh, thị trấn Tân Biên, huyện Tân Biên, tỉnh Tây Ninh",
+        "phone": "(0276) 3 88 79 79"
+      },
+      {
+        "name": "Co.opmart Tân Châu",
+        "address": "Đường Lê Duẩn, Khu phố 2, Thị trấn Tân Châu, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "phone": "(0276) 3755 994"
+      },
+      {
+        "name": "Co.opmart Tân Thành",
+        "address": "Quốc lộ 51, Tổ 12 Khu phố Tân Phú, Thị trấn Phú Mỹ, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "phone": "(0254) 3924 611"
+      },
+      {
+        "name": "Co.opmart Tây Ninh",
+        "address": "576 Cách Mạng Tháng 8, Phường 3, Thành Phố Tây Ninh, Tỉnh Tây Ninh",
+        "phone": "(0276) 3922 339"
+      },
+      {
+        "name": "Co.opmart Trảng Bàng",
+        "address": "Khu phố Lộc An, Thị trấn Trảng Bàng, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+        "phone": "(0276) 3890 949"
+      },
+      {
+        "name": "Co.opmart Vũng Tàu",
+        "address": "36 Nguyễn Thái Học, P.7, TP.Vũng Tàu",
+        "phone": "(0254) 3576 200"
+      },
+      {
+        "name": "Co.opmart Bắc Giang",
+        "address": "51 Nguyễn Văn Cừ, Phường Ngô Quyền, TP. Bắc Giang, Tỉnh Bắc Giang",
+        "phone": "(0240) 3 549 999"
+      },
+      {
+        "name": "Co.opmart Hà Đông",
+        "address": "Tầng 1 (trệt), Tòa nhà CT6 Xa La, số 339 Quốc lộ 70B, Cầu Bươu, Phường Kiến Hưng, Quận Hà Đông, Hà N",
+        "phone": "(024) 3201 2830"
+      },
+      {
+        "name": "Co.opmart Hải Phòng",
+        "address": "Số 1 Lê Hồng Phong, Phường Lạc Viên, Quận Ngô Quyền, TP Hải Phòng (Ngã 5 Cát Bi)",
+        "phone": "(0225) 833 789"
+      },
+      {
+        "name": "Co.opmart Nam Định",
+        "address": "91 Phố Điện Biên, Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định (Tầng 2 Tòa nhà Nam Định Tower)",
+        "phone": "(022) 3888 456"
+      },
+      {
+        "name": "Co.opmart Sài Gòn, TP. Hà Nội",
+        "address": "Km số 10, Đường Nguyễn Trãi, P. Mộ Lao, Q. Hà Đông , Hà Nội",
+        "phone": "(024) 6282 6888"
+      },
+      {
+        "name": "Co.opmart SCA GoldenSilk",
+        "address": "Tầng hầm Tòa tháp C, Khu đô thị mới Kim Văn Kim Lũ, Phường Đại Kim, Quận Hoàng Mai, Tp.Hà Nội",
+        "phone": "024 32022130"
+      },
+      {
+        "name": "Co.opmart SCA GoldSilk",
+        "address": "Tầng trệt Khu phức hợp thương mại nhà ở Goldsilk, Số 430 Phố Cầu Am,Phường Vạn Phúc, Quận Hà Đông, T",
+        "phone": ""
+      },
+      {
+        "name": "Co.opmart SCA Long Biên",
+        "address": "Tầng 2, Trung tâm Thương mại Mipec Riverside, Số 2 Long Biên 2, Ngọc Lâm, Long Biên, Hà Nội",
+        "phone": "024 32022140"
+      },
+      {
+        "name": "Co.opmart SCA Victoria",
+        "address": "Tầng trệt Tòa nhà V2, V3 - Văn Phú Victoria -CT9, Khu đô thị mới Văn Phú, Phường Phú La, Quận Hà Đôn",
+        "phone": "(024) 3202 2113"
+      },
+      {
+        "name": "Co.opmart Thanh Hóa",
+        "address": "Trung tâm Thương mại Hiền Đức, Đường Phan Chu Trinh, P.Điện Biên, Tp.Thanh Hóa, Tỉnh Thanh Hóa",
+        "phone": "(0237) 8999 333"
+      },
+      {
+        "name": "Co.opmart Việt Trì",
+        "address": "Số 1606A đường Hùng Vương, phường Gia Cẩm, thành phố Việt Trì, tỉnh Phú Thọ",
+        "phone": "(0210) 399 2222"
+      },
+      {
+        "name": "Co.opmart Vĩnh Phúc",
+        "address": "Tòa nhà Trung tâm Thương Mại SOIVA Plaza, Đường Mê Linh, P.Khai Quang, TP. Vĩnh Yên, Tỉnh Vĩnh Phúc",
+        "phone": "(0211) 369 6442"
+      },
+      {
+        "name": "Co.opmart An Nhơn",
+        "address": "Khu trung tâm TM Hoàng Vũ Plaza, Quốc lộ 1A, Thị xã An Nhơn, Tỉnh Bình Định",
+        "phone": "(0256) 3 635 677"
+      },
+      {
+        "name": "Co.opmart Cam Ranh",
+        "address": "2038 Hùng Vương, Phường Cam Lộc, Thành Phố Cam Ranh, Tỉnh Khánh Hòa",
+        "phone": "0258 3 950 000"
+      },
+      {
+        "name": "Co.opmart Đà Nẵng",
+        "address": "478 Điện Biên Phủ, Q. Thanh Khê, TP. Đà Nẵng",
+        "phone": "(0236) 3771 888"
+      },
+      {
+        "name": "Co.opmart Đông Hà",
+        "address": "Số 02 Trần Hưng Đạo, Thành phố Đông Hà, tỉnh Quảng Trị",
+        "phone": "(0233) 3666 996"
+      },
+      {
+        "name": "Co.opmart Đức Phổ",
+        "address": "Đường Nguyễn Nghiêm, thôn Vĩnh Bình, xã Phổ Ninh, huyện Đức Phổ, tỉnh Quảng Ngãi",
+        "phone": "(0255) 3888 675"
+      },
+      {
+        "name": "Co.opmart Hà Tĩnh",
+        "address": "2 Phan Đình Phùng, TP. Hà Tĩnh, Tỉnh Hà Tĩnh",
+        "phone": "(0239) 3896 555"
+      },
+      {
+        "name": "Co.opmart Huế",
+        "address": "06 Trần Hưng đạo, P.Phú Hòa, Tp Huế",
+        "phone": "(0234) 3588 555"
+      },
+      {
+        "name": "Co.opmart Lagi",
+        "address": "Đường Thống Nhất, khu phố 4, phường Tân Thiện, thị xã Lagi, tỉnh Bình Thuận",
+        "phone": "(0252) 356 1888"
+      },
+      {
+        "name": "Co.opmart Nha Trang",
+        "address": "02 Đường Lê Hồng Phong, Phường Phước Hải, Thành phố Nha Trang, Tỉnh Khánh Hòa",
+        "phone": "(0258) 3 875 777"
+      },
+      {
+        "name": "Co.opmart Phan Rí Cửa",
+        "address": "Đường Lý Thường Kiệt, Khu phố Minh Tân, Thị trấn Phan Rí Cửa, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "phone": "(0252) 3909 091"
+      },
+      {
+        "name": "Co.opmart Phan Thiết",
+        "address": "1A Nguyễn Tất Thành, P.Bình Hưng, Tp.Phan Thiết - Bình Thuận",
+        "phone": "(0252) 3835 440"
+      },
+      {
+        "name": "Co.opmart Quảng Bình",
+        "address": "Khu đô thị phía Bắc đường Lê Lợi, phường Đồng Phú, thành phố Đồng Hới, tỉnh Quảng Bình",
+        "phone": "(0232) 3897 999"
+      },
+      {
+        "name": "Co.opmart Quảng Ngãi",
+        "address": "242 Nguyễn Nghiêm, Tổ 6, Phường Nguyễn Nghiêm, Tp. Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "phone": "(0255) 372 5555"
+      },
+      {
+        "name": "Co.opmart Quy Nhơn",
+        "address": "07 Lê Duẩn, P.Lý Thường Kiệt, Tp.Qui Nhơn - Bình Định",
+        "phone": "(0256) 3521 321"
+      },
+      {
+        "name": "Co.opmart Sơn Trà",
+        "address": "Lô C2, khu công nghiệp dịch vụ thủy sản Đà Nẵng, đường Bình Than, phường Nại Hiên Đông, quận Sơn Trà",
+        "phone": "(0236) 3 925 333"
+      },
+      {
+        "name": "Co.opmart Tam Kỳ",
+        "address": "07 Phan Chu Trinh, P.Phước Hoà, Tx.Tam Kỳ - Quảng Nam",
+        "phone": "(0235) 2220 230"
+      },
+      {
+        "name": "Co.opmart Thanh Hà",
+        "address": "97 Trần Phú - F.Phủ Hà - Tp.Phan Rang - Tháp Chàm",
+        "phone": "(0683) 826.611"
+      },
+      {
+        "name": "Co.opmart Tuy Hòa",
+        "address": "Ô phố B8, Khu dân dụng Duy Tân, P.4, Tp.Tuy Hoà - Phú Yên",
+        "phone": "(0257) 3818 171"
+      },
+      {
+        "name": "Co.opmart Bạc Liêu",
+        "address": "Số 7, Đường Trần Huỳnh, Phường 7, Thành phố Bạc Liêu, Tỉnh Bạc Liêu",
+        "phone": "(0291) 3719 999"
+      },
+      {
+        "name": "Co.opmart Bến Lức",
+        "address": "Số 61 Đường Quốc lộ 1A, khu phố 4, thị trấn Bến Lức, huyện Bến Lức, tỉnh Long An",
+        "phone": "(0272) 3630 998"
+      },
+      {
+        "name": "Co.opmart Bến Tre",
+        "address": "26A Trần Quốc Tuấn, P.4, TX.Bến Tre, tỉnh Bến Tre",
+        "phone": "(075) 3.511.322 - (075) 3.511.320"
+      },
+      {
+        "name": "Co.opmart Bình Thủy",
+        "address": "35-37 Cách Mạng Tháng Tám, phường An Thới, quận Bình Thủy, TP.Cần Thơ",
+        "phone": "(0292)3907 008"
+      },
+      {
+        "name": "Co.opmart Cà Mau",
+        "address": "Số 9 Trần Hưng Đạo, Phường 5, TP Cà Mau, Tỉnh Cà Mau",
+        "phone": "(0290) 3583 333"
+      },
+      {
+        "name": "Co.opmart Cai Lậy",
+        "address": "Khu phố 2, Đường 30/4, Phường 1, Thị xã Cai Lậy, Tỉnh Tiền Giang",
+        "phone": "(0273) 3813 738"
+      },
+      {
+        "name": "Co.opmart Cần Giuộc",
+        "address": "Ấp Thanh Ba, xã Mỹ Lộc, huyện Cần Giuộc, tỉnh Long An",
+        "phone": "(0272) 3900 910"
+      },
+      {
+        "name": "Co.opmart Cần Thơ",
+        "address": "TTTM SC Cần Thơ - số 1 Đại lộ Hòa Bình, P. Tân An, Q.Ninh Kiều, TP.Cần Thơ",
+        "phone": "(0292) 3763 585 - (0292) 3763 586"
+      },
+      {
+        "name": "Co.opmart Cao Lãnh",
+        "address": "Số 01 Ngô Thời Nhậm, Phường 1, TP. Cao Lãnh, Tỉnh Đồng Tháp",
+        "phone": "(0277) 3535 455"
+      },
+      {
+        "name": "Co.opmart Châu Đốc",
+        "address": "Tổ 21, khóm Châu Quới 3, phường Châu Phú B, thành phố Châu Đốc, tỉnh An Giang",
+        "phone": "(0296) 3566 909"
+      },
+      {
+        "name": "Co.opmart Duyên Hải - Trà Vinh",
+        "address": "Đường Lý Thường Kiệt, Khóm 1, phường 1, thị xã Duyên Hải, tỉnh Trà Vinh",
+        "phone": "(0294) 383 2929"
+      },
+      {
+        "name": "Co.opmart Gò Công",
+        "address": "Đường Trần Công Tường, khu phố 2, phường 5, thị xã Gò Công, tỉnh Tiền Giang",
+        "phone": "(0273) 3841 100"
+      },
+      {
+        "name": "Co.opmart Hà Tiên",
+        "address": "Khu phố 2, đường Mạc Công Du, phường Đông Hồ, thị xã Hà Tiên, tỉnh Kiên Giang (nhà văn hóa cũ)",
+        "phone": "(0297) 3957 939"
+      },
+      {
+        "name": "Co.opmart Hồng Ngự",
+        "address": "Khu nhà cao ốc KII, Phường An Thạnh, Thị xã Hồng Ngự, Tỉnh Đồng Tháp",
+        "phone": "(0277) 3651 987"
+      },
+      {
+        "name": "Co.opmart Kiên Giang",
+        "address": "1332 Nguyễn Trung Trực, P. An Bình, TP Rạch Giá, tỉnh Kiên Giang",
+        "phone": "(0297) 3769 999"
+      },
+      {
+        "name": "Co.opmart Kiên Giang 2",
+        "address": "Khu trung tâm Thương mại Tổng hợp 16ha, P.Vĩnh Thanh Vân, TP. Rạch Giá, Tỉnh Kiên Giang",
+        "phone": "(0297) 3947 888"
+      },
+      {
+        "name": "Co.opmart Long An",
+        "address": "01 Mai Thị Tốt, P. 2, TP Tân An, Tỉnh Long An",
+        "phone": "(0272) 3526 887"
+      },
+      {
+        "name": "Co.opmart Long Xuyên",
+        "address": "12 Nguyễn Huệ A, P.Mỹ Long, TP. Long Xuyên - An Giang",
+        "phone": "(0296) 3940 002"
+      },
+      {
+        "name": "Co.opmart Mỹ Tho",
+        "address": "35 Ấp Bắc, P.5, TP Mỹ Tho - Tiền Giang",
+        "phone": "(0273) 3867 314"
+      },
+      {
+        "name": "Co.opmart Ngã Bảy Hậu Giang",
+        "address": "Khu vực 3, Phường Ngã Bảy, Thị xã Ngã Bảy, Tỉnh Hậu Giang",
+        "phone": "(0293) 3962 900"
+      },
+      {
+        "name": "Co.opmart Sa Đéc",
+        "address": "Đường Nguyễn Sinh Sắc, Khóm 2, Phường 2, TP. Sa Đéc, Tỉnh Đồng Tháp",
+        "phone": "(0277) 3889 388 - (0277) 3886 388"
+      },
+      {
+        "name": "Co.opmart Sóc Trăng",
+        "address": "Số 6 Hùng Vương - P.6 - Tp. Sóc Trăng",
+        "phone": "(0299) 3640 132"
+      },
+      {
+        "name": "Co.opmart Tân Châu - An Giang",
+        "address": "Nguyễn Du, khu tái định cư, khóm Long Thạnh D, Phường Long Thạnh, Thị xã Tân Châu, Tỉnh An Giang",
+        "phone": "(0296) 3596 400"
+      },
+      {
+        "name": "Co.opmart Tháp Mười",
+        "address": "Vòng xoay Ngã tư Mỹ An, Đường Hùng Vương, Thị Trấn Mỹ An, Huyện Tháp Mười, Đồng Tháp",
+        "phone": "02773 663399"
+      },
+      {
+        "name": "Co.opmart Thoại Sơn",
+        "address": "Ấp Bắc Sơn, đường tránh tỉnh lộ 943, Thị Trấn Núi Sập , huyện Thoại Sơn, Tỉnh An Giang",
+        "phone": "(0283) 6221 331"
+      },
+      {
+        "name": "Co.opmart Thốt Nốt",
+        "address": "Quốc lộ 91, khu vực Phụng Thạnh 1, phường Thốt Nốt, Quận Thốt Nốt, TP. Cần Thơ",
+        "phone": "(0292) 385 1077"
+      },
+      {
+        "name": "Co.opmart Tiểu Cần",
+        "address": "Khóm 2, thị trấn Tiểu Cần, huyện Tiểu Cần, Tỉnh Trà Vinh",
+        "phone": "(0294) 3900 001"
+      },
+      {
+        "name": "Co.opmart Trà Vinh",
+        "address": "Đường Nguyễn Đáng, Khóm 3, Phường 6, Thành phố Trà Vinh, Tỉnh Trà Vinh",
+        "phone": "(0294) 374 0707"
+      },
+      {
+        "name": "Co.opmart Vị Thanh",
+        "address": "319 Trần Hưng Đạo, P.1, Tx.Vị Thanh - Hậu Giang",
+        "phone": "(0293) 3581 505"
+      },
+      {
+        "name": "Co.opmart Vĩnh Long",
+        "address": "Số 26 đường 3/2, P1, Tx.Vĩnh Long",
+        "phone": "(0270) 3836 722"
+      },
+      {
+        "name": "Co.opmart Bảo Lộc",
+        "address": "Tháp Nước, đường Trần Phú, phường 2, thành phố Bảo Lộc, tỉnh Lâm Đồng",
+        "phone": "(0263) 371 0610"
+      },
+      {
+        "name": "Co.opmart Buôn Hồ",
+        "address": "464 Hùng Vương, Phường An Bình, Thị Xã Buôn Hồ, Tỉnh Đăk Lăk",
+        "phone": "(0262) 3.818.180"
+      },
+      {
+        "name": "Co.opmart Buôn Ma Thuột",
+        "address": "71 Nguyễn Tất Thành, P.Tân An, Tp.Buôn Ma Thuột, tỉnh Đắklắk",
+        "phone": "(0262) 3957 988"
+      },
+      {
+        "name": "Co.opmart Chư Sê",
+        "address": "912 Hùng Vương, Tổ Dân Phố 4, Thị trấn Chư Sê , huyện Chư Sê, tỉnh Gia Lai",
+        "phone": "(0269) 388 6111"
+      },
+      {
+        "name": "Co.opmart Cư M'Gar",
+        "address": "Tổ dân phố 2, đường Hùng Vương, thị trấn QUảng Phú, huyện Cư M'gar, tỉnh Đắk Lắk",
+        "phone": "(0262) 3510 139"
+      },
+      {
+        "name": "Co.opmart Đắk Nông",
+        "address": "Đường Huỳnh Thúc Kháng, Tổ dân phố 1, Phường Nghĩa Thành, Thị xã Gia Nghĩa, Tỉnh Đắk Nông",
+        "phone": "(0261) 3555 552"
+      },
+      {
+        "name": "Co.opmart Kon Tum",
+        "address": "205B Lê Hồng Phong, Phường Quyết Thắng, Thành phố Kon Tum, Tỉnh Kon Tum",
+        "phone": "(0260) 3838 789"
+      },
+      {
+        "name": "Co.opmart Pleiku",
+        "address": "21. Cách Mạng Tháng 8 – P.Hoa Lư – Tp. Pleiku – Gia lai",
+        "phone": "(0269) 3720 001"
+      },
+      {
+        "name": "Co.opmart Bình Tân",
+        "address": "158 đường số 19, Bình Trị Đông B, Q.Bình Tân, Tp.HCM",
+        "phone": "(028) 37626 706"
+      },
+      {
+        "name": "Co.opmart Bình Tân 2",
+        "address": "819 Đường Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, TPHCM",
+        "phone": "(028) 36 229 801"
+      },
+      {
+        "name": "Co.opmart BìnhTriệu",
+        "address": "Số 68/1 Quốc lộ 13, Phường Hiệp Bình Chánh, Quận Thủ Đức, TPHCM",
+        "phone": "(028) 3726 4006"
+      },
+      {
+        "name": "Co.opmart Cần Giờ",
+        "address": "128 Đường Đào Cử, Khu phố Phong Thạnh, Thị trấn Cần THạnh, Huyện Cần Giờ, TP.HCM",
+        "phone": "(028) 37 861 727"
+      },
+      {
+        "name": "Co.opmart Chu Văn An",
+        "address": "241A Chu Văn An, Phường 12, Quận Bình Thạnh, TP.HCM",
+        "phone": "(028) 351 66 800"
+      },
+      {
+        "name": "Co.opmart Cống Quỳnh",
+        "address": "189C Cống Quỳnh - P.Nguyễn Cư Trinh, Q1 - TPHCM",
+        "phone": "(028) 38 325 239"
+      },
+      {
+        "name": "Co.opmart Củ Chi",
+        "address": "357 Quốc lộ 22, ấp Thượng, xã Tân Thông Hội, huyện Củ Chi, Tp HCM",
+        "phone": "(028) 37 902 220"
+      },
+      {
+        "name": "Co.opmart Đỗ Văn Dậy",
+        "address": "18 Đỗ Văn Dậy, Ấp Tân Thới Nhất, Xã Tân Hiệp, Huyện Hóc Môn",
+        "phone": "(028) 37 100 602"
+      },
+      {
+        "name": "Co.opmart Đồng Văn Cống",
+        "address": "Số 125 Đồng Văn Cống, Phường Thạnh Mỹ Lợi, Quận 2, TPHCM",
+        "phone": "(028) 374 22 350"
+      },
+      {
+        "name": "Co.opmart Foodcosa",
+        "address": "304A Quang Trung, Phường 11, Quận Gò Vấp",
+        "phone": "(028) 39 966 477"
+      },
+      {
+        "name": "Co.opmart Hậu Giang",
+        "address": "188 Hậu Giang, P.6, Q.6, TPHCM",
+        "phone": "(028) 39 600 913"
+      },
+      {
+        "name": "Co.opmart Hiệp Thành",
+        "address": "276 Nguyễn Ảnh Thủ, Phường Hiệp Thành, Quận 12, TPHCM",
+        "phone": "(028) 37 172 227"
+      },
+      {
+        "name": "Co.opmart Hòa Bình",
+        "address": "175 Hòa Bình, Phường Hiệp Tân, Quận tân Phú, TP.HCM",
+        "phone": "(028) 39 613 522"
+      },
+      {
+        "name": "Co.opmart Hóc Môn",
+        "address": "Đặng Thúc Vịnh, Xã Thới Tam Thôn, Huyện Hóc Môn, TP.Hồ Chí Minh",
+        "phone": "(028) 37 107 186"
+      },
+      {
+        "name": "Co.opmart Hùng Vương",
+        "address": "96 Hùng Vương, P.9, Q.5, TP.HCM",
+        "phone": "(028) 38 338 156"
+      },
+      {
+        "name": "Co.opmart Huỳnh Tấn Phát",
+        "address": "1362 Huỳnh Tấn Phát, Khu phố 1, P.Phú Mỹ, Quận 7, TPHCM",
+        "phone": "(028) 3785 1515"
+      },
+      {
+        "name": "Co.opmart Lý Thường Kiệt",
+        "address": "497 Hòa Hảo, P.7, Q.10, TPHCM",
+        "phone": "(028) 39 572 856"
+      },
+      {
+        "name": "Co.opmart Nguyễn Ảnh Thủ",
+        "address": "167/2 Nguyễn Ảnh Thủ, P.Trung Mỹ Tây, Q.12, Tp. HCM",
+        "phone": "(028) 37 185 455"
+      },
+      {
+        "name": "Co.opmart Nguyễn Bình",
+        "address": "Số 18, đường Nguyễn Bình, Xã Phú Xuân, huyện Nhà Bè, TPHCM",
+        "phone": "(028) 37 770 669"
+      },
+      {
+        "name": "Co.opmart Nguyễn Đình Chiểu",
+        "address": "168 Nguyễn Đình Chiểu, P.6, Q.3, TPHCM",
+        "phone": "(028) 39 301 384"
+      },
+      {
+        "name": "Co.opmart Nguyễn Kiệm",
+        "address": "571-573 Nguyễn Kiệm, P.9, Q.Phú Nhuận, TPHCM",
+        "phone": "(028) 39 972 477"
+      },
+      {
+        "name": "Co.opmart Nhiêu Lộc",
+        "address": "Tầng trệt cao ốc SCREC, P.12, Q.3, TPHCM",
+        "phone": "(028) 62 904 804"
+      },
+      {
+        "name": "Co.opmart Phan Văn Hớn",
+        "address": "102 Phan Văn Hớn, phường Tân Thới Nhất, Quận 12, TPHCM",
+        "phone": "(028) 38 155 484"
+      },
+      {
+        "name": "Co.opmart Phan Văn Trị",
+        "address": "543/1 Đường Phan Văn Trị, Phường 7, Quận Gò Vấp, TP.HCM",
+        "phone": "(028) 38 946 859"
+      },
+      {
+        "name": "Co.opmart Phú Lâm",
+        "address": "06 Bà Hom (vòng xoay Phú Lâm), P.13, Q.6, TPHCM",
+        "phone": "(028) 37 514 798"
+      },
+      {
+        "name": "Co.opmart Phú Thọ",
+        "address": "Khu A, Chung cư Phú Thọ, P. 15, Q. 11, TP. HCM",
+        "phone": "(028) 38 687 007"
+      },
+      {
+        "name": "Co.opmart Rạch Miễu",
+        "address": "48 Hoa Sứ, P.7, Q. Phú Nhuận. TP. HCM",
+        "phone": "(028) 35 171 368"
+      },
+      {
+        "name": "Co.opmart SCA Âu Cơ",
+        "address": "856 Âu Cơ, P.13, Quận Tân Bình",
+        "phone": "(028) 36 220 611"
+      },
+      {
+        "name": "Co.opmart SCA Cao Thắng",
+        "address": "181 Cao Thắng (Nối dài), P.12, Quận 10",
+        "phone": "(028) 36 221 251"
+      },
+      {
+        "name": "Co.opmart SCA Hoàng Văn Thụ",
+        "address": "431A Hoàng Văn Thụ, Phường 4, Quận Tân Bình",
+        "phone": "028.36.228.100"
+      },
+      {
+        "name": "Co.opmart SCA Phạm Văn Chiêu",
+        "address": "Tầng trệt, khu căn hộ I-Home, số 359 Phạm Văn Chiêu, P.14, Q. Gò Vấp, Tp.HCM",
+        "phone": "(028) 36 221 300"
+      },
+      {
+        "name": "Co.opmart Tam Bình",
+        "address": "Chung cư Sài Gòn Avenue, Đường số 4, khu phố 4, Phường Tam Bình, Quận Thủ Đức, TP.HCM",
+        "phone": "(028) 36 221 348"
+      },
+      {
+        "name": "Co.opmart Thắng Lợi",
+        "address": "02 Trường Chinh, P.Tây Thạnh, Q.Tân Phú, TPHCM",
+        "phone": "(028) 36227600"
+      },
+      {
+        "name": "Co.opmart Tô Ký",
+        "address": "Số 557, đường Tô Ký, phường Trung Mỹ Tây, Quận 12, TPHCM",
+        "phone": "(028) 36 222 611"
+      },
+      {
+        "name": "Co.opmart Tuy Lý Vương",
+        "address": "40-54 Tuy Lý Vương, P.13, Q.8, Tp.HCM",
+        "phone": "(028) 39 515 465"
+      },
+      {
+        "name": "Co.opmart Văn Thánh",
+        "address": "Tòa nhà Pearl Plaza, 561A Điện Biên Phủ, P.25, Quận Bình Thạnh",
+        "phone": "(028) 35 121 068"
+      },
+      {
+        "name": "Co.opmart Vĩnh Lộc B",
+        "address": "Số 2 Khu tái định cư Vĩnh Lộc B, Đường số 8, Xã Vĩnh Lộc B, Huyện Bình Chánh, TPHCM",
+        "phone": "(028) 73 016 999"
+      },
+      {
+        "name": "Co.opmart Xa Lộ Hà Nội",
+        "address": "191 Quang Trung, P.Hiệp Phú, Q.9, TPHCM",
+        "phone": "(028) 37 307 234"
+      },
+      {
+        "name": "Crescent Mall",
+        "address": "Tầng B1, Crescent Mall, 101 Tôn Dật Tiên, P.Tân Phú, Quận 7",
+        "phone": "028.54.121.416 - 028.54.137.365"
+      },
+      {
+        "name": "Đại siêu thị Co.opXtra Phạm Văn Đồng",
+        "address": "Tầng 2 & 3 TTTM Sense City (Tòa nhà Gigamall) 240-242 Phạm Văn Đồng, P. Hiệp Bình Chánh, Q. Thủ Đức",
+        "phone": "(028) 3726 2223"
+      },
+      {
+        "name": "Đại siêu thị Co.opXtra Tân Phong",
+        "address": "Tầng 2 & 3 - Trung tâm thương mại SC VivoCity, Số 1058 Đại Lộ Nguyễn Văn Linh, phường Tân Phong, Q.7",
+        "phone": "(028) 37 761 234"
+      },
+      {
+        "name": "Đại siêu thị Co.opXtra Thủ Đức",
+        "address": "934 Quốc Lộ 1A, Linh Trung, Thủ Đức, TP. Hồ Chí Minh",
+        "phone": "(028) 37 243 228"
+      },
+      {
+        "name": "Đại siêu thị Co.opXtra Vạn Hạnh",
+        "address": "Tầng B1 Trung tâm Thương mại Vạn Hạnh, Số 11 Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",
+        "phone": "(028) 3979 8565"
+      }
+    ]
+  },
+  "item_scraped_count": 128
+}

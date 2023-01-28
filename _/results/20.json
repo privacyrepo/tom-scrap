@@ -1,0 +1,3741 @@
+{
+  "type": "Feature",
+  "name": "VINAMILK STORE",
+  "POI:Category": "",
+  "store_url": "https://www.vinamilk.com.vn/en/distribution/domestic-market",
+  "website": "https://www.vinamilk.com.vn/en/distribution/domestic-market",
+  "contacts": [
+    {
+      "name": "Headquarter",
+      "address": "No. 10, Tan Trao Street, Tan Phu Ward, District 7, Ho Chi Minh City",
+      "phone": "(84. 028) 54 155 555",
+      "print": "(84. 028) 54 161 226",
+      "mail": "vinamilk@vinamilk.com.vn",
+      "web": "www.vinamilk.com.vn"
+    },
+    {
+      "name": "Ha Noi Branch",
+      "address": "Handi Resco building - B tower - 11th floor, No. 521 Kim Ma Street, Ba Dinh District, Ha Noi",
+      "phone": "(84. 024) 37 246 019",
+      "print": "(84. 024) 37 246 005",
+      "mail": "",
+      "web": ""
+    },
+    {
+      "name": "Can Tho Branch",
+      "address": "No. 77 - 77B, Vo Van Tan Street, Tan An Ward, Ninh Kieu District, Can Tho City",
+      "phone": "(84. 0292) 6 256 555",
+      "print": "(84. 0292) 6 255 969",
+      "mail": "",
+      "web": ""
+    },
+    {
+      "name": "Da Nang Branch",
+      "address": "7th Floor - Postal Building, 271 Nguyen Van Linh, Vinh Trung Ward, Thanh Khe District, Da Nang City",
+      "phone": "(84. 0236) 358 4848",
+      "print": "(84. 0236) 389 72 23",
+      "mail": "",
+      "web": ""
+    }
+  ],
+  "properties": {
+    "entities": [
+      {
+        "area": "Ho Chi Minh City",
+        "address": "Số 8 đường D1, KP1, P. Linh Tây, TP. Thủ Đức, TP. Hồ Chí Minh",
+        "district": "Thu Duc District",
+        "phone": "02837205152"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "Số 220B Thạch Lam, P. Phú Thạnh, Q. Tân Phú, TP. Hồ Chí Minh",
+        "district": "Tan Phu District",
+        "phone": "0903225480"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 378 Nguyen Duy Duong, Ward 9, District 10, Ho Chi Minh City",
+        "district": "District 10",
+        "phone": "02822605959"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 308 Nguyen Thuong Hien, Ward 4, District 3, Ho Chi Minh City",
+        "district": "District 3",
+        "phone": "0946871418"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 34 Vu Huy Tan, Ward 3, Binh Thanh District, Ho Chi Minh City",
+        "district": "Binh Thanh District",
+        "phone": "0888238894"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 133 Chu Van An, Ward 26, Binh Thanh District, Ho Chi Minh City",
+        "district": "Binh Thanh District",
+        "phone": "0837617610"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. E23-E12, Belleza Building, Street 2, Phu My Ward, District 7, Ho Chi Minh City",
+        "district": "District 7",
+        "phone": "02862638139"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 482 Le Quang Dinh, Ward 11, Binh Thanh District, Ho Chi Minh City",
+        "district": "Binh Thanh District",
+        "phone": "02862768268"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 89 Cach Mang Thang Tam, Ben Thanh Ward, District 1,Ho Chi Minh City",
+        "district": "District 1",
+        "phone": "02838324125"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 202-204 Le Quang Dinh, Ward 14, Binh Thanh District, Ho Chi Minh City",
+        "district": "Binh Thanh District",
+        "phone": "02835104682"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 190 Nguyen Dinh Chieu, Ward 6, District 3, Ho Chi Minh City",
+        "district": "District 3",
+        "phone": "02839302792"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 275 Quang Trung, Ward 10, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02839896524"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 175 Nguyen Chi Thanh, Ward 12, District 5, Ho Chi Minh City",
+        "district": "District 5",
+        "phone": "02839572547"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 119 Dan De, Binh Tho Ward, Thu Duc District, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "02837225808"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 10 Tan Trao, Tan Phu Ward, District 7, Ho Chi Minh City",
+        "district": "District 7",
+        "phone": "02854161333"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 617 Cach Mang Thang Tam, Ward 15, District 10, Ho Chi Minh City",
+        "district": "District 10",
+        "phone": "02839778229"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 489 Provincial Road 10, Binh Tri Dong A Ward, Binh Tan District, Ho Chi Minh City",
+        "district": "Binh Tan District",
+        "phone": "0902694928"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 10 Nguyen Van Dau, Ward 5, Phu Nhuan District, Ho Chi Minh City",
+        "district": "Phu Nhuan District",
+        "phone": "02839950183"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 1A Tan Quy, Tan Quy Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "0932680869"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 548 Nguyen Thi Dinh, Ward 2, Thanh My Loi Ward, District 2, Ho Chi Minh City",
+        "district": "District 2",
+        "phone": "02862825005"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 89 Nguyen Thi Thap, Tan Phu Ward, District 7, Ho Chi Minh City",
+        "district": "District 7",
+        "phone": "02862825000"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 126 Nguyen Hong, Ward 1, Go Vap District. Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02862825234"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 33 Lieu Binh Huong, Tan Lap Hamlet, Tan Thong Hoi Ward, Cu Chi Dist., Ho Chi Minh City",
+        "district": "Cu Chi District",
+        "phone": "02862825345"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 161 Phan Van Hon, Hamlet 7, Xuan Thoi Thuong Commune, Hoc Mon District, Ho Chi Minh City",
+        "district": "Hoc Mon District",
+        "phone": "02862825456"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. E4/1 Nguyen Huu Tri, TT. Tan Tuc, Dist. Binh Chanh, Ho Chi Minh City",
+        "district": "Binh Chanh District",
+        "phone": "02862762716"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 324 Binh Thoi, 11 Ward, 11 District, Ho Chi Minh City",
+        "district": "District 11",
+        "phone": "0768754547/0932754547"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 47 Hiep Binh, Hiep Binh Chanh Ward, Thu Duc District, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "02822532577"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 473 Nguyen Van Luong, Ward 12, District 6, Ho Chi Minh City",
+        "district": "District 6",
+        "phone": "02862536333"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 22/10/1 Truong Thi Ngao, Group 44, Ward 4, Trung My Tay Ward, District 12, Ho Chi Minh City",
+        "district": "District 12",
+        "phone": "0905067915"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 513 Pham Van Chieu, Ward 13, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "0901808585"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 55 Pho Quang, Ward 2, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "0979703896"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 223 Nguyen Cong Tru, Nguyen Thai Binh Ward, District 1, Ho Chi Minh City",
+        "district": "District 1",
+        "phone": "02838210976"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 9Bis Pham Viet Chanh, Ward Nguyen Cu Trinh, District 1, Ho Chi Minh City",
+        "district": "District 1",
+        "phone": "0888447446"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 833 Pham Van Bach, Ward 12, Go Vap District, City. Ho Chi Minh",
+        "district": "Go Vap District",
+        "phone": "02838312368"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 91 Le Van Quoi, Binh Tri Dong Ward, Binh Tan District, City. Ho Chi Minh",
+        "district": "Binh Tan District",
+        "phone": "02866739968"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 19 Ma Lo, Binh Tri Dong Ward, Binh Tan District, Ho Chi Minh City",
+        "district": "Binh Tan District",
+        "phone": "0867547460"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 167 Nguyen Gia Tri, Ward 25, Binh Thanh District, City. Ho Chi Minh",
+        "district": "Binh Thanh District",
+        "phone": "02866817583"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. EA2-01-04, 15B Nguyen Luong Bang, Phu My Ward, District 7, Ho Chi Minh City",
+        "district": "District 7",
+        "phone": "02866892828"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 232 Nguyen Xi, Ward 13, Binh Thanh District, Ho Chi Minh City",
+        "district": "Binh Thanh District",
+        "phone": "02866539888"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 54B Nguyen Thai Son, Ward 3, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02866815378"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 456 Nguyen Oanh, Ward 6, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02866836518"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 137A Nguyen Thi Trang, Hiep Thanh Ward, District 12, Ho Chi Minh City",
+        "district": "District 12",
+        "phone": "02822152218"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 75 No. 1 Street, Binh Tri Dong B Ward, Binh Tan District, Ho Chi Minh City",
+        "district": "Binh Tan District",
+        "phone": "02854009789"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 259B An Duong Vuong, An Lac Ward, Binh Tan District, Ho Chi Minh City",
+        "district": "Binh Tan District",
+        "phone": "0903905248"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 93 Nun Huynh Lien, Ward 10, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "02862972588"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "Số 397B Minh Phụng, P. 10, Q. 11, TP. Hồ Chí Minh",
+        "district": "District 11",
+        "phone": "0902694928"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 267A Do Xuan Hop, Phuoc Long B ward, Thu Duc City, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "02888497788"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 61 Pham Huu Lau, Phu My Ward, District 7, Ho Chi Minh City",
+        "district": "District 7",
+        "phone": "0918493999"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 36 Tran Trong Cung, Nam Long Residential Area, Tan Thuan Dong Ward, District 7, Ho Chi Minh City",
+        "district": "District 7",
+        "phone": "0918493999"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 330 National Highway 50, Ward 6, District 8, Ho Chi Minh City",
+        "district": "District 8",
+        "phone": "0901490887"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 219 Au Duong Lan, Ward 2, District 8, Ho Chi Minh City",
+        "district": "District 8",
+        "phone": "02822469039"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 227 Nguyen Thi Nho, Ward 9, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "02866502538"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 69C Thoai Ngoc Hau, Hoa Thanh Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "02838648886"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 283/37 Cach Mang Thang 8, Ward 12, District 10, Ho Chi Minh City",
+        "district": "District 10",
+        "phone": "0386571212"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 121 Ba Van, Ward 14, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "02866713579"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 33 Dinh Tien Hoang, Da Kao Ward, District 1, Ho Chi Minh City",
+        "district": "District 1",
+        "phone": "02839110368"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 1 Ton Dan, Ward 13, District 4, Ho Chi Minh City",
+        "district": "District 4",
+        "phone": "02862579000"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 113 An Duong Vuong, An Lac Ward, Binh Tan District, Ho Chi Minh City",
+        "district": "Binh Tan District",
+        "phone": "02871085656"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 105 Phan Dinh Phung, Ward 17, Phu Nhuan District, Ho Chi Minh City",
+        "district": "Phu Nhuan District",
+        "phone": "02839955701"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 265 Nguyen Van Block, Ward 8, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02822436699"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 279 Man Thien, Ward Tang Nhon Phu A, City. Thu Duc, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "02873068586"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 131 Tay Thanh, Tay Thanh Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "0917369977"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 203 Luy Ban Bich, Hiep Tan Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "0947582701"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 108A Phan Van Hon, Tan Thoi Nhat Ward, District 12, Ho Chi Minh City",
+        "district": "District 12",
+        "phone": "02836203262"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 244A To Ngoc Van, Linh Dong Ward, Thu Duc District, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "02822533946"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 289 Tan Son Nhi, Tan Son Nhi Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "02838497373"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 52 Tran Nhan Ton, Ward 2, District 10, Ho Chi Minh City",
+        "district": "District 10",
+        "phone": "0906229267"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 55 Linh Dong, Linh Dong Ward, Thu Duc District, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "028366201151"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 480 Thong Nhat, Ward 16, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02839962297"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 165 Tan Ky Tan Quy, Tan Son Nhi Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "0939113498"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 29 Quach Van Tuan, Ward 12, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "02866744252"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No.411 Nguyen Thi Tu, Binh Hung Hoa ward, Binh Tan district, Ho Chi Minh city",
+        "district": "Binh Tan District",
+        "phone": "02835358786"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 246 Phan Huy Ich, Ward 12, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02862579679"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 229 Ngo Quyen, Ward 6, District 10, Ho Chi Minh City",
+        "district": "District 10",
+        "phone": "02862728811-0933385828"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 79 Phu Dong Thien Vuong, Ward 11, District 5, Ho Chi Minh City",
+        "district": "District 5",
+        "phone": "02862728866-0933385828"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 218C Nguyen Van Luong, Ward 11, District 6, Ho Chi Minh City",
+        "district": "District 6",
+        "phone": "02862900954"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 347 Nguyen Trong Tuyen, Ward 1, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "02839973886"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 167 Banh Van Tran, Ward 7, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "02839711996"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 104H Road No. 23, Ward 11, District 6, Ho Chi Minh City",
+        "district": "District 6",
+        "phone": "02854066789"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 192 Dong Den, Ward 14, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "02838494919"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 94 Nguyen Bieu, Ward 1, District 5, Ho Chi Minh City",
+        "district": "District 5",
+        "phone": "02866817268"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 474 Lac Long Quan, Ward 5, District 11, Ho Chi Minh City",
+        "district": "District 11",
+        "phone": "02838618054"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. C3/6 Bui Thanh Khiet, TT. Tan Tuc, Dist. Binh Chanh, Ho Chi Minh City",
+        "district": "Binh Chanh District",
+        "phone": "02866819918"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 273 Le Van Khuong, Hiep Thanh Ward, District 12, Ho Chi Minh City",
+        "district": "District 12",
+        "phone": "02888939322"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 172 Le Van Sy, Ward 10, Phu Nhuan District , Ho Chi Minh City",
+        "district": "Phu Nhuan District",
+        "phone": "0888676722"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 722 Phan Van Tri, Ward 10, Go Vap District, Ho Chi Minh City",
+        "district": "Go Vap District",
+        "phone": "02822657999"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 494 Ly Thai To, Ward 10, District 10, Ho Chi Minh City",
+        "district": "District 10",
+        "phone": "02888391119"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 357 Vuon Lai, Phu Tho Hoa Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "02862867369"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 455 National Highway 22, Tan An Hoi Ward, Cu Chi Dist., Ho Chi Minh City",
+        "district": "Cu Chi District",
+        "phone": "02862785810"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 117 Doc Lap, Tan Thanh Ward, Tan Phu District, Ho Chi Minh City",
+        "district": "Tan Phu District",
+        "phone": "0932680869"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 83 Duong Dinh Nghe, Ward 8, District 11, Ho Chi Minh City",
+        "district": "District 11",
+        "phone": "02838587790"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 116 Dang Thuy Tram Ward 13, Binh Thanh District, Ho Chi Minh City",
+        "district": "Binh Thanh District",
+        "phone": "0903366385"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 159 Dang Van Bi, Binh Tho Ward, Thu Duc District, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "0937367638"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 234A Khanh Hoi, Ward 6, District 4, Ho Chi Minh City",
+        "district": "District 4",
+        "phone": "02866833505"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 63 Lam Van Ben, Tan Thuan Tay Ward, District 7, Ho Chi Minh City",
+        "district": "District 7",
+        "phone": "02862673673"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 232 Nguyen Duy Trinh, Binh Trung Tay Ward, District 2, Ho Chi Minh City",
+        "district": "District 2",
+        "phone": "0976770077"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 391 Nguyen Thai Binh, Ward 12, Tan Binh District, Ho Chi Minh City",
+        "district": "Tan Binh District",
+        "phone": "0902833011"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 381 Hung Phu, Ward 9, District 8, Ho Chi Minh City",
+        "district": "District 8",
+        "phone": "02862608618"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 1287 Nguyen Duy Trinh, Long Truong Ward, City. Thu Duc, Ho Chi Minh City",
+        "district": "Thu Duc District",
+        "phone": "0972086497"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 108 Road 15, Tan Kieng Ward, District 7, Ho Chi Minh",
+        "district": "District 7",
+        "phone": "02862825567"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 153 Bui Dinh Tuy, Ward 24, Binh Thanh District, Ho Chi Minh City",
+        "district": "Binh Thanh District",
+        "phone": "0932639585"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 388 Le Van Tho, Ward 16, Go Vap District, City. Ho Chi Minh",
+        "district": "Go Vap District",
+        "phone": "02866866681"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. A3 Bach Dang, Ward 2, Tan Binh District, City. Ho Chi Minh",
+        "district": "Tan Binh District",
+        "phone": "0779690768"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 33 Street 12, KP8, Truong Tho Ward, City. Thu Duc, City. Ho Chi Minh",
+        "district": "Thu Duc District",
+        "phone": "0969151774"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 177 Minh Phung, Ward 9, District 6, City. Ho Chi Minh",
+        "district": "District 6",
+        "phone": "0395000168"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 4 Man Thien, Ward 1, Tang Nhon Phu A Ward, City. Thu Duc, City. Ho Chi Minh",
+        "district": "Thu Duc District",
+        "phone": "0896001213"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 54 Da Nam, Ward 2, District 8, City. Ho Chi Minh",
+        "district": "District 8",
+        "phone": "02835358485"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "Mizuki Park Urban Area, No. 99 Street No. 1, Residential Area Duong Hong Binh Hung, Dist. Binh Chanh, City. Ho Chi Minh",
+        "district": "Binh Chanh District",
+        "phone": "0988665635"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 5 Thich Quang Duc, Ward 3, Phu Nhuan District, City. Ho Chi Minh",
+        "district": "Phu Nhuan District",
+        "phone": "0901321845"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 80 Nguyen Van Tang, Long Thanh My Ward, City. Thu Duc, City. Ho Chi Minh",
+        "district": "Thu Duc District",
+        "phone": "02862801567"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 55 Tran Nao, An Khanh Ward, City. Thu Duc, City. Ho Chi Minh",
+        "district": "Thu Duc District",
+        "phone": "0907414107"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 191 Xo Viet Nghe Tinh, Ward 17, District Binh Thanh, City. Ho Chi Minh",
+        "district": "Binh Thanh District",
+        "phone": "0368500770"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "343 Au Co, Phu Trung Ward, Tan Phu District, City. Ho Chi Minh",
+        "district": "Tan Phu District",
+        "phone": "02835358394"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "85/1A Nguyen Van Qua, Ward 2, Dong Hung Thuan Ward, District 12, City. Ho Chi Minh",
+        "district": "District 12",
+        "phone": "02835358393"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 334H Phan Van Tri, Ward 11, Binh Thanh District, City. Ho Chi Minh",
+        "district": "Binh Thanh District",
+        "phone": "0902389037"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 729 Pham The Hien, Ward 4, District 8, City. Ho Chi Minh",
+        "district": "District 8",
+        "phone": "0902798216"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 4300 Nguyen Cuu Phu, Tan Tao A Ward, Binh Tan District, City. Ho Chi Minh",
+        "district": "Binh Tan District",
+        "phone": "0702419087"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 18A Street 49B, Thao Dien Ward, City. Thu Duc, City. Ho Chi Minh",
+        "district": "Thu Duc District",
+        "phone": "0961245554"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 34A Le Van Luong, Phuoc Kien Ward, Nha Be Ward, City. Ho Chi Minh",
+        "district": "Nha Be District",
+        "phone": "02835358395"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 1983 Huynh Tan Phat, Phu Xuan Ward, Nha Be Ward, City. Ho Chi Minh",
+        "district": "Nha Be District",
+        "phone": "0310059518"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 1216 Lac Long Quan, Ward 8, Tan Binh District, City. Ho Chi Minh",
+        "district": "Tan Binh District",
+        "phone": "02835358578"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 259B An Duong Vuong, An Lac Ward, Binh Tan District, City. Ho Chi Minh",
+        "district": "Binh Tan District",
+        "phone": "02866800059"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 114A Hoang Hoa Tham, Ward 12, Tan Binh District, City. Ho Chi Minh",
+        "district": "Tan Binh District",
+        "phone": "02866891888"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 250 Phan Xich Long, Ward 2, Phu Nhuan District, City. Ho Chi Minh",
+        "district": "Phu Nhuan District",
+        "phone": "0908105802"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 115B Lac Long Quan, Ward 3, District 11, City. Ho Chi Minh",
+        "district": "District 11",
+        "phone": "0909601684"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 75 Thang Long, Ward 4, Tan Binh District, City. Ho Chi Minh",
+        "district": "Tan Binh District",
+        "phone": "02862544195"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 5 Nguyen Phuc Chu, Ward 15, Tan Binh District, City. Ho Chi Minh",
+        "district": "Tan Binh District",
+        "phone": "02862544198"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. B73 Bis To Ky, Group 12, Ward 3, Hung Thuan Ward, District 12, City. Ho Chi Minh",
+        "district": "District 12",
+        "phone": "0961245554"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 86 Le Binh, Ward 4, Tan Binh District, City. Ho Chi Minh",
+        "district": "Tan Binh District",
+        "phone": "0932678644"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 124 Ong Ich Khiem, Ward 5, District 11, City. Ho Chi Minh",
+        "district": "District 11",
+        "phone": "02835358798"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 188A Nguyen Binh, Phu Xuan Ward, Nha Be Ward, City. Ho Chi Minh",
+        "district": "Nha Be District",
+        "phone": "0909503811"
+      },
+      {
+        "area": "Ho Chi Minh City",
+        "address": "No. 75 Nguyen Van Tao, Hamlet 2, Long Thoi Ward, Nha Be Ward, City. Ho Chi Minh",
+        "district": "Nha Be District",
+        "phone": "0918493999"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "N03-DV-06, Ecohome 3, B11 - HH2 Bac Co Nhue - Chem Area, Dong Ngac Ward, Bac Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0917357465c"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "17 Cau Tri, Son Loc Ward, Son Tay Town, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02433832571"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "92 Alley 15 Bang Liet, Hoang Liet Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466632585"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "12 Dang Xuan Bang, Dai Kim Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0901508688"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "D8 Floor 1, Dang Xa Urban Area, Dang Xa Ward, Gia Lam District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432696012"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "55A Truong Chinh, Phuong Liet Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432151980"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "106 Van Phuc, Van Phuc Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466710001"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "A6 Ward 5 Tran Quoc Hoan, Dich Vong Ward, Cau Giay District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466870328"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 50 Duong Quang Ham, Quan Hoa Ward, Cau Giay District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02460279094"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 24 Ngo Xuan Quang, Trau Quy Town, Gia Lam District, Hanoi",
+        "district": "Hà Nội",
+        "phone": "02423478833"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "418 Xa Dan, Nam Dong Ward, Dong Da District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02435773074"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "72 An Duong, Yen Phu Ward, Tay Ho District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0903216282"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "115 Cau Dien, Phuc Dien Ward, Bac Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432008424"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "430 Ho Tung Mau, Phu Dien Ward, Bac Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02437970144"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "6 Phan Dinh Phung, Phung Town, Dan Phuong District , Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462917070"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "74 Mai Dich, Mai Dich Ward, Cau Giay District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462962121"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "LK-B-03 CT2B Building, Tan Tay Do New Urban Area, Tan Lap Ward, Dan Phuong Dist, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466859090"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "318 My Dinh, My Dinh 1 Ward, Nam Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422189090"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "342 Dai Mo, Dai Mo Ward, Nam Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466888181"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "312 Lac Trung, Vinh Tuy Ward, Hai Ba Trung District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02436255333"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "101 B13 Thanh Xuan Bac Collective, Thanh Xuan Bac Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0949051089"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "04 - C14 Bac Ha, Trung Van Ward, Nam Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462900258"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "36B2 Van Quan Urban Area, Phuc La Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422180333"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "36 Alley 460 Khuong Dinh, Ha Dinh Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422182233"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "44 Hang Da, Cua Dong Ward, Hoan Kiem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02437100739"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "133 Yen Phu, Yen Phu Ward, Tay Ho District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02437100480"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "78 Dao Tan, Cong Vi Ward, Ba Dinh District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432444340"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "273 Thanh Nhan, Thanh Nhan Ward, Hai Ba Trung District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432006249"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "6 Nghia Tan, Nghia Tan Ward, Cau Giay District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432008712"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "82 Ngoc Ha, Doi Can Ward, Ba Dinh District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432115994"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "106 Tran Dien, Dinh Cong Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0917247852"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "8, Lane 46C Pham Ngoc Thach (House 28, Lane 4 Dang Van Ngu), Trung Tu Ward, Dong Da District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432006750"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "15 Lot 7 Temple Lu 2, Hoang Van Thu Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0914363747"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 6, Floor 1, Apartment VP5, Linh Dam Peninsula, Hoang Liet Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02439938158"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "132 Tran Tu Binh, Nghia Tan Ward, Cau Giay District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02439998132"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Room 102 K11 Viet Hung New Urban Area, Giang Bien Ward, Long Bien District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432006615"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "121 Ke Ve, Dong Ngac Ward, Bac Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02439918836"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "107 Thai Thinh, Thinh Quang Ward, Dong Da District, Hanoi",
+        "district": "Hà Nội",
+        "phone": "02432323475"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "4/116 Nhan Hoa, Nhan Chinh Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466579879"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "59 Group 6, Xuan Ha area, Xuan Mai Town, Chuong My Ward, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422800099"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "49 Thach Ban, Thach Ban Ward, Long Bien District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02436750088"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "145 Phung Hung, Phuc La Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432008278"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "31 Alley 622 Minh Khai, Vinh Tuy Ward, Hai Ba Trung District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02436331988"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "30 Kham Thien, Kham Thien Ward, Dong Da District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02435162967"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 14 CT8B, Dai Thanh Urban Area, Ta Thanh Oai Ward, Thanh Tri District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466878399"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "35 Alley 117/15 Tran Cung, Co Nhue 1 Ward, Bac Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466578648"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 04, Building HH03E, Thanh Ha Urban Area, Phu Luong Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0899366836"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "SH 10, Anland 1 Complex Apartment, Duong Noi New Urban Area, La Khe Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0974640024"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 48 Building HH02-1C, Thanh Ha Urban Area, Phu Luong Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466604660"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "106 Ta Thanh Oai, Ta Thanh Oai Ward, Thanh Tri Ward, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466514406"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Floor 1, Building CT7A, NCG Residential High-rise Apartment Complex, Duong Noi Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466529010"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "194 Vinh Hung, Vinh Hung Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432005680"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "190 Nam Du, Linh Nam Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0966558555"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 122 Residential Area CT 36 Tower 326 Le Trong Tan, Khuong Mai Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466512979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 10, Lot B, CT Building 36, Lane 177 Dinh Cong, Dinh Cong Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466514266"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 5, Building C, Kim Van Urban Area - Kim Lu, Dai Kim Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462924826"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 14 HH1C Building, Linh Dam Lake Area, Hoang Liet Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466509793"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "45 Ham Tu Quan, Phuc Tan Ward, Hoan Kiem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422619595"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "240 Thuy Khue, Thuy Khue Ward, Tay Ho District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462927599"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "41 Tran Nhan Tong, Bui Thi Xuan Ward, Hai Ba Trung District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02439430871"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 4 Gia Lam Market, Ngoc Lam Ward, Long Bien District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422001972"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "78 Sai Dong, Sai Dong Ward, Long Bien District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0987691972"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "306 Quang Oai, Tay Dang Town, Ba Vi District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0983609383"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "130 Lo Duc, Dong Mac Ward, Hai Ba Trung District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466535809"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "39/12 Hai Ba Trung, Tran Hung Dao Ward, Hoan Kiem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0913323369"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "68 Kim Giang, Thanh Liet Ward, Thanh Tri Dist., Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432005456"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "25 N3, Tan Mai Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0343852677"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "8 Ham Nghi, Cau Dien Ward, Nam Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462538554"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "52 Hoang Dao Thanh, Kim Giang Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02439017979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "BT12 Location 10 Xa La New Urban Area, Phuc La Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466874550"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "118 Hao Nam, O Cho Dua Ward, Dong Da District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432007661"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "10 Thanh Cong, Thanh Cong Ward, Ba Dinh District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432000988"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "30 Tran Dai Nghia, Dong Tam Ward, Hai Ba Trung District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02436330377"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "63 Phuong Mai, Phuong Mai Ward, Dong Da District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432005038"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Lot 25LK Le Loi extension, Ha Tri Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466623337"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 60 Mau Luong, Kien Hung Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462532363"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "560 Nguyen Van Cu, Ngoc Lam Ward, Long Bien District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466866084"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "58 Vuong Thua Vu, Khuong Trung Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432005217"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "105 C8 Quynh Mai Street, Quynh Mai Ward, Hai Ba Trung District, Hanoi",
+        "district": "Hà Nội",
+        "phone": "0932276795"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "31 Nui Truc, Kim Ma Ward, Ba Dinh District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0978933943"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "78 Hoa Bang, Yen Hoa Ward, Cau Giay District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432079969"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "154 Tay Son, Quang Trung Ward, Dong Da District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02435335463"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "698 Lang Street, Lang Thuong Ward, Dong Da District, Hanoi",
+        "district": "Hà Nội",
+        "phone": "02422389777"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "31 Nguyen Thai Hoc, Quang Trung Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422488777"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "59 Link 6A Nguyen Van Loc, Mo Lao Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02422849898"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "192 Quang Trung, Quang Trung Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02433517879"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "35A Xuan La, Xuan La Ward, Tay Ho District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462580357"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 88 Xuan Dinh, Xuan Tao Ward, Bac Tu Liem District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "0363686666"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "409 Truong Dinh, Tan Mai Ward, Hoang Mai District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02466865011"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Power Station 1, Huu Bang Ward, Thach That Ward, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462544554"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "119 Nguyen Tuan, Thanh Xuan Trung Ward, Thanh Xuan District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02432005438"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Villa 2-23, Hyundai Villa 2, To Hieu, Ha Cau Ward, Ha Dong District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02435110033"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "82 Tran Quang Dieu, O Cho Dua Ward, Dong Da District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02462766051"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk No. 01S03 Building S105, Vinhomes Smart City Urban Area, Tay Mo Ward, Nam Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0979519991"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "25B Phan Dinh Phung, Quan Thanh Ward, Ba Dinh District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02437341530"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "24 Hoang Dieu, Quang Trung Ward, Son Tay Town, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "02433832451"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Hamlet 2, Quynh Do, Vinh Quynh Ward, Thanh Tri District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0988099294"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "75 Tu Hiep, Tu Hiep Ward, Thanh Tri Dist., City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "0988099294"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "01S5A, Building S1.08 Vinhomes Ocean Park, Trau Quy Town, Gia Lam District, Hanoi",
+        "district": "Hà Nội",
+        "phone": "0949992476"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Ho Hamlet, Yen Nhan Hamlet, Tien Phong Ward, Me Linh District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0912595135"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "01SH012A Building S2.05 Vinhomes Smart City Urban Area, Tay Mo Ward, Nam Tu Liem District, Hanoi City",
+        "district": "Hà Nội",
+        "phone": "0979519991"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 415 Bach Mai, Group 42, Bach Mai Ward, Hai Ba Trung District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "2432047295"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 112 Man Boi Goc Gang Area, Phu Lam Ward, Ha Dong District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "2466634443"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 93 Tran Quoc Vuong, Group 12, Dich Vong Hau Ward, Cau Giay District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "989760334"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 158, Hamlet 3, Tam Hiep Ward, Phuc Tho Ward, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "364662989"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 111 Phan Xich, Tan Hoi Ward, Dan Phuong Dist., City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "911872923"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 05 Trung Kinh, Trung Hoa Ward, Cau Giay District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "2433831999"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Floor 1, Building D, Vinaconex Residential Area 3, No. 60 Khuc Thua Du, Dich Vong Ward, Cau Giay District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "904873786"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 22 Phu Gia, Phu Thuong Ward, Tay Ho District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "886633263"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 42B Hoang Nhu Tiep, Bo De Ward, Long Bien District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "912043638"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 34 Van Kiep, Bach Dang Ward, Hai Ba Trung District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "834586668"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 01E Dinh Cong Thuong, Dinh Cong Ward, Hoang Mai District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "868394968"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 15 Son Dong Crossroads, Son Dong Commune, Hoai Duc Dist., City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "817688080"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 19 Tran Nguyen Dan, Dinh Cong Ward, Hoang Mai District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "2432052579"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 34 Street 422B, Van Canh Ward, Hoai Duc Dist., City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "986465914"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Ninh Hiep Street, Hamlet 8, Ninh Hiep Ward, Gia Lam District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "378798791"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Building N03T8 Horizon Tower Apartment, Ngoai Giao Doan Area, Xuan Tao Ward, Bac Tu Liem District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "363298388"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk 5, Apartment C7, Lane 6 Tran Huu Duc, Ward My Dinh 1, Nam Tu Liem District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "363298388"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "1st Floor, S3 Building, Goldmark City, No. 136 Ho Tung Mau, Phu Dien Ward, Bac Tu Liem District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "932276795"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 113 - A11, Khuong Thuong Collective, Trung Tu Ward, Dong Da District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "932276795"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 332 Nguyen Trai, Ward Thanh Xuan Trung, District Thanh Xuan, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "2432005438"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 05/81 Nhon Street, Phuong Canh Ward, Nam Tu Liem District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 44-LK 17 Doc Bun 2 Urban Area Van Khe, La Khe Ward, Ha Dong District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 130 Nguyen An Ninh, Tuong Mai Ward, Hoang Mai District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 293 Dai Mo, Dai Mo Ward, Nam Tu Liem District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 21 An Khanh, An Khanh Ward, Hoai Duc Dist., City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 02 Hang Be, Hang Bac Ward, Hoan Kiem District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "Kiosk 1, No 2, Phap Van Tel - Tu Hiep, Hoang Liet Ward, Hoang Mai District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Ha Noi",
+        "address": "No. 41 Alley 15 Ngoc Hoi, Hoang Liet Ward, Hoang Mai District, City. Hanoi",
+        "district": "Hà Nội",
+        "phone": "0977296076"
+      },
+      {
+        "area": "North",
+        "address": "120 Au Co, Ho Town, Thuan Thanh District, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "02223903932"
+      },
+      {
+        "area": "North",
+        "address": "174 Tran Phu, Tan Phong Ward, Lai Chau City, Lai Chau Province",
+        "district": "Lai Chau Province",
+        "phone": "0983006425"
+      },
+      {
+        "area": "North",
+        "address": "1269 Hung Vuong, Tien Cat Ward, Viet Tri City, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "02103882555"
+      },
+      {
+        "area": "North",
+        "address": "116 Ton Duc Thang, Khai Quang Ward, Vinh Yen Town, Vinh Phuc Province",
+        "district": "Vinh Phuc Province",
+        "phone": "02113588555"
+      },
+      {
+        "area": "North",
+        "address": "265 Nguyen Hue, Moi Ward, Lao Cai City, Lao Cai Province",
+        "district": "Lao Cai Province",
+        "phone": "0912456878"
+      },
+      {
+        "area": "North",
+        "address": "347 Hoang Lien, Coc Le Ward, Lao Cai City, Lao Cai Province",
+        "district": "Lao Cai Province",
+        "phone": "02143667688"
+      },
+      {
+        "area": "North",
+        "address": "Road N1 Sa Pa Market, Sa Pa Town, Sa Pa District, Lao Cai Province",
+        "district": "Lao Cai Province",
+        "phone": "02143668689"
+      },
+      {
+        "area": "North",
+        "address": "15A Binh Thuan, Group 12, Tan Quang Ward, Tuyen Quang City",
+        "district": "Tuyen Quang Province",
+        "phone": "02073818828"
+      },
+      {
+        "area": "North",
+        "address": "423 Group 2, Phan Thiet Ward, Tuyen Quang City, Tuyen Quang Province",
+        "district": "Tuyen Quang Province",
+        "phone": "01659911455"
+      },
+      {
+        "area": "North",
+        "address": "283, Co Quan Street, Son Duong Town, Son Duong District, Tuyen Quang Province",
+        "district": "Tuyen Quang Province",
+        "phone": "02073818828"
+      },
+      {
+        "area": "North",
+        "address": "29 Au Co, Kinh Bac Ward, Bac Ninh City, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "02223705333"
+      },
+      {
+        "area": "North",
+        "address": "E121 Le Quang Dao, Tan Hong Ward, Tu Son Town, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "02223702333"
+      },
+      {
+        "area": "North",
+        "address": "37 An Cu, Tran Phu Ward, Ha Giang City, Ha Giang Province",
+        "district": "Ha Giang Provice",
+        "phone": "02193867690"
+      },
+      {
+        "area": "North",
+        "address": "450 Group 3, Viet Quang Town, Bac Quang Dist., Ha Giang Province",
+        "district": "Ha Giang Provice",
+        "phone": "02192472888"
+      },
+      {
+        "area": "North",
+        "address": "131, group 7, Vi Xuyen town, Vi Xuyen district, Ha Giang",
+        "district": "Ha Giang Provice",
+        "phone": "02192200208"
+      },
+      {
+        "area": "North",
+        "address": "88 Cach Mang Thang 8, Thai Nguyen City, Thai Nguyen Province",
+        "district": "Thai Nguyen Province",
+        "phone": "0965064426"
+      },
+      {
+        "area": "North",
+        "address": "107 Cach Mang Thang Tam, Thang Loi Ward, Song Cong City, Thai Nguyen Province",
+        "district": "Thai Nguyen Province",
+        "phone": "02083662669"
+      },
+      {
+        "area": "North",
+        "address": "11 Vo Ngua, Huong Son Ward, Thai Nguyen City, Thai Nguyen Province",
+        "district": "Thai Nguyen Province",
+        "phone": "02083644082"
+      },
+      {
+        "area": "North",
+        "address": "362 Luong Ngoc Quyen, Dong Quang Ward, Thai Nguyen City, Thai Nguyen Province",
+        "district": "Thai Nguyen Province",
+        "phone": "02083643386"
+      },
+      {
+        "area": "North",
+        "address": "857 Dương Tự Minh, P. Quang Vinh, TP Thái Nguyên, Tỉnh Thái Nguyên",
+        "district": "Thai Nguyen Province",
+        "phone": "02083844223"
+      },
+      {
+        "area": "North",
+        "address": "276, D. Quang Trung, Quang Trung Ward, Thai Nguyen City, Thai Nguyen Province",
+        "district": "Thai Nguyen Province",
+        "phone": "02083852655"
+      },
+      {
+        "area": "North",
+        "address": "Kiosk No. 2 Than Thua Quy, Vinh Trai Ward, Lang Son City, Lang Son Province",
+        "district": "Lang Son Province",
+        "phone": "0868233788"
+      },
+      {
+        "area": "North",
+        "address": "144 Tran Dang Ninh, Hoang Van Thu Ward, Lang Son City, Lang Son Province",
+        "district": "Lang Son Province",
+        "phone": "0986575899"
+      },
+      {
+        "area": "North",
+        "address": "15 Dinh Tien Hoang, Chi Lang Ward, Lang Son City, Lang Son Province",
+        "district": "Lang Son Province",
+        "phone": "0868233788"
+      },
+      {
+        "area": "North",
+        "address": "01 Crossroads, Group 12, De Tham Ward, Cao Bang City, Cao Bang Province",
+        "district": "Cao Bang Province",
+        "phone": "02066555558"
+      },
+      {
+        "area": "North",
+        "address": "Group 1, Mid Street, Nuoc Hai Town, Hoa An Dist., Cao Bang Province",
+        "district": "Cao Bang Province",
+        "phone": "02066558889"
+      },
+      {
+        "area": "North",
+        "address": "137, Group 11, Orange Garden, Hop Giang Ward, Cao Bang City, Cao Bang Province",
+        "district": "Cao Bang Province",
+        "phone": "0977683128"
+      },
+      {
+        "area": "North",
+        "address": "Group 6, Duc Xuan Ward, Bac Kan Town, Bac Kan Province",
+        "district": "Bac Kan Province",
+        "phone": "02096515999"
+      },
+      {
+        "area": "North",
+        "address": "189 Hoa Phong, Nong Trang Ward, Viet Tri City, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "02103618686"
+      },
+      {
+        "area": "North",
+        "address": "195 Ba Mo Area, Thanh Son Town, Thanh Son Dist., Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "02103618999"
+      },
+      {
+        "area": "North",
+        "address": "3358 Hung Vuong Road, Area 1, Van Phu Ward, Viet Tri City, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "0396246286"
+      },
+      {
+        "area": "North",
+        "address": "474 Tran Phu, Group 14, Area 1, Duu Lau Ward, Viet Tri City, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "0396246286"
+      },
+      {
+        "area": "North",
+        "address": "101 Nguyet Cu, Group 93, Nong Trang Ward, Viet Tri City, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "02103898226"
+      },
+      {
+        "area": "North",
+        "address": "601 Cu Chinh Lan, Phuong Lam Ward, Hoa Binh City, Hoa Binh Province",
+        "district": "Hoa Binh Province",
+        "phone": "0869936994"
+      },
+      {
+        "area": "North",
+        "address": "239 Minh Khai Area, Chu Town, Luc Ngan District, Bac Giang Province",
+        "district": "Bac Giang Province",
+        "phone": "02046262729"
+      },
+      {
+        "area": "North",
+        "address": "2290 Hung Vuong Boulevard, Van Co Ward, Viet Tri City, Phu Tho",
+        "district": "Phu Tho Province",
+        "phone": "02103913666"
+      },
+      {
+        "area": "North",
+        "address": "477 Chau Phong, Gia Cam Ward, Viet Tri City, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "02103585555"
+      },
+      {
+        "area": "North",
+        "address": "68 South Street, Phong Chau Ward, Phu Ninh District, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "02103761761"
+      },
+      {
+        "area": "North",
+        "address": "9 Tran Quoc Toan, Ngo Quyen Ward, Vinh Yen City, Vinh Phuc Province",
+        "district": "Vinh Phuc Province",
+        "phone": "02113595696"
+      },
+      {
+        "area": "North",
+        "address": "79 Le Loi, Le Loi Ward, Bac Giang City, Bac Giang Province",
+        "district": "Bac Giang Province",
+        "phone": "02043858466"
+      },
+      {
+        "area": "North",
+        "address": "124 Nguyen Gia Thieu, Suoi Hoa Ward, Bac Ninh City, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "02223512996"
+      },
+      {
+        "area": "North",
+        "address": "135 Nguyen Cao, Ninh Xa Ward, Bac Ninh City, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "02223700855"
+      },
+      {
+        "area": "North",
+        "address": "Market Street 1, Hung Son Town, Dai Tu Dist., Thai Nguyen Province",
+        "district": "Thai Nguyen Province",
+        "phone": "02086503888"
+      },
+      {
+        "area": "North",
+        "address": "Group 9, TT. Hang Pagoda, Dong Hy District, Thai Nguyen Province",
+        "district": "Thai Nguyen Province",
+        "phone": ""
+      },
+      {
+        "area": "North",
+        "address": "Floor 1, Apartment B8, Tran Nguyen Han, Ward Thanh Mieu, Viet Tri City, Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "02102493789"
+      },
+      {
+        "area": "North",
+        "address": "437 Nguyen Trai, Vo Cuong Ward, Bac Ninh City, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "0886155358"
+      },
+      {
+        "area": "North",
+        "address": "113 Duong Tinh, Yen Lac Town, Yen Lac Dist., Vinh Phuc Province",
+        "district": "Vinh Phuc Province",
+        "phone": "0906245575"
+      },
+      {
+        "area": "North",
+        "address": "551 Dien Bien, Minh Tan Ward, Yen Bai City, Yen Bai Province",
+        "district": "Yen Bai Province",
+        "phone": "0978933943"
+      },
+      {
+        "area": "North",
+        "address": "Group 11, Market KM6 Dinh Tien Hoang, Yen Thinh Ward, Yen Bai City, Yen Bai Province",
+        "district": "Yen Bai Province",
+        "phone": "0389986356"
+      },
+      {
+        "area": "North",
+        "address": "99A Tran Phu, Group 15, Minh Khai Ward, Ha Giang City, Ha Giang Province",
+        "district": "Ha Giang Provice",
+        "phone": "02193866568"
+      },
+      {
+        "area": "North",
+        "address": "301 Tran Phu, Dinh Bang Ward, Tu Son Town, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "02223706668"
+      },
+      {
+        "area": "North",
+        "address": "49 Group 3, Thanh Binh Ward, Dien Bien Phu City, Dien Bien Province",
+        "district": "Dien Bien Province",
+        "phone": "02153832323"
+      },
+      {
+        "area": "North",
+        "address": "No. 68 South Street, Phong Chau Ward, Phu Ninh Dist., Phu Tho Province",
+        "district": "Phu Tho Province",
+        "phone": "0919381668-02103761761"
+      },
+      {
+        "area": "North",
+        "address": "No. 17 Ngo Gia Tu, Tran Phu Ward, City. Bac Giang, Bac Giang Province",
+        "district": "Bac Giang Province",
+        "phone": "985154899"
+      },
+      {
+        "area": "North",
+        "address": "No. 151 3-2 Street, TT. Cao Loc, Cao Loc District, Lang Son Province",
+        "district": "Lang Son Province",
+        "phone": "967006033"
+      },
+      {
+        "area": "North",
+        "address": "No. 03 Dao Phung Thai, TT. Third, H. Luong Tai, Bac Ninh Province",
+        "district": "Bac Ninh Province",
+        "phone": "0981616145"
+      },
+      {
+        "area": "North",
+        "address": "No. 244, Group 10, Tan Thanh Ward, City. Dien Bien Phu, Dien Bien Province",
+        "district": "Dien Bien Province",
+        "phone": "0867151315"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 76 Nguyen Thi Minh Khai, City. Ha Tinh, Ha Tinh province",
+        "district": "Ha Province Province",
+        "phone": "0989652699"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 01 Nguyen Bien, TT. Cam Xuyen, Cam Xuyen District, Ha Tinh Province",
+        "district": "Ha Province Province",
+        "phone": "0962193379"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 175A, TT. Van Giang, Van Giang District, Hung Yen Province",
+        "district": "Hung Yen Province",
+        "phone": "02213932996"
+      },
+      {
+        "area": "Coast",
+        "address": "Cau Treo Crossroads, Tan Lap Ward, Yen My Dist., Hung Yen Province",
+        "district": "Hung Yen Province",
+        "phone": "02216271871"
+      },
+      {
+        "area": "Coast",
+        "address": "81A Le Lai, Dong Son Ward, Thanh Hoa City, Thanh Hoa Province",
+        "district": "Thanh Hoa Province",
+        "phone": "02376699199"
+      },
+      {
+        "area": "Coast",
+        "address": "99 Anh Dao, Bai Chay Ward, Ha Long City, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "0964128493"
+      },
+      {
+        "area": "Coast",
+        "address": "30 Kim Hoan, Bach Dang Ward, Ha Long City, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "02033629779"
+      },
+      {
+        "area": "Coast",
+        "address": "344 Group 2 Area 10, Troi Town, Hoanh Bo District, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "02033690609"
+      },
+      {
+        "area": "Coast",
+        "address": "256 Group 14, Bac Son Ward, Tam Diep City, Ninh Binh Province",
+        "district": "Ninh Binh Province",
+        "phone": "0982659231"
+      },
+      {
+        "area": "Coast",
+        "address": "85 Thanh Nien, Bac Son Ward, Tam Diep City, Ninh Binh Province",
+        "district": "Ninh Binh Province",
+        "phone": "0987687399"
+      },
+      {
+        "area": "Coast",
+        "address": "5 Ly Tu Trong, Phuc Thanh Ward, Ninh Binh City, Ninh Binh Province",
+        "district": "Ninh Binh Province",
+        "phone": "0917292568"
+      },
+      {
+        "area": "Coast",
+        "address": "No.11 Dien Bien I, Le Loi Ward, City. Hung Yen, Hung Yen Province",
+        "district": "Hung Yen Province",
+        "phone": "02213669688"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 82 Bach Dang, Nui Deo town, Thuy Nguyen district, Hai Phong city",
+        "district": "Hai Phong City",
+        "phone": "02253874147"
+      },
+      {
+        "area": "Coast",
+        "address": "51 Le Cong Thanh, Ward, Hai Ba Trung, City. Phu Ly, Ha Nam Province",
+        "district": "Ha Nam Province",
+        "phone": "02263522555"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 200 Tran Hung Dao, Ward Tran Hung Dao, City. Nam Dinh, Nam Dinh Province",
+        "district": "Nam Dinh Province",
+        "phone": "02283844910"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 297 Giai Phong, Van Mieu Ward, City. Nam Dinh, Nam Dinh Province",
+        "district": "Nam Dinh Province",
+        "phone": "02283833295"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 281 Han Thuyen Street, Vi Xuyen Ward, City. Nam Dinh, Nam Dinh Province",
+        "district": "Nam Dinh Province",
+        "phone": "02283633111"
+      },
+      {
+        "area": "Coast",
+        "address": "Block 2, TT. Cau Giat, Quynh Luu District, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02383642898"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 66 Le Loi, Hung Binh Ward, City. Vinh, Nghe An Province.",
+        "district": "Nghe An Province",
+        "phone": "02383518989"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 251 Gieng Day, Gieng Day Ward, City. Ha Long, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "0903288369"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 173 Labor Area, Cam Tay Ward, City. Cam Pha, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "02033968460"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 370 Nguyen Trai, Nghi Phu Ward, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02388768768"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 27 Km3, Lenin Boulevard, Nghi Phu Commune, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02383205686"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 350 Group 64, Area 6, Ly Thuong Kiet, Cua Ong Ward, City. Cam Pha, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "0905398884"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 639 Tran Phu, Cam Thuy Ward, City. Cam Pha, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "02036503988"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 271B Da Nang, Cau Tre Ward, Ngo Quyen District, Hai Phong City",
+        "district": "Hai Phong City",
+        "phone": "0796311222"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 85 Tran Nguyen Han, Ward Tran Nguyen Han, Le Chan District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0913538220"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 09C Hoang Van Thu, Minh Khai Ward, Hong Bang District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0936632467"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 291 Van Cao, Dang Giang Ward, Ngo Quyen District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "02256258866"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 226 Tran Thanh Ngo, Tran Thanh Ngo Ward, Kien An District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0936632467"
+      },
+      {
+        "area": "Coast",
+        "address": "Shop House BH 01 - 45 Vinhome Imperia, Thuong Ly Ward, Hong Bang District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0936632467"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 17 Nguyen Duc Canh, An Bien Ward, Le Chan District, Hai Phong City",
+        "district": "Hai Phong City",
+        "phone": "02253569011"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 23 Le Loi, Hai Dinh Ward, Dong Hoi City, Quang Binh Province",
+        "district": "Quang Binh Province",
+        "phone": "02323812368"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 247 Tran Hung Dao, Dong Phu Ward, City. Dong Hoi, Quang Binh Province",
+        "district": "Quang Binh Province",
+        "phone": "02323679668"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 51A4 Nguyen Thai Hoc, Ward Doi Cung, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02383768799"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 180 Le Thanh Nghi, Le Thanh Nghi Ward, Hai Duong City",
+        "district": "Hai Duong Province",
+        "phone": "0921998899"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 68 Tieu Hoang, TT. Tien Hai, Tien Hai District, Thai Binh Province",
+        "district": "Thai Binh Province",
+        "phone": "02273653568"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 5 Nguyen Xi, Thu Thuy Ward, Town. Cua Lo, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "0915130697"
+      },
+      {
+        "area": "Coast",
+        "address": "Block 3, TT. Quan Hanh, Nghi Loc, Nghe An Province Tỉnh",
+        "district": "Nghe An Province",
+        "phone": "02386606468"
+      },
+      {
+        "area": "Coast",
+        "address": "Block 3, TT. Dien Chau, Dien Chau District, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02386288588"
+      },
+      {
+        "area": "Coast",
+        "address": "Hamlet 5, Nghi Xuan Ward, Nghi Loc District, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02386676999"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 47 Ho Chi Minh Boulevard, Nguyen Trai Ward, City. Hai Duong, Hai Duong Province",
+        "district": "Hai Duong Province",
+        "phone": "02203867088"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 47 Dang Dung, Nam Ha Ward, Ha Tinh City, Ha Tinh Province",
+        "district": "Ha Province Province",
+        "phone": "02393685559"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 6 Nguyen Van Troi, Ben Thuy Ward, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02383837756"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 320 Nguyen Van Cu, Hung Binh Ward, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02383682268"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 18 Le Viet Thuat, Hung Loc Ward, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02383766668"
+      },
+      {
+        "area": "Coast",
+        "address": "Packaging Market, TT. Ban, My Hao Ward, Hung Yen Province",
+        "district": "Hung Yen Province",
+        "phone": "02216296969"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 55 Le Hong Phong, Dong Thanh Ward, City. Ninh Binh, Ninh Binh Province",
+        "district": "Ninh Binh Province",
+        "phone": "02293512999"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 81 Tran Phu, Ward Tran Hung Dao, City. Thai Binh, Thai Binh Province",
+        "district": "Thai Binh Province",
+        "phone": "02273843668"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 53 Ngo Quyen, Ky Ba Ward, City. Thai Binh, Thai Binh Province",
+        "district": "Thai Binh Province",
+        "phone": "02273641886"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 456 Area 6, TT. Diem Dien, Thai Thuy District, Thai Binh Province",
+        "district": "Thai Binh Province",
+        "phone": "02273713713"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 11B Lane 12 Le Quy Don, Le Hong Phong Ward, City. Thai Binh, Thai Binh Province",
+        "district": "Thai Binh Province",
+        "phone": "02273847152"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 250 Nguyen Cong Tru, Tan Giang Ward, Ha Tinh City, Ha Tinh Province",
+        "district": "Ha Province Province",
+        "phone": "02396566599"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 19 Le Mao, Hong Son Ward, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02388685789"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 3, 46th Street, Block 10, TT. Hung Nguyen, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02386268688"
+      },
+      {
+        "area": "Coast",
+        "address": "Xuan Khoa Block, TT. Nam Dan, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02386626288"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 137 Dang Thai Than, Cua Nam Ward, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "02386665688"
+      },
+      {
+        "area": "Coast",
+        "address": "Le Mon Industrial Park, Quang Hung Ward, City. Thanh Hoa, Thanh Hoa Province",
+        "district": "Thanh Hoa Province",
+        "phone": "02373255007"
+      },
+      {
+        "area": "Coast",
+        "address": "KP1, TT. Thong Nhat Town, Yen Dinh Dist., Thanh Hoa Province",
+        "district": "Thanh Hoa Province",
+        "phone": "02373599686"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 4 Lenin Avenue, Hung Dung Ward, City. Vinh, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": ""
+      },
+      {
+        "area": "Coast",
+        "address": "No. 3 Group 1, Bac Son Ward, City. Tam Diep, Ninh Binh Province",
+        "district": "Ninh Binh Province",
+        "phone": "0987687399"
+      },
+      {
+        "area": "Coast",
+        "address": "Lot C4 Khanh Phu Industrial Park, Yen Khanh Dist., Ninh Binh Province",
+        "district": "Ninh Binh Province",
+        "phone": "0917292568"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 226 Tran Thanh Ngo, Tran Thanh Ngo Ward, Kien An District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0936632467"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 09C Hoang Van Thu, Minh Khai Ward, Hong Bang District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0936632467"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 463 Ly Thuong Kiet, Cua Ong Ward, City. Cam Pha, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "02036526669"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 134 Dinh Dong, Dong Hai Ward, Le Chan District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0904940338"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 184 Bui Si Tiem, TT. Dong Hung, Dong Hung Dist., Thai Binh Province",
+        "district": "Thai Binh Province",
+        "phone": "0963036360"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 343 Manger, An Dong Ward, An Duong Dist., City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0936632467"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 119 Trung Luc, Dang Lam Ward, Hai An District, City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "1900636979"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 213 Nguyen Van Cu, Hong Hai Ward, City. Ha Long, Quang Ninh Province",
+        "district": "Quang Ninh Province",
+        "phone": "0976086890"
+      },
+      {
+        "area": "Coast",
+        "address": "207 Moi Street, Tan Duong Ward, Thuy Nguyen Dist., City. Hai Phong",
+        "district": "Hai Phong City",
+        "phone": "0896694368"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 185 Kim Tan Block, Nguyen Trai Street, Hoa Hieu Ward. Tx. Thai Hoa, Nghe An Province",
+        "district": "Nghe An Province",
+        "phone": "0823663029"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 161 Pho Hien, Ward, Guangzhou, City. Hung Yen, Hung Yen Province",
+        "district": "Hung Yen Province",
+        "phone": "0968303886"
+      },
+      {
+        "area": "Coast",
+        "address": "No. 8 Residential Group No. 2, Nhu Quynh, Van Lam District, Hung Yen Province",
+        "district": "Hung Yen Province",
+        "phone": "0363688119"
+      },
+      {
+        "area": "Central",
+        "address": "No.11 Thong Nhat, TT. Lien Nghia, Duc Trong District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0917550801"
+      },
+      {
+        "area": "Central",
+        "address": "No. 94 Dung Si Thanh Khe, Thanh Khe Tay Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "0905323570"
+      },
+      {
+        "area": "Central",
+        "address": "No. 49 Phan Dang Luu, Hoa Cuong Nam Ward, Hai Chau District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "0905323570"
+      },
+      {
+        "area": "Central",
+        "address": "No. 39 Le Dinh Ly, Vinh Trung Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363531177"
+      },
+      {
+        "area": "Central",
+        "address": "No. 12 Le Thanh Nghi, Hoa Cuong Bac Ward, Hai Chau District. City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363633886"
+      },
+      {
+        "area": "Central",
+        "address": "No. 44 Hoang Dieu, Phuoc Ninh Ward, Hai Chau District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363582986"
+      },
+      {
+        "area": "Central",
+        "address": "No. 289 Nguyen Luong Bang, Hoa Khanh Bac Ward, Lien Chieu District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363831338"
+      },
+      {
+        "area": "Central",
+        "address": "No. 407 Phan Chau Trinh, An Son Ward, City. Tam Ky, Quang Nam Province",
+        "district": "Quang Nam Province",
+        "phone": "02353858589"
+      },
+      {
+        "area": "Central",
+        "address": "No. 408A Nguyen Thai Hoc, Quang Trung Ward, City. Quy Nhon, Binh Dinh Province",
+        "district": "Binh Dinh Province",
+        "phone": "02566544567"
+      },
+      {
+        "area": "Central",
+        "address": "No. 189 Tang Bat Ho, Le Loi Ward, City. Quy Nhon, Binh Dinh Province",
+        "district": "Binh Dinh Province",
+        "phone": "02563813256"
+      },
+      {
+        "area": "Central",
+        "address": "No. 399 Tran Cao Van, Xuan Ha Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363939977"
+      },
+      {
+        "area": "Central",
+        "address": "Dong Village, An Vinh Ward, Ly Son District, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02556525456"
+      },
+      {
+        "area": "Central",
+        "address": "No. 259 Quang Trung, Le Hong Phong Ward, City. Quang Ngai, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02556525678"
+      },
+      {
+        "area": "Central",
+        "address": "No. 381 Hung Vuong, Tran Phu Ward, City. Quang Ngai, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02556250345"
+      },
+      {
+        "area": "Central",
+        "address": "No. 323 Nguyen Cong Phuong, Nghia Lo Ward, City. Quang Ngai, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02556251123"
+      },
+      {
+        "area": "Central",
+        "address": "No. 12 Nguyen Hue, Ward 5, City. Tuy Hoa, Phu Yen Province",
+        "district": "Phu Yen Province",
+        "phone": "02573818281"
+      },
+      {
+        "area": "Central",
+        "address": "No. 321 2/4, TT. Cam Lo, Cam Lo Dist., Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02333696222"
+      },
+      {
+        "area": "Central",
+        "address": "No. 286 Tran Hung Dao, Ward 2, TX. Quang Tri, Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02333663368"
+      },
+      {
+        "area": "Central",
+        "address": "No. 85 Nguyen Hue, Ward 1, City. Dong Ha, Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02333585333"
+      },
+      {
+        "area": "Central",
+        "address": "No. 20 Phan Boi Chau, Ward 1, City. Dong Ha, Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02333887777"
+      },
+      {
+        "area": "Central",
+        "address": "No. 97 Hung Vuong, Ward 5, City. Dong Ha, Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02333585678"
+      },
+      {
+        "area": "Central",
+        "address": "Hamlet 7, Loc An Ward, Bao Lam District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0981214469"
+      },
+      {
+        "area": "Central",
+        "address": "No. 461 Thong Nhat, TT. Lien Nghia, Duc Trong District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0974577001"
+      },
+      {
+        "area": "Central",
+        "address": "63 Nguyen Tat Thanh, Dak Mil town, Dak Mil district, Dak Nong province",
+        "district": "Dak Nong province",
+        "phone": "0986954498"
+      },
+      {
+        "area": "Central",
+        "address": "An Hoi Bac 2 Hamlet, Nghia Ky Ward, Tu Nghia District, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02552477789"
+      },
+      {
+        "area": "Central",
+        "address": "TDP Nghia Thi, TT. Thanh My, Don Duong Dist., Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0387121721"
+      },
+      {
+        "area": "Central",
+        "address": "No. 01 Phan Boi Chau, Hoi Thuong Ward, City. Pleiku, Gia Lai Province",
+        "district": "Gia Lai Province",
+        "phone": "02696333334"
+      },
+      {
+        "area": "Central",
+        "address": "No. 589 Nguyen Van Linh, Ward Truong Quang Trong, City. Quang Ngai, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02556517639"
+      },
+      {
+        "area": "Central",
+        "address": "No. 142 Nguyen Nghiem, Nghia Chanh Ward, City. Quang Ngai, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02556556055"
+      },
+      {
+        "area": "Central",
+        "address": "No. 264 Nui Thanh, Hoa Cuong Bac Ward, Hai Chau District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363643757"
+      },
+      {
+        "area": "Central",
+        "address": "No. 76 Tran Hung Dao, Phu Trinh Ward, City. Phan Thiet, Binh Thuan Province.",
+        "district": "Binh Thuan Province",
+        "phone": "0916655997"
+      },
+      {
+        "area": "Central",
+        "address": "National Highway 1A, Thach Tru Tay Hamlet, Duc Lan Commune, Mo Duc District, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02553933477"
+      },
+      {
+        "area": "Central",
+        "address": "No. 53 Hai Thuong Lan Ong, Phu Trinh Ward, City. Phan Thiet, Binh Thuan Province",
+        "district": "Binh Thuan Province",
+        "phone": "02523829263"
+      },
+      {
+        "area": "Central",
+        "address": "No. 389 Tran Hung Dao, Hai Cang Ward, City. Quy Nhon, Binh Dinh Province",
+        "district": "Binh Dinh Province",
+        "phone": "02563826999"
+      },
+      {
+        "area": "Central",
+        "address": "No. 45 Nguyen Lu, Ngo May Ward, City. Quy Nhon, Binh Dinh",
+        "district": "Binh Dinh Province",
+        "phone": "02563811333"
+      },
+      {
+        "area": "Central",
+        "address": "No. 248 Hoang Dieu, Nam Duong Ward, Hai Chau District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363575248"
+      },
+      {
+        "area": "Central",
+        "address": "No. 60 Hoang Hoa Tham, Tan Chinh Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363747277"
+      },
+      {
+        "area": "Central",
+        "address": "No. 131 Tran Hung Dao, Cam Pho Ward, City. Hoi An, Quang Nam Province",
+        "district": "Quang Nam Province",
+        "phone": "02353917456"
+      },
+      {
+        "area": "Central",
+        "address": "No. 74 A1 Street, Vinh Diem Trung Urban Area, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0913979679"
+      },
+      {
+        "area": "Central",
+        "address": "No. 116 Mr. Ich Khiem, Tam Thuan Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363552177"
+      },
+      {
+        "area": "Central",
+        "address": "B17 Vo Van Kiet, Phu Thuy Ward, City. Phan Thiet, Binh Thuan Province",
+        "district": "Binh Thuan Province",
+        "phone": "02526280099"
+      },
+      {
+        "area": "Central",
+        "address": "No. 6 Dinh Tien Hoang, Ward Duc Nghia, City. Phan Thiet, Binh Thuan Province",
+        "district": "Binh Thuan Province",
+        "phone": "0979731876"
+      },
+      {
+        "area": "Central",
+        "address": "No. 9 Street 21/8, Phu Ha Ward, City. Phan Rang - Thap Cham, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "02593831182"
+      },
+      {
+        "area": "Central",
+        "address": "No. 210 Thong Nhat, Phu Ha Ward, City. Phan Rang - Thap Cham, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "02593823884"
+      },
+      {
+        "area": "Central",
+        "address": "No.115, 04 Street, Phuoc Hai Ward, Nha Trang City, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0903588097"
+      },
+      {
+        "area": "Central",
+        "address": "No. 739 Hung Vuong, TT. Di Linh, Di Linh, Lam Dong Province Tỉnh",
+        "district": "Lam Dong Province",
+        "phone": "02636519519"
+      },
+      {
+        "area": "Central",
+        "address": "No. 44 Tieu La, TT. Ha Lam, Thang Binh Dist., Quang Nam Province",
+        "district": "Quang Nam Province",
+        "phone": "02356523468"
+      },
+      {
+        "area": "Central",
+        "address": "No. 125 Phan Dinh Phung, Tay Son Ward, City. Pleiku, Gia Lai Province",
+        "district": "Gia Lai Province",
+        "phone": "02693722237"
+      },
+      {
+        "area": "Central",
+        "address": "No. 97 Ngo Gia Tu, Thanh Son Ward, City. Phan Rang - Thap Cham, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "0913566797"
+      },
+      {
+        "area": "Central",
+        "address": "No. 148 Huynh Ngoc Hue, An Khe Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363626279"
+      },
+      {
+        "area": "Central",
+        "address": "No. 51C Cao Ba Quat, Phuoc Hoa Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "02583872239"
+      },
+      {
+        "area": "Central",
+        "address": "No. 36 Le Thanh Ton, Tan Lap Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "02583510182"
+      },
+      {
+        "area": "Central",
+        "address": "No. 119 Phan Boi Chau, Ward Van Thanh, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "02583821170"
+      },
+      {
+        "area": "Central",
+        "address": "No. 8 Vo Thi Sau, Phuoc Long Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "02583881190"
+      },
+      {
+        "area": "Central",
+        "address": "No. 92 Nguyen Hue, Vinh Ninh Ward, City. Hue, Thua Thien Hue Province",
+        "district": "Thua Thien Hue Province",
+        "phone": "02343933372"
+      },
+      {
+        "area": "Central",
+        "address": "No. 77 Tran Phu, Phuoc Vinh Ward, City. Hue, Thua Thien Hue Province",
+        "district": "Thua Thien Hue Province",
+        "phone": "02343857937"
+      },
+      {
+        "area": "Central",
+        "address": "No. 59B Ben Nghe, Phu Hoi Ward, City. Hue, Thua Thien Hue Province",
+        "district": "Thua Thien Hue Province",
+        "phone": "02343999768"
+      },
+      {
+        "area": "Central",
+        "address": "No. 168 Nguyen Trai, Tay Loc Ward, City. Hue, Thua Thien Hue Province",
+        "district": "Thua Thien Hue Province",
+        "phone": "02343588856"
+      },
+      {
+        "area": "Central",
+        "address": "No. 158 Pham Hung, Hoa Chau Ward, Hoa Vang Dist., City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363712292"
+      },
+      {
+        "area": "Central",
+        "address": "No. 59 Le Thanh Ton, Nghia Chanh Ward, City. Quang Ngai, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02553739579"
+      },
+      {
+        "area": "Central",
+        "address": "No. 29 Ha Giang, Ward 1, City. Bao Loc, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "02633863615"
+      },
+      {
+        "area": "Central",
+        "address": "No. 108 Quang Trung, Thach Thang Ward, Hai Chau District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363898604"
+      },
+      {
+        "area": "Central",
+        "address": "No. 247 Tran Phu, Dien Hong Ward, City. Pleiku, Gia Lai Province",
+        "district": "Gia Lai Province",
+        "phone": "02696538777"
+      },
+      {
+        "area": "Central",
+        "address": "No. 413 Hung Vuong, Quang Trung Ward, City. Kon Tum, Kon Tum Province",
+        "district": "Kon Tum Province",
+        "phone": "02602236868"
+      },
+      {
+        "area": "Central",
+        "address": "No. 209, 21st Street, Phuoc My Ward, City. Phan Rang - Thap Cham, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "0918249293 "
+      },
+      {
+        "area": "Central",
+        "address": "No. 232 Phan Chu Trinh, Quyet Thang Ward, City. Kon Tum, Kon Tum Province",
+        "district": "Kon Tum Province",
+        "phone": "02606533779"
+      },
+      {
+        "area": "Central",
+        "address": "No. 95 Hai Ba Trung, Ward 6, City. Da Lat, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "02633579567"
+      },
+      {
+        "area": "Central",
+        "address": "No. 80 Yersin, Phuong Sai Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0358007006"
+      },
+      {
+        "area": "Central",
+        "address": "No. 986 23/10 Street, Vinh Thanh Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0984904077"
+      },
+      {
+        "area": "Central",
+        "address": "No. 142 Van Tien Dung, Hoa Xuan Ward, Cam Le District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363799456"
+      },
+      {
+        "area": "Central",
+        "address": "No. 173 Le Van Hien, Khue My Ward, Ngu Hanh Son District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363747115"
+      },
+      {
+        "area": "Central",
+        "address": "No. 270 Pham Cu Luong, An Hai Dong Ward, Son Tra District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "0905855188"
+      },
+      {
+        "area": "Central",
+        "address": "No. 02 Truong Han Sieu, An Hai Bac Ward, Son Tra District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "0236650802"
+      },
+      {
+        "area": "Central",
+        "address": "No. 34 Hai Thuong, Ward 5, City. Da Lat, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0968739678"
+      },
+      {
+        "area": "Central",
+        "address": "No. 67 Le Thanh Tong, Thang Loi Ward, City. Buon Ma Thuot, Dak Lak Province",
+        "district": "Dak Lak Province",
+        "phone": "02623559579"
+      },
+      {
+        "area": "Central",
+        "address": "No. 214 Phan Chu Trinh, Tan Loi Ward, City. Buon Ma Thuot, Dak Lak Province",
+        "district": "Dak Lak Province",
+        "phone": "02623559589"
+      },
+      {
+        "area": "Central",
+        "address": "No. 69F Phan Boi Chau, Thong Nhat Ward, City. Buon Ma Thuot, Dak Lak Province",
+        "district": "Dak Lak Province",
+        "phone": "02623559599"
+      },
+      {
+        "area": "Central",
+        "address": "No. 14 Chi Lang, Phu Cat Ward, City. Hue, Thua Thien Hue Province",
+        "district": "Thua Thien Hue Province",
+        "phone": "0905658538"
+      },
+      {
+        "area": "Central",
+        "address": "No. 8 Ba Trieu, Phu Hoi Ward, City. Hue, Thua Thien Hue Province",
+        "district": "Thua Thien Hue Province",
+        "phone": "02343869669"
+      },
+      {
+        "area": "Central",
+        "address": "No. 09 Nguyen Van Troi, Tan Thanh Ward, City. Tam Ky, Quang Nam Province",
+        "district": "Quang Nam Province",
+        "phone": "02353535179"
+      },
+      {
+        "area": "Central",
+        "address": "No. 177 Huynh Thuc Khang, An Xuan Ward, Tam Ky City, Quang Nam.",
+        "district": "Quang Nam Province",
+        "phone": "0775557797"
+      },
+      {
+        "area": "Central",
+        "address": "No. 338 Nguyen Nghiem, , TX. Duc Pho, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02553987789"
+      },
+      {
+        "area": "Central",
+        "address": "No. 138 Lac Long Quan, Tran Quang Dieu Ward, City. Quy Nhon, Binh Dinh Province",
+        "district": "Binh Dinh Province",
+        "phone": "02566275789"
+      },
+      {
+        "area": "Central",
+        "address": "No. 361 Ton Duc Thang, Hoa Minh Ward, Lien Chieu District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02366566664"
+      },
+      {
+        "area": "Central",
+        "address": "No. 125 Ha Huy Tap, Hoa Khe Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363662977"
+      },
+      {
+        "area": "Central",
+        "address": "No. 66A Highway 9, City. Dong Ha, Ward 1, Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02336269969"
+      },
+      {
+        "area": "Central",
+        "address": "No. 365B Cua Dai, Cam Chau Ward, City. Hoi An, Quang Nam Province",
+        "district": "Quang Nam Province",
+        "phone": "02352460467"
+      },
+      {
+        "area": "Central",
+        "address": "No. 43B Ngo Gia Tu, Dai Son Ward, Phan Rang - Thap Cham City, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "0909278875"
+      },
+      {
+        "area": "Central",
+        "address": "No. 189 Phu Dong Thien Vuong, Ward 8, City. Da Lat, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0914484976;0398886578"
+      },
+      {
+        "area": "Central",
+        "address": "No. 109 Tuyen Quang, Phu Thuy Ward, City. Phan Thiet, Binh Thuan Province",
+        "district": "Binh Thuan Province",
+        "phone": "0939744027"
+      },
+      {
+        "area": "Central",
+        "address": "No. 12B Ly Tu Trong, Tan An Ward, City. Buon Ma Thuot, Dak Lak Province",
+        "district": "Dak Lak Province",
+        "phone": "02623905678"
+      },
+      {
+        "area": "Central",
+        "address": "No. 101 Khuc Hao, An Hai Bac Ward, Son Tra District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02366524868"
+      },
+      {
+        "area": "Central",
+        "address": "No. 25 Le Quy Don, Ward 1, City. Dong Ha, Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02333696888"
+      },
+      {
+        "area": "Central",
+        "address": "No. 738 Hung Vuong, TT. Dinh Van, Lam Ha Ward, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0974577001"
+      },
+      {
+        "area": "Central",
+        "address": "No. 36 Street No. 4, Phuoc Hai Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0903588097"
+      },
+      {
+        "area": "Central",
+        "address": "Thang Long Market Street, TT. Nam Ban, Lam Ha District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0364930707"
+      },
+      {
+        "area": "Central",
+        "address": "No. 118 3/2 Street, Thuan Phuoc Ward, Hai Chau District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363812292"
+      },
+      {
+        "area": "Central",
+        "address": "No. 19 Le Do, Tam Thuan Ward, Thanh Khe District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363661886"
+      },
+      {
+        "area": "Central",
+        "address": "No. 15 Kinh Duong Vuong, Hoa Minh Ward, Lien Chieu District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363655177"
+      },
+      {
+        "area": "Central",
+        "address": "No. 145 Au Co, Hoa Khanh Bac Ward, Lien Chieu District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363799686"
+      },
+      {
+        "area": "Central",
+        "address": "TDP Tap An Nam, Pho Van Ward, TX. Duc Pho, Quang Ngai Province",
+        "district": "Quang Ngai Province",
+        "phone": "02556256868"
+      },
+      {
+        "area": "Central",
+        "address": "No. 289 Street 2-4, Vinh Hai Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0946035000"
+      },
+      {
+        "area": "Central",
+        "address": "No. 172A, Street 2-4, Ward Van Thanh, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "02586258899"
+      },
+      {
+        "area": "Central",
+        "address": "No. 43B Ngo Gia Tu, Dai Son Ward, City. Phan Rang - Thap Cham, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "0909278875"
+      },
+      {
+        "area": "Central",
+        "address": "No. 114 Luong Ngoc Quyen, Thanh Binh Ward, Hai Chau District, City. Danang",
+        "district": "Da Nang City",
+        "phone": "02363815277"
+      },
+      {
+        "area": "Central",
+        "address": "15 Nguyen Thi Dinh, Phuoc Long Ward, City. Nha Trang, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0984904077"
+      },
+      {
+        "area": "Central",
+        "address": "Lien Trung Village, Tan Ha Ward, Lam Ha District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0332990042"
+      },
+      {
+        "area": "Central",
+        "address": "No. 98 Street 22/8, Cam Thuan Ward, City. Cam Ranh, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0816150988"
+      },
+      {
+        "area": "Central",
+        "address": "TM 13-29, Area K1, Hoang Dieu, City. Phan Rang - Thap Cham, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "0913566797"
+      },
+      {
+        "area": "Central",
+        "address": "No. 610 National Highway 20, TT. Lien Nghia, Duc Trong District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0978177935"
+      },
+      {
+        "area": "Central",
+        "address": "No. 412 Tran Phu, Ward 1, City. Bao Loc, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0975041567"
+      },
+      {
+        "area": "Central",
+        "address": "No. 60 Tran Thuc Nhan, Vinh Ninh Ward, Hue City, Thua Thien Hue Province",
+        "district": "Thua Thien Hue Province",
+        "phone": "02343813572"
+      },
+      {
+        "area": "Central",
+        "address": "No. 286 Le Duan, Ai Tu Town, Trieu Phong District, Quang Tri Province",
+        "district": "Quang Tri Province",
+        "phone": "02333828968"
+      },
+      {
+        "area": "Central",
+        "address": "No. 38 Tran Nhan Tong, Quarter 8, Thanh Son Ward, Phan Rang City - Thap Cham, Ninh Thuan Province",
+        "district": "Ninh Thuan Province",
+        "phone": "0989050494"
+      },
+      {
+        "area": "Central",
+        "address": "No. 221 Xo Viet Nghe Tinh, Ward 7, Da Lat City, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0888799796"
+      },
+      {
+        "area": "Central",
+        "address": "Highway 20, Ninh Hoa Hamlet, Ninh Gia Commune, Duc Trong District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0901610202"
+      },
+      {
+        "area": "Central",
+        "address": "No. 591 Quang Trung, An Tan Ward, An Khe, Gia Lai Province",
+        "district": "Gia Lai Province",
+        "phone": "0563770000"
+      },
+      {
+        "area": "Central",
+        "address": "No. 240 Nguyen Cong Tru, An Hai Bac Ward, Son Tra District, Da Nang City",
+        "district": "Da Nang City",
+        "phone": "02363910567"
+      },
+      {
+        "area": "Central",
+        "address": "No. 04 Nguyen Trai, Dien Khanh, Dien Khanh, Khanh Hoa Province",
+        "district": "Khanh Hoa Province",
+        "phone": "0985531209"
+      },
+      {
+        "area": "Central",
+        "address": "Hamlet 1, Tan Trung Hamlet, Tan Hoi Commune, Duc Trong District, Lam Dong Province",
+        "district": "Lam Dong Province",
+        "phone": "0914038839"
+      },
+      {
+        "area": "East",
+        "address": "No. 2 Huynh Van Nghe, Ward 2, Buu Long Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0857836668"
+      },
+      {
+        "area": "East",
+        "address": "No. 72D Le Van Duyet, KP. 8, An Binh Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0907916881"
+      },
+      {
+        "area": "East",
+        "address": "Trang Cat Market, Vo Van Kiet Street, KP. Suoi Nhum, Hac Dich Ward, TX. Phu My, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "0937863279"
+      },
+      {
+        "area": "East",
+        "address": "No. 63, 30/4 Street, Phu Hoa Ward, City. Thu Dau Mot, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0918226852"
+      },
+      {
+        "area": "East",
+        "address": "Land plot 1005, Map sheet No. 7, Group 5, Zone 3, Hoi Nghia Ward, TX. Tan Uyen, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0366007747"
+      },
+      {
+        "area": "East",
+        "address": "No. 268 30/4 Street, Chanh Nghia Ward, City. Thu Dau Mot, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0785800127"
+      },
+      {
+        "area": "East",
+        "address": "No. 69 Vo Thi Sau, Ward 4, City. Tay Ninh, Tay Ninh Province",
+        "district": "Tay Ninh Province",
+        "phone": "02763647979"
+      },
+      {
+        "area": "East",
+        "address": "No. 451 Cach Mang Thang Tam, Ward 3, City. Tay Ninh, Tay Ninh Province",
+        "district": "Tay Ninh Province",
+        "phone": "02763627979"
+      },
+      {
+        "area": "East",
+        "address": "No. 289 30/4 Street, KP1, Ward 1, City. Tay Ninh, Tay Ninh Province",
+        "district": "Tay Ninh Province",
+        "phone": "02763827979"
+      },
+      {
+        "area": "East",
+        "address": "Cell 35, DC 29B, Road D1, Viet Sing KDC, Phu Ward, City. Thuan An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "02746561112"
+      },
+      {
+        "area": "East",
+        "address": "Cell 35, DC 29B, Road D1, Viet Sing KDC, Phu Ward, City. Thuan An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "02743800887"
+      },
+      {
+        "area": "East",
+        "address": "No. 260 Hung Vuong, TT. Gia Ray, Xuan Loc District, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02513743466"
+      },
+      {
+        "area": "East",
+        "address": "No. 667 Vo Van Kiet, Long Tam Ward, City. Ba Ria, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "0988945637"
+      },
+      {
+        "area": "East",
+        "address": "No. 15/4 Bui Trong Nghia, Trang Dai Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02513997399"
+      },
+      {
+        "area": "East",
+        "address": "No. 471 Cach Mang Thang Tam, Phu Cuong Ward, City. Thu Dau Mot, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "02743818802"
+      },
+      {
+        "area": "East",
+        "address": "B1C Dong Khoi Street, Tan Hiep Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02518878678"
+      },
+      {
+        "area": "East",
+        "address": "Kiosk No. 14 Nguyen Huu Canh, Thang Nhat Ward, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "02543513900"
+      },
+      {
+        "area": "East",
+        "address": "No. 436 Phung Hung, Group 8, Long Duc 3 Hamlet, Tam Phuoc Commune, City. Bien Hoa Dong Nai",
+        "district": "Dong Nai Province",
+        "phone": "0989509029"
+      },
+      {
+        "area": "East",
+        "address": "No. 43/11 Long Diem Ward, Long Binh Tan Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02513933099"
+      },
+      {
+        "area": "East",
+        "address": "Plot 2191, Map sheet 9 TDH.4, (6 Le Hong Phong) Dong Thanh Ward, Tan Dong Hiep Ward, Town. Di An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "02746261286"
+      },
+      {
+        "area": "East",
+        "address": "Number DT746 Group 3, Quarter 2, TT. Uyen Hung, Tan Uyen Dist., Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "02743686787"
+      },
+      {
+        "area": "East",
+        "address": "No. 821 Phu Rieng Do, Tan Binh Ward, City. Dong Xoai, Binh Phuoc Province",
+        "district": "Binh Phuoc Province",
+        "phone": "02712468555"
+      },
+      {
+        "area": "East",
+        "address": "No. 713 Truong Cong Dinh, Ward 9, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "02546250336"
+      },
+      {
+        "area": "East",
+        "address": "No. 7/39B Binh Duong Boulevard, KP. Binh Duc, Binh Hoa Ward, Town. Thuan An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0904275913"
+      },
+      {
+        "area": "East",
+        "address": "No. 122-124 30/4 Street, Quyet Thang Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02513917878"
+      },
+      {
+        "area": "East",
+        "address": "No. 134 Ton That Tung, Tan Hanh Ward, Phu My Ward, Phu My Town, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "0937863279"
+      },
+      {
+        "area": "East",
+        "address": "No. 98 Nguyen Van Tien, Group 38, Ward 9, Tan Phong Ward, Bien Hoa City, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0988664951"
+      },
+      {
+        "area": "East",
+        "address": "No. 74B Cach Mang Thang Tam, Quang Vinh Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02516516851"
+      },
+      {
+        "area": "East",
+        "address": "No. A2/219 Bui Huu Nghia, Tan Van Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0844839779"
+      },
+      {
+        "area": "East",
+        "address": "No. 26 Nguyen Van Hoa, Thong Nhat Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0844839779"
+      },
+      {
+        "area": "East",
+        "address": "No. 577 Dien Bien Phu, Ninh Thanh Ward, City. Tay Ninh, Tay Ninh Province",
+        "district": "Tay Ninh Province",
+        "phone": "02763816916"
+      },
+      {
+        "area": "East",
+        "address": "No. 78 Ha Huy Giap Street, Quyet Thang Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0916483648"
+      },
+      {
+        "area": "East",
+        "address": "No. 38, 18/9 Street, TT. Phuoc Vinh, Phu Giao District, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0919273669"
+      },
+      {
+        "area": "East",
+        "address": "No. 65 NC Road, Dong So Hamlet, TT. Lai Uyen, Bau Bang District, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0919273669"
+      },
+      {
+        "area": "East",
+        "address": "No. 240 Thong Nhat, Ward 8, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "0907741985"
+      },
+      {
+        "area": "East",
+        "address": "No. 863 Street 30/4, Ward 11, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "02543838917"
+      },
+      {
+        "area": "East",
+        "address": "No. 89B1 Nguyen Van Troi, Ward 4, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "02546288788"
+      },
+      {
+        "area": "East",
+        "address": "No. 57 Nguyen An Ninh, Thang Nhi Ward, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "0932228501"
+      },
+      {
+        "area": "East",
+        "address": "No. 277 Le Hong Phong, Phu Hoa Ward, City. Thu Dau Mot, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "02742242555"
+      },
+      {
+        "area": "East",
+        "address": "No. 1017 Provincial Road 768, Hamlet 5, Thanh Phu Commune, Vinh Cuu District, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0902739799"
+      },
+      {
+        "area": "East",
+        "address": "No. 52/2 Nguyen Ai Quoc, Ward 1, Ho Nai Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0948201048"
+      },
+      {
+        "area": "East",
+        "address": "No. 1347 Bui Van Hoa, Ward 7, Long Binh Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0985195518"
+      },
+      {
+        "area": "East",
+        "address": "No. 288 National Highway 782, Phuoc Duc A Hamlet, Phuoc Dong Commune, Go Dau District, Tay Ninh Province",
+        "district": "Tay Ninh Province",
+        "phone": "0889700777"
+      },
+      {
+        "area": "East",
+        "address": "No. 139, 29/4 street, Group 1A, Ward 5, TT. Trang Bom, Trang Bom Dist., Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0366691032"
+      },
+      {
+        "area": "East",
+        "address": "No. 145/11 Pham Van Thuan, Tam Hiep Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02513811322"
+      },
+      {
+        "area": "East",
+        "address": "No. D1-219 Chi Linh Urban Center, Nguyen An Ninh Ward, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "02546500111"
+      },
+      {
+        "area": "East",
+        "address": "No. 116 Tran Phu KP3, Xuan An Ward, City. Long Khanh, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0931270993"
+      },
+      {
+        "area": "East",
+        "address": "No. 96 Nguyen Ai Quoc, Ward3, Tan Tien Ward, TP. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0853836668"
+      },
+      {
+        "area": "East",
+        "address": "No. 6 Ly Thuong Kiet, Di An Ward, TX. Di An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "02743795995"
+      },
+      {
+        "area": "East",
+        "address": "No. 123 Tran Hung Dao, KP. Tay A, Dong Hoa Ward, City. Di An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0918227181"
+      },
+      {
+        "area": "East",
+        "address": "No. 366 KP1, TT. Go Dau, Go Dau District, Tay Ninh Province",
+        "district": "Tay Ninh Province",
+        "phone": "0913955278"
+      },
+      {
+        "area": "East",
+        "address": "No. 173 National Highway 22, KP. Loc An, TT. Trang Bang, Trang Bang Dist., Tay Ninh Province",
+        "district": "Tay Ninh Province",
+        "phone": "0913955278"
+      },
+      {
+        "area": "East",
+        "address": "121 Tay Lac, An Chu Hamlet, Bac Son Commune, Trang Bom District, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0977009083"
+      },
+      {
+        "area": "East",
+        "address": "No. 2 Nguyen Ai Quoc, Tan Bien Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "02513887041"
+      },
+      {
+        "area": "East",
+        "address": "No. 1A, Group 17A1, KP2, Vu Hong Pho Street, Binh Da Ward ,Bien Hoa City, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0359677101"
+      },
+      {
+        "area": "East",
+        "address": "No. D1-219 Chi Linh Urban Center, Nguyen An Ninh Ward, City. Vung Tau, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "0974570633/02546500111"
+      },
+      {
+        "area": "East",
+        "address": "Trang Cat Market, Vo Van Kiet Street, KP. Suoi Nhum, Hac Dich Ward, TX. Phu My, Ba Ria - Vung Tau Province",
+        "district": "Ba Ria - Vung Tau Province",
+        "phone": "0923046133"
+      },
+      {
+        "area": "East",
+        "address": "No. 52 Vo Thi Sau, Ward 4, Thong Nhat Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0857836668"
+      },
+      {
+        "area": "East",
+        "address": "No. 111 Street 643, Hanoi Highway, Long Binh Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0937601906"
+      },
+      {
+        "area": "East",
+        "address": "No. 05/16A Nguyen Thi Minh Khai, Tan Dong Hiep Ward, City. Di An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0914356419"
+      },
+      {
+        "area": "East",
+        "address": "No. 50, Road No. 10, Hiep Thanh III Residential Area, City. Thu Dau Mot, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0987877143"
+      },
+      {
+        "area": "East",
+        "address": "No. 114 Phan Dinh Phung, Quang Vinh Ward, City. Bien Hoa, Dong Nai Province",
+        "district": "Dong Nai Province",
+        "phone": "0948201048"
+      },
+      {
+        "area": "East",
+        "address": "No. 81/4 Thủ Khoa Huan, KP. Binh Phuoc A, Binh Chuan Ward, City. Thuan An, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0989206551"
+      },
+      {
+        "area": "East",
+        "address": "No. 42 XC6 Street, Quarter 4, My Phuoc Ward, Ben Cat Town, Binh Duong Province",
+        "district": "Binh Duong Province",
+        "phone": "0976161141"
+      },
+      {
+        "area": "West",
+        "address": "No. 428 Nguyen Thi Thap, Ward 6, City. My Tho, Tien Giang Province",
+        "district": "Tien Giang Province",
+        "phone": "02733888776"
+      },
+      {
+        "area": "West",
+        "address": "No. 296 Dinh Bo Linh, Ward 2, City. My Tho, Tien Giang Province",
+        "district": "Tien Giang Province",
+        "phone": "0981381198"
+      },
+      {
+        "area": "West",
+        "address": "No. 16 Ap Bac, Ward 4, City. My Tho, Tien Giang Province",
+        "district": "Tien Giang Province",
+        "phone": "02733874884"
+      },
+      {
+        "area": "West",
+        "address": "No. 202 Vinh Thanh Hamlet, Vinh Kim Ward, Chau Thanh District, Tien Giang Province",
+        "district": "Tien Giang Province",
+        "phone": "02733610266"
+      },
+      {
+        "area": "West",
+        "address": "Road TL876, Binh Phu Hamlet, Binh Trung Ward, Chau Thanh District, Tien Giang Province",
+        "district": "Tien Giang Province",
+        "phone": "02733633015"
+      },
+      {
+        "area": "West",
+        "address": "No. 7 Rach Gam, Ward 1, City. My Tho, Tien Giang Province",
+        "district": "Tien Giang Province",
+        "phone": "02733878828"
+      },
+      {
+        "area": "West",
+        "address": "No. 90 Nguyen Chi Thanh, Tra Noc Ward, Binh Thuy District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0866518068"
+      },
+      {
+        "area": "West",
+        "address": "No. 36/50 Tran Viet Chau, An Hoa Ward, Ninh Kieu District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "02923627788"
+      },
+      {
+        "area": "West",
+        "address": "Lot LK2-22, Urban Area 2 sides of Nguyen Van Cu Street, An Binh Ward, Ninh Kieu District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "02923789009"
+      },
+      {
+        "area": "West",
+        "address": "No. 38 - 39, Block 5A, Commercial Area, Phong Dien District, TT. Phong Dien, Phong Dien Ward, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0948999006"
+      },
+      {
+        "area": "West",
+        "address": "No. 9/8B Le Hong Phong, Tra Noc Ward, Binh Thuy District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0862764168"
+      },
+      {
+        "area": "West",
+        "address": "No. 100 Mau Than, Anh Phu Ward, Ninh Kieu District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "08990300222"
+      },
+      {
+        "area": "West",
+        "address": "No. 16 Thien Ho Duong, Ward 4, City. Cao Lanh, Dong Thap Province",
+        "district": "Dong Thap Province",
+        "phone": "0949999210"
+      },
+      {
+        "area": "West",
+        "address": "No. 17 Pham Thai Buong, Hamlet 2, Ward 3, City. Tra Vinh, Tra Vinh Province.",
+        "district": "Tra Vinh Province",
+        "phone": "0919897687"
+      },
+      {
+        "area": "West",
+        "address": "No. 70 Ly Tu Trong, An Cu Ward, Ninh Kieu District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "02926506555"
+      },
+      {
+        "area": "West",
+        "address": "No. 179-181 Pham Thai Buong, Ward 4, City. Vinh Long, Vinh Long Province",
+        "district": "Vinh Long Province",
+        "phone": "02703852853"
+      },
+      {
+        "area": "West",
+        "address": "No. 94 Ly Thuong Kiet, Ward 7, City. Ca Mau, Ca Mau Province",
+        "district": "Ca Mau Province",
+        "phone": "02903534999"
+      },
+      {
+        "area": "West",
+        "address": "No. 277 Le Hong Phong, Ward 3, City. Soc Trang, Soc Trang Province",
+        "district": "Soc Trang Province",
+        "phone": "02992495595"
+      },
+      {
+        "area": "West",
+        "address": "No. 176 30/4 Street, Ward 1, TT. Duong Dong, Dist. Phu Quoc, Kien Giang Province",
+        "district": "Kien Giang Province",
+        "phone": "0919828877"
+      },
+      {
+        "area": "West",
+        "address": "No. 373B Nguyen Trung Truc, TT. Duong Dong, Dist. Phu Quoc, Kien Giang Province",
+        "district": "Kien Giang Province",
+        "phone": "02973995999"
+      },
+      {
+        "area": "West",
+        "address": "No. 90 Nguyen Hue, Nga Bay Ward, TX. Crossroads, Hau Giang Province",
+        "district": "Hau Giang Province",
+        "phone": "0939498687"
+      },
+      {
+        "area": "West",
+        "address": "No. 372/14 Nguyen Van Cu extension, An Khanh Ward, Ninh Kieu District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0907763283"
+      },
+      {
+        "area": "West",
+        "address": "No. 10 Nguyen Van Troi, Ward 1, City. Soc Trang, Soc Trang Province",
+        "district": "Soc Trang Province",
+        "phone": "02993822111"
+      },
+      {
+        "area": "West",
+        "address": "L5-C19 Rach Soi Shopping Center, Mai Thi Hong Hanh, Rach Soi Ward, City. Rach Gia, Kien Giang Province",
+        "district": "Kien Giang Province",
+        "phone": "02973799929"
+      },
+      {
+        "area": "West",
+        "address": "No. 64A Le Loi, Ward 4, City. Tra Vinh, Tra Vinh Province",
+        "district": "Tra Vinh Province",
+        "phone": "0919897687"
+      },
+      {
+        "area": "West",
+        "address": "No. 692 Phan Van Nam, Hamlet 1, Cai Von Ward, Town. Binh Minh, Vinh Long",
+        "district": "Vinh Long Province",
+        "phone": "0931930405"
+      },
+      {
+        "area": "West",
+        "address": "No. 89 Nguyen Thi Minh Khai, Ward 7, City. Tra Vinh, Tra Vinh Province",
+        "district": "Tra Vinh Province",
+        "phone": "0919897687"
+      },
+      {
+        "area": "West",
+        "address": "No. 444, Block 1, Lai Vung Town, Lai Vung District, Dong Thap Province",
+        "district": "Dong Thap Province",
+        "phone": "02773954899"
+      },
+      {
+        "area": "West",
+        "address": "No. A18 Hung Vuong, Ward 2, City. Sa Dec, Dong Thap Province",
+        "district": "Dong Thap Province",
+        "phone": "02773775858"
+      },
+      {
+        "area": "West",
+        "address": "No. 16 Nguyen Trung Truc, Vinh Bao Ward, City. Rach Gia, Kien Giang Province",
+        "district": "Kien Giang Province",
+        "phone": "02976553939"
+      },
+      {
+        "area": "West",
+        "address": "Residential Area 586 - G8 - 66 Bui Quang Trinh, Phu Thu Ward, Cai Rang District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0866192068"
+      },
+      {
+        "area": "West",
+        "address": "San Ha Supermarket - Hamlet 4, Phuoc Loi Ward, Ben Luc District, Long An Province",
+        "district": "Long An Province",
+        "phone": "02726270369"
+      },
+      {
+        "area": "West",
+        "address": "No. 174 Le Hong Phong, Tra Noc Ward, Binh Thuy District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0901033688"
+      },
+      {
+        "area": "West",
+        "address": "No. 36 National Highway 61, Tan Phu Hamlet, TT. Cai Tac, Ward Chau Thanh A, Hau Giang Province",
+        "district": "Hau Giang Province",
+        "phone": "07968699125"
+      },
+      {
+        "area": "West",
+        "address": "No. 54 Tran Chien, Le Binh Ward, Cai Rang District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0939578488"
+      },
+      {
+        "area": "West",
+        "address": "Tay Hoa Hamlet, Song Thuan Ward, Chau Thanh District, Tien Giang Province",
+        "district": "Tien Giang Province",
+        "phone": "0903159331"
+      },
+      {
+        "area": "West",
+        "address": "No. 485 Nguyen Trung Truc, Vinh Lac Ward, City. Rach Gia, Kien Giang Province",
+        "district": "Kien Giang Province",
+        "phone": "0963853145"
+      },
+      {
+        "area": "West",
+        "address": "No. 71 Le Hong Phong, TT. Sap Mountain, Thoai Son District, An Giang Province",
+        "district": "An Giang Province",
+        "phone": "0943917766"
+      },
+      {
+        "area": "West",
+        "address": "No. 301F/4 Nguyen Van Linh, KV4, An Khanh Ward, Ninh Kieu District, City. Can Tho",
+        "district": "Can Tho City",
+        "phone": "0834908866"
+      },
+      {
+        "area": "West",
+        "address": "No. 16 Tran Hoang Na, An Khanh Ward, Ninh Kieu District, Can Tho City",
+        "district": "Can Tho City",
+        "phone": "0899300899"
+      }
+    ]
+  }
+}

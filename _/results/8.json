@@ -1,0 +1,570 @@
+{
+  "type": "Feature",
+  "name": "piaggio",
+  "POI:Category": "",
+  "store_url": "https://www.piaggio.com/vn_VI/dealer-locator/?f=all",
+  "website": "https://www.piaggio.com",
+  "properties": {
+    "attributes": [
+      {
+        "name": "Piaggio Anh Khoa - Pleiku",
+        "distance": "30.82 km",
+        "address": "167 Hùng Vương, P.Hội Thương, ",
+        "phone": "0976717777"
+      },
+      {
+        "name": "Piaggio Anh Khoa - Kon Tum",
+        "distance": "44.07 km",
+        "address": "108D (số cũ) Lê Hồng Phong-TP Kon T, ",
+        "phone": "0976717777"
+      },
+      {
+        "name": "Piaggio Phát Tiến",
+        "distance": "106.49 km",
+        "address": "600 Trần Hưng Đạo - P.Thị Nại - TP., ",
+        "phone": "0563828679"
+      },
+      {
+        "name": "Piaggio Xuân Thoại",
+        "distance": "155.38 km",
+        "address": "359 Lê Lợi, P,, TP Tuy Hòa, ",
+        "phone": "0573 889888"
+      },
+      {
+        "name": "Piaggio Trang Lê - Quảng Nam",
+        "distance": "170.45 km",
+        "address": "136 Phan Bội Châu - P.Tân Thạnh, ",
+        "phone": "0913466252"
+      },
+      {
+        "name": "Piaggio Ngọc Thanh",
+        "distance": "196.92 km",
+        "address": "Số 47 Trần Quý Cáp, Phường Ninh Hiệ, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Trang Lê - Đà Nẵng",
+        "distance": "223.85 km",
+        "address": "13-15 Hùng Vương,phường Hải Châu 1,, ",
+        "phone": "0511 3830159"
+      },
+      {
+        "name": "Piaggio Hoàng Vân",
+        "distance": "224.18 km",
+        "address": "Số 10 Quang Trung,TP Nha Trang, ",
+        "phone": "0983700017"
+      },
+      {
+        "name": "Piaggio Ngọc Thanh",
+        "distance": "224.73 km",
+        "address": "92 Quang Trung, Phường Lộc Thọ, ",
+        "phone": ""
+      },
+      {
+        "name": "Công ty TNHH Đồng Motor",
+        "distance": "234.91 km",
+        "address": "Số 336 Đường Hai Bà Trưng, Phường 6, ",
+        "phone": ""
+      },
+      {
+        "name": "Công ty TNHH Lai Hương 2",
+        "distance": "237.50 km",
+        "address": "Số 74, Huỳnh Thúc Kháng, P. Nghĩa T, ",
+        "phone": ""
+      },
+      {
+        "name": "Doanh Nghiệp Tư Nhân TM Ngọc Thanh",
+        "distance": "256.28 km",
+        "address": "Số 2381, Đại lộ Hùng Vương, P. Cam, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Nhật Huy Anh",
+        "distance": "260.20 km",
+        "address": "Số 304 Thống Nhất, Thị trấn Liên Ng, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Thảo Ái - Huế",
+        "distance": "277.20 km",
+        "address": "56 Nguyễn Huệ, Phường Vĩnh Ninh, Th, ",
+        "phone": "0543 987777"
+      },
+      {
+        "name": "Piaggio Bảo Tín",
+        "distance": "283.85 km",
+        "address": "20-21 Nguyễn Công Trứ,phường 1,TP B, ",
+        "phone": "0909990777"
+      },
+      {
+        "name": "Piaggio Thảo Ái - Tỉnh Quảng Trị",
+        "distance": "331.38 km",
+        "address": "303 Lê Duẩn,P.Đông Lễ, TP Đông Hà, ",
+        "phone": "0533551111"
+      },
+      {
+        "name": "Piaggio Trung Thành Trí",
+        "distance": "349.01 km",
+        "address": "419 Trần Hưng Đạo, P.Bình Hưng, TP, ",
+        "phone": "062 3835036"
+      },
+      {
+        "name": "Công ty TNHH Thương mại Long Thành Đạt",
+        "distance": "391.15 km",
+        "address": "633 Lê Văn Việt, P.Tân Phú, Quận 9, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Công Thành SG - Quận Thủ Đức",
+        "distance": "393.02 km",
+        "address": "87A Võ Văn Ngân,tổ 30, khu phố 2,P., ",
+        "phone": "0837225340"
+      },
+      {
+        "name": "Piaggio Sapa - Quận Gò Vấp",
+        "distance": "399.41 km",
+        "address": "Số 1 Quang Trung, P.3, Q.Gò Vấp, ",
+        "phone": "0838941771"
+      },
+      {
+        "name": "Piaggio Motor Miền Nam",
+        "distance": "399.47 km",
+        "address": "52 Tô Ký, P. Đông Hưng Thuận, Q.12, ",
+        "phone": "0828 598 698"
+      },
+      {
+        "name": "Piaggio Sapa - Quận Bình Thạnh",
+        "distance": "400.74 km",
+        "address": "239-245 Điện Biên Phủ,P15,BìnhThạnh, ",
+        "phone": "0835126337"
+      },
+      {
+        "name": "Piaggio Xuân Cầu SG - Quận Phú Nhuận",
+        "distance": "401.99 km",
+        "address": "177 Phan Đăng Lưu, P1, Q.Phú Nhuận, ",
+        "phone": "0839959716"
+      },
+      {
+        "name": "PiaggioTopcom Saigon - Quận Phú Nhuận",
+        "distance": "402.83 km",
+        "address": "133 Nguyễn Văn Trỗi, P12, Phú Nhuận, ",
+        "phone": "0839977576"
+      },
+      {
+        "name": "PiaggioTopcom Saigon - Quận 3",
+        "distance": "403.05 km",
+        "address": "211 Nam Kỳ Khởi Nghĩa, P7, Quận 3, ",
+        "phone": "083 9321836"
+      },
+      {
+        "name": "Motoplex Sai Gon",
+        "distance": "403.52 km",
+        "address": "223-233 Cộng Hòa, Phường 13,  Q.Tân, ",
+        "phone": "0888000586"
+      },
+      {
+        "name": "PiaggioTopcom Saigon - Quận 10",
+        "distance": "404.21 km",
+        "address": "447-449-451 CMT8,  p13 quận 10, ",
+        "phone": "0838622518"
+      },
+      {
+        "name": "PiaggioTopcom Saigon - Quận 3",
+        "distance": "404.31 km",
+        "address": "408 Nguyễn Thị Minh Khai, P5, Q3, ",
+        "phone": "083 929 3915"
+      },
+      {
+        "name": "Piaggio Sapa - Quận 10",
+        "distance": "406.00 km",
+        "address": "531-533, đường 3/2, P8, Quận 10, ",
+        "phone": "0838550095"
+      },
+      {
+        "name": "Piaggio Topcom SG - Quận 1",
+        "distance": "406.18 km",
+        "address": "318 Trần Hưng Đạo,P.Nguyễn Cư Trinh, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Sapa - Quận 7",
+        "distance": "406.85 km",
+        "address": "372-374 Nguyễn Thị Thập,P.Tân Quy, ",
+        "phone": "0838425154"
+      },
+      {
+        "name": "Piaggio Đức Minh",
+        "distance": "432.43 km",
+        "address": "224-226 Ba Cu, P3, TP. Vũng Tàu, ",
+        "phone": "0643530523"
+      },
+      {
+        "name": "Piaggio Dũng Phong",
+        "distance": "441.26 km",
+        "address": "37 Trương Định - Phường 2 - TP.Tân, ",
+        "phone": "0913876140"
+      },
+      {
+        "name": "Công ty TNHH Một thành viên Ngọc Thanh 1",
+        "distance": "441.28 km",
+        "address": "Tổ 13, KP Núi Tung, Quốc lộ 1A, P.S, ",
+        "phone": "0933 190 793"
+      },
+      {
+        "name": "Piaggio Mitexco",
+        "distance": "461.30 km",
+        "address": "184 Ấp Bắc, P5, TP.Mỹ Tho, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Vạn Thái",
+        "distance": "473.51 km",
+        "address": "295B Nguyễn Văn Tư, P.5, Bến Tre, ",
+        "phone": "0753 824838"
+      },
+      {
+        "name": "Piaggio Tân Kiều",
+        "distance": "493.30 km",
+        "address": "Số 45 Nguyễn Huệ, phường 1, ",
+        "phone": "067 3853119"
+      },
+      {
+        "name": "Piaggio Toàn Thắng",
+        "distance": "493.52 km",
+        "address": "Số 122 đường Nguyễn Huệ, phường 2, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Thập Nhất Phong",
+        "distance": "513.66 km",
+        "address": "20/9 Trần Hưng Đạo, Phường Mỹ Quý,, ",
+        "phone": "0914390699"
+      },
+      {
+        "name": "Piaggio Minh Hồng Phúc",
+        "distance": "522.71 km",
+        "address": "109 CMTT, P. An Hòa, Q. Ninh Kiều, ",
+        "phone": "07103760 919"
+      },
+      {
+        "name": "Piaggio Nhật Bách",
+        "distance": "585.08 km",
+        "address": "58 Lê Lợi - Phường Hưng Bình - TP V, ",
+        "phone": "0383799699"
+      },
+      {
+        "name": "Piaggio Vinh Thủy",
+        "distance": "732.73 km",
+        "address": "Số 54, Đường Đinh Tiên Hoàng, Phố 3, ",
+        "phone": "030 3871567"
+      },
+      {
+        "name": "Piaggio Hoàn Long",
+        "distance": "739.85 km",
+        "address": "Số 191 phố Quang Trung,phường Quang, ",
+        "phone": "0363831678"
+      },
+      {
+        "name": "Piaggio Thắng Thủy",
+        "distance": "743.67 km",
+        "address": "Số 79 phố Thành Chung,phường Cửa Bắ, ",
+        "phone": "03503837902"
+      },
+      {
+        "name": "Piaggio Lợi Mận",
+        "distance": "771.98 km",
+        "address": "528 Nguyễn Văn Linh,phường Hiến Nam, ",
+        "phone": "0321 3556 677"
+      },
+      {
+        "name": "Piaggio Xuân Cầu_TP Hạ Long",
+        "distance": "777.95 km",
+        "address": "219-221-223 Nguyễn Văn Cừ, ",
+        "phone": "02036251556"
+      },
+      {
+        "name": "Piaggio Vạn Hoa",
+        "distance": "793.82 km",
+        "address": "01 Ngô Quyền, P. Phạm Ngũ Lão, ",
+        "phone": ""
+      },
+      {
+        "name": "Công ty Cổ phần FMG Mobility",
+        "distance": "815.76 km",
+        "address": "Diện tích DV1 tầng1 tòaD1,dự án Nor, ",
+        "phone": ""
+      },
+      {
+        "name": "Công ty TNHH Xuân Cầu",
+        "distance": "816.19 km",
+        "address": "69 Trần Xuân Soạn, P.Ngô Thì Nhậm, ",
+        "phone": "0439270641"
+      },
+      {
+        "name": "Piaggio Xuân Cầu Hà nội - Quận Thanh Xuâ",
+        "distance": "816.43 km",
+        "address": "68 Lê Văn Lương,P.Nhân Chính, ",
+        "phone": "04 3553 9886"
+      },
+      {
+        "name": "Piaggio Topcom Hanoi - Quận Hai Bà Trưng",
+        "distance": "816.59 km",
+        "address": "231 Lê Duẩn, Nguyễn Du, ",
+        "phone": "0439427953"
+      },
+      {
+        "name": "Piaggio Topcom Hanoi - Quận Đống Đa",
+        "distance": "817.39 km",
+        "address": "310 Tây Sơn,P.Ngã Tư Sở,Đống Đa, ",
+        "phone": "0435381391"
+      },
+      {
+        "name": "Piaggio Topcom Hanoi - Quận Long Biên",
+        "distance": "817.83 km",
+        "address": "323 Nguyễn Văn Cừ,P.Ngọc Lâm,Long B, ",
+        "phone": "043 873 6485"
+      },
+      {
+        "name": "Piaggio Xuân Cầu Hà nội 2S - Quận HK",
+        "distance": "818.80 km",
+        "address": "8 Hàng Đậu, Hoàn Kiếm, ",
+        "phone": "0439270641"
+      },
+      {
+        "name": "Chi nhánh II-Công ty TNHH Mùa Xuân",
+        "distance": "819.05 km",
+        "address": "84 Quán Thánh, Ba Đình, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Tràng An",
+        "distance": "832.37 km",
+        "address": "Lô L4, đường Hùng Vương, ",
+        "phone": "0913258066"
+      },
+      {
+        "name": "Piaggio Phúc Thắng - Vĩnh Phúc",
+        "distance": "854.34 km",
+        "address": "Số 424 đường Mê Linh, P.Khai Quang, ",
+        "phone": "0912905837"
+      },
+      {
+        "name": "CÔNG TY TNHH ĐẦU TƯ HƯNG PHÁT",
+        "distance": "865.75 km",
+        "address": "Số 2470 Đường Hùng Vương,P.Vân Cơ, ",
+        "phone": "0210 3818 216"
+      },
+      {
+        "name": "Piaggio Trần Minh",
+        "distance": "878.52 km",
+        "address": "số 147 đường Lương Ngọc Quyến,phườn, ",
+        "phone": "02803855550"
+      },
+      {
+        "name": "Công ty TNHH MTV TM Oanh Khang",
+        "distance": "922.42 km",
+        "address": "Số nhà 81, đường Bình Thuận, tổ 12,, ",
+        "phone": "0913339246"
+      },
+      {
+        "name": "Piaggio TQH",
+        "distance": "932.89 km",
+        "address": "Số 222,Đường Tô Hiệu,Tổ 6,P.Tô Hiệu, ",
+        "phone": "0223 753533"
+      },
+      {
+        "name": "Piaggio Lĩnh",
+        "distance": "40.83 km",
+        "address": "778B Quang Trung, Tây Sơn, An Khê, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Tân Hoàn Phước",
+        "distance": "131.25 km",
+        "address": "83 Trần Hưng Đạo - TP.Quảng Ngãi, ",
+        "phone": "0553727479"
+      },
+      {
+        "name": "Piaggio Mai Tiến Phát",
+        "distance": "151.75 km",
+        "address": "59-61-63 Nguyễn Tất Thành,P.Tân An, ",
+        "phone": "05003954994"
+      },
+      {
+        "name": "Piaggio Phát Thịnh",
+        "distance": "288.63 km",
+        "address": "353 Ngô Gia Tự, P.Tấn Tài, ",
+        "phone": "0683825226"
+      },
+      {
+        "name": "Piaggio Tuấn Giang",
+        "distance": "318.65 km",
+        "address": "880-882 Đ.Phú Riềng Đỏ,KP TânTi, ",
+        "phone": "0651 393 9379"
+      },
+      {
+        "name": "Công ty TNHH Ri Ta Võ",
+        "distance": "378.94 km",
+        "address": "327 Xa Lộ Hà Nội,khu phố 4,Phường A, ",
+        "phone": "0837442266"
+      },
+      {
+        "name": "Piaggio Rita Võ",
+        "distance": "378.94 km",
+        "address": "588 Phạm Văn Thuận,KP 5,P.Tam Hiệp, ",
+        "phone": "0613 811788"
+      },
+      {
+        "name": "Piaggio Công Thành DN - TP. Biên Hòa",
+        "distance": "379.74 km",
+        "address": "108/1A Nguyễn Ái Quốc, khu phố 3, p, ",
+        "phone": "0942699494"
+      },
+      {
+        "name": "Piaggio Công Thành BD - TP. Thủ Dầu Một",
+        "distance": "383.78 km",
+        "address": "377 Đại Lộ Bình Dương,P.Chánh Nghĩa, ",
+        "phone": "0941788111"
+      },
+      {
+        "name": "Piaggio Khương Huê",
+        "distance": "386.20 km",
+        "address": "582 Cách Mạng Tháng Tám, Phường 3, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Công Thành BD - TP. Dĩ An",
+        "distance": "389.80 km",
+        "address": "13/32, Khu phố Bình Minh 2, P.Dĩ An, ",
+        "phone": "0889715333"
+      },
+      {
+        "name": "Piaggio Thiên Kim",
+        "distance": "392.46 km",
+        "address": "Lô A5, Phố Chợ Mới, Khu Cầu Xéo, ",
+        "phone": "061352494"
+      },
+      {
+        "name": "Piaggio Khương Huê",
+        "distance": "395.06 km",
+        "address": "Số 243 quốc lộ 22B, khu phố Rạch Sơ, ",
+        "phone": "0903 729639"
+      },
+      {
+        "name": "Piaggio Quốc Tế",
+        "distance": "397.36 km",
+        "address": "572-574-576 Nguyễn Oanh, Phường 6,, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Sapa - Quận 2",
+        "distance": "399.63 km",
+        "address": "Số 3, Quốc Hương, Thảo Điền, quận 2, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Sang Trọng",
+        "distance": "404.25 km",
+        "address": "429 Lê Trọng Tấn, P.Sơn Kỳ, Q.Tân P, ",
+        "phone": "0979358358"
+      },
+      {
+        "name": "Piaggio Sapa - Quận 6",
+        "distance": "409.64 km",
+        "address": "131 Kinh Dương Vương, P.12, Quận 6, ",
+        "phone": "(028) 38778855"
+      },
+      {
+        "name": "Piaggio Linh Hoàng Thịnh",
+        "distance": "414.75 km",
+        "address": "1215C Bạch Đằng, P. Phước Trung,, ",
+        "phone": "0646506506"
+      },
+      {
+        "name": "Piaggio Ninh Hải - TP.Đồng Hới",
+        "distance": "419.21 km",
+        "address": "276 Trần Hưng Đạo - TP.Đồng Hới, ",
+        "phone": "0523796868"
+      },
+      {
+        "name": "Piaggio Vạn Thái - Bến Tre",
+        "distance": "471.56 km",
+        "address": "Số 500A1, Đại lộ Đồng Khởi, P.Phú T, ",
+        "phone": "(02753) 766 789"
+      },
+      {
+        "name": "Piaggio Bảy Chi",
+        "distance": "506.39 km",
+        "address": "244 Nguyễn Thị Minh Khai - Khóm 6, ",
+        "phone": "0743 740 229"
+      },
+      {
+        "name": "Piaggio Loan Thanh Bình",
+        "distance": "518.52 km",
+        "address": "73A Nguyễn Văn Thảnh, Tổ 6 Khóm 2, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Kim Điệp",
+        "distance": "569.79 km",
+        "address": "434 Nguyễn Trung Trực, P.Vĩnh Lạc, ",
+        "phone": "0773 777888"
+      },
+      {
+        "name": "Công ty TNHH Thương Mại Minh Tâm",
+        "distance": "693.13 km",
+        "address": "96A Lê Hoàn, Phường Lam Sơn, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Vạn Phong",
+        "distance": "775.51 km",
+        "address": "92 Trần Phú, P. Lương Khánh Thiện, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Mê Linh",
+        "distance": "776.30 km",
+        "address": "4 Hoàng Diệu, P.Minh Khai,, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Xuân Cầu Hà nội - Quận Hoàng Mai",
+        "distance": "812.30 km",
+        "address": "461 Trương Định, Tân Mai,Q.Hoàng Ma, ",
+        "phone": ""
+      },
+      {
+        "name": "Công ty TNHH Thương Mại Minh Tâm",
+        "distance": "814.45 km",
+        "address": "129 Trần Phú, Phường Văn Quán,, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Xuân Cầu Hà nội 1S - Quận HBT",
+        "distance": "816.41 km",
+        "address": "124 Bà Triệu, P. Nguyễn Du,Q.HBT, ",
+        "phone": "04 3945 4845"
+      },
+      {
+        "name": "Công ty TNHH Xuân Cầu",
+        "distance": "816.43 km",
+        "address": "221-223-225 Lý Tự Trọng,P.Bến Thành, ",
+        "phone": "08 3829 4844"
+      },
+      {
+        "name": "Piaggio Topcom Hanoi - Quận Cầu Giấy",
+        "distance": "817.39 km",
+        "address": "299 Cầu Giấy, ",
+        "phone": ""
+      },
+      {
+        "name": "Piaggio Đông Lý",
+        "distance": "832.24 km",
+        "address": "02-04 Hùng Vương, phường Trần Phú,, ",
+        "phone": ""
+      }
+    ]
+  },
+  "item_scraped_count": 93
+}

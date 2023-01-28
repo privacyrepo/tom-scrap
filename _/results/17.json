@@ -1,0 +1,786 @@
+{
+  "type": "Feature",
+  "name": "vinaphone",
+  "POI:Category": "",
+  "store_url": "https://shop.vnpt.vn/diem-giao-dich.html",
+  "website": "https://shop.vnpt.vn",
+  "properties": {
+    "entities": [
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch Thành phố Long Xuyên",
+        "phone": "02963855856",
+        "address": "2 Lê Lợi",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch Thành phố Châu Đốc",
+        "phone": "02963563333",
+        "address": "01 Nguyễn Văn Thoại",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện An Phú",
+        "phone": "02963512211",
+        "address": "109 Thoại Ngọc Hầu",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch Thị xã Tân Châu",
+        "phone": "0296395555",
+        "address": "Số 01 Nguyễn Huệ",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện Phú Tân",
+        "phone": "02963587000",
+        "address": "Chu Văn An",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện Châu Phú",
+        "phone": "02963686777",
+        "address": "QUỐC LỘ 91: Cầu chữ S, Cầu Phù Dật",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện Tịnh Biên",
+        "phone": "02963761999",
+        "address": "Khóm Xuân Hòa",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện Tri Tôn",
+        "phone": "02963874500",
+        "address": "155 Trần Hưng Đạo",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện Chợ Mới",
+        "phone": "02963883567",
+        "address": "Long Hòa",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện Châu Thành",
+        "phone": "0293836000",
+        "address": "Ấp Hòa Long 1",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Trung tâm giao dịch huyện Thoại Sơn",
+        "phone": "02963711000",
+        "address": "Tôn Đức Thắng, Ấp Bắc Sơn",
+        "opening-time": "Làm việc từ 7h00 đến 11h00 và từ 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Dầu Tiếng",
+        "phone": "02743507507",
+        "address": "Đường Trần Phú, Khu Phố 3, Thị trấn Dầu Tiếng, Huyện Dầu Tiếng, Bình Dương",
+        "opening-time": "Thứ 2 đến thứ 7: Sáng từ 07h30 đến 12h00. Chiều từ 13h00 đến 16h30. Chủ nhật: nghĩ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Minh Hòa",
+        "phone": "02743546886",
+        "address": "Ấp Hòa Cường, Xã Minh Hòa, Huyện Dầu Tiếng, Bình Dương",
+        "opening-time": "Thứ 2 đến thứ 6: Sáng từ 07h30 đến 12h00. Chiều từ 13h00 đến 16h30. Thứ 7, Chủ nhật: nghĩ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Thanh Tuyền",
+        "phone": "02743531959",
+        "address": "Ấp Chợ, Xã Thanh Tuyền,  Huyện Dầu Tiếng, Bình Dương",
+        "opening-time": "Thứ 2 đến thứ 6: Sáng từ 07h30 đến 12h00. Chiều từ 13h00 đến 16h30. Thứ 7: Sáng từ 07h30 đến 12h00. Chiều: nghĩ. Chủ nhật: nghĩ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Minh Tân",
+        "phone": "02743548549",
+        "address": "Ấp Tân Đức,xã Minh Tân, Dầu Tiếng, Bình Dương",
+        "opening-time": "Thứ 2 đến thứ 6: Sáng từ 07h30 đến 12h00. Chiều từ 13h00 đến 16h30. Thứ 7, Chủ nhật: nghĩ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Long Hòa",
+        "phone": "02743538548",
+        "address": "Ấp Long Thọ, Long Hòa, Dầu Tiếng, Bình Dương",
+        "opening-time": "Thứ 2 đến thứ 6.: Sáng từ 07h30 đến 12h00. Chiều từ 13h00 đến 16h30. Thứ 7, Chủ nhật: nghĩ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm Giao Dịch Hòa Lợi",
+        "phone": "02743566969",
+        "address": "Thửa Đất Số 19, Đường ĐT741, Khu Phố An Hòa, Phường Hòa Lợi, Thị xã Bến Cát, Bình Dương",
+        "opening-time": "Sáng từ 07h00 đến 11h30. Chiều từ 13h30 đến 17h00 từ thứ 2 đến thứ 7"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng DVVT Bến Cát",
+        "phone": "02743586789",
+        "address": "Khu phố 1, Phường Mỹ Phước, Thị xã Bến Cát, Bình Dương",
+        "opening-time": "Sáng từ 07h00 đến 11h30. Chiều từ 13h30 đến 17h00 từ thứ 2 đến thứ 7. Chủ nhật nghĩ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Việt Hương 2",
+        "phone": "02743565566",
+        "address": "KCN Viêt Hương, Xã phú An, Bến Cát Bình Dương",
+        "opening-time": "Sáng từ 07h00 đến 11h30. Chiều từ 13h30 đến 17h00 từ thứ 2 đến thứ 7. Chủ nhật nghĩ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Sớ Sao",
+        "phone": "02743568856",
+        "address": "KP2 Phường Tân Định, Bến Cát, Bình Dương",
+        "opening-time": "Sáng từ 07h00 đến 11h30. Chiều từ 13h30 đến 17h00 từ thứ 2 đến thứ 7. Chủ nhật nghĩ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Mỹ Phước 2",
+        "phone": "02743579555",
+        "address": "Khu phố 3, Phường Mỹ Phước , Thị xã Bến Cát, Bình Dương",
+        "opening-time": "Sáng từ 07h00 đến 11h30. Chiều từ 13h30 đến 17h00 từ thứ 2 đến  chủ nhật"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Tân Phước Khánh",
+        "phone": "02743678000",
+        "address": "P.Tân Phước Khánh, Thị xã Tân Uyên, Bình Dương",
+        "opening-time": "T2 - T6: Sáng 7h30 - 11h30, chiều 13h30 đến 17h30, T7, CN: Sáng 7h30 - 11h30"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch VNPT - VInaphone Tân Uyên",
+        "phone": "02743668996",
+        "address": "Khu Phố 5",
+        "opening-time": "T2 - T6: Sáng 7h30 - 11h30, chiều 13h30 đến 17h30, T7, CN: Sáng 7h30 - 11h30"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch VNPT - Vinaphone Tân Ba",
+        "phone": "02743685379",
+        "address": "Khu Phố Ba Đình",
+        "opening-time": "T2 - T6: Sáng 7h30 - 11h30, chiều 13h30 đến 17h30, T7, CN: đóng cửa"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng Dịch vụ Viễn thông Lái Thiêu",
+        "phone": "0943274479",
+        "address": "Khu phố Chợ",
+        "opening-time": "Từ T2 đến T6: 07h00-19h00, T7-CN:  Sáng 07h30-12h00, Chiều từ 13g30 -17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng Dịch Vụ Viễn Thông An Phú",
+        "phone": "0943274479",
+        "address": "Khu Phố 1B",
+        "opening-time": "T2 đến T7:  Sáng 07g-11g30;  Chiều 13g30-17G00,  CN: nghĩ"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng Dịch Vụ Viễn thông Búng",
+        "phone": "0943274479",
+        "address": "Đường Thủ Khoa Huân",
+        "opening-time": "Từ T2 đến T6: Sáng 07h00-11h30;  Chiều 13h30-17h00;  T7-CN nghĩ"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng dịch vụ Viễn thông Vĩnh Phú",
+        "phone": "02743651999",
+        "address": "Đại lộ Bình Dương",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Bình An",
+        "phone": "02743772792",
+        "address": "Quốc lộ 1K,  Ấp Nội Hóa, Phường Bình An, Thị xã Dĩ An, Bình Dương",
+        "opening-time": "Sáng từ 07h30 đến 11h30, chiều từ 13h30 đến 17h00 từ thứ 2 đến Thứ 7 . Chủ nhật nghĩ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch khu vực Dĩ An",
+        "phone": "02743772888",
+        "address": "Nguyễn An Ninh, Phường Dĩ An, Thị xã Dĩ An, Bình Dương.",
+        "opening-time": "Sáng từ 07h00 đến 19h00 từ thứ 2 đến thứ 6. Thứ 7, Chủ nhật làm việc từ 07h30 đến 11h30. Chiều từ 13h30 đến 17h00."
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng DVVT Bắc Tân Uyên",
+        "phone": "0919487373",
+        "address": "DH411, Khu phố 2, Tân Thành, Bắc Tân Uyên, Bình Dương",
+        "opening-time": "Sáng: 7h30-11h30; chiều: 13h30-17h từ thứ 2 đến thứ 6. Thứ 7 làm việc từ 7h30 đến 11h30, chiều từ 13h30 đến 16h30. Chủ nhật nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng DVVT Lạc An",
+        "phone": "0888602261",
+        "address": "Ấp 3, Lạc An, Bắc Tân Uyên, Bình Dương",
+        "opening-time": "Sáng: 7h30-11h30; chiều: 13h30-17h từ thứ 2 đến thứ 6. Thứ 7 làm việc từ 7h30 đến 11h30, chiều nghỉ. Chủ nhật nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng DVVT Tân Thành",
+        "phone": "84919487373",
+        "address": "DH411, Khu phố 2, Tân Thành, Bắc Tân Uyên, Bình Dương",
+        "opening-time": "Sáng: 7h30-11h30; chiều: 13h30-17h từ thứ 2 đến thứ 6. Thứ 7 làm việc từ 7h30 đến 11h30, chiều từ 13h30 đến 16h30. Chủ nhật nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng DVVT Lạc An",
+        "phone": "84888602261",
+        "address": "Ấp 3, Lạc An, Bắc Tân Uyên, Bình Dương",
+        "opening-time": "Sáng: 7h30-11h30; chiều: 13h30-17h từ thứ 2 đến thứ 6. Thứ 7 làm việc từ 7h30 đến 11h30, chiều nghỉ. Chủ nhật nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng dịch vụ Viễn Thông Bàu Bàng",
+        "phone": "0919770888",
+        "address": "Căn 37 đường NC KĐT Bàu Bàng, X.Lai Uyên, H.Bàu Bàng, Bình Dương",
+        "opening-time": "Sáng: 07h - 11h30     Chiều: 13h30 - 17h. Làm việc từ thứ 2 đến thứ 7, Chủ Nhật nghĩ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm Giao dịch - Phòng Bán hàng Quy Nhơn 2",
+        "phone": "0917142207",
+        "address": "Quốc lộ 1D, Tổ 2, Khu vực 8",
+        "opening-time": "Từ Thứ 2 đến Thứ 6: Sáng từ 07h00-11h30; Chiều từ 13h30 -17h00; Chủ nhật và Ngày lễ nghỉ."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Quy Nhơn 1",
+        "phone": "0913440077",
+        "address": "197 Phan Bội Châu, P. Trần Hưng Đạo, TP Quy Nhơn, Tỉnh Bình Định",
+        "opening-time": "Từ Thứ 2 đến Thứ 6: Sáng từ 07h-12h; Chiều từ 13h30 -19h00; Thứ 7,CN: Sáng từ 7h00 -11h30; chiều từ 13h30-17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch An Lão",
+        "phone": "0911325879",
+        "address": "Thôn Xuân Phong Bắc, Xã An Hòa, Huyện An Lão",
+        "opening-time": "Từ Thứ 2 - Thứ 7: Sáng từ 7h00 - 11h30; Chiều từ 13h30 - 17h00; Ngày lễ nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Bồng Sơn",
+        "phone": "0944222336",
+        "address": "36  Quang Trung, TT Bồng Sơn, Hoài Nhơn, Bình Định",
+        "opening-time": "Từ Thứ 2 đến Thứ 7: Sáng từ 07h-11h30h; Chiều từ 13h30 -17h00; Ngày lễ nghỉ làm việc giờ hành chính"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Tam Quan",
+        "phone": "0948544316",
+        "address": "339 Quốc Lộ 1A, TT Tam Quan, Hoài Nhơn, Bình Định",
+        "opening-time": "Từ Thứ 2 đến Thứ 7: Sáng từ 07h-11h30h; Chiều từ 13h30 -17h00; Ngày lễ nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Hoài Ân",
+        "phone": "84941939248",
+        "address": "132 Tăng Bạt Hổ",
+        "opening-time": "Từ Thứ 2 - Thứ 7: Sáng từ 7h00 - 11h30; Chiều từ 13h30 - 17h00; Ngày lễ nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Phù Cát",
+        "phone": "0888303879",
+        "address": "Số 163 Trần Hưng Đạo, TT Ngô Mây, Huyện Phù Cát",
+        "opening-time": "Từ Thứ 2 - Thứ 6: Sáng từ 7h30 - 12h00; Chiều từ 14h00 - 17h30; Ngày lễ nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Tây Sơn",
+        "phone": "0916618277",
+        "address": "89 Nguyễn Thiện Thuật, TT Phú Phong, HuyệnTây Sơn",
+        "opening-time": "Từ Thứ 2 đến Thứ 7: Sáng từ 07h-11h30h; Chiều từ 13h30 -17h00; Ngày lễ nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch An Nhơn",
+        "phone": "0812235589",
+        "address": "229 Trần Phú, P.Bình Định, TX.An Nhơn, Tỉnh Bình Định",
+        "opening-time": "Từ Thứ 2 - Thứ 6: Sáng từ 7h00 - 11h30; Chiều từ 13h30 - 17h00; Ngày lễ nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Vân Canh",
+        "phone": "0912082244",
+        "address": "Thịnh Văn 2, Thị trấn Vân Canh, Huyện Vân Canh",
+        "opening-time": "Từ Thứ 2 - Thứ 6: Sáng từ 7h00 - 9h00; Chiều từ 13h30 - 15h00; Ngày lễ nghỉ"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch 34 Nguyễn Thị Lưu",
+        "phone": "0916737188",
+        "address": "Số 34 - Nguyễn thị Lưu",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Phòng KHTCDN",
+        "phone": "0917252822",
+        "address": "Nguyễn Thị Lưu",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Của hàng giao dịch TT Cầu Gồ",
+        "phone": "0915266933",
+        "address": "Hoàng Hoa Thám",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch TT Cao Thượng",
+        "phone": "0913045019",
+        "address": "Hoàng Hoa Thám",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch TT Chũ",
+        "phone": "0915999606",
+        "address": "Khu Minh Khai",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch TT Thắng",
+        "phone": "0916303122",
+        "address": "Khu 3",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch Lạng Giang",
+        "phone": "02043580888",
+        "address": "Thị trấn Vôi, Huyện Lạng Giang",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng Giao dịch Sơn Động",
+        "phone": "02043599000",
+        "address": "Thượng, An Châu,Sơn Động",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Của hàng giao dịch TT Đồi Ngô",
+        "phone": "0915209886",
+        "address": "Phố Bình Minh",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng Giao dịch Huyện Việt Yên",
+        "phone": "0917000869",
+        "address": "Khu 2",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Của hàng giao dịch TT Neo",
+        "phone": "0888516363",
+        "address": "Tổ dân phố 1",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng GD Thị trấn Tân An",
+        "phone": "18001091",
+        "address": "TT Tân An",
+        "opening-time": "Từ 7h30 đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Thành Phố 1",
+        "phone": "0915678748",
+        "address": "Tổ 1b - phường Phùng Chí Kiên - TP Bắc Kạn - tỉnh Bắc Kạn",
+        "opening-time": "Từ 7h30 đến 17h30 từ thứ 2 đến thứ 6, T7 Chủ nhật từ 7h30 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Thành Phố 2",
+        "phone": "0915678748",
+        "address": "Tổ 12 Phường Nguyễn Thị Minh Khai, TP Bắc Kạn",
+        "opening-time": "Từ 7h30 đến 17h30 từ thứ 2 đến thứ 7, Chủ nhật đóng cửa"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch huyện Ba Bể",
+        "phone": "0915678748",
+        "address": "Tiểu khu 6 - TT Chợ Rã – Huyện Ba Bể – tỉnh Bắc Kạn",
+        "opening-time": "Từ 7h30 đến 17h00 từ thứ 2 đến thứ 7"
+      },
+      {
+        "name": "Điểm giao dịch: Nông Thị Viên",
+        "phone": "84832555587",
+        "address": "Bẵng Lũng Chợ ĐỒn",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Điểm Giao dịch Chợ Đồn",
+        "phone": "0915008877",
+        "address": "tt Bằng Lũng huyện Chợ Đồn",
+        "opening-time": "từ 7h30 đên 17h30"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch huyện Na Rì",
+        "phone": "0917868578",
+        "address": "Thôn Pò Đoon - TT Yến Lạc – Huyện Na Rì – tỉnh Bắc Kạn",
+        "opening-time": "Từ 7h30 đến 17h00 từ thứ 2 đến thứ 7"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch huyện Bạch Thông",
+        "phone": "0912343929",
+        "address": "Phố Nà Hái - TT Phủ Thông – Huyện Bạch Thông – tỉnh Bắc Kạn",
+        "opening-time": "Từ 7h30 đến 17h00 từ thứ 2 đến thứ 7"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch huyện Chợ Mới",
+        "phone": "0918104899",
+        "address": "Tổ 7, TT Đồng Tâm , Huyện Chợ Mới, tỉnh Bắc Kạn",
+        "opening-time": "Sáng: 7h30 - 11h30, Chiều: 13h30 - 17h00. Từ Thứ 2 đến Thứ 7 hàng tuần"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch huyện Ngân Sơn",
+        "phone": "0912559899",
+        "address": "Khu Phố - Xã Vân Tùng – Huyện Ngân Sơn – tỉnh Bắc Kạn",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch huyện Pác Nặm",
+        "phone": "0915245686",
+        "address": "Nà Cóoc, Bộc Bốc, Huyện Pắc Nặm",
+        "opening-time": "Từ 7h30 đến 17h00 từ thứ 2 đến thứ 7"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Hùng Vương",
+        "phone": "02913595888",
+        "address": "188 Võ văn Kiệt",
+        "opening-time": "Các ngày trong tuần bao gồm cả T7, CN và ngày Lễ: Từ 07h00 đến 17h00 07h00 đến 17h00; các ngày lễ, thứ bảy , chủ nhật  sáng: 07h00 đến 11h00 chiều 13h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Giao Dịch Trần Phú",
+        "phone": "02913821026",
+        "address": "20 Trần Phú",
+        "opening-time": "Tất cả các ngày trong tuần"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch VNPT Vinaphone Trần Phú",
+        "phone": "0918162262",
+        "address": "20 Trần Phú",
+        "opening-time": "Các ngày trong tuần, kể cả ngày lễ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Hòa Bình",
+        "phone": "02913880009",
+        "address": "Ấp thị trấn A - Thị trấn Hòa Bình - Huyện Hòa Bình - tỉnh Bạc Liêu",
+        "opening-time": "Các ngày trong tuần bao gồm cả T7, CN và ngày Lễ: Từ 07h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Hồng Dân",
+        "phone": "02913876715",
+        "address": "Ấp Nội ô",
+        "opening-time": "Các ngày trong tuần bao gồm cả T7, CN và ngày Lễ: Từ 07h00 đến 17h00 7h00 - 11h00, 13h00 - 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch VNPT Gành Hào",
+        "phone": "02913845003",
+        "address": "Ấp 4 TT Gành Hào Huyện Đông Hải Bạc Liêu",
+        "opening-time": "Các ngày trong tuần bao gồm cả T7, CN và ngày Lễ: Từ 07h00 đến 17h00  2 đến Thứ 6: Từ 07h00 - 17h00 ; Chủ nhât và ngày lễ : Buổi sáng từ 7h00 -11h00, Buổi chiều từ 13h00 - 17h00."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch VNPT Hộ Phòng",
+        "phone": "02913848489",
+        "address": "Khóm 1< Phường Hộ Phòng, TX Giá Rai, Tỉnh Bạc Liêu",
+        "opening-time": "Các ngày trong tuần bao gồm cả T7, CN và ngày Lễ: Từ 07h00 đến 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch VNPT Giá Rai",
+        "phone": "2913851333",
+        "address": "Khóm 1, Phường 1, Thị Xã Giá Rai, Tỉnh Bạc Liêu",
+        "opening-time": "Các ngày trong tuần bao gồm cả T7, CN và ngày Lễ: Từ 07h00 đến 17h00  2 đến Thứ 6: Từ 07h00 - 17h00 ; Chủ nhât và ngày lễ : Buổi sáng từ 7h00 -11h00, Buổi chiều từ 13h00 - 17h00."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Phước Long",
+        "phone": "02913876757",
+        "address": "ấp Long Thành",
+        "opening-time": "Các ngày trong tuần bao gồm cả T7, CN và ngày Lễ: Từ 07h00 đến 17h00 07h00 - 11h00, 13h00 - 17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Giao dịch Suối Hoa",
+        "phone": "02223823555",
+        "address": "62 Ngô Gia Tự",
+        "opening-time": "Từ 7h30 đến 17h30 tất cả các ngày trong tuần"
+      },
+      {
+        "name": "Điểm giao dịch: Giao dịch Tiền An",
+        "phone": "022238821555",
+        "address": "446 Ngô Gia Tự",
+        "opening-time": "Từ 7h30 đến 17h30 tất cả các ngày trong tuần"
+      },
+      {
+        "name": "Điểm giao dịch: Phòng giao dịch Đức Liễu",
+        "phone": "0913999727",
+        "address": "Thôn 1,Xã Đức Liễu - H. Bù Đăng",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Cửa hàng giao dịch Bom Bo",
+        "phone": "0913999727",
+        "address": "Ấp 4 - xã Bom Bo -Bù Đăng",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Trung tâm thành phố Bến Tre",
+        "phone": "02753822222",
+        "address": "Số 1, Đường Cách mạng tháng Tám",
+        "opening-time": "Từ 6h30 đến 20h30 tất cả các ngày trong tuần"
+      },
+      {
+        "name": "Điểm giao dịch: Hàm Tiến",
+        "phone": "84919639478",
+        "address": "349 Nguyễn Đình Chiểu - P. Hàm Tiến - TP Phan Thiết - Bình Thuận",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: 02 Lê Hồng Phong",
+        "phone": "84918608397",
+        "address": "02 Lê Hồng Phong, phường Bình Hưng, thành phố Phan Thiết, Bình Thuận",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Mũi Né",
+        "phone": "84917672682",
+        "address": "02 Nguyễn Minh Châu, phường Mũi Né, thành phố Phan Thiết, Bình Thuận",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Giao dịch trung tâm",
+        "phone": "02063853919",
+        "address": "Phường Hợp giang - TP Cao Bằng",
+        "opening-time": "7H30 -17h30 (nghỉ ngày 01/01 tết nguyên đán)"
+      },
+      {
+        "name": "Điểm giao dịch: Giao dịch Km5",
+        "phone": "02063751828",
+        "address": "Phường Đề Thám - TP Cao Bằng",
+        "opening-time": "7H30 -17h30 (nghỉ ngày 01/01 tết nguyên đán)"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch VNPT Vinaphone Cái Nước",
+        "phone": "0916696499",
+        "address": "QL1A, Khóm 3, TT Cái Nước",
+        "opening-time": "Thời gian mở cửa: Từ 7h - 11h và 13h - 17h từ thứ 2 đến Chủ nhật. Ngày 12/2/2021 (Mùng 1 Tết AL) đóng cửa."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch VNPT Vinaphone Phú Hưng",
+        "phone": "0941333391",
+        "address": "QL1A, ấp Hưng Thạnh, xã Phú Hưng, huyện Cái Nước, tỉnh Cà Mau",
+        "opening-time": "Thời gian mở cửa: Từ 7h - 11h và 13h - 17h từ thứ 2 đến Chủ nhật. Ngày 12/2/2021 (Mùng 1 Tết AL) đóng cửa."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Thốt Nốt",
+        "phone": "0949630883",
+        "address": "478, KV Long Thạnh 2- P Thốt Nốt- Thốt Nốt- Tp.Cần Thơ",
+        "opening-time": "Tất cả các ngày trong tuần: 07h00 đến 20h00, (Ngày lễ, tết: 08h00 đến 16h00)"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm Giao Dịch Thới Thuận",
+        "phone": "0949630883",
+        "address": "KV Thới Hòa 1",
+        "opening-time": "Thứ 2 đến thứ 7: 07h00 đến 11h00"
+      },
+      {
+        "name": "Điểm giao dịch: Phòng Giao dịch Krông Nô",
+        "phone": "0911584777",
+        "address": "Tổ1",
+        "opening-time": "Sáng 07h00 - 11h30, chiều từ 13h30-17h00"
+      },
+      {
+        "name": "Điểm giao dịch: Phòng Giao Dịch Điện Biên Đông",
+        "phone": "0949202339",
+        "address": "Tổ 9 -T.T Điện Biên Đông -Huyện Điện Biên Đông - Tỉnh Điện Biên",
+        "opening-time": "Từ 07h đến 17h hàng ngày, Nghỉ chiều thứ 7 và chủ nhật"
+      },
+      {
+        "name": "Điểm giao dịch: Phòng giao dịch Biển Hồ - PBH Bắc Pleiku",
+        "phone": "0914196828",
+        "address": "787 Phạm Văn Đồng",
+        "opening-time": "“Từ 7h00 đến 17h00 từ thứ 2 đến thứ 6, Chủ nhật từ 8h00 đến 17h00”."
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch PBH Nam Pleiku",
+        "phone": "84948585369",
+        "address": "397 Trường Trinh",
+        "opening-time": "“Từ 7h00 đến 17h00 từ thứ 2 đến thứ 6, Chủ nhật từ 8h00 đến 17h00”."
+      },
+      {
+        "name": "Điểm giao dịch: Phòng giao dịch trung tâm - PBH Bắc Pleiku",
+        "phone": "0914196828",
+        "address": "69 Hùng Vương",
+        "opening-time": "“Từ 7h00 đến 17h00 từ thứ 2 đến thứ 6, Chủ nhật từ 8h00 đến 17h00”."
+      },
+      {
+        "name": "Điểm giao dịch: CH giao dịch Chăm Mát",
+        "phone": "84283891288",
+        "address": "số 55 tổ 12",
+        "opening-time": "Giờ HC"
+      },
+      {
+        "name": "Điểm giao dịch: CH giao dịch Tân Thịnh",
+        "phone": "84218388288",
+        "address": "Đại lộ Thịnh Lang, Tổ 1",
+        "opening-time": "Giờ HC"
+      },
+      {
+        "name": "Điểm giao dịch: CH Giao Dịch Kỳ Sơn",
+        "phone": "84888409699",
+        "address": "Phường Kỳ Sơn- tp hb",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: CH giao dịch Phương Lâm",
+        "phone": "84884096991",
+        "address": "938 Cù Chính Lan",
+        "opening-time": "7h30 - 20h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm GD TP Huế",
+        "phone": "0917988988",
+        "address": "51A Hai Bà Trưng",
+        "opening-time": "7h-20h hàng ngày"
+      },
+      {
+        "name": "Điểm giao dịch: ĐGD BSH",
+        "phone": "0917988988",
+        "address": "89 Đinh Tiên Hoàng",
+        "opening-time": "7h-19h hàng ngày"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Lạc Hồng",
+        "phone": "02973962888",
+        "address": "380A Nguyễn Trung Trực Thành Phố Rạch Giá Kiên Giang",
+        "opening-time": "Ngày thường 6h30 đến 20h. Ngày Tết: 12,13/2 (nhằm mùng 1,2 Tết): 7h đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Rạch Sỏi",
+        "phone": "02973919144",
+        "address": "1352A Nguyễn Trung Trực phường An Bình Thành Phố Rạch Giá Kiên Giang",
+        "opening-time": "Ngày thường 7h đến 18h. Ngày Tết: ngày 12,13/2 (nhằm mùng 1,2,3 Tết): 7h đến 17h; ngày 14/2 (nhằm mùng 3 Tết): 7h đến 11h, 13h đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Trung Tâm",
+        "phone": "02973923923",
+        "address": "Số 25 đường Điện Biên Phủ, KP Lý Thái Tổ Phường Vĩnh Quang TP Rạch Giá Tỉnh Kiên Giang",
+        "opening-time": "Ngày thường 6h30 đến 20h. Ngày Tết: 12,13/2 (nhằm mùng 1,2 Tết): 7h đến 17h"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm GD Trung tâm Kinh doanh",
+        "phone": "0946789357",
+        "address": "Số 1, Quốc Lộ 1 - Phường 2 - TP Tân An - Long An",
+        "opening-time": "Từ 7h - 20h Tất cả các ngày trong tuần"
+      },
+      {
+        "name": "Điểm giao dịch: ĐGD Pom Hán- TP Lào Cai",
+        "phone": "0914999986",
+        "address": "580 Đường Hoàng Quốc Việt",
+        "opening-time": "Từ 7h30 đến 17h00 tất cả các ngày trong tuần trừ CN"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Nam Cường",
+        "phone": "0941182999",
+        "address": "Tòa nhà VNPT Lào Cai, ĐL Trần Hưng Đạo",
+        "opening-time": "Từ 7h30 đến 17h00 tất cả các ngày trong tuần"
+      },
+      {
+        "name": "Điểm giao dịch: ĐGD VNPT VinaPhone 196 Hoàng Liên",
+        "phone": "0918495855",
+        "address": "196 Hoàng Liên",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Cửa Hàng Giao Dịch Cửa Lò",
+        "phone": "0913550195",
+        "address": "Số 11, Đường Bình Minh, Cữa Lò",
+        "opening-time": "Giờ Mùa Hè: Sáng từ 06:45 đến 11:30, Chiều từ 14:00 đến 18:00, Giờ Mùa Đông: Sáng 07:00 đến 11:30, Chiều từ 13:30 đến 17:30. Trừ các ngày lễ, Tết nghỉ theo quy định"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Bến Gót Việt Trì",
+        "phone": "02103913633",
+        "address": "Số 581 - ĐL.Hùng Vương - P. Bến Gót -TP. Việt Trì",
+        "opening-time": "Từ 7h30 đến 16h30"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Dữu Lâu Việt Trì",
+        "phone": "02103943005",
+        "address": "Tổ 14, Khu 1, Phường Dữu Lâu, TP. Việt Trì",
+        "opening-time": "Từ 7h30 đến 16h30"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Trung tâm TP.Việt Trì",
+        "phone": "02103859899",
+        "address": "Số 1468 - ĐL.Hùng Vương - P.Tiên Cát -TP Việt Trì",
+        "opening-time": "Từ 7h30 đến 18h"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Vân Cơ Việt Trì",
+        "phone": "84817726363",
+        "address": "Số 2344  - ĐL. Hùng Vương - P. Vân Cơ - TP. Việt Trì",
+        "opening-time": "Từ 7h30 đến 16h30"
+      },
+      {
+        "name": "Điểm giao dịch: Giao Dịch Trung Tâm Thành Phố Đồng Hới",
+        "phone": "84912921335",
+        "address": "Số 04 Lý Thường Kiệt, Phường Đồng Phú, TP Đồng Hới, Tỉnh Quảng Bình",
+        "opening-time": "Từ 7h30 đến 20h00 từ thứ 2 đến chủ nhật"
+      },
+      {
+        "name": "Điểm giao dịch: Giao Dịch Cộn",
+        "phone": "84919890636",
+        "address": "168 Lý Thái Tổ, P Bắc Nghĩa, TP Đồng Hới, T Quảng Bình",
+        "opening-time": "07h30 đến 17h30"
+      },
+      {
+        "name": "Điểm giao dịch: Giao dịch Bắc Lý",
+        "phone": "0915980567",
+        "address": "120 Phan Đình Phùng, P Bắc Lý, TP Đồng Hới, T Quảng Bình",
+        "opening-time": "07h30 đến 17h30"
+      },
+      {
+        "name": "Điểm giao dịch: Giao dịch Trung tâm Thành phố",
+        "phone": "0889892323",
+        "address": "Số 1 đường Tô Hiệu, Tổ 4 phường Tô Hiệu, TP Sơn La, tỉnh Sơn La",
+        "opening-time": "Sáng 7h30-11h30. Chiều 13h30 - 20h00 (Mở cửa tất cả các ngày trong tuần)"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Chiềng Lề",
+        "phone": "0917873189",
+        "address": "Tổ 02 -  Phường Chiềng Lề - Thành Phố Sơn La - Tỉnh Sơn La",
+        "opening-time": "Sáng 7h30-11h30. Chiều 13h30-17h30 (Mở cửa từ thứ 2 đến thứ 7 trong tuần)"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Chiềng Sinh",
+        "phone": "0889352689",
+        "address": "Tổ 5,  phường Chiềng Sinh, Thành Phố Sơn La, Tỉnh  Sơn La",
+        "opening-time": "Sáng 7h30 -11h30. Chiều 13h30 - 17h30 (Mở cửa từ thứ 2 đến thứ 7 trong tuần)"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm Giao dịch Lê Lợi",
+        "phone": "0912313668",
+        "address": "Số 146 Lê Lợi",
+        "opening-time": "Từ 7h00 đến 11h30, từ 13h30 đến 18h30 tất cả các ngày trong tuần"
+      },
+      {
+        "name": "Điểm giao dịch: Nguyễn Văn Dưỡng",
+        "phone": "0915060181",
+        "address": "Số 146 Lê Lợi",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Khối VP+KH TCDN+BHOL",
+        "phone": "0911587888",
+        "address": "Số 146 Lê Lợi -TP Thái Bình",
+        "opening-time": ""
+      },
+      {
+        "name": "Điểm giao dịch: Điểm Giao Dịch Hoàng Diệu",
+        "phone": "02273749898",
+        "address": "731A Đường Long Hưng, Phường Hoàng Diệu, Thành Phố Thái Bình",
+        "opening-time": "Từ 7h00 đến 11h30, từ 13h30 đến 17h00 tất cả các ngày trừ Chủ Nhật, ngày nghỉ lễ"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch VNPT Vinaphone TX Bình Minh",
+        "phone": "02703742222",
+        "address": "127/15 tổ 15 khóm 1 phường cái vồn thị xã Bình Minh",
+        "opening-time": "Từ 7h00 đến 17h00 tất cả các ngày trong tuần (CN: nghỉ)"
+      },
+      {
+        "name": "Điểm giao dịch: ĐGD TT Tp. Vũng Tàu",
+        "phone": "849180747899",
+        "address": "198 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu",
+        "opening-time": "7h-12h, 13h30-20h00 (T7,CN, Lễ: 7h30-11h30, 14h-17h)"
+      },
+      {
+        "name": "Điểm giao dịch: ĐGD Nguyễn Hữu Cảnh",
+        "phone": "84919817718",
+        "address": "Số 6 Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu",
+        "opening-time": "7h-11h30, 13h30-17h (T7,CN, Lễ: 7h30-11h30, CN: 14h-17h)"
+      },
+      {
+        "name": "Điểm giao dịch: ĐGD Đông Xuyên",
+        "phone": "0919817718",
+        "address": "579 đường 30/4, Phường Rạch Dừa, Tp. Vũng Tàu, BRVT",
+        "opening-time": "7h-11h30, 13h30-17h (T7,CN, Lễ: 7h30-11h30, CN: 14h-17h)"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm Giao Dịch Km5 Thành Phố Yên Bái",
+        "phone": "0915595155",
+        "address": "15 Đinh Tiên Hoàng, P/Đồng Tâm, TP/ Yên Bái, Tỉnh Yên Bái, Việt Nam",
+        "opening-time": "Từ 07h00 đến 17h30 tất cả các ngày thứ 7, Chủ nhật trong tuần; Ngày Tết từ 8h00-10h30 và 14h00-16h00"
+      },
+      {
+        "name": "Điểm giao dịch: Điểm giao dịch Nam Cường",
+        "phone": "0915595155",
+        "address": "Phường Yên Ninh, TP/Yên Bái, Yên Bái",
+        "opening-time": "Từ 7h30 đến 17h00 tất cả các ngày từ thứ 2 đến thứ 6 (trừ các ngày lễ)"
+      }
+    ]
+  },
+  "item_scraped_count": 129
+}

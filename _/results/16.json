@@ -1,0 +1,1662 @@
+{
+  "type": "Feature",
+  "name": "Media Mart",
+  "POI:Category": "",
+  "store_url": "https://mediamart.vn/he-thong-sieu-thi",
+  "website": "https://mediamart.vn",
+  "properties": {
+    "attributes": [
+      {
+        "name": "Media Mart Cầu Cày (Trần Phú 2)",
+        "address": "853 Trần Phú,xã Thạch Trung",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Tân Xuân",
+        "address": "86 Đ.Tân Xuân, P.Xuân Đỉnh,Q.",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hương Sơn",
+        "address": "TDP số 5,TT Phố Châu",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hai Bà Trưng",
+        "address": "29F Hai Bà Trưng, Hoàn Kiếm",
+        "phone": "0983513399"
+      },
+      {
+        "name": "Media Mart Thanh Xuân",
+        "address": "Số 131 Trần Phú, Hà Đông, HN",
+        "phone": "0973726969"
+      },
+      {
+        "name": "Media Mart Trường Chinh",
+        "address": "số 72 Trường Chinh, Đống Đa,HN",
+        "phone": "0902115223"
+      },
+      {
+        "name": "Media Mart Long Biên",
+        "address": "03 Nguyễn Văn Linh, Long Biên",
+        "phone": "0936221315"
+      },
+      {
+        "name": "Media Mart Mỹ Đình",
+        "address": "Số 18 Phạm Hùng, Cầu Giấy",
+        "phone": "0906281223"
+      },
+      {
+        "name": "Media Mart Nguyễn Chí Thanh",
+        "address": "18 Nguyễn Chí Thanh, Ba Đình,",
+        "phone": "0904680228"
+      },
+      {
+        "name": "Media Mart Phạm Văn Đồng",
+        "address": "166 Phạm Văn Đồng, Từ Liêm, HN",
+        "phone": "0986379922"
+      },
+      {
+        "name": "Media Mart Phú Diễn",
+        "address": "Km11 đường 32, Quận Bắc Từ Liê",
+        "phone": "0988424377"
+      },
+      {
+        "name": "Media Mart Xa La",
+        "address": "Số 32 Đường Cầu Bươu, Thanh Tr",
+        "phone": "0936004226"
+      },
+      {
+        "name": "Media Mart Nguyễn Lương Bằng",
+        "address": "số 181 Nguyễn Lương Bằng, Đống",
+        "phone": "0934531128"
+      },
+      {
+        "name": "Media Mart Ba La",
+        "address": "số 682 Quang Trung, Hà Đông, H",
+        "phone": "0983623399"
+      },
+      {
+        "name": "Media Mart Ngọc Hồi",
+        "address": "Thôn Phúc Am, xã Duyên Thái, T",
+        "phone": "0906263296"
+      },
+      {
+        "name": "Media Mart Sơn Tây",
+        "address": "Km 0+300, Thị Xã Sơn Tây, HN",
+        "phone": "0901783566"
+      },
+      {
+        "name": "Media Mart Chương Mỹ",
+        "address": "100,Ninh Kiều,TT Chúc Sơn",
+        "phone": "0936028336"
+      },
+      {
+        "name": "Media Mart Kim Bài",
+        "address": "117",
+        "phone": "0936326569"
+      },
+      {
+        "name": "Media Mart Cầu Giấy",
+        "address": "335 Cầu Giấy,P Dịch Vọng,",
+        "phone": "0936072239"
+      },
+      {
+        "name": "Media Mart Thạch Bích",
+        "address": "Thạch Bích, Bích Hòa",
+        "phone": "0904998938"
+      },
+      {
+        "name": "Media Mart Ứng Hòa",
+        "address": "Xã Hòa Xá, Huyện Ứng Hòa",
+        "phone": "0936062663"
+      },
+      {
+        "name": "Media Mart Xuân Mai",
+        "address": "Ngã tư Thị Trấn Xuân Mai, HN",
+        "phone": "0936231596"
+      },
+      {
+        "name": "Media Mart Phùng",
+        "address": "244 Tây Sơn,TT Phùng,ĐanPhượng",
+        "phone": "0902227281"
+      },
+      {
+        "name": "Media Mart Vĩnh Tuy",
+        "address": "Số 100 Chân cầu Vĩnh Tuy",
+        "phone": "0934500282"
+      },
+      {
+        "name": "Media Mart Chương Mỹ 2",
+        "address": "Đồi 3, Km 28, Quốc lộ 6 Đông",
+        "phone": "0904633285"
+      },
+      {
+        "name": "Media Mart Hòa Lạc",
+        "address": "Thôn Hòa lạc. Thạch Thất",
+        "phone": "0934441669"
+      },
+      {
+        "name": "Media Mart Sóc Sơn",
+        "address": "KĐT Mới Sóc Sơn",
+        "phone": "0934526069"
+      },
+      {
+        "name": "Media Mart Cao Lỗ",
+        "address": "435 Cao Lỗ, Đông Anh",
+        "phone": "0936290083"
+      },
+      {
+        "name": "Media Mart Lạc Long Quân",
+        "address": "672 Lạc Long Quân,Tây Hồ",
+        "phone": "0934683398"
+      },
+      {
+        "name": "Media Mart Tam Trinh",
+        "address": "126 Đường Tam Trinh, Hoàng Mai",
+        "phone": "0936333098"
+      },
+      {
+        "name": "Media Mart Phạm Hùng 2",
+        "address": "Số 8 Phạm Hùng, Nam Từ Liêm",
+        "phone": "0902244983"
+      },
+      {
+        "name": "Media Mart Lê Văn Lương",
+        "address": "41 Đ. Lê Văn Lương,Trung Hòa",
+        "phone": "0901792083"
+      },
+      {
+        "name": "Media Mart Quất Động _ T.Tín",
+        "address": "Km 24 ,Qlộ 1A,Thông Nguyên Bì",
+        "phone": "0934682189"
+      },
+      {
+        "name": "Media Mart Trâu Quỳ",
+        "address": "Ngã tư Cổ Bi, TT Trâu Quỳ",
+        "phone": "0902232083"
+      },
+      {
+        "name": "Media Mart Vạn Phúc",
+        "address": "63 Vạn Phúc,Quận Hà Đông",
+        "phone": "0904662283"
+      },
+      {
+        "name": "Media Mart La Khê",
+        "address": "Tổ dân phố số 4, P.La Khê",
+        "phone": "0934489683"
+      },
+      {
+        "name": "Media Mart Lĩnh Nam",
+        "address": "634Đ.Lĩnh Nam,P.Trần Phú,H.Mai",
+        "phone": "0934601169"
+      },
+      {
+        "name": "Media Mart Xuân Diệu",
+        "address": "101",
+        "phone": "0934556069"
+      },
+      {
+        "name": "Media Mart Quang Minh",
+        "address": "TT.Quang Minh,H.Mê Linh",
+        "phone": "0936033269"
+      },
+      {
+        "name": "Media Mart Long Phú_Quốc Oai",
+        "address": "Xóm2 Long Phú,Hòa Thạch,Quốc",
+        "phone": "0934662081"
+      },
+      {
+        "name": "Media Mart Đội Cấn",
+        "address": "218 Đội Cấn, Ba Đình",
+        "phone": "0904636189"
+      },
+      {
+        "name": "Media Mart Phố Nỉ_Sóc Sơn",
+        "address": "Phố Mỹ,xã Trung Ngã,H.Sóc Sơn",
+        "phone": "0936373183"
+      },
+      {
+        "name": "Media Mart Phú Cường",
+        "address": "Tân Trại, Phú Cường,Sóc Sơn",
+        "phone": "0901720201"
+      },
+      {
+        "name": "Media Mart Chợ Cá",
+        "address": "Thôn Đồng Tiến, xã Tân Tiến",
+        "phone": "0934682183"
+      },
+      {
+        "name": "Media Mart Yên Viên",
+        "address": "469 Hà Huy Tâp, Yên Viên",
+        "phone": "0936344683"
+      },
+      {
+        "name": "Media Mart Bình Phú",
+        "address": "Khu Đồng Qua,Phú Bình,T.Thất",
+        "phone": "0903257783"
+      },
+      {
+        "name": "Media Mart Nguyên Khê",
+        "address": "T.Nguyên Khê,Đông Anh",
+        "phone": "0936292598"
+      },
+      {
+        "name": "Media Mart Lê Đức Thọ",
+        "address": "16 Lê Đức Thọ,Mỹ Đình, Từ Liêm",
+        "phone": "0936309285"
+      },
+      {
+        "name": "Media Mart Hoàng Quốc Việt",
+        "address": "14 Hoàng Quốc Việt, Nghĩa Đô,",
+        "phone": "0901760338"
+      },
+      {
+        "name": "Media Mart Khuất Duy Tiến",
+        "address": "86",
+        "phone": "0936380229"
+      },
+      {
+        "name": "Media Mart Ba Vì",
+        "address": "TT Tây Đằng, H.Ba Vì",
+        "phone": "0906299783"
+      },
+      {
+        "name": "Media Mart Trường Chinh 2",
+        "address": "199Đ.Trường Chinh,P.Khương Mai",
+        "phone": "0903478660"
+      },
+      {
+        "name": "Media Mart Cổ Đông",
+        "address": "Khu Đồng Dăm, xã Cổ Đông",
+        "phone": "0931718083"
+      },
+      {
+        "name": "Media Mart An Mỹ",
+        "address": "xóm 4 Đoanh Nữ, xã An Mỹ",
+        "phone": "0931755283"
+      },
+      {
+        "name": "Media Mart Lò Đúc",
+        "address": "170 Lò Đức, P Đông Mác",
+        "phone": "0902192263"
+      },
+      {
+        "name": "Media Mart Lê Văn Lương 3",
+        "address": "TimeTower, 35 Lê Văn Lương,",
+        "phone": "0934585983"
+      },
+      {
+        "name": "Media Mart Tốt Động",
+        "address": "Xóm Bến, Xã Tốt Động",
+        "phone": "0932286339"
+      },
+      {
+        "name": "Media Mart Quảng Bị",
+        "address": "Thôn2,xã Quảng Bị, H.Chương Mỹ",
+        "phone": "0934596860"
+      },
+      {
+        "name": "Media Mart Tản Lĩnh",
+        "address": "Thôn Việt Long,xã Tản Lĩnh",
+        "phone": "0936290080"
+      },
+      {
+        "name": "Media Mart Hiền Ninh",
+        "address": "Thôn Hiền Lương,xã Hiền Ninh,",
+        "phone": "0936207787"
+      },
+      {
+        "name": "Media Mart Giải Phóng 2",
+        "address": "1111 Giải phóng, P.GiáP Bát",
+        "phone": "0936226330"
+      },
+      {
+        "name": "Media Mart Lạc Long Quân 2",
+        "address": "583 Lạc Long Quân, p.Xuân La",
+        "phone": "0936203828"
+      },
+      {
+        "name": "Media Mart Láng Hạ",
+        "address": "26 Láng Hạ,P.Láng Hạ,Q.Đống Đa",
+        "phone": "0936066180"
+      },
+      {
+        "name": "Media Mart Nguyễn Thái Học",
+        "address": "26 Nguyễn Thái Học,P.Điện Biên",
+        "phone": "0936063882"
+      },
+      {
+        "name": "Media Mart Nguyễn Trãi",
+        "address": "521 Nguyễn Trãi, P.Thanh Xuân",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thưởng Tín",
+        "address": "Số 124 Phố Ga,TT Thường Tín",
+        "phone": "0906263884"
+      },
+      {
+        "name": "Media Mart Mỹ Đức",
+        "address": "103 T.Trấn Đại nghĩa, H.Mỹ Đức",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Đại La",
+        "address": "89 Phố Đại La,P.Trương Định",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Đường Láng",
+        "address": "594 Đường Láng, Láng Hạ",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Trôi",
+        "address": "Q.lộ 32,xã Đức Thương, H.Hoài",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Sài Đồng",
+        "address": "561 Nguyễn Văn Linh, P. Sài Đồ",
+        "phone": ""
+      },
+      {
+        "name": "MediaMart Online",
+        "address": "29F Hai Bà Trưng, Hoàn Kiếm",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Tân Xuân",
+        "address": "86 Đ.Tân Xuân, P.Xuân Đỉnh,Q.",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hải Phòng",
+        "address": "10 Lê Hồng Phong,TP Hải Phòng",
+        "phone": "0963041405"
+      },
+      {
+        "name": "Media Mart Thủy Nguyên",
+        "address": "Số 5+6 Lô LK 20 KĐT Quang Minh",
+        "phone": "0906285695"
+      },
+      {
+        "name": "Media Mart Vĩnh Bảo",
+        "address": "Khu phố 3/2 Thị trấn Vĩnh Bảo",
+        "phone": "0904598033"
+      },
+      {
+        "name": "Media Mart Nguyễn Văn Linh",
+        "address": "234 Nguyễn Văn Linh,Lê Chân",
+        "phone": "0936120288"
+      },
+      {
+        "name": "Media Mart Kiến An",
+        "address": "36 Trần Thanh Ngọ,Q. Kiến An",
+        "phone": "0932356289"
+      },
+      {
+        "name": "Media Mart Kiến Thụy",
+        "address": "Số 19 Cẩm Xuân, TT Núi Đối,",
+        "phone": "0906242869"
+      },
+      {
+        "name": "Media Mart Quán Toan",
+        "address": "549 Tổ 2, Khu 2 ,P. Quán Toan",
+        "phone": "0903239881"
+      },
+      {
+        "name": "Media Mart Đồ Sơn",
+        "address": "Số 2 Nguyễn Hữu Cầu, Đồ Sơn",
+        "phone": "0934677369"
+      },
+      {
+        "name": "Media Mart An Dương",
+        "address": "Số 83, Tổ 4 Thị trấn An Dương",
+        "phone": "0936126882"
+      },
+      {
+        "name": "Media Mart Trịnh Xá",
+        "address": "Ngã 3 Bưu điện Trịnh Xá",
+        "phone": "0902126183"
+      },
+      {
+        "name": "Media Mart Quảng Thanh",
+        "address": "Quảng Thanh, Thủy Nguyên",
+        "phone": "0904617583"
+      },
+      {
+        "name": "Media Mart Tiên Lãng",
+        "address": "Khu 4 TT Tiên Lãng,H.Tiên Lãng",
+        "phone": "0906278681"
+      },
+      {
+        "name": "Media Mart Kiến An 2",
+        "address": "381 Trần Tất Văn,P.Tràng Minh",
+        "phone": "0901720626"
+      },
+      {
+        "name": "Media Mart An Lão",
+        "address": "TT An Lão, Huyện An Lão",
+        "phone": "0902168595"
+      },
+      {
+        "name": "Media Mart Kiến An 3",
+        "address": "Số 891 Trường Chinh, Quán Trữ,",
+        "phone": "0901768385"
+      },
+      {
+        "name": "Media Mart Lê Hồng Phong 2",
+        "address": "Số 15 P.Đằng Hải, Q. Hải An",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thái Nguyên",
+        "address": "Số 3 đường Bắc Cạn,Thái Nguyên",
+        "phone": "0903285169"
+      },
+      {
+        "name": "Media Mart Phổ Yên",
+        "address": "TDP Thành Lập,P Hồng Tiến,TP P",
+        "phone": "0936259398"
+      },
+      {
+        "name": "Media Mart Gang Thép",
+        "address": "273 Cách Mạng Tháng 8, Khu Gan",
+        "phone": "0902126298"
+      },
+      {
+        "name": "Media Mart Đồng Quang",
+        "address": "số 398 Đường Thống Nhất, P. Đồ",
+        "phone": "0936156265"
+      },
+      {
+        "name": "Media Mart Sông Công",
+        "address": "Tổ 10, Phường Thắng Lợi, Sông",
+        "phone": "0903486533"
+      },
+      {
+        "name": "Media Mart Đại Từ",
+        "address": "Khu phố 2 TT Hùng Sơn",
+        "phone": "0901720456"
+      },
+      {
+        "name": "Media Mart Lương Ngọc Quyến",
+        "address": "500 Lương Ngọc Quyến, Phường Đ",
+        "phone": "0936205683"
+      },
+      {
+        "name": "Media Mart Chùa Hang",
+        "address": "Tổ 14 P.Chùa Hang,TP Thái Nguê",
+        "phone": "0902203380"
+      },
+      {
+        "name": "Media Mart Bắc Ninh",
+        "address": "37 Lý Thái Tổ, Tp Bắc Ninh",
+        "phone": "0936353186"
+      },
+      {
+        "name": "Media Mart Từ Sơn",
+        "address": "TTTM Đình Bảng, Từ Sơn, Bắc Ni",
+        "phone": "0936018968"
+      },
+      {
+        "name": "Media Mart Võ Cường",
+        "address": "KCN Võ Cường, TP.Bắc Ninh",
+        "phone": "0936381315"
+      },
+      {
+        "name": "Media Mart Thị Cầu",
+        "address": "Lý Thường Kiệt, Phường Thị Cầu",
+        "phone": "0904672969"
+      },
+      {
+        "name": "Media Mart Quế Võ",
+        "address": "Phương Mao, Huyện Quế Võ",
+        "phone": "0936136085"
+      },
+      {
+        "name": "Media Mart Chùa Dâu",
+        "address": "Thôn Tư Thế, xã Trí Quả",
+        "phone": "0934680098"
+      },
+      {
+        "name": "Media Mart Thị Trấn Chờ",
+        "address": "Số 343 đường 295, thị trấn Chờ",
+        "phone": "0936262285"
+      },
+      {
+        "name": "Media Mart Thị trấn Hồ",
+        "address": "Qlỗ 38 TT Hồ, Thuận Thành",
+        "phone": "0936208781"
+      },
+      {
+        "name": "Media Mart Quế Võ 2",
+        "address": "KM10 ,Qlộ 18,TT Phố mới,Quế võ",
+        "phone": "0901739181"
+      },
+      {
+        "name": "Media Mart Gia Bình",
+        "address": "Thôn Nội Phú,TT Gia Bình",
+        "phone": "0902133683"
+      },
+      {
+        "name": "Media Mart Thứa",
+        "address": "Thôn Tân Dân, TT Thứa",
+        "phone": "0934481689"
+      },
+      {
+        "name": "Media Mart Hưng Yên",
+        "address": "Số 374 Nguyễn Văn Linh, TP. Hư",
+        "phone": "0936416683"
+      },
+      {
+        "name": "Media Mart Phố Nối",
+        "address": "Ngã tư Phố Nối, Hưng Yên",
+        "phone": "0936092669"
+      },
+      {
+        "name": "Media Mart Văn Lâm",
+        "address": "Số 73 Đường Cái, Văn Lâm, Hưng",
+        "phone": "0901707696"
+      },
+      {
+        "name": "Media Mart Khoái Châu",
+        "address": "Ngã tư Dân Tiến, xã Dân Tiến,",
+        "phone": "0936203966"
+      },
+      {
+        "name": "Media Mart Kim Động",
+        "address": "Lương Bằng,Lương Hội, Kim Độn",
+        "phone": "0934603398"
+      },
+      {
+        "name": "Media Mart Yên Mỹ",
+        "address": "Ngã 5,Tân Lập, Yên Mỹ",
+        "phone": "0936009083"
+      },
+      {
+        "name": "Media Mart Minh Đức_ Kẻ sặt",
+        "address": "Thinh Vạn, Phường Minh Đức",
+        "phone": "0903275683"
+      },
+      {
+        "name": "Media Mart Như Quỳnh",
+        "address": "Thôn Như Quỳn, huyện Văn Lâm",
+        "phone": "0904532883"
+      },
+      {
+        "name": "Media Mart Mỹ Hào",
+        "address": "Xã Giai Phạm, H. Yên Mỹ",
+        "phone": "0936253583"
+      },
+      {
+        "name": "Media Mart Phù Cừ",
+        "address": "Phố Cao,TT.Trần Cao,Phù Cừ",
+        "phone": "0936088239"
+      },
+      {
+        "name": "Media Mart Văn Giang",
+        "address": "273 Đưởng 179 TT Văn Giang",
+        "phone": "0936037980"
+      },
+      {
+        "name": "Media Mart Ba Hàng",
+        "address": "Đội 3 Thôn Tân Khai,xá Thiện P",
+        "phone": "0902192663"
+      },
+      {
+        "name": "Media Mart Thị Trấn Vương",
+        "address": "Số 87 Minh Khai,TT Vương,H.Tiê",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thanh Hóa",
+        "address": "Số 301 Trần Phú, TP. Thanh Hóa",
+        "phone": "0972017738"
+      },
+      {
+        "name": "Media Mart Phú Sơn",
+        "address": "Ngã tư Phú Sơn (cạnh chợ Phú T",
+        "phone": "0972006128"
+      },
+      {
+        "name": "Media Mart Bỉm Sơn",
+        "address": "Số 66 Nguyễn Huệ, Phú Sơn, Bỉm",
+        "phone": "0906246296"
+      },
+      {
+        "name": "Media Mart Tĩnh Gia",
+        "address": "Thôn Xuân Hòa, Xã Hải Hòa, Tĩn",
+        "phone": "0902136459"
+      },
+      {
+        "name": "Media Mart Lê Lợi",
+        "address": "Tòa nhà Viettel, Nam Đại Lộ Lê",
+        "phone": "0936299896"
+      },
+      {
+        "name": "Media Mart Quảng Xương",
+        "address": "Số 60, Km8",
+        "phone": "0902111853"
+      },
+      {
+        "name": "Media Mart Quán Lào",
+        "address": "Khu 4 Trị trấn Quán Lào,",
+        "phone": "0901720507"
+      },
+      {
+        "name": "Media Mart Bút Sơn",
+        "address": "Trung Sơn,Bút Sơn,Hoàng Hóa,TH",
+        "phone": "0936263358"
+      },
+      {
+        "name": "Media Mart Triệu Sơn",
+        "address": "231 Phố Giắt, Triệu Sơn",
+        "phone": "0986801155"
+      },
+      {
+        "name": "Media Mart Nông Cống",
+        "address": "Tiểu khu Nam Tiến, Nông Cống",
+        "phone": "0936005585"
+      },
+      {
+        "name": "Media Mart Thạch Thành",
+        "address": "Khu phố 5,Kim Tân, Thạch Bà",
+        "phone": "0901707886"
+      },
+      {
+        "name": "Media Mart Nga Sơn",
+        "address": "Xóm 1 Nga Mỹ, Nga Sơn",
+        "phone": "0904691338"
+      },
+      {
+        "name": "Media Mart Ngọc Lặc",
+        "address": "40 Lê Thánh Tông, TT Ngọc Lặc",
+        "phone": "0931700269"
+      },
+      {
+        "name": "Media Mart Thọ Xuân",
+        "address": "TT Thọ Xuân,Cạnh Bưu Điện",
+        "phone": "0902181556"
+      },
+      {
+        "name": "Media Mart Hà Trung",
+        "address": "Số 244 Tiểu Khu 3,TX Hà Trung",
+        "phone": "0934595683"
+      },
+      {
+        "name": "Media Mart Đông Hoàng",
+        "address": "Thôn 6,xà Đông Hoàng,H Đông Sơ",
+        "phone": "0936006585"
+      },
+      {
+        "name": "Media Mart Tĩnh Gia 2",
+        "address": "Tiểu khu 6 TT Tĩnh Gia",
+        "phone": "0934519519"
+      },
+      {
+        "name": "Media Mart Cẩm Thủy",
+        "address": "Thôn Đại Đông, Cẩm Thủy",
+        "phone": "0934565681"
+      },
+      {
+        "name": "Media Mart Hậu Lộc",
+        "address": "TT Hậu Lộc, Huyện Hậu Lộc",
+        "phone": "0904582281"
+      },
+      {
+        "name": "Media Mart Vĩnh Lộc",
+        "address": "TT Vĩnh Lộc, Huyện Vĩnh Lộc",
+        "phone": "0934608581"
+      },
+      {
+        "name": "Media Mart Lam Sơn",
+        "address": "Thôn Hữ Lễ,xã Thọ Xương",
+        "phone": "0934621669"
+      },
+      {
+        "name": "Media Mart Vạn Hà,Thiệu Hóa",
+        "address": "Tiểu khu 2,TT Vạn Hà,H.Vạn Hà",
+        "phone": "0932331669"
+      },
+      {
+        "name": "Media Mart Phố Môi",
+        "address": "Ngã 4 Môi,Phố Mới, Quảng Tâm",
+        "phone": "0906283785"
+      },
+      {
+        "name": "Media Mart Thường Xuân",
+        "address": "Khu 4 TT Thường Xuân",
+        "phone": "0936069298"
+      },
+      {
+        "name": "Media Mart Bỉm Sơn 2",
+        "address": "75 Đ.Nguyễn Huệ,P Ngọc Tạo",
+        "phone": "0936013319"
+      },
+      {
+        "name": "Media Mart Hải Tiến",
+        "address": "Thôn 6,xã Hoằng Ngọc, Huyện",
+        "phone": "0936059981"
+      },
+      {
+        "name": "Media Mart Sầm Sơn",
+        "address": "Khu phố Sơn Thắng, P.Trường Sơ",
+        "phone": "0936023819"
+      },
+      {
+        "name": "Mediamart Thanh Sơn",
+        "address": "266 Bà Triệu,P.Đông Thọ,TP",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Vĩnh Yên",
+        "address": "Số 635 Mê Linh, TP. Vĩnh Yên",
+        "phone": "0972015817"
+      },
+      {
+        "name": "Media Mart Vĩnh Yên 2",
+        "address": "Số 5 Nguyễn Tất Thành, TP.Vĩnh",
+        "phone": "0934588116"
+      },
+      {
+        "name": "Media Mart Phúc Yên",
+        "address": "Số 366 Hai Bà Trưng, Tiền Châu",
+        "phone": "0936482966"
+      },
+      {
+        "name": "Media Mart Lập Thạch",
+        "address": "ĐT305,Thị Trấn Lập Thạch",
+        "phone": "0901730283"
+      },
+      {
+        "name": "Media Mart Hợp Hòa",
+        "address": "Ngã tư Hợp Hòa, TT Hợp Hòa",
+        "phone": "0936021585"
+      },
+      {
+        "name": "Media Mart Kim Long_ Tam Dương",
+        "address": "Kim Long,Tam Dương",
+        "phone": "0902229285"
+      },
+      {
+        "name": "Media Mart Yên Lạc",
+        "address": "Khu pố 3 Tiên, TT Yên Lạc",
+        "phone": "0934520989"
+      },
+      {
+        "name": "Media Mart Lãng Công _Sông Lô",
+        "address": "Thôn Phú Cường,Xã Lãng Công",
+        "phone": "0936326083"
+      },
+      {
+        "name": "Media Mart Nam Định",
+        "address": "Số 113 Đường Đông A, TP. Nam Đ",
+        "phone": "0932292528"
+      },
+      {
+        "name": "Media Mart Đò Quan",
+        "address": "143 Đặng Xuân Bảng, TP. Nam Đị",
+        "phone": "0901720589"
+      },
+      {
+        "name": "Media Mart Hải Hậu",
+        "address": "Khu I,TT Yên Định, Hải Hậu",
+        "phone": "0904638283"
+      },
+      {
+        "name": "Media Mart Cổ Lễ",
+        "address": "Xã Nam Thanh, Huyện Nam Trực,",
+        "phone": "0902244581"
+      },
+      {
+        "name": "Media Mart Ý Yên",
+        "address": "Đường 38B TT Lâm, Ý Yên",
+        "phone": "0936325598"
+      },
+      {
+        "name": "Media Mart Gôi _ Vụ Bản",
+        "address": "Thị trấn Gôi,Huyện Vụ Bản",
+        "phone": "0934592285"
+      },
+      {
+        "name": "Media Mart Liễu Đề",
+        "address": "TT Liễu Đề,Nghĩa Hưng",
+        "phone": "0904651185"
+      },
+      {
+        "name": "Media Mart Giao Thủy",
+        "address": "Xóm Sơn Lâm,Huyện Giao Thủy",
+        "phone": "0906240869"
+      },
+      {
+        "name": "Media Mart Quất Lâm",
+        "address": "TT Quất Lâm,H.Giao Thủy",
+        "phone": "0934665083"
+      },
+      {
+        "name": "Media Mart Thị trấn Cồn",
+        "address": "TDP Cao An, Thị Trấn Cồn,",
+        "phone": "0901772583"
+      },
+      {
+        "name": "Media Mart Giải Phóng_N.Định",
+        "address": "305 Đ.Giải Phóng,P.Trường Thi",
+        "phone": "0902256283"
+      },
+      {
+        "name": "Media Mart Nghĩa Sơn",
+        "address": "Xã Nghĩ Sơn,H.Nghĩa Hưng",
+        "phone": "0901795393"
+      },
+      {
+        "name": "Media Mart Xuân Trường",
+        "address": "Xóm 8, xã Xuân Kiên,H.Xuân",
+        "phone": "0936095890"
+      },
+      {
+        "name": "Media Mart Nam Giang",
+        "address": "Thôn Tư,Thị Trấn Nam Giang,",
+        "phone": "0934676936"
+      },
+      {
+        "name": "Media Mart Bắc Giang",
+        "address": "Số 1 Hùng Vương, TP. Bắc Giang",
+        "phone": "0977040917"
+      },
+      {
+        "name": "Media Mart Kép",
+        "address": "Ngã tư Kép, Lạng Giang",
+        "phone": "0901729369"
+      },
+      {
+        "name": "Media Mart Hiệp Hòa",
+        "address": "TTTM Chợ Hiệp, Thị Trấn Thắng",
+        "phone": "0934611269"
+      },
+      {
+        "name": "Media Mart Yên Thế",
+        "address": "Ngã Tư TT Cầu Gồ",
+        "phone": "0936424085"
+      },
+      {
+        "name": "Media Mart Bích Động",
+        "address": "Khu Thân Nhân Trung ,Bích Động",
+        "phone": "0902106983"
+      },
+      {
+        "name": "Media Mart Đồi Ngô",
+        "address": "353 khu 3, Phố Bình Minh, Lục",
+        "phone": "0903452583"
+      },
+      {
+        "name": "Media Mart Cao Thượng",
+        "address": "Lô3D Hoàng Hoa Thám,Cao Thượng",
+        "phone": "0903210020"
+      },
+      {
+        "name": "Media Mart Xương Giang",
+        "address": "Số 158 Đ. Xương Giang",
+        "phone": "0902100061"
+      },
+      {
+        "name": "Media Mart Lục Ngạn",
+        "address": "khu Dốc Đồn, TT Chũ",
+        "phone": "0936399091"
+      },
+      {
+        "name": "Media Mart Phố sàn, Lục Nam",
+        "address": "Phố Sàn, Phương Sơn, Lục Nam,",
+        "phone": "0904523230"
+      },
+      {
+        "name": "Media Mart Neo _ Yên Dũng",
+        "address": "KĐTM Tiểu khu 23,TT Nam Biền",
+        "phone": "0904605619"
+      },
+      {
+        "name": "Media Mart Phố Tràng _Việt Yên",
+        "address": "Số 9 xã Việt Tiến,H.Việt Yên",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Bố Hạ",
+        "address": "TDP Đồng Quán,T.Trấn Bố Hạ",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hạ Long",
+        "address": "Số 849 Nguyễn Văn Cừ, TP. Hạ L",
+        "phone": "0936132629"
+      },
+      {
+        "name": "Media Mart Mạo Khê",
+        "address": "Khu Vĩnh Tuy 1, TT.Mạo Khê, Đô",
+        "phone": "0903281223"
+      },
+      {
+        "name": "Media Mart Giếng Đáy",
+        "address": "Tổ 9, khu 6, P.Giếng Đáy, Bãi",
+        "phone": "0934626583"
+      },
+      {
+        "name": "Media Mart Cái Dăm",
+        "address": "517 đường Hạ Long, Bãi Cháy, Q",
+        "phone": "0936082269"
+      },
+      {
+        "name": "Media Mart Quảng Yên",
+        "address": "Số 133 Trần Nhân Tông, Quảng Y",
+        "phone": "0903215228"
+      },
+      {
+        "name": "Media Mart Uông Bí",
+        "address": "Lạc Thanh,Yên Thanh, Uông Bí",
+        "phone": "0904520226"
+      },
+      {
+        "name": "Media Mart Vân Đồn",
+        "address": "Đông Sơn, Đông Xá, Vân Đồn",
+        "phone": "0988602233"
+      },
+      {
+        "name": "Media Mart Đông Triều",
+        "address": "Tổ 4, Phố1,P Đông Triều",
+        "phone": "0936246683"
+      },
+      {
+        "name": "Media Mart Cẩm Phả",
+        "address": "170 Trần Phú, Cẩm Phả",
+        "phone": "0904663030"
+      },
+      {
+        "name": "Media Mart Cẩm Thủy",
+        "address": "Tổ 28",
+        "phone": "0906277085"
+      },
+      {
+        "name": "MediaMart Kim Sơn-Đông Triều",
+        "address": "Khu Kim Thành,Phường Kim Sơn",
+        "phone": "0904611683"
+      },
+      {
+        "name": "Media Mart Cao Thắng",
+        "address": "Tổ 5,Khu 3A,P.Cao Thắng",
+        "phone": "0936090283"
+      },
+      {
+        "name": "Media Mart Móng Cái",
+        "address": "159 Đ.Trần Nhân Tông,P.Hải Hòa",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Đồng Tâm",
+        "address": "233 Đ.Hùng vương, Đ.Ninh Dương",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Mạo Khê 2",
+        "address": "Khu phố 2, P. Mạo Khê, TX Đông",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hà Khẩu",
+        "address": "Tố 19,Khu 2,P.Hà Khẩu, TP Hạ",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Cửa Ông",
+        "address": "Số 91, Phường Cửa Ông,TP Cẩm",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Sông Chanh",
+        "address": "Khu 4,P.Nam Hòa, TX. Quảng Yên",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Cẩm Đông",
+        "address": "Tổ 29,Khu Đồng Tiến 2,P.Cẩm",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Lào Cai",
+        "address": "Số 1 Đại Lộ Trần Hưng Đạo, TP",
+        "phone": "0906215223"
+      },
+      {
+        "name": "Media Mart Hoàng Liên-Lào Cai",
+        "address": "258 Hoàng Liên, P.Kim Tân",
+        "phone": "0901736559"
+      },
+      {
+        "name": "Media Mart Phố Ràng",
+        "address": "Tổ 6B TT Phố Ràng, H.Bảo Yên",
+        "phone": "0902158090"
+      },
+      {
+        "name": "Media Mart Việt Trì",
+        "address": "Số 1498 Đại lộ Hùng Vương, TP.",
+        "phone": "0974610674"
+      },
+      {
+        "name": "Media Mart Phú Thọ",
+        "address": "22 Đinh Tiên Hoàng, Hùng Vương",
+        "phone": "0936153226"
+      },
+      {
+        "name": "Media Mart Đoan Hùng",
+        "address": "Đồng Tâm, Đoan Hùng, Phú Thọ",
+        "phone": "0903404869"
+      },
+      {
+        "name": "Media Mart Vân Cơ",
+        "address": "2470a Hùng Vương, Việt Trì",
+        "phone": "0936498589"
+      },
+      {
+        "name": "Media Mart Phong Châu",
+        "address": "Khu 6,TT Phong Châu, Phú Ninh",
+        "phone": "0934590083"
+      },
+      {
+        "name": "Media Mart Sông Thao",
+        "address": "Khu chợ cũ ,TT Sông Thao",
+        "phone": "0936147283"
+      },
+      {
+        "name": "Media Mart Hạ Hòa",
+        "address": "TT Hạ Hòa,H.Hạ Hòa",
+        "phone": "0904682629"
+      },
+      {
+        "name": "Media Mart Lâm Thao",
+        "address": "Khu Tân Sơn, TT. Lâm Thao",
+        "phone": "0902132878"
+      },
+      {
+        "name": "Media Mart Cổ Tiết",
+        "address": "Khu 23,xã Vạn Xuân,H.Tam Nông",
+        "phone": "0936485338"
+      },
+      {
+        "name": "Media Mart Thanh Sơn",
+        "address": "Thị Trấn Thanh Sơn, Huyện Than",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Yên Lập",
+        "address": "hị Trấn Yên Lập, Huyện Yên Lập",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thanh Thủy",
+        "address": "Khu 5,TT Thanh Thủy,H.Thanh",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thanh Ba",
+        "address": "219 Đào Giã,Khu 5,TT Thanh Ba",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Kinh Môn",
+        "address": "Ngã tư Phụ Sơn, P. An Lưu",
+        "phone": "0936085596"
+      },
+      {
+        "name": "Media Mart Chí Linh",
+        "address": "Chợ Sao đỏ, Tp Chí Linh",
+        "phone": "0936235265"
+      },
+      {
+        "name": "Media Mart Gia Lộc",
+        "address": "Xã Gia Tân,Huyện Gia Lộc",
+        "phone": "0934592258"
+      },
+      {
+        "name": "Media Mart Phạm Ngũ Lão",
+        "address": "Đường Phạm Ngũ Lão",
+        "phone": "0936391589"
+      },
+      {
+        "name": "Media Mart Thanh Hà",
+        "address": "Khu7,Đường 25 Tháng 5",
+        "phone": "0903466983"
+      },
+      {
+        "name": "Media Mart Thanh Miện",
+        "address": "Khu Lê Bình, TT Thanh Miện",
+        "phone": "0906296080"
+      },
+      {
+        "name": "Media Mart Ninh Giang",
+        "address": "Q.lộ 21 xã Đồng Tâm,H.Ninh Gia",
+        "phone": "0904677183"
+      },
+      {
+        "name": "Media Mart Tứ Kỳ",
+        "address": "Khu Yên Nhân ,TT Tứ Kỳ",
+        "phone": "0936040917"
+      },
+      {
+        "name": "Media Mart Phú Thái",
+        "address": "TT Phú Thái, H.Kim Thành",
+        "phone": "0903449336"
+      },
+      {
+        "name": "Media Mart Nam Sách",
+        "address": "633 Đường Trần Phú,TT Nam Sách",
+        "phone": "0934556183"
+      },
+      {
+        "name": "Media Mart Trần Hưng Đạo_HD",
+        "address": "Số 289 Đại lộ Trần Hưng Đạo",
+        "phone": "0902212380"
+      },
+      {
+        "name": "Media Mart Phủ_ Bình Giang",
+        "address": "Tỉnh lộ 392 Phố Phủ,Thái Học",
+        "phone": "0934685283"
+      },
+      {
+        "name": "Media Mart Lương Điền",
+        "address": "Thôn Bình Lọng,xã Lương Điền",
+        "phone": "0904502283"
+      },
+      {
+        "name": "Media Mart Quang Trung",
+        "address": "Số 19 Quang Trung, TP.Vinh, Ng",
+        "phone": "0936358656"
+      },
+      {
+        "name": "Media Mart Nguyễn Trãi",
+        "address": "Số 5 Nguyễn Trãi, TP.Vinh, Ngh",
+        "phone": "0901720171"
+      },
+      {
+        "name": "Media Mart Diễn Kỷ",
+        "address": "Thôn 7 Cầu Bùng",
+        "phone": "0903411880"
+      },
+      {
+        "name": "Media Mart Nam Đàn",
+        "address": "Xóm Nam Sơn,ã Vân Diên,Nam Đàn",
+        "phone": "0936119383"
+      },
+      {
+        "name": "Media Mart Lê Lợi",
+        "address": "60 Đ.Lê Lợi, TP Vinh",
+        "phone": "0902126892"
+      },
+      {
+        "name": "Media Mart Yên Thành",
+        "address": "Khối1,TT Yên Thành,H.Yên Thành",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thanh Chương",
+        "address": "Khối 3A, Thị trấn Thanh Chương",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Quỳ Hợp",
+        "address": "Khối Hợp Châu,TT. Quỳ Hợp",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thái Hòa",
+        "address": "Khối Tân Phú, Phường Hòa Hiếu",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hoàng Mai",
+        "address": "Khối Bắc Mỹ,P.Quỳnh Thiện,Tx",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Lê Nin",
+        "address": "Số 48, Đại lộ Lê Nin, Phường",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Bắc Kạn",
+        "address": "Tổ 8B, Phường Đức Xuân, Thành",
+        "phone": "0934523188"
+      },
+      {
+        "name": "Media Mart Bằng Lũng",
+        "address": "Tổ 6B TT Bằng Lũng, H. Chợ Đồn",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Lai Châu",
+        "address": "Tổ 9, Tân Phong, Lai Châu",
+        "phone": "0902163198"
+      },
+      {
+        "name": "Media Mart Tuyên Quang",
+        "address": "154",
+        "phone": "0901707873"
+      },
+      {
+        "name": "Media Mart Sơn Dương",
+        "address": "TDP Tây Bắc,TT.Sơn Dương,",
+        "phone": "0903270828"
+      },
+      {
+        "name": "Media Mart Tân Yên 1",
+        "address": "Tổ Nhân Dân Cầu Mới,TT Tân Yên",
+        "phone": "0934588680"
+      },
+      {
+        "name": "Media Mart Tân Yên 2",
+        "address": "Tổ Nhân Dân Tân Cương,TT Tân",
+        "phone": "0902202260"
+      },
+      {
+        "name": "Media Mart Chiêm Hóa",
+        "address": "Tổ luộc 4,TT Vĩnh Lộc,H.ChIêm",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Lý Bôn",
+        "address": "368 Lý Bôn,Tiên Phong,T.Bình",
+        "phone": "0936004689"
+      },
+      {
+        "name": "Media Mart Diêm Điền",
+        "address": "Số 267 khu 6 thi Trấn Diêm Điề",
+        "phone": "0934514289"
+      },
+      {
+        "name": "Media Mart Hưng Hà",
+        "address": "Khu Nhân Cầu,TT Hưng Hà",
+        "phone": "0934579269"
+      },
+      {
+        "name": "Media Mart Lý Thường Kiệt",
+        "address": "Phố Lý Thường Kiệt",
+        "phone": "0936432685"
+      },
+      {
+        "name": "Media Mart Kiến Xương",
+        "address": "Vũ Qúy, Kiến Xương",
+        "phone": "0936239298"
+      },
+      {
+        "name": "Media Mart Tiền Hải",
+        "address": "Phố Hùng Thắng, TT Tiền Hải",
+        "phone": "0936133380"
+      },
+      {
+        "name": "Media Mart An Bài",
+        "address": "Khu Tự Môi,Tổ 13 TT An Bài",
+        "phone": "0902125089"
+      },
+      {
+        "name": "Media Mart Quang Trung",
+        "address": "30 Quang Trung,P.Trần Hưng Đạo",
+        "phone": "0936439569"
+      },
+      {
+        "name": "Media Mart Nam Trung_ Tiền Hải",
+        "address": "Xã Nam trung, Huyện Tiền Hải",
+        "phone": "0936360869"
+      },
+      {
+        "name": "Media Mart Thụy Phong",
+        "address": "Thông Đông Hồ,xã Thụy Phong",
+        "phone": "0902155816"
+      },
+      {
+        "name": "Media Mart Đông Hưng",
+        "address": "266",
+        "phone": ""
+      },
+      {
+        "name": "MediaMart Thanh Nê, Kiến Xương",
+        "address": "TDP Cộng Hòa, TT Kiến Xương",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Điện Biên-Yên Bái",
+        "address": "885 Đường Điện Biên, Đồng Tâm",
+        "phone": "0901720358"
+      },
+      {
+        "name": "Media Mart Nguyễn Thái Học",
+        "address": "Số 7 Đường Nguyễn Thái Học",
+        "phone": "0901720151"
+      },
+      {
+        "name": "Media Mart Yên Bình",
+        "address": "Tổ 14A TT Yên Bình,H.Yên Bình",
+        "phone": "0936176080"
+      },
+      {
+        "name": "Media Mart Nghĩa Lộ",
+        "address": "Tổ 23C,phường.Đồng Tâm",
+        "phone": "0936236162"
+      },
+      {
+        "name": "MediaMart Lục Yên",
+        "address": "TDP số 3,TT Yên Thế,H.Lục Yên",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Ngô Quyền",
+        "address": "66 Ngô Quyền, Vĩnh Trại,",
+        "phone": "0901720091"
+      },
+      {
+        "name": "Media Mart Đồng Đăng",
+        "address": "Ngã tư Tân Việt Hoa, TT Đồng Đ",
+        "phone": "0906226538"
+      },
+      {
+        "name": "Media Mart Lộc Bình",
+        "address": "Khu bản Kho, TT Lộc Bình",
+        "phone": "0934551583"
+      },
+      {
+        "name": "Media Mart Hòa Bình",
+        "address": "Tổ 5 Phường Đồng Tiến,Hòa Bình",
+        "phone": "0902267383"
+      },
+      {
+        "name": "Media Mart Cao Phong",
+        "address": "Khu 3,TT Cao Phong,TP Hòa Bình",
+        "phone": "0936156265"
+      },
+      {
+        "name": "Media Mart Yên Thủy",
+        "address": "Khu 11,TT Hàng Trạm,H.Yên Thủy",
+        "phone": "0936156583"
+      },
+      {
+        "name": "Media Mart Bo_Kim Bội",
+        "address": "TT Bo, H.Kim Bôi",
+        "phone": "0936299385"
+      },
+      {
+        "name": "Media Mart Lương Sơn",
+        "address": "Tiểu Khu 11,TT Lương Sơn",
+        "phone": "0936459983"
+      },
+      {
+        "name": "Media Mart Ninh Bình",
+        "address": "114 Phúc Chỉnh2,1B P.Nam Thanh",
+        "phone": "0902202281"
+      },
+      {
+        "name": "Media Mart Nho Quan",
+        "address": "Phố Bái, TT Nho Quan",
+        "phone": "0906235139"
+      },
+      {
+        "name": "Media Mart Tam Điệp",
+        "address": "294 Quang Trung, Bắc Sơn,N",
+        "phone": "0906255882"
+      },
+      {
+        "name": "Media Mart Ninh Bình 2",
+        "address": "416 Ng. Công trứ, Thanh Bình",
+        "phone": "0902103669"
+      },
+      {
+        "name": "Media Mart Gián Khẩu",
+        "address": "Ngã 3 Gián Khẩu, Gian Viễn",
+        "phone": "0901723869"
+      },
+      {
+        "name": "Media Mart Thị Trấn Me",
+        "address": "Phố me, Thị Trấn Me",
+        "phone": "0936433069"
+      },
+      {
+        "name": "Media Mart Kim Sơn",
+        "address": "Quốc lộ 10,xã Đồng Hướng,",
+        "phone": "0901755880"
+      },
+      {
+        "name": "Media Mart Ninh Phúc",
+        "address": "Trần Nhân Tông,Phúc Ninh",
+        "phone": "0936063898"
+      },
+      {
+        "name": "Media Mart Yên Mô",
+        "address": "Ngã 3 Chợ Ngò, yên Mô",
+        "phone": "0906299183"
+      },
+      {
+        "name": "Media Mart Yên Khánh",
+        "address": "TT Yên Ninh,H.Yên Khánh",
+        "phone": "0904590083"
+      },
+      {
+        "name": "Media Mart Ninh Khánh",
+        "address": "Đ.Trần Hưng Đạo,P.Ninh Khánh",
+        "phone": "0936120083"
+      },
+      {
+        "name": "Media Mart Khánh Thiện",
+        "address": "Xóm chợ,Xã Khánh Thiện",
+        "phone": "0901791323"
+      },
+      {
+        "name": "Media Mart Yên Mạc",
+        "address": "Xóm 4,Đông Sơn, xã Yên Mạc,",
+        "phone": "0936318163"
+      },
+      {
+        "name": "Media Mart Rịa",
+        "address": "Thôn Chợ Rịa,X.Phú Lộc",
+        "phone": "0936113130"
+      },
+      {
+        "name": "Media Mart Kim Bảng",
+        "address": "Khu 1,xã Thi Sơn, Kim Bảng",
+        "phone": "0902206685"
+      },
+      {
+        "name": "Media Mart Lý Thường Kiệt_Plý",
+        "address": "383 Lý Thường Kiệt,TT Phủ Lý",
+        "phone": "0936486585"
+      },
+      {
+        "name": "Media Mart Đồng Văn",
+        "address": "284 Nguyễn Hữ Tiến, Đồng Văn",
+        "phone": "0936212685"
+      },
+      {
+        "name": "Media Mart Lê Công Thanh_P.lý",
+        "address": "Số 35 Đ.Lê Công Thanh,P.Hai Bà",
+        "phone": "0936088385"
+      },
+      {
+        "name": "Media Mart Vĩnh Trụ",
+        "address": "Số2 Trần Hưng Đạo,Vĩnh Trụ",
+        "phone": "0934682883"
+      },
+      {
+        "name": "Media Mart Nghi Xuân_ Hà Tĩnh",
+        "address": "407 Nguyễn Nghiễm,Khối 5",
+        "phone": "0934656581"
+      },
+      {
+        "name": "Media Mart Hồng Lĩnh _ Hà Tĩnh",
+        "address": "Khối 5,P.Bắc Hồng,Tx Hồng lĩnh",
+        "phone": "0934616083"
+      },
+      {
+        "name": "Media Mart Trần Phú",
+        "address": "120 Trần Phú,P.Nguyễn Du",
+        "phone": "0906203683"
+      },
+      {
+        "name": "Media Mart Kỳ Anh",
+        "address": "TDP Châu Phố, P.Hưng Chí, TX",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Cầu Cày (Trần Phú 2)",
+        "address": "853 Trần Phú,xã Thạch Trung",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Đức Thọ",
+        "address": "Vùng QH Trang Bội,TT Đức Thọ",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hương Sơn",
+        "address": "TDP số 5,TT Phố Châu",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Tôn Đức Thắng",
+        "address": "171Tôn Đức Thắng,P.Hòa Minh,",
+        "phone": "0934592166"
+      },
+      {
+        "name": "Media Mart Nguyễn Văn Linh _ĐN",
+        "address": "216 Nguyễn Văn Linh, P.Vĩnh",
+        "phone": "0936065598"
+      },
+      {
+        "name": "Media Mart Duy Tân",
+        "address": "Ngã tư Duy Tân",
+        "phone": "0934575229"
+      },
+      {
+        "name": "Media Mart Lý Thường Kiệt",
+        "address": "54 Lý Thường Kiệt",
+        "phone": "0936082256"
+      },
+      {
+        "name": "Media Mart Ba Đồn",
+        "address": "TDP Minh Lợi, P.Quảng Thọ, TX",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Lệ Thủy",
+        "address": "TDP Thượng Giang, TT Kiên Gian",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thị xã Quảng Trị",
+        "address": "Đ.Trần Hưng Đạo,Tx.Quảng Trị",
+        "phone": "0901721869"
+      },
+      {
+        "name": "Media Mart Đông Hà",
+        "address": "Khu số 8,TP Đông Hà",
+        "phone": "0902253229"
+      },
+      {
+        "name": "Media Mart Gio Linh",
+        "address": "244 Lê Duẩn,TT Gio Linh",
+        "phone": "0904867051"
+      },
+      {
+        "name": "Media Mart Trần Hưng Đạo, Đông Hà",
+        "address": "51B Trần Hưng Đạo,Phường 1 ,TP",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Hải Lăng",
+        "address": "81 Hùng Vương,TT Diên Xanh,Hải",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Tam Kỳ",
+        "address": "652 Phan Chi Trinh,Tam Kỳ",
+        "phone": "0901778662"
+      },
+      {
+        "name": "Media Mart Bắc Quang",
+        "address": "639 Đ.Trường Chinh, Tổ 5,",
+        "phone": "0936289960"
+      },
+      {
+        "name": "Media Mart Vị Xuyên",
+        "address": "Tổ 5, TT V Xuyên,H.Vị Xuyên",
+        "phone": "0936208292"
+      },
+      {
+        "name": "Media Mart Hà Giang",
+        "address": "Tổ 4, P.Nguyễn Trãi, TP Hà Gia",
+        "phone": "0904503319"
+      },
+      {
+        "name": "Media Mart Sơn La",
+        "address": "Tiểu khu 5,H.Mai Sơn",
+        "phone": "0936336956"
+      },
+      {
+        "name": "Media Mart TP Sơn la",
+        "address": "307 Trần Văn Ninh,Tổ 7 Phường",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Lò Văn Gía",
+        "address": "Số 4 Lò Văn Giá,P.Chiềng Lề,",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Thuận Châu",
+        "address": "Tiểu khu 2, TT.Thuận Châu",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Phù Yên",
+        "address": "Ngã tư Khối 11,TT.Phù Yên",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Bắc Yên",
+        "address": "Phiêng Ban 3, T.Trấn Bắc Yên",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Đường Hà Nội_Huế",
+        "address": "26 Đ Hà nội,P.Phú nhuận,TP Huế",
+        "phone": "0902201538"
+      },
+      {
+        "name": "Media Mart Phạm Văn Đồng _ Huế",
+        "address": "53 Phạm Văn Đồng",
+        "phone": "0936283265"
+      },
+      {
+        "name": "Media Mart Quảng Ngãi",
+        "address": "363 Nguyễn Văn Linh, P.Trương",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Quang Trung",
+        "address": "982 Đ.Quang Trung,P.Chánh Lộ",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Mộ Đức",
+        "address": "QL1A, xã Đức Thạch, huyện Mộ",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Bình Định",
+        "address": "279 Đ. Hùng Vương,P.Nhơn Phú",
+        "phone": ""
+      },
+      {
+        "name": "Media Mart Sơn Tây",
+        "address": "Lô 1",
+        "phone": ""
+      }
+    ]
+  },
+  "item_scraped_count": 330
+}

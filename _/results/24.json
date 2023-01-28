@@ -1,0 +1,757 @@
+{
+  "type": "Feature",
+  "name": "generic",
+  "POI:Category": "",
+  "store_url": "https://www.hlb.gov.sg/notices",
+  "website": "https://www.hlb.gov.sg",
+  "properties": {
+    "entities": [
+      {
+        "date": "16 Mar 2022",
+        "name": "Bluewaters Pods 38 Hong Kong St",
+        "address": "38 Hongkong St #02-01 Singapore 059677"
+      },
+      {
+        "date": "15 Mar 2022",
+        "name": "Hotel Duke",
+        "address": "44 Lorong 6 Geylang Singapore 399199"
+      },
+      {
+        "date": "7 Mar 2022",
+        "name": "Hi Hotel Dot",
+        "address": "56 Sims Avenue Singapore 387416"
+      },
+      {
+        "date": "1 Mar 2022",
+        "name": "CITADINES CONNECT CITY CENTRE",
+        "address": "182 Clemenceau Avenue Singapore 239923"
+      },
+      {
+        "date": "1 Mar 2022",
+        "name": "PARADOX SINGAPORE MERCHANT COURT AT CLARKE QUAY",
+        "address": "20 Merchant Road Singapore 058281"
+      },
+      {
+        "date": "1 Mar 2022",
+        "name": "The Capitol Kempinski Hotel Singapore",
+        "address": "15 Stamford Road Singapore 178906"
+      },
+      {
+        "date": "21 Feb 2022",
+        "name": "Vibe Hotel Singapore Orchard",
+        "address": "24 Mount Elizabeth Singapore 228518"
+      },
+      {
+        "date": "18 Feb 2022",
+        "name": "Hi Hotel",
+        "address": "11 Jalan Klapa Singapore 199323"
+      },
+      {
+        "date": "16 Feb 2022",
+        "name": "Lion Peak Hotel Purvis",
+        "address": "14 Purvis Street Singapore 188593"
+      },
+      {
+        "date": "25 Jan 2022",
+        "name": "Hilton Singapore Orchard",
+        "address": "333 Orchard Road Singapore 238867"
+      },
+      {
+        "date": "24 Jan 2022",
+        "name": "New Cape Inn",
+        "address": "3 Seng Poh Road, Green World Singapore 168891"
+      },
+      {
+        "date": "19 Jan 2022",
+        "name": "AQUEEN EXPRESS - SIMS AVE",
+        "address": "56 Sims Avenue Singapore 387416"
+      },
+      {
+        "date": "14 Jan 2022",
+        "name": "Rucksack Inn @ Temple Street",
+        "address": "52 Temple Street Singapore 058597"
+      },
+      {
+        "date": "13 Jan 2022",
+        "name": "Hotel 1929",
+        "address": "50 Keong Saik Road Singapore 089154"
+      },
+      {
+        "date": "12 Jan 2022",
+        "name": "Yaju Hotel",
+        "address": "12 Lorong 12 Geylang Singapore 398993"
+      },
+      {
+        "date": "4 Jan 2022",
+        "name": "K HOTEL ALIWAL",
+        "address": "10 Aliwal Street Singapore 199903"
+      },
+      {
+        "date": "30 Jun 2022",
+        "name": "Beverly Hotels Elements",
+        "address": "48 Horne Road Singapore 209069"
+      },
+      {
+        "date": "8 Jun 2022",
+        "name": "Coliwoo Hotel Balestier",
+        "address": "473 Balestier Road Singapore 329843"
+      },
+      {
+        "date": "2 Jun 2022",
+        "name": "Beverly Hotel Lavender",
+        "address": "48 Horne Road Singapore 209069"
+      },
+      {
+        "date": "1 Jun 2022",
+        "name": "Dao by Dorsett AMTD Singapore",
+        "address": "6 Shenton Way #07-01 Singapore 068809"
+      },
+      {
+        "date": "24 May 2022",
+        "name": "ibis Styles Singapore Albert",
+        "address": "175 Albert Street Singapore 189970"
+      },
+      {
+        "date": "20 May 2022",
+        "name": "Sing Hoe Hotel",
+        "address": "759 Mountbatten Road Singapore 437761"
+      },
+      {
+        "date": "10 May 2022",
+        "name": "JXIN HOTEL",
+        "address": "9 Lorong 10 Geylang Singapore 399042"
+      },
+      {
+        "date": "26 Apr 2022",
+        "name": "Atlantis @ 531",
+        "address": "531 Serangoon Road Singapore 218163"
+      },
+      {
+        "date": "1 Apr 2022",
+        "name": "Green Kiwi Backpacker Hostel",
+        "address": "280A Lavender Street Singapore 338800"
+      },
+      {
+        "date": "1 Apr 2022",
+        "name": "Republic of Singapore Yacht Club",
+        "address": "52 West Coast Ferry Road Singapore 126887"
+      },
+      {
+        "date": "26 Sep 2022",
+        "name": "Citadines Connect Rochester Singapore",
+        "address": "1 Rochester Park Singapore 139212"
+      },
+      {
+        "date": "22 Sep 2022",
+        "name": "Hotel Compass",
+        "address": "36 Lorong 22 Geylang Singapore 398693"
+      },
+      {
+        "date": "22 Sep 2022",
+        "name": "D'Nova Hotel",
+        "address": "14 Purvis Street Singapore 188593"
+      },
+      {
+        "date": "22 Sep 2022",
+        "name": "THE ASSEMBLY PLACE, A CO-LIVING HOSTEL @ PERAK",
+        "address": "25A Perak Road Singapore 208136"
+      },
+      {
+        "date": "30 Aug 2022",
+        "name": "Equarius Villas",
+        "address": "20 Sentosa Gateway Singapore 098135"
+      },
+      {
+        "date": "30 Aug 2022",
+        "name": "Momentus Hotel Alexandra",
+        "address": "323 Alexandra Road Singapore 159972"
+      },
+      {
+        "date": "22 Aug 2022",
+        "name": "Hotel Telegraph",
+        "address": "35 Robinson Road Singapore 068876"
+      },
+      {
+        "date": "28 Jul 2022",
+        "name": "7 Wonders Hostel @ Boat Quay",
+        "address": "65 South Bridge Road Singapore 058695"
+      },
+      {
+        "date": " 26 Jul 2022 ",
+        "name": " L Hotel @ Broadway",
+        "address": "195 Serangoon Road Singapore 218067"
+      },
+      {
+        "date": " 26 Jul 2022 ",
+        "name": " L Hotel @ 51 Desker",
+        "address": "51 Desker Road Singapore 209645"
+      },
+      {
+        "date": "21 Jul 2022",
+        "name": "Travelodge Sentosa Gateway",
+        "address": "50 Telok Blangah Road Singapore 098828"
+      },
+      {
+        "date": "21 Jul 2022",
+        "name": "Garden Pod @ Gardens by the Bay",
+        "address": "18 Marina Gardens Drive Meadows Car Park Singapore 018953"
+      },
+      {
+        "date": "18 Jul 2022",
+        "name": "Mercure Singapore Tyrwhitt",
+        "address": "165 Tyrwhitt Road Singapore 207569"
+      },
+      {
+        "date": "14 Jul 2022",
+        "name": "Coliwoo Hotel Gay World",
+        "address": "115 Geylang Road Singapore 389218"
+      },
+      {
+        "date": "14 Jul 2022",
+        "name": "Arena Esports Hotel",
+        "address": "166A Rochor Road Singapore 188441"
+      },
+      {
+        "date": "1 Jul 2022",
+        "name": "The Assembly Place, A Co-Living Hotel @ Mayo",
+        "address": "9 Jalan Besar Singapore 208786"
+      },
+      {
+        "date": "8 Nov 2022",
+        "name": "Royal Plaza on Scotts",
+        "address": "25 Scotts Road Singapore 228220"
+      },
+      {
+        "date": "1 Nov 2022",
+        "name": "ibis budget Singapore Gold",
+        "address": "123 Sims Avenue Singapore 387446"
+      },
+      {
+        "date": "27 Oct 2022",
+        "name": "Heritage Collection on Pagoda",
+        "address": "63 Pagoda Street Singapore 059222"
+      },
+      {
+        "date": "27 Oct 2022",
+        "name": "Mountbatten Hotel",
+        "address": "759 Mountbatten Road Singapore 437761"
+      },
+      {
+        "date": "26 Oct 2022",
+        "name": "The Serangoon House, Singapore, a Tribute Portfolio Hotel",
+        "address": "301 Serangoon Road Singapore 218224"
+      },
+      {
+        "date": "18 Oct 2022",
+        "name": "Maxwell Reserve Singapore, Autograph Collection",
+        "address": "2 Cook Street Singapore 078857"
+      },
+      {
+        "date": "18 Oct 2022",
+        "name": "Duxton Reserve Singapore, Autograph Collection",
+        "address": "83 Duxton Road Singapore 089540"
+      },
+      {
+        "date": "18 Oct 2022",
+        "name": "Days Hotel by Wyndham Singapore at Zhongshan Park",
+        "address": "1 Jalan Rajah Singapore 329133"
+      },
+      {
+        "date": "18 Oct 2022",
+        "name": "\tRamada by Wyndham Singapore at Zhongshan Park",
+        "address": "16 Ah Hood Road Singapore 329982"
+      },
+      {
+        "date": "17 Oct 2022",
+        "name": "DUKE Hostel",
+        "address": "135 Geylang Road Singapore 389226"
+      },
+      {
+        "date": "17 Oct 2022",
+        "name": "1900",
+        "address": "48 Mosque Street Singapore 059526"
+      },
+      {
+        "date": "17 Oct 2022",
+        "name": "OWEN HOUSE BY HMLET",
+        "address": "2 Owen Road Singapore 218842"
+      },
+      {
+        "date": "13 Oct 2022",
+        "name": "Wink @ McCallum Street",
+        "address": "3B McCallum Street Singapore 069044"
+      },
+      {
+        "date": "13 Oct 2022",
+        "name": "Wink @ Mosque Street",
+        "address": "8A Mosque Street Singapore 059488"
+      },
+      {
+        "date": "9 Feb 2021",
+        "name": "K Hotel 1515",
+        "address": "15 Lorong 15 Geylang Singapore 388607"
+      },
+      {
+        "date": "8 Feb 2021",
+        "name": "Hotel Compass",
+        "address": "36 Lor 22 Geylang Singapore 398693"
+      },
+      {
+        "date": "1 Feb 2021",
+        "name": "Atlantis @ 531",
+        "address": "531 Serangoon Road Singapore 218163"
+      },
+      {
+        "date": "12 Jan 2021",
+        "name": "AQUEEN Prestige Hotel - Lavender",
+        "address": "35 Hamilton Road Singapore 209204"
+      },
+      {
+        "date": "12 Jan 2021",
+        "name": "K Space Inn Owen",
+        "address": "91A Owen Road Singapore 218903"
+      },
+      {
+        "date": "6 Jan 2021",
+        "name": "K HOTEL ALIWAL",
+        "address": "10 Aliwal Street Singapore 199903"
+      },
+      {
+        "date": "29 Jun 2021",
+        "name": "The Great Madras",
+        "address": "28 Madras Street Singapore 208422"
+      },
+      {
+        "date": "23 Jun 2021",
+        "name": "Heritage Collection on Boat Quay Quayside Wing",
+        "address": "76 Boat Quay Singapore 049864"
+      },
+      {
+        "date": "23 Jun 2021",
+        "name": "K Hotel Aliwal",
+        "address": "10 Aliwal Street Singapore 199903"
+      },
+      {
+        "date": "23 Jun 2021",
+        "name": "Lion Peak Hotel",
+        "address": "34 Lorong 22 Geylang Singapore 398691"
+      },
+      {
+        "date": "14 Jun 2021",
+        "name": "Hotel 1929",
+        "address": "50 Keong Saik Road Singapore 089154"
+      },
+      {
+        "date": "11 Jun 2021",
+        "name": "Regin Hotel",
+        "address": "56 Sims Avenue Singapore 387416"
+      },
+      {
+        "date": "9 Jun 2021",
+        "name": "Park 22 Hotel Little India",
+        "address": "60 Kerbau Road Singapore 219184"
+      },
+      {
+        "date": "9 Jun 2021",
+        "name": "Hotel Calmo Chinatown",
+        "address": "25 Trengganu Street Singapore 058476"
+      },
+      {
+        "date": "24 May 2021",
+        "name": "The Hive@bugis",
+        "address": "5 Jalan Pinang Singapore 199137"
+      },
+      {
+        "date": "12 May 2021",
+        "name": "Hotel Clover 769 North Bridge Road",
+        "address": "769 North Bridge Road Singapore 198737"
+      },
+      {
+        "date": "14 Apr 2021",
+        "name": "Checkers Hostel @ Beach Road",
+        "address": "285 Beach Road Singapore 199550"
+      },
+      {
+        "date": "6 Apr 2021",
+        "name": "Oh My Suites",
+        "address": "3 Veerasamy Road Singapore 207309"
+      },
+      {
+        "date": "6 Apr 2021",
+        "name": "Heritage Collection on Boat Quay (Quayside Wing)",
+        "address": "76 Boat Quay Singapore 049864"
+      },
+      {
+        "date": "28 Sep 2021",
+        "name": "The Snooze Hotel @ Marine Parade",
+        "address": "400 East Coast Road Singapore 428996"
+      },
+      {
+        "date": "24 Sep 2021",
+        "name": "Zero Hostel",
+        "address": "146 Jalan Bukit Merah #01-1088 Singapore 160146"
+      },
+      {
+        "date": "20 Sep 2021",
+        "name": "Lion Peak Hotel Hamilton",
+        "address": "35 Hamilton Road Singapore 209204"
+      },
+      {
+        "date": "15 Sep 2021",
+        "name": "Holiday Inn Singapore Little India",
+        "address": "10 Farrer Park Station Road Singapore 217564"
+      },
+      {
+        "date": "31 Aug 2021",
+        "name": "Haising Hotel",
+        "address": "37A Jalan Besar Singapore 208801"
+      },
+      {
+        "date": "25 Aug 2021",
+        "name": "AQUEEN Hotel - Paya Lebar",
+        "address": "33 Jalan Afifi Singapore 409180"
+      },
+      {
+        "date": "20 Aug 2021",
+        "name": "Orchard Place Hotel",
+        "address": "270 Orchard Road Singapore 238857"
+      },
+      {
+        "date": "20 Aug 2021",
+        "name": "Hotel NuVe Stellar",
+        "address": "230 Jalan Besar Singapore 208906"
+      },
+      {
+        "date": "2 Aug 2021",
+        "name": "Shangri-La Rasa Sentosa",
+        "address": "101 Siloso Road Singapore 098970"
+      },
+      {
+        "date": "2 Aug 2021",
+        "name": "Shangri-La Singapore",
+        "address": "22 Orange Grove Road Singapore 258350"
+      },
+      {
+        "date": "28 Jul 2021",
+        "name": "Hotel Traveltine",
+        "address": "700 Beach Road Singapore 199598"
+      },
+      {
+        "date": "28 Jul 2021",
+        "name": "Riverside Hotel Robertson Quay",
+        "address": "1 Unity Street Singapore 237983"
+      },
+      {
+        "date": "23 Jul 2021",
+        "name": "The Daulat",
+        "address": "16 Madras Street Singapore 208413"
+      },
+      {
+        "date": "23 Jul 2021",
+        "name": "Lion Peak Hotel Dickson",
+        "address": "23 Dickson Road Singapore 209507"
+      },
+      {
+        "date": "22 Jul 2021",
+        "name": "AM Hotel",
+        "address": "51 Joo Chiat Road Singapore 427373"
+      },
+      {
+        "date": "19 Jul 2021",
+        "name": "Heritage Collection on Arab",
+        "address": "78 Arab Street Singapore 199775"
+      },
+      {
+        "date": "19 Jul 2021",
+        "name": "Coliwoo Amber Hotel",
+        "address": "42 Amber Road Singapore 439885"
+      },
+      {
+        "date": "19 Jul 2021",
+        "name": "Coliwoo Amber Hotel Katong",
+        "address": "40 Amber Road Singapore 439878"
+      },
+      {
+        "date": "9 Jul 2021",
+        "name": "Rucksack Inn @ Tyrwhitt",
+        "address": "153A Tyrwhitt Road Singapore 207566"
+      },
+      {
+        "date": "29 Dec 2021",
+        "name": "Dash Living on Mackenzie",
+        "address": "15 Mackenzie Road Singapore 228677"
+      },
+      {
+        "date": "23 Nov 2021",
+        "name": "Hotel Snow Lavender",
+        "address": "26 Cavan Road Singapore 209854"
+      },
+      {
+        "date": "17 Nov 2021",
+        "name": "Hotel VR",
+        "address": "41 Upper Weld Road Singapore 207398"
+      },
+      {
+        "date": "05 Nov 2021",
+        "name": "Lion Peak Hotel Raffles",
+        "address": "23 Middle Road Singapore 188933"
+      },
+      {
+        "date": "05 Nov 2021",
+        "name": "The Daulat By Hotel Calmo",
+        "address": "16 Madras Street Singapore 208413"
+      },
+      {
+        "date": "03 Nov 2021",
+        "name": "Lion Peak Hotel Bugis",
+        "address": "103 Beach Road Singapore 189704"
+      },
+      {
+        "date": "01 Nov 2021",
+        "name": "Philip Hotel",
+        "address": "75 Desker Road Singapore 209598"
+      },
+      {
+        "date": "21 Oct 2021",
+        "name": "Check-Inn @Little India",
+        "address": "60 Kerbau Road Singapore 219184"
+      },
+      {
+        "date": "14 Oct 2021",
+        "name": "Pullman Singapore Orchard",
+        "address": "270 Orchard Road Singapore 238857"
+      },
+      {
+        "date": "12 Oct 2021",
+        "name": "The Great Madras By Hotel Calmo",
+        "address": "28 Madras Street Singapore 208422"
+      },
+      {
+        "date": "12 Oct 2021",
+        "name": "voco Orchard Singapore",
+        "address": "581 Orchard Road Singapore 238883"
+      },
+      {
+        "date": "21 Mar 2020",
+        "name": "99 HOSTEL",
+        "address": "65 South Bridge Road Singapore 058695"
+      },
+      {
+        "date": "6 Mar 2020",
+        "name": "XY HOTEL BUGIS by ASANDA HOTELS AND RESORTS",
+        "address": "11 Jalan Klapa Singapore 199323"
+      },
+      {
+        "date": "2 Mar 2020",
+        "name": "KINN",
+        "address": "39 South Bridge Road Singapore 058673"
+      },
+      {
+        "date": "4 Feb 2020",
+        "name": "ST Signature Bugis Beach",
+        "address": "85 Beach Road Singapore 189694"
+      },
+      {
+        "date": "4 Feb 2020",
+        "name": "ST Signature Jalan Besar",
+        "address": "15 Upper Weld Road Singapore 207372"
+      },
+      {
+        "date": "28 Jan 2020",
+        "name": "The Quay Hotel West Coast",
+        "address": "428 Pasir Panjang Road Singapore 118769"
+      },
+      {
+        "date": "22 Jan 2020",
+        "name": "Beary Best! Hostel Kampong Glam",
+        "address": "64 Arab Street Singapore 199761"
+      },
+      {
+        "date": "20 Jan 2020",
+        "name": "Heritage Collection on Seah",
+        "address": "39 Seah Street Singapore 188395"
+      },
+      {
+        "date": "20 Jan 2020",
+        "name": "K Space Inn 569",
+        "address": "569 Serangoon Road Singapore 218184"
+      },
+      {
+        "date": "20 Jan 2020",
+        "name": "ST Signature Tanjong Pagar",
+        "address": "32 Tras Street Singapore 078972"
+      },
+      {
+        "date": "18 Jun 2020",
+        "name": "Heritage Collection on Chinatown",
+        "address": "227 South Bridge Road, #01-03 Singapore 058776"
+      },
+      {
+        "date": "18 Jun 2020",
+        "name": "Hotel Compass",
+        "address": "36 Lor 22 Geylang Singapore 398693"
+      },
+      {
+        "date": "15 Jun 2020",
+        "name": "Naumi",
+        "address": "41 Seah Street Singapore 188396"
+      },
+      {
+        "date": "11 Jun 2020",
+        "name": "HERITAGE INN @ ARAB STREET",
+        "address": "48 Arab Street Singapore 199745"
+      },
+      {
+        "date": "5 Jun 2020",
+        "name": "Maxwell Reserve",
+        "address": "2 Cook Street Singapore 078857"
+      },
+      {
+        "date": "5 Jun 2020",
+        "name": "Duxton Reserve",
+        "address": "83 Duxton Road Singapore 089540"
+      },
+      {
+        "date": "5 Jun 2020",
+        "name": "The Clan Hotel",
+        "address": "10 Cross Street Singapore 048417"
+      },
+      {
+        "date": "18 May 2020",
+        "name": "GREENDILI BACKPACKERS HOSTEL",
+        "address": "427 Race Course Road Singapore 218673"
+      },
+      {
+        "date": "14 May 2020",
+        "name": "Heritage Collection on Clarke Quay",
+        "address": "36 South Bridge Road Singapore 058670"
+      },
+      {
+        "date": "30 Apr 2020",
+        "name": "AQUEEN Heritage Hotel - Little India",
+        "address": "22 Belilios Lane Singapore 219962"
+      },
+      {
+        "date": "16 Sep 2020",
+        "name": "K2 Guesthouse Central",
+        "address": "134 Jalan Besar Singapore 208852"
+      },
+      {
+        "date": "2 Sep 2020",
+        "name": "JEN Singapore Orchardgateway by Shangri-La",
+        "address": "277 Orchard Road, #10-01 Singapore 238858"
+      },
+      {
+        "date": "2 Sep 2020",
+        "name": "JEN Singapore Tanglin by Shangri-La",
+        "address": "1A Cuscaden Road Singapore 249716"
+      },
+      {
+        "date": "27 Aug 2020",
+        "name": "Hotel Calmo Bugis",
+        "address": "95 Beach Road Singapore 189699"
+      },
+      {
+        "date": "27 Aug 2020",
+        "name": "ST Signature Tanjong Pagar",
+        "address": "32 Tras Street Singapore 078972"
+      },
+      {
+        "date": "13 Aug 2020",
+        "name": "Dusit Thani Laguna Singapore",
+        "address": "11 Laguna Golf Green Singapore 488047"
+      },
+      {
+        "date": "28 Jul 2020",
+        "name": "AQUEEN Hotel - Kitchener",
+        "address": "230 Jalan Besar Singapore 208906"
+      },
+      {
+        "date": "22 Jul 2020",
+        "name": "Q Loft Hotel1929@Chinatown",
+        "address": "50 Keong Saik Road Singapore 089154"
+      },
+      {
+        "date": "11 Dec 2020",
+        "name": "Bluewaters Pod",
+        "address": "2 Tan Quee Lan Street, #02-01 Singapore 188091"
+      },
+      {
+        "date": "1 Dec 2020",
+        "name": "ibis budget Singapore Ametrine",
+        "address": "10 Lorong 10 Geylang Singapore 399043"
+      },
+      {
+        "date": "25 Nov 2020",
+        "name": "ARABIC INN",
+        "address": "48 Arab Street Singapore 199745"
+      },
+      {
+        "date": "27 Oct 2020",
+        "name": "99 HOSTEL",
+        "address": "65 South Bridge Road Singapore 058695"
+      },
+      {
+        "date": "21 Oct 2020",
+        "name": "Oasia Resort Sentosa",
+        "address": "23 Beach View Singapore 098679"
+      },
+      {
+        "date": "15 Oct 2020",
+        "name": "KINN",
+        "address": "39 South Bridge Road Singapore 058673"
+      },
+      {
+        "date": "9 Oct 2020",
+        "name": "The Quay Hotel Lavender",
+        "address": "139 Lavender Street Singapore 338739"
+      },
+      {
+        "date": "9 Oct 2020",
+        "name": "COLLER BOUTIQUE HOSTEL",
+        "address": "259 Outram Road Singapore 169056"
+      },
+      {
+        "date": "6 Oct 2020",
+        "name": "Checkers Hostel @ Beach Road",
+        "address": "285 Beach Road Singapore 199550"
+      },
+      {
+        "date": "6 Oct 2020",
+        "name": "The Hive Singapore Hostel",
+        "address": "624 Serangoon Road Singapore 218223"
+      },
+      {
+        "date": "31 Dec 2019",
+        "name": "Hotel Boat Quay",
+        "address": "47A Circular Road Singapore 049402"
+      },
+      {
+        "date": "19 Dec 2019",
+        "name": "ST Signature Chinatown",
+        "address": "273A South Bridge Road Singapore 058822"
+      },
+      {
+        "date": "13 Dec 2019",
+        "name": "D'Hotel",
+        "address": "231 Outram Road Singapore 169040"
+      },
+      {
+        "date": "10 Dec 2019",
+        "name": "Rucksack Inn 2 @Lavender",
+        "address": "280A Lavender Street Singapore 338800"
+      },
+      {
+        "date": "4 Dec 2019",
+        "name": "PARKROYAL Collection Pickering, Singapore",
+        "address": "3 Upper Pickering Street Singapore 058289"
+      },
+      {
+        "date": "3 Dec 2019",
+        "name": "Zen Rooms Oasis",
+        "address": "56 Sims Avenue Singapore 387416"
+      }
+    ]
+  },
+  "item_scraped_count": 149
+}

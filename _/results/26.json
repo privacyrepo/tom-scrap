@@ -1,0 +1,892 @@
+{
+  "type": "Feature",
+  "name": "hotel",
+  "POI:Category": "",
+  "store_url": "http://vietnamhotel.org.vn/Default.aspx?page=hotel&type=search",
+  "website": "http://vietnamhotel.org.vn",
+  "properties": {
+    "entities": [
+      {
+        "name": "Khách sạn Tây Đô",
+        "address": "61 Châu Văn Liêm,  Ninh Kiều, TP Cần Thơ",
+        "handphone": "84-710.3821009 - 3827009",
+        "email": "taydoct@hcm.vnn.vn",
+        "website": "http://www.taydohotel.com.vn",
+        "brief": "Tọa lạc tại số 61 Châu Văn Liêm, cách bến Ninh Kiều 200m, bên chợ An Lạc. Là trung tâm Thành Phố Cần Thơ, hướng ra dòng sông Hậu thơ mộng. Từ vị trí có một không hai này Quý Khách có thể thưởng thức vẻ đẹp của thành phố về đêm, nhịp sống của Thành Phố Cần Thơ xinh đẹp."
+      },
+      {
+        "name": "Seaside Resort Vũng Tàu",
+        "address": "28 Trần Phú, Phường 1, Tp Vũng Tàu, Việt Nam",
+        "handphone": "(84) (064) 3513 888",
+        "email": "info@seasideresort.com.vn",
+        "website": "www.seasideresort.com.vn",
+        "brief": "Tọa lạc trên con đường bờ biển rộng và đẹp nhất của thành phố du lịch Vũng Tàu, Seaside Resort sở hữu vị thế “ Ỷ sơn hướng hải ”- lưng tựa núi , mặt hướng biển nên về mặt phong thủy rất tốt."
+      },
+      {
+        "name": "Valley Mountain Hotel",
+        "address": "102/6-108/6 Trần Phú, Phường 5, TP. Vũng Tàu",
+        "handphone": "(+84) 064 355 3660",
+        "email": "info@valleymountainhotel.com",
+        "website": "http://www.valleymountainhotel.com",
+        "brief": "Tọa lạc tại Bãi Dâu, khách sạn Valley Mountain có vị thế \"tọa sơn hướng thủy\", tạo cho du khách cảm giác như đang thưởng thức bản giao hòa của đại ngàn và biển thẳm."
+      },
+      {
+        "name": "Khách Sạn Vũng tàu Sammy",
+        "address": "157 Thùy Vân, Phường Thắng Tam, Thành Phố Vũng Tàu",
+        "handphone": "84 . 64 . 3854755 / 56/ 57/ 58 / 59",
+        "email": "phuongsammy@gmail.com",
+        "website": "http://sammyhotelvt.com",
+        "brief": "Khách Sạn Vũng tàu Sammy tọa lạc trên con đường Thùy Vân trải dài thơ mộng, một trong những bãi biển nổi tiếng nhất Vũng Tàu."
+      },
+      {
+        "name": "Khách sạn Hội An",
+        "address": "Số 10 Trần Hưng Đạo, Thành phố Hội An, tỉnh Quảng Nam",
+        "handphone": "(84-510) 3861455",
+        "email": "reservation@hoianhotel.com.vn",
+        "website": "http://www.hoianhotel.com.vn",
+        "brief": "Chỉ cách sân bay quốc tế Đà Nẵng 25 km. Cách bãi biển Cửa Đại 4 km và Cách phố cổ Hội An 100 m từ khách sạn Hội An dễ dàng tham quan những điểm du lịch hấp dẫn khác như: Thánh địa Mỹ Sơn, cố đô Huế, Thành phố Đà Nẵng với các điểm hấp dẫn như Bà Nà, Bán đảo Sơn Trà, Ngũ Hành Sơn."
+      },
+      {
+        "name": "Hòa Bình Phú Quốc Resort",
+        "address": "71 Trần Hưng đạo, khu phố 7 thị trấn Dương Đông, huyện Phú Quốc, Kiên Giang",
+        "handphone": "0773.996868",
+        "email": "info@hoabinhphuquoc.com.vn",
+        "website": "http://hoabinhphuquoc.com.vn",
+        "brief": "Tọa lạc tại trung tâm thị trấn Dương Đông, huyện Phú Quốc với vị thế tựa lưng vào đồi Bà Kèo mặt hướng ra biển Phú Quốc, Hòa Bình – Phú Quốc Resort là khu nghỉ dưỡng khang trang, hiện đại và thân thiện với môi trường thiên nhiên, đạt tiêu chuẩn 4 sao với hơn 180 phòng đầy đủ tiện nghi bao gồm phòng Superior ..."
+      },
+      {
+        "name": "Khách sạn Century Riverside",
+        "address": "49 Lê Lợi, Thành phố Huế",
+        "handphone": "(84-54) 3 8 23390 / 3 8 23391",
+        "email": "info@centuryriversidehue.com",
+        "website": "http://www.centuryriversidehue.com",
+        "brief": "Khách sạn Century Riverside Huế với 135 phòng ngủ nằm trong một khuôn viên rộng hơn 20.000m2 xung quanh là những vườn cây trái, tràn đầy hoa và thảm cỏ xanh như một khu resort, tọa lạc cạnh cầu Tràng tiền và bên dòng sông Hương thơ mộng."
+      },
+      {
+        "name": "Khách sạn Cửu Long",
+        "address": "52 - Quang Trung, P.An Lạc, Q.Ninh Kiều, Tp.Cần Thơ",
+        "handphone": "(0710) 3822669; 3822755; 3822722",
+        "email": "sales.cuulonghotel.cantho@gmail.com",
+        "website": "http://cuulonghotel.com.vn",
+        "brief": "Khách Sạn Cửu Long tọa lạc tại Trung tâm TP. Cần Thơ, thủ phủ của Đồng Bằng Sông Cửu Long. Khách sạn có khuôn viên thoáng mát, bãi đậu xe rộng, an toàn, thuận tiện cho việc đi lại và lưu trú của Quý khách."
+      },
+      {
+        "name": "Khách sạn Hoàng Hải",
+        "address": "109 Cầu Đất, Ngô Quyền, Hải Phòng",
+        "handphone": "031.384 6666",
+        "email": "hoanghai_hotel@hn.vnn.vn",
+        "website": "http://hoanghaihotel.vn",
+        "brief": "Khách sạn Hoàng Hải toạ lạc giữa trung tâm thành phố với kiến trúc hiện đại, nội thất sang trọng đạt tiêu chuẩn quốc tế đáp ứng được mọi nhu cầu vui chơi giải trí cũng như ăn nghỉ của du khách, doanh nhân trong và ngoài nước..."
+      },
+      {
+        "name": "Khách sạn Ramana Sài Gòn",
+        "address": "323 Lê Văn Sỹ, Quận 3, TP HCM",
+        "handphone": "(84-8) 3843 9999",
+        "email": "info@ramanasaigon.com",
+        "website": "http://ramanasaigon.com",
+        "brief": "Khách sạn Ramana Saigon là 1 trong những khách sạn 4 sao lớn nhất tại Thành Phố Hồ Chí Minh, với vị trí thuận tiện gần sân bay Tân Sơn Nhất, các trung tâm hội nghị triển lãm, và các khu vui chơi giải trí lớn."
+      },
+      {
+        "name": "Khách sạn Hưng Hải",
+        "address": "Khu A Hồ Đại Lải, Phúc Yên, Vĩnh Phúc",
+        "handphone": "0211 3856013",
+        "email": "hunghaihotel@gmail.com",
+        "website": "http://www.hunghaihotel.com/",
+        "brief": "Nằm trong quần thể du lịch thiên nhiên, khách sạn Hưng Hải được ví như “Bông sen hồng” của hồ Đại Lải. Đây là công trình mang đậm phong cách kiến trúc dân tộc nhưng hội tụ đầy đủ nét quyến rũ và ấn tượng của khu du lịch sinh thái. Khách sạn Hưng Hải đạt tiêu chuẩn hai sao, là niềm tự hào cho du lịch ..."
+      },
+      {
+        "name": "Khách sạn Wooshu",
+        "address": "253 Phạm Văn Thuận, T.p Biên Hòa, Đồng Nai",
+        "handphone": "(84-61) 3918888",
+        "email": "info@wooshuhotel.com",
+        "website": "http://wooshuhotel.com/",
+        "brief": "Khách sạn Wooshu là Khách sạn 4 sao đẳng cấp Quốc tế đầu tiên tại Biên Hòa, Tỉnh Đồng Nai. Nằm ở vị trí phía Nam của Việt Nam, cách Sân bay Quốc tế Tân Sơn Nhất, Tp. Hồ Chí Minh 32 km, cách Khu Công nghiệp 10 phút bằng đường ô tô và một vài phút để đến Khu Trung tâm Thành phố và các Khu Trung tâm Thương ..."
+      },
+      {
+        "name": "Emeralda Ninh Bình Resort",
+        "address": "Khu Bảo Tồn Vân Long,  Xã Gia Vân, Huyện Gia Viễn,  Tỉnh Ninh Bình",
+        "handphone": "+84 303 658 333",
+        "email": "info@emeraldaresort.com",
+        "website": "http://emeraldaresort.com",
+        "brief": "Được quản lý bởi Emeralda Management Group (EMG), khu nghỉ Emereralda Ninh Bình ẩn mình trong khu bảo tồn tự nhiên Vân Long, tỉnh Ninh Bình – cố đô xưa của Việt Nam mang trong mình nhiều công trình lịch sử từ thời vua Lê Đại Hành thế kỷ thứ 10- và chỉ cách thủ đô Hà Nội 90 phút lái xe."
+      },
+      {
+        "name": "Khách sạn Hạ Long",
+        "address": "Khu1 - TT. Tam Đảo, H. Tam Đảo, Vĩnh Phúc",
+        "handphone": "0211.3824.206",
+        "email": "halongtamdaohotel@gmail.com",
+        "website": "http://khachsantamdao.com.vn",
+        "brief": "Toạ lạc ngay trung tâmThị trấn Tam Đảo, ở vị trí lý tưởng trên con đường dẫn ra nơi nàng tiên Tam Đảo đang ngủ quên, ở độ cao 1000 m so với mực nước biển, nằm ở giữa rừng bảo tồn thiên nhiên Quốc gia Tam Đảo, Khách Sạn Hạ Long với 30 phòng ngủ tiện nghi, sang trọng sẽ giúp quý khách gần gũi hơn với thiên ..."
+      },
+      {
+        "name": "Forever Green Resort",
+        "address": "Ấp Phú Khương, Xã Phú Túc, Huyện Châu Thành, Tình Bến Tre",
+        "handphone": "075.3618618",
+        "email": "info@forevergreenresort.com",
+        "website": "http://forevergreenresort.com",
+        "brief": "Cách TP.HCM khoảng 80 km, du khách chỉ mất hơn 60 phút theo đường cao tốc, vượt qua cầu dây văng Rạch Miễu nối liền hai bờ sông Tiền là đã đặt chân đến xứ dừa Bến Tre. Từ đây, du khách đi khoảng 10 km nữa sẽ bắt gặp một “hòn ngọc xanh” nằm trọn trong lòng vùng đất trù phú mà thiên nhiên đã ban tặng  ..."
+      },
+      {
+        "name": "Khách Sạn Bella Vita",
+        "address": "Tỉnh Lộ 44A, Khu Phố Hải Tân, Thị Trấn Phước Hải, Huyện Đất Đỏ, Tỉnh Bà Rịa-Vũng Tàu",
+        "handphone": "(0254)3 681 888/ (0254)3 681 999",
+        "email": "sales@hotelbellavita.com",
+        "website": "http://hotelbellavita.com",
+        "brief": "Soi mình bên bờ cát trắng trải dài của bờ biển Phước Hải là Bella Vita, một khách sạn với đầy đủ tiện nghi, hương vị ẩm thực tuyệt vời, dịch vụ giải trí sôi động và đặc biệt là lòng mến khách."
+      },
+      {
+        "name": "Vietsovpetro Resort",
+        "address": "Hồ Tràm, Xã Phước Thuận, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu",
+        "handphone": "(+84 254) 378 2266",
+        "email": "rsv.vspresort@gmail.com",
+        "website": "http://vietsovpetroresort.com",
+        "brief": "Vietsovpetro Resort với 184 Phòng nghỉ tiêu chuẩn 5 sao, có tầm nhìn hướng biển, số lượng phòng nhiều, phong phú về chủng loại, thiết kế hiện đại, nội thất cao cấp, nhân viên phục vụ chuyên nghiệp."
+      },
+      {
+        "name": "Khách sạn Kaya",
+        "address": "238 Hùng Vương, TP Tuy Hoà, Phú Yên",
+        "handphone": "(057) 3819999",
+        "email": "info@kayahotel.com.vn",
+        "website": "http://kayahotel.com.vn",
+        "brief": "Khách sạn Kaya tọa lạc tại 238 đại lộ Hùng Vương xinh đẹp, trung tâm thành phố Tuy Hòa. Khách sạn đạt tiêu chuẩn quốc tế 4 sao, với gần 100 phòng ngủ tiện nghi sang trọng, tao nhã và được thiết kế theo phong cách hiện đại."
+      },
+      {
+        "name": "TANYOLI Resort",
+        "address": "(84) 259 3552 358",
+        "handphone": "info@tanyoli.vn",
+        "email": "https://tanyoli.vn/",
+        "website": "",
+        "brief": "Tọa lạc tại Khu vực Mũi dinh, huyện Thuận Nam, thuộc cực nam của tỉnh Ninh thuận, nơi điểm cuối của dãy Trường sơn kéo dài ra tận đến biển và nằm trên con đường ven biển đẹp nhất Việt nam với vị thế tựa lưng vào núi, mặt hướng ra đồi cát bay và bãi biển giấu mình, TANYOLI Resort là khu du lịch Trải nghiệm ..."
+      },
+      {
+        "name": "KHÁCH SẠN BECAMEX HOTEL NEW CITY",
+        "address": "B2, Hùng Vương, Hòa Phú, Thủ Dầu Một, Bình Dương",
+        "handphone": "(+84) 274 380 1118",
+        "email": "sales@becamexhotels.com",
+        "website": "https://newcity.becamexhotels.com",
+        "brief": "Khách sạn 4 sao cung cấp dịch vụ tiêu chuẩn cao cấp hàng đầu tại Bình Dương với tổng cộng 315 phòng bao gồm 146 phòng khách sạn và 169 căn hộ dịch vụ. Sở hữu vị trí đắc địa tại trung tâm Thành Phố Mới, liền kề Trung tâm Hội nghị và Triển lãm, Tòa nhà Trung tâm Hành chính tỉnh Bình Dương, Tổng Công ty ..."
+      },
+      {
+        "name": "KHÁCH SẠN BECAMEX HOTEL THU DAU MOT",
+        "address": "230 Đại lộ Bình Dương, Phú Hòa, TP Thủ Dầu Một, Bình Dương",
+        "handphone": "(+84) 274 222 1333",
+        "email": "sales@becamexhotels.com",
+        "website": "http://thudaumot.becamexhotels.com",
+        "brief": "Tọa lạc tại khu vực trung tâm của Thành phố Thủ Dầu Một, thuận lợi cho việc di chuyển tới các văn phòng, doanh nghiệp, cơ quan ban ngành chính phủ, khu công nghiệp và tận hưởng các tiện ích xung quanh như ngân hàng, trung tâm mua sắm, sân golf, siêu thị lớn, khách sạn Becamex Hotel Thu Dau Mot là địa ..."
+      },
+      {
+        "name": "Khách sạn The Mira",
+        "address": "555B, Đại lộ Bình Dương, phường Hiệp Thành,TP Thủ Dầu Một, tỉnh Bình Dương",
+        "handphone": "0274.3678888",
+        "email": "info@themirahotel.com.vn",
+        "website": "http://themirahotel.com.vn/vi/",
+        "brief": "The Mira toạ lạc ngay trung tâm thành phố Thủ Dầu Một là khách sạn đạt tiêu chuẩn 5 sao đầu tiên và duy nhất tại Bình Dương với thời gian di chuyển đến sân bay quốc tế Tân Sơn Nhất – Thành phố Hồ Chí Minh chỉ 30 phút. The Mira có kiến trúc đặc trưng sang trọng, hiện đại, ấn tượng là nơi cung cấp dịch ..."
+      },
+      {
+        "name": "Khách sạn White Palace Hà Tĩnh",
+        "address": "139 Hà Huy Tập, Thành phố Hà Tĩnh",
+        "handphone": "+84 39 626 9999",
+        "email": "md.htc@ptd.com.vn",
+        "website": "http://whitepalacehotel.com.vn",
+        "brief": "Tọa lạc ngay giữa trung tâm thành phố Hà Tĩnh, khách sạn quốc tế 3 sao White Palace Hotel là điểm hẹn lý tưởng cho chính khách, danh nhân, nghệ sỹ, doanh nhân, du khách trong và ngoài nước…"
+      },
+      {
+        "name": "Almanity Hoi An Wellness Resort",
+        "address": "326 Lý Thường Kiệt, P. Tân An, Tp Hội An, Quảng Nam",
+        "handphone": "(+84) 235 3666 888",
+        "email": "reservation@almanityhoian.com",
+        "website": "http://almanityhoian.com",
+        "brief": "Nằm cách khu phố cổ Hội An trứ danh một đoạn đi bộ ngắn, khu nghĩ dưỡng Almanity Hoi An Wellness Resort phản ánh tinh hoa của một di sản văn hóa trong kiến trúc và triết học mang hơi hướng thời đại."
+      },
+      {
+        "name": "Palm Garden Resort",
+        "address": "Lạc Long Quân, Cửa Đại, Hội An, Quảng Nam",
+        "handphone": "(84.510) 3.927.927",
+        "email": "info@pgr.com.vn",
+        "website": "http://palmgardenresort.com.vn",
+        "brief": "Trải dài trên diện tích 5 héc ta vườn nhiệt đới, nằm trong khu bãi tắm tuyệt đẹp, Palm Garden Resort gồm 188 phòng và bungalow được thiết kế và bài trí sang trọng trong khuôn viên của hơn 400 loài Cọ và thực vật nằm dọc theo 220m chiều dài trên bãi tắm Cửa Đại nổi tiếng."
+      },
+      {
+        "name": "Khách sạn Equatorial",
+        "address": "242 Trần Bình Trọng, Quận 5, TP Hồ Chí Minh",
+        "handphone": "+86 21 6248 1688",
+        "email": "info@sha.equatorial.com",
+        "website": "http://www.equatorial.com",
+        "brief": "Equatorial là khách sạn 5 sao, tọa lạc tại vị trí tiện lợi ở trung tâm thành phố Hồ Chí Minh.\nCác phòng tại Equatorial Ho Chi Minh City Hotel trang nhã và được trang bị máy lạnh, truyền hình vệ tinh cũng như phòng tắm riêng. Một số phòng có TV màn hình phẳng, ổ cắm cho iPod và đầu đĩa DVD."
+      },
+      {
+        "name": "Windsor Plaza Hotel",
+        "address": "18 An Dương Vương, Quận 5, TP Hồ Chí Minh",
+        "handphone": "(84.8) 3833 6688",
+        "email": "services@windsorplazahotel.com",
+        "website": "http://www.windsorplazahotel.com/",
+        "brief": "Hãy trải nghiệm Việt Nam, với sự ấm cúng và phong cách tại khách sạn của chúng tôi: Với tổng số 405 phòng nghỉ trang bị đầy đủ, tiện nghi, nhà hàng giành nhiều giải thưởng, hiếu khách, dịch vụ hoàn hảo."
+      },
+      {
+        "name": "Khách sạn Sofitel Saigon Plaza",
+        "address": "17 Đại lộ Lê Duẩn, Quận 1, TP Hồ Chí Minh",
+        "handphone": "(+84) 8 3824 1555",
+        "email": "H2077@Sofitel.com",
+        "website": "www.sofitel.com/2077",
+        "brief": "Mở cửa năm 1999, Sofitel Saigon Plaza là khách sạn năm sao thuộc tập đoàn quản lý khách sạn Accor nổi tiếng của Pháp. Tòa nhà 20 tầng lầu mang phong cách Pháp sang trọng và tiện nghi, toạ lạc giữa trung tâm thành phố như một thiên đường bình yên giữa Sài Gòn náo nhiệt. Khách đến đây là những doanh nhân ..."
+      },
+      {
+        "name": "Công ty Cổ phần Đầu tư Sài Gòn Ruby",
+        "address": "84 (08) 38 223 720",
+        "handphone": "contact@saigonruby.com",
+        "email": "http://saigonruby.com",
+        "website": "",
+        "brief": "Công ty Cổ phần Đầu tư Sài Gòn Ruby hoạt động trong lĩnh vực đầu tư, tư vấn tài chính và bất động sản tại Việt Nam. Công ty cung cấp trọn gói các dịch vụ tư vấn đa dạng, phù hợp với từng nhu cầu của khách hàng."
+      },
+      {
+        "name": "Cty TNHH Tổ chức Triển lãm VCCI",
+        "address": "08 3932 0177",
+        "handphone": "btta@vietcham-expo.com",
+        "email": "www.vietcham-expo.com",
+        "website": "",
+        "brief": "VCCI Exhibition Services Company (Vietcham Expo) is the national leading company in the exhibition industry in Vietnam. Together with its global partners, we have successfully organized 10 to 12 of exhibitions every year covering the fields of manufacturing, construction, technology, textiles, food & ..."
+      },
+      {
+        "name": "Khách sạn Sài Gòn",
+        "address": "41- 47 Đông Du, Quận 1, TP Hồ Chí Minh",
+        "handphone": "(84-8) 38299734",
+        "email": "sales@saigonhotel.com.vn",
+        "website": "http://saigonhotel.com.vn",
+        "brief": "Khách sạn Sài Gòn với 95 phòng ngủ tiện nghi, tiêu chuẩn 3 sao, toạ lạc ngay trung tâm Quận 1, thành phố Thành phố Hồ Chí Minh. Khách sạn Sài Gòn, điểm dừng chân lý tưởng, là sự chọn lựa tốt nhất của Quý khách khi đi công tác, tham quan thành phố Hồ Chí Minh và các tỉnh thành phía Nam."
+      },
+      {
+        "name": "Khách sạn Nikko  Sài Gòn",
+        "address": "235 Ng. văn Cừ. Q1, TP HCM",
+        "handphone": "08 39257777",
+        "email": "sales@hotelnikkosaigon.com.vn",
+        "website": "http://www.hotelnikkosaigon.com.vn",
+        "brief": "Là khách sạn 5 sao có spa và đầy đủ các dịch vụ, hồ bơi ngoài trời và tiện nghi tập thể dục. Nằm cạnh Trung tâm Mua sắm Now Zone, các phòng nghỉ hiện đại của khách sạn có truyền hình cáp màn hình phẳng, ổ cắm cho iPod và phòng tắm."
+      },
+      {
+        "name": "Khách sạn New World Sài Gòn",
+        "address": "76 Lê Lai – Q1 – Tp. HCM",
+        "handphone": "08 38228888",
+        "email": "danghuyhai@newworldhotels.com",
+        "website": "www.newworldhotels.com",
+        "brief": "Nằm tại khu trung tâm thương mại sầm uất của TP.HCM, cách chợ Bến Thành chỉ vài bước và chỉ 15’ lái xe từ sân bay quốc tế Tân Sơn Nhất.\nKhách sạn New World – Sài Gòn là khách sạn quốc tế 5 sao, cao 14 tầng với 542 phòng, trong đó 28 phòng Suite và 32 phòng dành cho các thương nhân cao cấp."
+      },
+      {
+        "name": "Blessing 1 Sài Gòn Hotel",
+        "address": "48-50 Nguyễn An Ninh, P. Bến Thành, Quận 1, Tp Hồ Chí Minh",
+        "handphone": "(+84 8) 3822 5898",
+        "email": "sales@blessingsaigonhotel.com",
+        "website": "http://www.blessing1saigonhotel.com",
+        "brief": "Khách sạn Blessing Sài Gòn tọa lạc ngay tại trung tâm thành phố với vị trí tuyệt vời để du khách có thể dễ dàng tận hưởng thời gian nghỉ ngơi. Chỉ cách vài bước chân là bạn đã đến với khu chợ Bến Thành, khu chợ nổi tiếng nhất tại Sài gòn để tự do mua sắm tất cả các mặt hàng, bên cạnh đó du khách sẽ được ..."
+      },
+      {
+        "name": "Khách sạn Hoàng Gia",
+        "address": "Đ. Nguyễn Văn Cừ - P.Võ Cường - TP.Bắc Ninh",
+        "handphone": "0241.3692888",
+        "email": "info@landmarkhotelbn.com.vn",
+        "website": "http://landmarkhotelbn.com.vn",
+        "brief": "Khách sạn Hoàng Gia Bắc Ninh là khách sạn quốc tế bốn sao đầu tiên tại Bắc Ninh. Với 86 phòng và căn hộ cao cấp, khách sạn được thiết kế theo tiêu chuẩn quốc tế và được trang trí theo phong cách Hoàng Gia sang trọng, quý phái."
+      },
+      {
+        "name": "Khách sạn Khánh Hưng",
+        "address": "17 Trần Hưng Đạo, P 3, TP Sóc Trăng",
+        "handphone": "079 3821026",
+        "email": "kskhanhhung@vnn.vn",
+        "website": "http://khanhhunghotelsoctrang.vn",
+        "brief": "Nhà hàng Khách sạn Khánh Hưng tọa lạc tại số 17 đường Trần Hưng Đạo phường 3, Thành Phố Sóc Trăng, tỉnh Sóc Trăng, nằm ngay trung tâm Thành Phố."
+      },
+      {
+        "name": "Khách sạn Majestic",
+        "address": "Số 1 Đường Đồng Khởi, Quận 1, Hồ Chí Minh",
+        "handphone": "(84-8) 3829 5517",
+        "email": "majestic@majesticsaigon.com.vn",
+        "website": "www.majesticsaigon.com",
+        "brief": "Khách sạn 5 sao chúng tôi luôn mang đến sự thoải mái với những phục vụ tiện nghi và thời gian nghi ngơi lý tưởng khi quý khách đến tham quan du lịch hay công tác. Quý khách sẽ tìm thấy sự thân thiện và ấm áp như ở nhà"
+      },
+      {
+        "name": "Khách sạn Rex",
+        "address": "141 Nguyễn Huệ, Quận 1, TP Hồ Chí Minh",
+        "handphone": "(84-8) 38292185",
+        "email": "rexhotel@hcm.vnn.vn,rexhotel@sgtourist.com.vn",
+        "website": "http://www.rexhotelvietnam.com",
+        "brief": "Ẩn mình trong bóng mát của những hàng cây trải dài suốt dọc con phố trung tâm, khách sạn Rex như một nhân chứng trung thành nhất của những thăng trầm biến đổi trong thành phố Hồ Chí Minh."
+      },
+      {
+        "name": "Khách sạn Oscar Sài Gòn",
+        "address": "84-8) 38292959",
+        "handphone": "oscarsaigonhotel@oscar-saigonhotel.com",
+        "email": "http://www.oscar-saigonhotel.com/",
+        "website": "",
+        "brief": "Khách sạn Oscar Sài Gòn có vị trí rất thuận lợi, tọa lạc ngay trên đại lộ đẹp nhất tại trung tâm khu vực tài chính, thương mại, mua sắm và giải trí của Tp. Hồ Chí Minh. Chỉ mất 20 phút lái xe đến sân bay quốc tế, 10 phút đến Dinh Thống Nhất & nhà thờ Đức Bà, 5 phút đến chợ Bến Thành, 2 phút đi bộ đến ..."
+      },
+      {
+        "name": "Khách sạn Caravelle",
+        "address": "19 Công Trường Lam Sơn, Quận 1, TP Hồ Chí Minh",
+        "handphone": "(84-8) 3823 4999",
+        "email": "",
+        "website": "http://www.caravellehotel.com/",
+        "brief": "Khách sạn Caravelle là một khách sạn 5 sao hàng đầu tại Thành phố Hồ Chí Minh tọa lạc ngay tại vùng trung tâm giải trí thương mại của thành phố."
+      },
+      {
+        "name": "Khách sạn Đồng Khởi",
+        "address": "8 Đồng Khởi,P. Bến Nghé, Quận 1, TP.HCM, Việt Nam",
+        "handphone": "(84-28) 3915 5555",
+        "email": "info@grandhotel.vn",
+        "website": "http://www.grandhotel.vn",
+        "brief": "Khách sạn GRAND Sài Gòn là nơi thuận lợi nằm ngay trung tâm thành phố. Tiện lợi cho việc lựa chọn địa điểm giao dịch, tham quan hay lưu trú. Quí khách cũng có thể tản bộ ra sông Sài Gòn để tham quan ngắm cảnh"
+      },
+      {
+        "name": "Khách sạn Ngọc Lan",
+        "address": "293 Lý Thường Kiệt – P 15 – Q 11 - TP Hồ Chí Minh",
+        "handphone": "(08) 3 8655 928",
+        "email": "ngoclanhotel@hcm.vnn.vn",
+        "website": "http://www.ngoclanhotel.com.vn",
+        "brief": "Với 50 phòng ngủ, tiện nghi sang trọng và đồng bộ, được Tổng Cục Du Lịch công nhận “ khách sạn đạt chuẩn 03 sao” nhưng “Giá phòng 02 sao”, luôn mang đến sự hài lòng cho Quý khách"
+      },
+      {
+        "name": "Khách sạn Thiên Hồng",
+        "address": "52-56 Tản Đà - Quận 5 – Tp. HCM",
+        "handphone": "08 38554435",
+        "email": "thienhong@hcm.vnn.vn",
+        "website": "http://www.arcencielhotel.com.vn",
+        "brief": "Khách sạn Thiên Hồng (Arcenciel) trực thuộc cụm khách sạn Thiên Hồng - Bát Đạt, là đơn vị thành viên của Tổng Công ty Du lịch Sài Gòn."
+      },
+      {
+        "name": "Khách sạn Hùng Long Harbour",
+        "address": "268 - Đường ¼ - Cát Bà - Cát Hải",
+        "handphone": "0316.269.269",
+        "email": "hunglongharbourhotel@gmail.com",
+        "website": "http://www.hunglonghotel.vn/",
+        "brief": "Đến với Cát Bà Quý khách có thể nghỉ tại Khách sạn Hùng Long, một điểm dừng chân lý tưởng tại vị trí đẹp nhất của vịnh Cát Bà, toàn bộ diện tích mặt trước nhìn ra biển. Ngồi trong phòng Quý khách có thể nhìn hết tầm mắt toàn cảnh về biển, vươn vai, đưa tay chạm tới cái gió mát lạnh từ biển thổi vào, ..."
+      },
+      {
+        "name": "Khách sạn Saigon Morin Huế",
+        "address": "30 đường Lê Lợi, Thành Phố Huế",
+        "handphone": "84 54 3823526",
+        "email": "info@morinhotel.com.vn",
+        "website": "http://www.morinhotel.com.vn",
+        "brief": "Khách sạn Saigon Morin Huế là khách sạn du lịch ra đời sớm nhất tại miền trung Việt Nam,do một doanh nhân người Pháp tên là Bogarde xây dựng và đưa vào kinh doanh từ năm 1901."
+      },
+      {
+        "name": "Khách sạn Hà Nội",
+        "address": "D8 Giảng Võ, Ba Đình, Hà Nội",
+        "handphone": "(84-24) 3845 2270",
+        "email": "sales@hanoihotel.com.vn",
+        "website": "http://www.hanoihotel.com.vn",
+        "brief": "Tọa lạc giữa lòng Thủ đô, khách sạn Hà Nội là khách sạn Quốc tế đầu tiên tại Việt nam. Là điểm dừng chân lý tưởng của các du khách trong và ngoài nước cho mỗi chuyến công tác hay du lịch cùng bạn bè và người thân"
+      },
+      {
+        "name": "Army Hotel",
+        "address": "Số 1A, đường Nguyễn Tri Phương, phường ĐiệnBiên, quận Ba Đình, Hà Nội",
+        "handphone": "(+84 4) 62993322",
+        "email": "info@armyhotel.com.vn",
+        "website": "http://armyhotel.com.vn",
+        "brief": "Tọa lạc tại một vị trí lý tưởng, trung tâm của thủ đô Hà Nội và gần kề với các địa điểm tham quan du lịch, vui chơi giải trí, mua sắm hấp dẫn, Army Hotel là sự kết hợp hài hòa giữa nét truyền thống và phong cách hiện đại."
+      },
+      {
+        "name": "Khách sạn Sen",
+        "address": "118/26 Nguyễn Khánh Toàn, Cầu Giấy, Hà Nội",
+        "handphone": "(84) 4 3.767.8866",
+        "email": "admin@senhotel.vn",
+        "website": "http://www.hanoisenhotel.com",
+        "brief": "Chuỗi khách sạn Sen hotel hiện tại gồm 2 khách sạn,  ra đời cách nhau 2 năm, cùng nằm trên trục đương Đào Tấn – Nguyễn Khánh Toàn với trên 100 phòng nghỉ, 02 phòng hội thảo, 02 nhà hàng Âu Á, 01 phòng tập GYM đã giúp du khách có thêm một sự lựa chọn mới khi đến Hà Nội."
+      },
+      {
+        "name": "Khách sạn Sunway Hà Nội",
+        "address": "19 Phạm Đình Hổ, Q. Hai Bà Trưng, Hà Nội",
+        "handphone": "(+84-4) 39.713888",
+        "email": "gm@sunwayhotel.com.vn",
+        "website": "http://sunwayhotels.com/hotelresorts/index.aspx#shh",
+        "brief": "Khách sạn Sunway nằm ở gần trung tâm thành phố Hà Nội, với một vị trí thuận tiện để đi xuống khu trung tâm mua sắm và tới những điểm du lịch nổi tiếng. Khách sạn Sunway cũng mang tới cho quý khách rất nhiều tiện nghi phục vụ cho công tác và giải trí, trong đó có một trung tâm sức khỏe, một trung tâm ..."
+      },
+      {
+        "name": "Khách sạn One Opera Đà Nẵng",
+        "address": "Số 115 Nguyễn Văn Linh, Hải Châu, Đà Nẵng",
+        "handphone": "(84-511) 3 223344",
+        "email": "sales@oneopera.vn",
+        "website": "http://www.oneopera.vn/",
+        "brief": "One Opera Danang Hotel hiện nay là một địa điểm được nhiều hang lữ hành và du khách lựa chọn làm nơi lưu trú trong kỳ nghỉ của mình và đã tạo được nhiều ấn tượng tốt đẹp cho nhiều khách du lịch trong nước và quốc tế. Khách sạn cũng là nơi diễn ra nhiều hội nghị và sự kiện lớn tại Việt Nam và trong khu ..."
+      },
+      {
+        "name": "Khách sạn Sông Hàn Đà Nẵng",
+        "address": "+84 2363 525 666",
+        "handphone": "sales@songhanhotel.com.vn",
+        "email": "http://songhanhotel.com.vn",
+        "website": "",
+        "brief": "Khách sạn nằm ở một vị trí đắc địa, yên bình giữa lòng thành phố tại số 14 Lý Tự Trọng. Không cách quá xa các địa điểm tham quan khi chỉ trong vòng 4km bạn đã có thể ghé thăm bảo tàng Champa chứa vô vàn giá trị, bảo tàng Đà Nẵng hiện đại với thành Điện Hải còn mang dấu ấn thời gian hay vi vu một trong ..."
+      },
+      {
+        "name": "Sơn Trà Resort và Spa",
+        "address": "(84-511) 3924924",
+        "handphone": "reservation@sontraresort.com.vn",
+        "email": "http://www.sontra.com.vn",
+        "website": "",
+        "brief": "Son Tra Villa Resort and Spa nằm dọc theo eo vịnh với nước biển trong xanh và bãi biển tuyệt đẹp nằm ven theo bán đảo Sơn Trà, phía sau khu nghỉ mát là núi rừng nhiệt đới sương mù tạo thêm sự quyến rũ cho nơi đây."
+      },
+      {
+        "name": "Pullman Danang Beach Resort",
+        "address": "Võ Nguyên Giáp, Khuê Mỹ, quận Ngũ Hành Sơn, Đà Nẵng, Việt Nam",
+        "handphone": "0511 395 8888",
+        "email": "info@pullman-danang.com",
+        "website": "http://www.pullman-danang.com",
+        "brief": "Pullman Danang Beach Resort nằm trên Bắc Mỹ An Beach, cách trung tâm thành phố Đà Nẵng 3 km. Khu nghỉ mát có 1 hồ bơi ngoài trời và spa. Bãi đỗ xe và Wi-Fi miễn phí được cung cấp tại đây. Life Resort Danang cách Sân bay Quốc tế Đà Nẵng khoảng 8 km, cung cấp dịch vụ vận chuyển sân bay 2 chiều miễn ..."
+      },
+      {
+        "name": "Khách sạn Hữu Nghị Hải Phòng",
+        "address": "60 Điện Biên Phủ - Hải Phòng",
+        "handphone": "(84 - 31) 3821361",
+        "email": "info@huunghihotel.vn",
+        "website": "http://www.huunghihotel.vn",
+        "brief": "Hữu Nghị là khách sạn quốc tế tiêu chuẩn 4 sao. Toạ lạc tại trung tâm Thương mại và Dịch vụ - nơi các đơn vị quản lý hành chính, ngân hàng và khu vui chơi - giải trí, buôn bán sầm uất của thành phố ... Khách sạn Hữu Nghị là nơi dừng chân lý tưởng cho du khách và các nhà đầu tư đến với Hải Phòng."
+      },
+      {
+        "name": "Sông Giá Resort Complex",
+        "address": "Lưu Kiếm, Huyện Thuỷ Nguyên, Hải Phòng",
+        "handphone": "0313 963 900",
+        "email": "songgia@songgia.com",
+        "website": "http://www.songgia.com",
+        "brief": "Khu nghỉ dưỡng Sông Giá là khu sân golf đẹp và tiện nghi sang trọng nhất Việt Nam, có sân tập golf dài nhất khu vực châu Á. Ở đây, nhà thiết kế kết hợp hài hòa giữa cảnh quan thiên nhiên với các công trình kiến tạo."
+      },
+      {
+        "name": "Khách sạn Công Chúa",
+        "address": "số 3/3B Lê Hồng Phong, Ngô Quyền, Hải Phòng",
+        "handphone": "031 3246 032/ 031 3246 869",
+        "email": "smm@princesshotelhaiphong.vn",
+        "website": "http://princesshotelhaiphong.vn",
+        "brief": "Khách sạn Princess được khánh thành vào ngày 18/2/2011 cao 11 tầng, bao gồm hệ thống 52 phòng nghỉ, phòng hội thảo, nhà hàng có sức chứa đến 300 khách và đặc biệt là dịch vụ massage, với tổng diện tích là 850m2"
+      },
+      {
+        "name": "Khách sạn Phú Vinh Hải Phòng",
+        "address": "27 - 29 đường Hai Bà Trưng, Quận Lê Chân, Hải Phòng",
+        "handphone": "+84 31 3631381",
+        "email": "phu-vinhhotel@hn.vnn.vn",
+        "website": "http://www.tienlangsparesort.com",
+        "brief": "Nằm giữa trung tâm thành phố Cảng Hải Phòng, tại phố thương mại xung quanh sầm uất các cửa hàng thời trang: quần áo, trang sức, các quán bar rất tiện lợi, hấp dẫn cho Quý khách đi du lịch và làm việc. Phu Vinh hotel cách nhà Hát lớn Thành phố và chợ hoa 250m, cách trung tâm thương mại chợ Ga 100m, cách ..."
+      },
+      {
+        "name": "Khách sạn Victory",
+        "address": "142 Trần Tất Văn - Kiến An - Hải Phòng",
+        "handphone": "031 3876285",
+        "email": "vitoryhotel142@gmail.com",
+        "website": "http://victory-hotel.vn",
+        "brief": "Với tiêu chuẩn 3 sao, Khách sạn Victory, trực thuộc Công ty TNHH ôtô Chiến Thắng, nằm tại trung tâm Văn hóa, Chính trị và Thương mại quận Kiến An, thành phố Hải Phòng (cách Bộ tư lệnh Quân khu 3 hơn 2km, cách trường ĐH Hải Phòng 500m)"
+      },
+      {
+        "name": "Khách sạn Sea Pearl",
+        "address": "219 Đường 1/4 TT.Cát Bà, Cát Hải, Hải Phòng",
+        "handphone": "(+84) 313.688567",
+        "email": "infoseapearlcatba@gmail.com",
+        "website": "http://seapearlcatbahotel.com.vn",
+        "brief": "Khách sạn Sea Pearl nằm giữa tuyến đường chính của khu du lịch, bên bờ vịnh Cát Bà xinh đẹp, có vị trí thuận tiện về giao thông, chỉ cách bến tàu cao tốc 50 m cách bến xe ô tô 20 m."
+      },
+      {
+        "name": "Khách sạn Central Luxury Hạ Long",
+        "address": "Số 01, Lô H29, khu Đa Giác 4, P. Hùng Thắng, TP. Hạ Long, Quảng Ninh",
+        "handphone": "(+84) 203 397 9999",
+        "email": "info.luxuryhalong@centralhotel.vn",
+        "website": "http://luxuryhalong.centralhotel.vn",
+        "brief": "Khách san Central Luxury Hạ Long đạt tiêu chuẩn 5 sao, với tổng cộng 219 phòng, tất cả được trang bị đầy đủ các tiện nghi hiện đại. Hiện tai, khách sạn chúng tôi có 02 nhà hàng, 02 Bar coffee và 03 phòng đa năng được trang bị sân khấu lý tưởng và các thiết bị âm thanh, ánh sáng công nghệ cao với sức ..."
+      },
+      {
+        "name": "Khách sạn Hạ Long Palace",
+        "address": "Ô 1, lô 20, khu du lịch Đông Hùng Thắng, Phường Bãi Cháy, Thành phố Hạ Long, Quảng Ninh",
+        "handphone": "(84-0203) 3619819 - 3619996",
+        "email": "info@halongpalacehotel.com",
+        "website": "http://halongpalacehotel.com",
+        "brief": "Khách sạn Hạ Long Palace, tọa lạc ngay khu trung tâm thương mại & du lich của thành phố Hạ Long sầm uất, có tầm nhìn đẹp hướng ra Vịnh Hạ Long kỳ vĩ, di sản thiên nhiên thế giới được UNESCO công nhận, Khách sạn Hạ Long Palace là một trong một trong những khách sạn mới nhất  tại khu du lịch Bãi Cháy, ..."
+      },
+      {
+        "name": "Khách sạn Lợi Lai",
+        "address": "Đường Tuệ Tĩnh - Ka Long - Móng Cái - Quảng Ninh",
+        "handphone": "(84-33) 8887888",
+        "email": "lilaihotel@hn.vnnv.vn",
+        "website": "http://www.lilaihotel.com",
+        "brief": "Toạ lạc tại trung tâm thành phố Móng Cái, bên bờ sông Ka Long thơ mộng Khách sạn Quốc tế Li Lai tự hào là khách sạn quốc tế 5 sao đầu tiên của tỉnh Quảng Ninh."
+      },
+      {
+        "name": "Dien Chau Trade Hotel",
+        "address": "",
+        "handphone": "",
+        "email": "",
+        "website": "",
+        "brief": "Dienchau Trade Hotel - khách sạn 3 sao. Tọa lạc ngay trung tâm thị trấn, nằm trên quốc lộ 1A và & quốc lộ 7A, cách trung tâm TP Vinh 40 km,cách vườn quốc gia Pù Mát 80 km và 15 phút dạo bộ tới khu du lịch biển Diễn Thành."
+      },
+      {
+        "name": "Khách sạn Melia Hà Nội",
+        "address": "44B Lý Thường Kiệt, Hoàn Kiếm, Hà Nội",
+        "handphone": "(84-4) 3934 3343",
+        "email": "ecommerce@meliahanoi.com.vn",
+        "website": "http://www.meliahanoi.com.vn/",
+        "brief": "Khách sạn Melia Hanoi là khách sạn 5 sao sang trọng vào bậc nhất tại Hà Nội. Melia Hanoi gần với nhiều điểm du lịch, giải trí và mua sắm, là nơi lý tưởng cho việc nghỉ dưỡng hay tổ chức các sự kiện quan trọng."
+      },
+      {
+        "name": "Khách sạn Intercontinental Hà Nội",
+        "address": "1A Nghi Tàm, Tây Hồ, Hà Nội",
+        "handphone": "+84-4-62708888",
+        "email": "",
+        "website": "www.intercontinental.com",
+        "brief": "Khách sạn Hà Nội Intercontinental hay City Resort, là khách sạn 5 sao mới được đưa vào hoạt động từ tháng 12 năm 2007.Khách sạn có mặt bằng 3,1 ha, trong đó có đến 2,4 ha nằm nổi trên mặt nước, bao gồm một toà nhà trung tâm và ba hòn đảo được nối với nhau bằng những chiếc cầu cong."
+      },
+      {
+        "name": "Khách sạn Nikko",
+        "address": "Số 84, Phố Trần Nhân Tông, Hai Bà Trưng, Hà Nội",
+        "handphone": "(84 4) 3822 3535",
+        "email": "reservation@hotelnikkohanoi.com.vn / sales@hotelnikkohanoi.com.vn",
+        "website": "http://www.hotelnikkohanoi.com.vn/",
+        "brief": "Nikko Hotel cách 40 phút đi xe từ sân bay Nội Bài và nằm ở trung tâm thành phố. Khách được bao quanh bởi các cửa hiệu, nhà hàng, hồ, công viên và di tích lịch sử. Đối với du khách kinh doanh, khách sạn có một trung đa chức năng tiếp đón và thương mại trang bị đầy đủ."
+      },
+      {
+        "name": "Furama Resort",
+        "address": "68 Hồ Xuân Hương, Quận Ngũ Hành Sơn, Đà Nẵng",
+        "handphone": "84-511-3847 333",
+        "email": "reservation@furamavietnam.com",
+        "website": "http://www.furamavietnam.com",
+        "brief": "Furama không chỉ là nơi tiên phong cho hoạt động lặn bình khí tiêu chuẩn quốc tế ở Việt Nam-nơi đây còn là một điểm nổi tiếng cho tổ chức sự kiện, hội họp và phục vụ tích cực cho hoạt động du lịch."
+      },
+      {
+        "name": "Khách sạn Hoàng Cung Huế",
+        "address": "Số 8 Đại Lộ Hùng Vương, Thành phố Huế, Việt Nam",
+        "handphone": "(84.54) 388 2222",
+        "email": "info@imperial-hotel.com.vn",
+        "website": "http://www.imperial-hotel.com.vn",
+        "brief": "Imperial là khách sạn 5 sao đầu tiên ở Huế, toạ lạc ở ngay trung tâm thành phố, sát bên bờ sông Hương, rất gần để đến tất cả các điểm du lịch nổi tiếng của thành phố di sản thế giới.\n\nKhách sạn là một là một kiệt tác hiếm có về kiến trúc nhà cao tầng và toát lên dấu ấn của trường phái kiến trúc  Cung ..."
+      },
+      {
+        "name": "Khách sạn Midtown Huế",
+        "address": "29 Đội Cung, Phường Phú Hội, TP Huế",
+        "handphone": "054. 62 60 888",
+        "email": "info@midtownhotelhue.com",
+        "website": "http://www.midtownhotelhue.com",
+        "brief": "Đúng với tên gọi của nó, khách sạn Midtown Huế nằm ngay tại ngã năm khu phố du lịch tại trung tâm thành phố Huế - thánh địa của du lịch Việt Nam nổi tiếng với 02 di sản văn hóa thế giới được UNESCO công nhận."
+      },
+      {
+        "name": "Khách sạn rain Way",
+        "address": "80 Lý Thuờng Kiệt, Hoàn Kiếm, Hà Nội",
+        "handphone": "04 39424499",
+        "email": "saigonhotel@fpt.vn",
+        "website": "http://www.saigonhotel-hn.com",
+        "brief": "Khách sạn Rain Way là một trong những khách sạn 3 sao đạt tiêu chuẩn Quốc tế đầu tiên tại Hà Nội.\nVới vị trí thuận lợi, nằm ngay trung tâm của thủ đô Hà Nội, rất thuận tiện cho việc giao dịch với các bộ, ban, ngành; gần với các trung tâm triển lãm, khu thương mại và các thắng cảnh nổi tiếng của thành ..."
+      },
+      {
+        "name": "Khách sạn De L'opera Hà Nội",
+        "address": "Số 29 Phố Tràng Tiền, Quận Hoàn Kiếm, Nhà hát thành phố, Hà Nội, Việt Nam",
+        "handphone": "84-4-6282 5555",
+        "email": "contact@hoteldelopera.com",
+        "website": "http://www.hoteldelopera.com/",
+        "brief": "Cung cấp sự sang trọng đạt tiêu chuẩn 5 sao, khách sạn Khách sạn de l'Opera Hà Nội mang tính biểu tượng này nằm cách Nhà hát lớn Hà Nội 15 phút lái xe. Được lấy cảm hứng từ nước Pháp thế kỷ 19, khách sạn đầy phong cách này có hồ bơi trong nhà và tiện nghi tập thể dục.\nCác phòng trang nhã được trang ..."
+      },
+      {
+        "name": "Khách sạn Apricot",
+        "address": "136 Hàng Trống, Quận Hoàn Kiếm, TP. Hà Nội",
+        "handphone": "+84 43 828 9595",
+        "email": "info@apricothotels.com",
+        "website": "http://www.apricothotels.com",
+        "brief": "Tọa lạc trên phố Hàng Trống có bề dày lịch sử, với tầm nhìn ôm trọn Hồ Gươm cổ kính, khách sạn Apricot là địa chỉ lý tưởng để du khách khám phá những tinh túy về văn hóa và nghệ thuật Việt."
+      },
+      {
+        "name": "Khách sạn Hà Nội Daewoo",
+        "address": "360 phố Kim Mã, Ba Đình, Hà Nội",
+        "handphone": "(84.4) 3831 5000",
+        "email": "sales@daewoohotel.com.vn",
+        "website": "http://www.daewoohotel.com",
+        "brief": "Khách sạn Daewoo nằm trên phố Kim Mã, gần hồ Thủ Lệ và nhiều những đại sứ quán và văn phòng công ty ở Hà Nội. Cách sân bay Nội Bài chừng 40km xe."
+      },
+      {
+        "name": "Khách sạn Thắng Lợi",
+        "address": "200 Yên Phụ, Tây Hồ, Hà Nội",
+        "handphone": "(84.4) 38294211",
+        "email": "thangloihtl@hn.vnn.vn",
+        "website": "http://www.thangloihotel.vn/",
+        "brief": "Tọa lạc trong một khuôn viên rộng lớn nhiều cây xanh ngay cạnh Hồ Tây thơ mộng, cách trung tâm thành phố 5km, cách sân bay Nội Bài chỉ 30 phút đi xe, khách sạn Thắng Lợi với hệ thống phòng nghỉ đầy đủ tiện nghi và các dịch vụ đa dạng là địa điểm lý tưởng cho các doanh nhân cũng như khách du lịch."
+      },
+      {
+        "name": "Khách sạn JW Marriott Hanoi",
+        "address": "8 Đỗ Đức Dục, Nam, Mễ Trì, Nam Từ Liêm, Hà Nội",
+        "handphone": "04 38 33 55 88",
+        "email": "",
+        "website": "http://jwmarriotthanoi.com",
+        "brief": "Tọa lạc tại trung tâm thương mại mới của Hà Nội cách sân bay Nội Bài 27km, vị trí của khách sạn tạo điều kiện thuận lợi cho việc đi lại của  khách hàng trong và ngoài nước. Nằm cạnh Trung Tâm Hội Nghị Quốc Gia và tòa nhà Landmark cao nhất Việt Nam, JW Marriott Hanoi đảm bảo sẽ đáp ứng mọi nhu cầu làm ..."
+      },
+      {
+        "name": "Khách sạn Crowne Plaza Hà Nội",
+        "address": "36 Lê Đức Thọ, Phường Mỹ Đình, Nam Từ Liêm, Hà Nội",
+        "handphone": "824 4 6270 6688",
+        "email": "recruitment@crowneplazawesthanoi.com",
+        "website": "http://www.crowneplaza.com",
+        "brief": "Crowne Plaza West Hanoi Hotel & Residence, nằm cạnh Sân Vận động Quốc gia và Trung tâm Hội nghị Quốc gia, cách sân bay Quốc tế Nội Bài 30 phút. Tổ hợp khách sạn và căn hộ tọa lạc tại vị trí đắc địa thuộc khu đô thị phát triển ở phía Tây Thủ đô, gồm gồm 524 phòng ở và căn hộ, đầy đủ các dịch vụ và tiện ..."
+      },
+      {
+        "name": "Công ty Cổ phần Vườn Phố",
+        "address": "08 38454595",
+        "handphone": "lan.buiphuong@vuonpho.com.vn",
+        "email": "www.vuonpho.com.vn",
+        "website": "",
+        "brief": ""
+      },
+      {
+        "name": "Khách sạn Kim Thơ",
+        "address": "11A Ngô Gia Tự, Tân An, Ninh Kiều, Cần Thơ",
+        "handphone": "84 710 222 7979",
+        "email": "kimtho_hotel@kimtho.com",
+        "website": "http://www.kimtho.com",
+        "brief": "Khách sạn Kim Thơ là khách sạn đạt tiêu chuẩn 3 sao, một công trình kiến trúc hiện đại được khai trương vào tháng 02.2008, gồm 12 tầng nằm ngay trung tâm thành phố Cần Thơ, đối diện bến Ninh Kiều thơ mộng."
+      },
+      {
+        "name": "Nhà hàng khách sạn Ninh Kiều",
+        "address": "02 Hai Bà Trưng – Q Ninh Kiều - TP Cần Thơ",
+        "handphone": "0710 3821171",
+        "email": "ksninhkieu@gmail.com",
+        "website": "http://www.ninhkieuhotel.vn",
+        "brief": "Nhà hàng khách sạn Ninh Kiều được thành lập năm 1994, được xây dựng theo kiến trúc Pháp cổ, tọa lạc ngay trung tâm của Thành phố Cần Thơ, vị trí nằm ngay trên Bến Ninh kiều, các hướng của khách sạn và Nhà hàng đều quay ra sông"
+      },
+      {
+        "name": "Cam Ranh Riviera Beach Resort & Spa",
+        "address": "Khu Du Lịch Bắc Bán Đảo Cam Ranh, xã Cam Hải Đông, Cam Lâm, Khánh Hòa",
+        "handphone": "(+84) 58 398 9898",
+        "email": "info@rivieraresortspa.com",
+        "website": "http://rivieraresortspa.com",
+        "brief": "Hãy tận hưởng chuyến đi tới Bãi Dài – Cam Ranh tại Riviera Beach Resort & Spa, một trong những bãi biển cát trắng đẹp nhất Việt Nam, nằm cách nhà hàng ngoài trời và các phòng ngủ tiện nghi của chúng tôi chỉ vài bước chân."
+      },
+      {
+        "name": "Liberty Central Nha Trang",
+        "address": "07- 09 Biệt Thự, Phường Lộc Thọ, Nha Trang, Khánh Hòa",
+        "handphone": "(84-58)3529 555",
+        "email": "reservation.lcn@libertyhotels.com.vn",
+        "website": "http://www.odysseahotels.com/nhatrang-hotel",
+        "brief": "Tọa lạc tại một vị trí thuận tiện, chỉ mất một phút đi bộ ra biển, và nằm nổi bật trên khu phố Tây, Liberty Central Nha Trang Hotel cung cấp một nơi nghỉ dưỡng với kiến trúc trang nhã, sang trọng, ấn tượng với các tiện ích như truy cập Wi-Fi miễn phí trong toàn bộ khuôn viên, trung tâm kết nối và hỗ ..."
+      },
+      {
+        "name": "Khách sạn Central",
+        "address": "Số 01, Đại lộ Nguyễn Hoàng, Phường Đông Hải, Thành phố Thanh Hóa",
+        "handphone": "0237 363 5555",
+        "email": "info@centralhotel.vn",
+        "website": "http://centralhotel.vn",
+        "brief": "Tọa lạc bên dòng sông Mã thơ mộng, gần kề trung tâm mua sắm, ăn uống và vui chơi giải trí Big C, quý khách chỉ mất 10 phút chạy xe đến bãi biển Sầm Sơn xinh đẹp. Central Hotel, khách sạn 5 sao được yêu thích nhất tại thành phố Thanh Hóa, kết hợp hài hòa giữa vẻ đẹp thiên nhiên và sự phá cách trong kiến ..."
+      },
+      {
+        "name": "Khách sạn Daphovina",
+        "address": "32 Bắc Sơn, phường Vĩnh Hải, Tp Nha Trang, Khánh Hòa",
+        "handphone": "0258.3838 222",
+        "email": "info@daphovinahotel.com",
+        "website": "http://www.daphovinahotel.com",
+        "brief": "Tọa lạc tại thành phố biển Nha Trang, khách sạn Daphovina không những là nơi lý tưởng cho du khách, gia đình nghỉ dưỡng, thư giãn và vui chơi mà còn là sự lựa chọn hàng đầu cho việc tổ chức các chương trình hội nghị, tour tham quan, khám phá biển đảo với một phong cách phục vụ chuyên nghiệp."
+      },
+      {
+        "name": "Khách sạn D'Qua",
+        "address": "+ (84) 258 383 7777",
+        "handphone": "info@dquahotel.com",
+        "email": "https://dquahotel.com",
+        "website": "",
+        "brief": "Toạ lạc tại số 29 Phan Chu Trinh, thành phố Nha Trang – một vị trí ‘’đắc địa’’ ngay tại trung tâm thành phố, Khách sạn D’Qua mang đẳng cấp 5 sao với đầy đủ các tiện ích : hồ bơi, phòng tập thể dục, nhà hàng, quầy bar, trung tâm hội nghị hội thảo,… Ngoài ra, dự án này còn tiếp giáp với nút giao thông ..."
+      },
+      {
+        "name": "Khách sạn Rosaka Nha Trang",
+        "address": "107A Nguyễn Thiện  Thuật  Nha Trang, Khánh  Hòa",
+        "handphone": "(84-258) 3.833.333",
+        "email": "sales@rosakahotel.com",
+        "website": "http://rosakahotel.com",
+        "brief": "Khách sạn Rosaka Nha Trang, nơi nghĩ dưỡng tiện nghi và thân thiện, biểu tượng sang trọng mới của thành phố biển Nha Trang.Khách sạn Rosaka Nha Trang với 139 phòng ngủ được thiết kế hiện đại và thanh lịch với trang thiết bị đẳng cấp theo tiêu chuẩn quốc tế, chất lượng phục vụ hoàn hảo, dịch vụ đa dạng,… ..."
+      },
+      {
+        "name": "Khách sạn StarCity Nha Trang",
+        "address": "72-74 Đường Trần Phú, Thành Phố Nha Trang, Tỉnh Khánh Hòa",
+        "handphone": "+84 258 3590 999",
+        "email": "rsvn@starcitynhatrang.com",
+        "website": "http://starcitynhatrang.com",
+        "brief": ""
+      },
+      {
+        "name": "GREEN WORLD HOTEL NHATRANG",
+        "address": "44 Nguyễn Thị Minh Khai, P. Lộc Thọ, Tp. Nha Trang, Khánh Hòa",
+        "handphone": "058 3528 666",
+        "email": "info@greenworldhotelnhatrang.com",
+        "website": "http://greenworldhotelnhatrang.com",
+        "brief": "Green World Hotel một điểm đến lý tưởng, nằm ngay trung tâm thành phố biển Nha Trang - một trong 29 vịnh biển đẹp nhất thế giới. Từ khách sạn, chỉ mất 3 phút đi bộ quý khách đã được khám phá vẻ đẹp thơ mộng và quyến rũ lạ thường của Biển Nha Trang. Khách sạn cao 21 tầng, với hơn 70% số phòng ngủ hướng ..."
+      },
+      {
+        "name": "IMPERIAL NHA TRANG HOTEL",
+        "address": "20 Trần Phú, P.Vĩnh Nguyên, TP Nha Trang, Khánh Hòa",
+        "handphone": "0258.3736688",
+        "email": "info@imperialnhatranghotel.com",
+        "website": "www.imperialnhatranghotel.com",
+        "brief": "Tọa lạc tại thành phố Nha Trang, cách các điểm tham quan như Viện Hải dương học và Cung Bảo Đại và khu du lịch Vinpearl Land một đoạn đường ngắn (1Km), Imperial Nha Trang là khách sạn đạt tiêu chuẩn 4*, cao 26 tầng, bao gồm 142 phòng  với nhiều loại phòng tiện nghi, sang trọng và trang thiết bị chuyên ..."
+      },
+      {
+        "name": "Khách sạn Ocean Star Vũng Tàu",
+        "address": "45 Thùy Vân, TP Vũng Tàu",
+        "handphone": "(+84) 643. 589 589",
+        "email": "oceanstarvungtau@gmail.com",
+        "website": "http://oceanstarvungtau.com",
+        "brief": "Khách sạn Ocean Star Vũng Tàu được xây dựng theo kiến trúc của phương tây với 50 phòng nghỉ sang trọng hiện đại đạt tiêu chuẩn quốc tế 3 sao. Nghỉ tại khách sạn Ocean Star quý khách sẽ được tận hưởng sự yên tĩnh và ngắm nhìn phong cảnh tuyệt đẹp của Biển Vũng Tàu. Khách sạn được trang thiết bị hiện đại ..."
+      },
+      {
+        "name": "Khách sạn IMPERIAL Vũng Tàu",
+        "address": "159 Thùy Vân, Phường Thắng Tam, Tp. Vũng Tàu",
+        "handphone": "+84(0) 643 62 8888",
+        "email": "info@imperialhotel.vn",
+        "website": "http://www.imperialhotel.vn",
+        "brief": "Khách sạn IMPERIAL cung cấp đa dạng các tiện nghi và dịch vụ bao gồm The Dining Room (phòng ăn) có không gian ấm cúng và thoải mái như tại nhà, chuyên phục vụ các món ăn tươi ngon, sử dụng các nguyên vật liệu tươi ngon từ khắp nơi trên thế giới."
+      },
+      {
+        "name": "Khách sạn Golf Phú Mỹ",
+        "address": "01 Nguyễn Văn Linh, Phường Phú Mỹ, Thị Xã Phú Mỹ, Bà Rịa Vũng Tàu",
+        "handphone": "02546 266 266",
+        "email": "info@golfphumy.com.vn",
+        "website": "https://golfphumy.com.vn/",
+        "brief": "Khách sạn Golf Phú Mỹ là biểu tượng mới của thành phố Phú Mỹ, có phong cách kiến trúc hiện đại, tinh tế của một khách sạn nghỉ dưỡng cao cấp. Đến Khách sạn Golf Phú Mỹ, Quý khách sẽ cảm nhận được chất lượng dịch vụ tuyệt hảo và thật sự hài lòng với thái độ phục vụ chuyên nghiệp của tập thể cán bộ quản ..."
+      },
+      {
+        "name": "The Cliff resort & residences",
+        "address": "Khu phố 5, phường Phú Hài, Mũi Né, Phan Thiết, Bình Thuận",
+        "handphone": "(062) 3719 111",
+        "email": "sales@thecliffresort.com.vn",
+        "website": "www.thecliffresort.com.vn",
+        "brief": "Với hầu hết các phòng căn hộ và biệt thự đều có thể nhìn thấy biển ở mọi vị trí, The Cliff resort & residences sẽ mang lại không gian khoáng đãng của biển Đông xanh ngắt cho hội viên và gia đình khi đến nghỉ dưỡng tại đây"
+      },
+      {
+        "name": "Champa resort & Spa",
+        "address": "Tiến An, Tiến Thành, TP Phan Thiết, Bình Thuận",
+        "handphone": "062.3846335",
+        "email": "info@champaresort.com.vn",
+        "website": "http://champaresort.com.vn",
+        "brief": "Khu nghỉ dưỡng CHAMPA RESORT & SPA tọa lạc tại thành phố Phan Thiết, nằm dọc theo bờ biển đầy cát vàng Tiến Thành, chỉ cách biển xanh chừng vài bước chân, ẩn mình dưới những hàng cây nhiệt đới sum xuê, sau lưng là dãy núi xanh hùng vĩ."
+      },
+      {
+        "name": "Anantara Mũi Né Resort & Spa",
+        "address": "Khu phố 1, Nguyễn Đình Chiểu, Hàm Tiên, Mũi Né",
+        "handphone": "84 (0) 62 3741 888",
+        "email": "muine@anantara.com",
+        "website": "http://mui-ne.anantara.com/",
+        "brief": "Tọa lạc tại vùng biển thanh bình Mũi Né gần kề với thành phố Phan Thiết,  Anantara Mũi Né Resort & Spa có bãi biển trãi dài tuyệt đẹp, một khu nghỉ mát lịch sự và sang trọng thật sự. Đến với Anantara Mũi Né Resort & Spa  du khách sẽ có một kỳ nghỉ yên bình, cách xa cái ô nhiễm và ồn ào của thành phố, ..."
+      },
+      {
+        "name": "Blue Ocean Resort Phan Thiết",
+        "address": "54 Nguyễn Đình Chiểu, Hàm Tiên, Mũi Né",
+        "handphone": "(84-62) 3847 322 / 3847 444",
+        "email": "sales@blueoceanresort.com.vn",
+        "website": "http://www.blueoceanresort.com.vn",
+        "brief": "Blue Ocean Resort được trang bị đầy đủ trang thiết bị hiện đại, tiện nghi. Tọa lạc tại Mũi Né, Blue Ocean Resort là một điểm đến lý tưởng, tràn ngập niềm vui và có nhiều hoạt động cho tất cả các thành viên trong gia đình cũng như các cặp đôi."
+      },
+      {
+        "name": "Tre xanh Plaza",
+        "address": "18 Lê Lai – Pleiku – Gia Lai",
+        "handphone": "(059) 3715787",
+        "email": "gialaictc@vnn.vn",
+        "website": "http://trexanhhotel.vn",
+        "brief": "Tre xanh Plaza là đơn vị trực thuộc Công ty cp Văn hóa - Du lịch Gia lai, tọa lạc ngay trung tâm hành chính, thương mại thành phố Pleiku cách sân bay chừng 3km. Khách sạn gồm 120 phòng tiêu chuẩn 3 sao cùng với các dịch vụ hội nghị, giải trí, điểm tâm, giải khát kèm theo. Hiện nay Tre xanh Plaza được ..."
+      },
+      {
+        "name": "Phú Hải Resort",
+        "address": "Km 8, Mũi né, Bãi Biển Phú Hải, Phan Thiết, Bình Thuận",
+        "handphone": "(+84)(62) - 3 812 799",
+        "email": "info@phuhairesort.com",
+        "website": "http://phuhairesort.com",
+        "brief": "Tuy nằm trong rất nhiều resort của \"Thủ Đô Resort\" nhưng từ năm 2001, vẻ đẹp của PHÚ HẢI RESORT đã thực sự chinh phục hầu hết những du khách yêu biển khó tính nhất. Bao quanh cát và biển là những hàng dừa xanh, nghiêng mình xào xạc trong gió. Không khói bụi và tiếng ồn, nằm trên một vị trí yên tĩnh, ..."
+      },
+      {
+        "name": "Anoasis Beach Resort",
+        "address": "Đường số 44, Long Hải, BR- Vũng Tàu",
+        "handphone": "(84-64) 3 868 227",
+        "email": "info@anoasisresort.com.vn",
+        "website": "http://www.anoasisresort.com.vn/",
+        "brief": "Anoasis Beach Resort đã được rất nhiều cẩm nang du lịch và tạp chí lữ hành quốc tế ca ngợi, khen tặng.\nTất cả đều công nhận đây là một trong những resort  đẹp nhất của Việt Nam , có một phong cách vừa đậm đà tính dân tộc vừa thân thiện hiếu khách."
+      },
+      {
+        "name": "Little Paris Resort",
+        "address": "Số 6 Huỳnh Thúc Kháng, Hàm Tiến, Tp Phan Thiết, Bình Thuận",
+        "handphone": "0623.743.716",
+        "email": "info@littleparisresort.com.vn",
+        "website": "http://littleparisresort.com.vn",
+        "brief": "Khu nghỉ mát Little Paris nằm tại Mũi Né , Phan Thiết nơi tập trung các resort nổi tiếng taị khu vực. Các phòng được xây dựng dưới các rặng dừa tuyệt đẹp và bao quanh là khu vườn thơ mộng."
+      },
+      {
+        "name": "Khách sạn Sao Biển",
+        "address": "1/3A Lê Hồng Phong - Quận Ngô Quyền, Hải Phòng",
+        "handphone": "(8431) 3556998 - 3556988",
+        "email": "seastarshotel@seastarshotel.vn",
+        "website": "http://www.seastarshotel.vn",
+        "brief": "Khách sạn Sao Biển là khách sạn tiêu chuẩn quốc tế 4 sao, toạ lạc tại trung tâm thành phố, gần Siêu thị Big C, khu cao ốc thương mại văn phòng và căn hộ cao cấp TD Plaza, đặc biệt hơn chỉ cách sân bay Cát Bi - Hải Phòng chừng 4 km. Với vị thế ở cửa ngõ chính và trung tâm phát triển thương mại của toàn ..."
+      },
+      {
+        "name": "Khách sạn Ninh Kiều 2",
+        "address": "03 Đại lộ Hòa Bình, Quận Ninh Kiều, TP Cần Thơ",
+        "handphone": "(84-710) 6252414",
+        "email": "contact@ninhkieuhotel.com",
+        "website": "http://www.ninhkieuhotel.com",
+        "brief": "Khai trương vào trung tuần tháng 9.2007, Ninh Kiều 2 tọa lạc trong quần thể khu vực khách sạn cao cấp và các trung tâm văn hoá, thương mại, tài chính của thành phố Cần Thơ..."
+      },
+      {
+        "name": "Khách sạn Hải Âu Quy Nhơn",
+        "address": "489 An Dương Vương, TP Quy Nhơn, Bình Định",
+        "handphone": "(84-56) 3 846 377",
+        "email": "info@seagullhotel.com.vn",
+        "website": "http://www.seagullhotel.com.vn",
+        "brief": "Khách sạn Hải Âu là khách sạn 4 sao sang trọng tọa lạc ngay trên bờ biển Quy Nhơn đầy thơ mộng và tuyệt đẹp. Chỉ mất 20 phút từ ga Diêu Trì và 45 phút từ Sân bay Phù Cát để đến khách sạn. Khách sạn rất gần các điểm tham quan du lịch, khu di tích, và chỉ vài bước dạo bộ để có thể đến trung tâm thành phố ..."
+      },
+      {
+        "name": "Khách sạn Sài Gòn Quy Nhơn",
+        "address": "24 Nguyễn Huệ, Quy Nhơn, Bình Định",
+        "handphone": "(84-56) 3820100/ 3829922",
+        "email": "saigonquynhonhotel@vnn.vn / sales@saigonquynhonhotel.com.vn",
+        "website": "http://www.saigonquynhonhotel.com.vn/",
+        "brief": "Khách sạn Saigon-Quynhon nằm đối diện bờ biển Quy Nhơn xinh đẹp thuộc vùng biển Đông Việt Nam, cách sân bay Phù Cát chỉ 25 phút xe chạy và gần các điểm du lịch hấp dẫn, nơi du khách có thể khám phá nền văn hoá cổ xưa-cái nôi của các đặc trưng văn hoá của Việt Nam."
+      },
+      {
+        "name": "VDB NHA TRANG HOTEL",
+        "address": "50 PhạmVănĐồng, PhườngVĩnhHải, TP NhaTrang, Khánh Hòa",
+        "handphone": "(84-58) 3728728",
+        "email": "info@vdbnhatranghotel.vn",
+        "website": "http://www.vdbnhatranghotel.vn",
+        "brief": "Khách Sạn VDB NHA TRANG gồm 150 phòng sang trọng hướng ra biển với đầy đủ tiện nghi và hiện đại đạt tiêu chuẩn 4 sao. Hãy đến và cảm nhận những giây phút thư giãn, nghỉ ngơi tuyệt vời tại Khách Sạn VDB NHA TRANG bên bờ biển xanh đầy thơ mộng."
+      },
+      {
+        "name": "Khách sạn ISENA Nha Trang",
+        "address": "Số 2 Nguyễn Thiện Thuật, TP Nha Trang, Khánh Hòa",
+        "handphone": "+84-258-3529800",
+        "email": "sales@isenahotel.com",
+        "website": "http://isenahotel.com",
+        "brief": "Khách sạn ISENA Nha Trang được xây dựng theo tiêu chuẩn 4 sao với 165 phòng nghỉ theo phong cách kiến trúc tân cổ điển độc đáo. ISENA Nha Trang gây ấn tượng bởi nét tinh tế hài hòa giữa đường nét kiến trúc và nội thất trang trí – đem đến không gian nghỉ dưỡng sang trọng và ấm áp, thanh bình cho mỗi chuyến ..."
+      },
+      {
+        "name": "Khách sạn Đệ Nhất",
+        "address": "18 Đường Hoàng Việt, Quận Tân Bình, TP.HCM",
+        "handphone": "(848) 3844 1199",
+        "email": "sales@firsthotel.com.vn",
+        "website": "http://www.firsthotel.com.vn",
+        "brief": "Tọa lạc gần sân bay quốc tế và quốc nội Tân Sơn Nhất của thành phố Hồ Chí Minh và khu vực phía Nam, Khách sạn Đệ Nhất mong muốn là cánh cửa đầu tiên của TP. HCM mở ra đón bạn bè quốc tế đến với các di sản thiên nhiên - văn hóa nổi tiếng thế giới và các trung tâm thương mại lớn của Việt Nam, Lào và Campuchia."
+      },
+      {
+        "name": "Khách sạn Công đoàn Việt Nam",
+        "address": "14 Trần Bình Trọng, Hà Nội, Việt Nam",
+        "handphone": "(84-4).39421776",
+        "email": "plan.tics@yahoo.com",
+        "website": "http://www.trade-union.com.vn",
+        "brief": "Nằm ở trung tâm thủ đô, trong quần thể khu vực các khách sạn cấp cao của thủ đô Hà Nội, gần các trung tâm văn hoá, thương mại, tài chính..."
+      },
+      {
+        "name": "Khách sạn Bảo Sơn",
+        "address": "50 Nguyễn Chí Thanh, Quận Đống Đa - hồ Đống Đa, Hà Nội, Việt Nam",
+        "handphone": "84-4 38353536",
+        "email": "baosonhotel@hn.vnn.vn",
+        "website": "http://baosonhotels.com",
+        "brief": "Khách sạn quốc tế Bảo Sơn Hà Nội là khách sạn Quốc tế 4 sao với tổng số phòng là 94 phòng với nội thất gỗ và các dịch vụ cá nhân chất lượng cao chắc chắn sẽ làm cho bạn có cảm giác thoải mái như đang ở nhà.\nKhách sạn quốc tế Bảo Sơn Hà Nội cung cấp các dịch vụ hoàn hảo chắc chắn đem đến chuyến nghỉ ..."
+      },
+      {
+        "name": "Khách sạn Hòa Bình",
+        "address": "27 Lý Thường Kiệt, Hoàn Kiếm, Hà Nội",
+        "handphone": "(84-4) 38253315 - 38253692",
+        "email": "hoabinhhtl@gmail.com",
+        "website": "http://hoabinhhotel.com",
+        "brief": "Được xây dựng năm 1926 với tên gọi “ Le Spendide” , khách sạn là một trong những công trình có kiến trúc đẹp nhất còn giữ lại được đến ngày nay. Với 103 phòng, cửa sổ và trần nhà thiết kế theo lối quý tộc, trang thiết bị hiện đại, dịch vụ chu đáo, khách sạn Hòa Bình là địa chỉ đáng tin cậy cho cả khách ..."
+      },
+      {
+        "name": "Khách sạn Green Plaza Đà Nẵng",
+        "address": "238 Bạch Đằng, Quận Hải Châu, Đà Nẵng",
+        "handphone": "(+84) (0511) 3 223399",
+        "email": "info@greenplazahotel.vn",
+        "website": "http://www.greenplazahotel.vn",
+        "brief": "Khách sạn Green Plaza là một trong số những khách sạn hàng đầu của thành phố với trang thiết bị hiện đại, kiến trúc mang phong cách của văn hóa Việt Nam và Chăm Pa. Ở đây du khách sẽ được tận hưởng không gian sang trọng, tiện nghi và các dịch vụ hữu ích khác."
+      }
+    ]
+  },
+  "item_scraped_count": 110
+}

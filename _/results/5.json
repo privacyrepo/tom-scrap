@@ -1,0 +1,1433 @@
+{
+  "name": "Cryptocurrency jobs",
+  "website": "https://cryptocurrencyjobs.co/web3/",
+  "entities": {
+    "jobs": [
+      {
+        "description": "",
+        "company": {
+          "name": " Data Infrastructure Engineer - Observability ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Data Infrastructure Engineer - Observability",
+        "applyLink": "/engineering/blockswap-network-data-infrastructure-engineer-observability/",
+        "date": "Today",
+        "tags": [
+          "AWS",
+          "Crypto Pay",
+          "Data",
+          "DeFi",
+          "Engineer",
+          "Ethereum",
+          "JavaScript",
+          "Python",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Senior Web3 Front-End Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Senior Web3 Front-End Engineer",
+        "applyLink": "/engineering/prepo-senior-web3-front-end-engineer/",
+        "date": "1d",
+        "tags": [
+          "Crypto Pay",
+          "DeFi",
+          "Engineer",
+          "Ethereum",
+          "Figma",
+          "Frontend Engineer",
+          "NFT",
+          "React",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$80K",
+          "$200K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Lead Architect ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Lead Architect",
+        "applyLink": "/engineering/cere-network-lead-architect/",
+        "date": "1d",
+        "tags": [
+          "Technical Architect",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Web3 Marketing Lead ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Web3 Marketing Lead",
+        "applyLink": "/marketing/prepo-web3-marketing-lead/",
+        "date": "2d",
+        "tags": [
+          "Brand Marketing",
+          "Content Marketing",
+          "Crypto Pay",
+          "DeFi",
+          "Non-Tech",
+          "Product Marketing",
+          "Social Media Marketing",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$50K",
+          "$160K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Business Development Lead, Gaming ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Business Development Lead, Gaming",
+        "applyLink": "/sales/aptos-labs-business-development-lead-gaming/",
+        "date": "2d",
+        "tags": [
+          "Business Development",
+          "DeFi",
+          "Gaming",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote - US",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Head of Investments ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Head of Investments",
+        "applyLink": "/other/outlier-ventures-head-of-investments/",
+        "date": "2d",
+        "tags": [
+          "Finance",
+          "Investments",
+          "Non-Tech",
+          "Venture Capital",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Web3 Business Development ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Web3 Business Development",
+        "applyLink": "/sales/prepo-web3-business-development/",
+        "date": "3d",
+        "tags": [
+          "Business Development",
+          "Crypto Pay",
+          "DeFi",
+          "Non-Tech",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Part-Time",
+        "compensation": [
+          "$40K",
+          "$120K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Technical Product Lead - Sygma ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Technical Product Lead - Sygma",
+        "applyLink": "/other/chainsafe-systems-technical-product-lead-sygma/",
+        "date": "3d",
+        "tags": [
+          "Open Source",
+          "Product",
+          "Product Manager",
+          "web3"
+        ],
+        "remote": false,
+        "role": "Other",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Marketing Manager ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Marketing Manager",
+        "applyLink": "/marketing/uma-marketing-manager/",
+        "date": "3d",
+        "tags": [
+          "Crypto Pay",
+          "DeFi",
+          "Marketing Manager",
+          "Non-Tech",
+          "Social Media Marketing",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$50K",
+          "$100K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Sr. DevOps Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Sr. DevOps Engineer",
+        "applyLink": "/engineering/uma-sr-devops-engineer/",
+        "date": "3d",
+        "tags": [
+          "Cloud",
+          "Crypto Pay",
+          "DeFi",
+          "DevOps",
+          "Engineer",
+          "GCP",
+          "Linux",
+          "SRE",
+          "SysAdmin",
+          "Systems Engineer",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$100K",
+          "$200K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Head of Sales Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Head of Sales Engineer",
+        "applyLink": "/sales/uma-head-of-sales-engineer/",
+        "date": "3d",
+        "tags": [
+          "Crypto Pay",
+          "DAO",
+          "DeFi",
+          "Engineer",
+          "Ethereum",
+          "Partnerships",
+          "Sales Engineer",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$100K",
+          "$200K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Node.js Engineer (DevOps Hybrid) ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Node.js Engineer (DevOps Hybrid)",
+        "applyLink": "/engineering/rolla-nodejs-engineer-devops-hybrid/",
+        "date": "4d",
+        "tags": [
+          "Crypto Pay",
+          "DeFi",
+          "DevOps",
+          "Engineer",
+          "Kubernetes",
+          "Node.js",
+          "SRE",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Product Manager ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Product Manager",
+        "applyLink": "/other/the-fabricant-product-manager/",
+        "date": "4d",
+        "tags": [
+          "Product",
+          "Product Manager",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Other",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Senior Visual Designer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Senior Visual Designer",
+        "applyLink": "/design/walletconnect-senior-visual-designer/",
+        "date": "4d",
+        "tags": [
+          "Non-Tech",
+          "Visual Designer",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Design",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Product Manager - Cloud ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Product Manager - Cloud",
+        "applyLink": "/other/walletconnect-product-manager-cloud/",
+        "date": "4d",
+        "tags": [
+          "Cloud",
+          "Product",
+          "Product Manager",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Other",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$60K",
+          "$80K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Smart Contract Engineer (Solidity) ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Smart Contract Engineer (Solidity)",
+        "applyLink": "/engineering/prepo-smart-contract-engineer/",
+        "date": "5d",
+        "tags": [
+          "Crypto Pay",
+          "DeFi",
+          "Engineer",
+          "Ethereum",
+          "Hardhat",
+          "NFT",
+          "Smart Contracts",
+          "Solidity",
+          "TypeScript",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Contract,   Full-Time",
+        "compensation": [
+          "$100K",
+          "$200K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Director of Business Development ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Director of Business Development",
+        "applyLink": "/sales/clubrare-director-of-business-development/",
+        "date": "5d",
+        "tags": [
+          "Business Development",
+          "Crypto Pay",
+          "Non-Tech",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Venture Analyst ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Venture Analyst",
+        "applyLink": "/other/nascent-venture-analyst/",
+        "date": "6d",
+        "tags": [
+          "Blockchain",
+          "Crypto",
+          "DeFi",
+          "Finance",
+          "Investment Analyst",
+          "NFT",
+          "On-Chain Analysis",
+          "Venture Capital",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Other",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Front End Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Front End Engineer",
+        "applyLink": "/engineering/monax-labs-front-end-engineer/",
+        "date": "7d",
+        "tags": [
+          "Chakra UI",
+          "Engineer",
+          "Frontend Engineer",
+          "JavaScript",
+          "NFT",
+          "React",
+          "React Query",
+          "Recoil",
+          "TypeScript",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Community Manager ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Community Manager",
+        "applyLink": "/marketing/metapixel-community-manager/",
+        "date": "8d",
+        "tags": [
+          "Blockchain",
+          "Community Manager",
+          "Cryptocurrency",
+          "Discord",
+          "NFT",
+          "Non-Tech",
+          "Telegram",
+          "Twitter",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " CMO (Pseudonymous Talents Welcome) ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "CMO (Pseudonymous Talents Welcome)",
+        "applyLink": "/marketing/destore-cmo-pseudonymous-talents-welcome/",
+        "date": "8d",
+        "tags": [
+          "CMO",
+          "Commerce",
+          "Crypto Pay",
+          "DAO",
+          "NFT",
+          "Non-Tech",
+          "Retail",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Part-Time",
+        "compensation": [
+          "$80K",
+          "$150K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Business Development Manager (Web3) ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Business Development Manager (Web3)",
+        "applyLink": "/sales/cere-network-business-development-manager-web3/",
+        "date": "8d",
+        "tags": [
+          "Business Development",
+          "Crypto",
+          "DeFi",
+          "Partnerships",
+          "Product Management",
+          "Technical",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$60K",
+          "$100K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Technical Project Manager ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Technical Project Manager",
+        "applyLink": "/engineering/subspace-labs-technical-project-manager/",
+        "date": "10d",
+        "tags": [
+          "Crypto Pay",
+          "Cryptography",
+          "Open Source",
+          "Project Manager",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Quality Assurance Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Quality Assurance Engineer",
+        "applyLink": "/engineering/subspace-labs-quality-assurance-engineer/",
+        "date": "10d",
+        "tags": [
+          "Crypto Pay",
+          "Engineer",
+          "Open Source",
+          "QA",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " DevOps Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "DevOps Engineer",
+        "applyLink": "/engineering/subspace-labs-devops-engineer/",
+        "date": "10d",
+        "tags": [
+          "Cloud",
+          "Crypto Pay",
+          "DevOps",
+          "Engineer",
+          "Kubernetes",
+          "Linux",
+          "Open Source",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Business Development Executive ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Business Development Executive",
+        "applyLink": "/sales/nethermind-business-development-executive/",
+        "date": "10d",
+        "tags": [
+          "Business Development",
+          "DeFi",
+          "Ethereum",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Data Scientist ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Data Scientist",
+        "applyLink": "/other/defiyield-data-scientist/",
+        "date": "10d",
+        "tags": [
+          "Data Scientist",
+          "DeFi",
+          "Python",
+          "SQL",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Other",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Backend Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Backend Engineer",
+        "applyLink": "/engineering/chronicle-labs-backend-engineer/",
+        "date": "11d",
+        "tags": [
+          "Backend Engineer",
+          "Crypto Pay",
+          "DeFi",
+          "Engineer",
+          "Golang",
+          "Oracles",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Business Development Lead ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Business Development Lead",
+        "applyLink": "/sales/fleek-business-development-lead/",
+        "date": "11d",
+        "tags": [
+          "Blockchain",
+          "Business Development",
+          "Non-Tech",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote - Canada, North America, South America, US",
+        "jobType": "Contract",
+        "compensation": [
+          "$70K",
+          "$100K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Senior / Lead Web3 Developer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Senior / Lead Web3 Developer",
+        "applyLink": "/engineering/usual-company-senior-lead-web3-developer/",
+        "date": "12d",
+        "tags": [
+          "Crypto Pay",
+          "DAO",
+          "DeFi",
+          "Developer",
+          "Smart Contracts",
+          "Solidity",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Contract,   Full-Time",
+        "compensation": [
+          "$70K",
+          "$150K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Blockchain Developer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Blockchain Developer",
+        "applyLink": "/engineering/offchain-labs-blockchain-developer/",
+        "date": "17d",
+        "tags": [
+          "Arbitrum",
+          "Blockchain Developer",
+          "Developer",
+          "Ethereum",
+          "Layer 2",
+          "Solidity",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Golang Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Golang Engineer",
+        "applyLink": "/engineering/offchain-labs-golang-engineer/",
+        "date": "17d",
+        "tags": [
+          "Arbitrum",
+          "Engineer",
+          "Ethereum",
+          "Golang",
+          "Layer 2",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Head of Partnership ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Head of Partnership",
+        "applyLink": "/marketing/zkholdem-head-of-partnership/",
+        "date": "17d",
+        "tags": [
+          "Brand Marketing",
+          "Business Development",
+          "Non-Tech",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Token Launch Manager (Ascent) ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Token Launch Manager (Ascent)",
+        "applyLink": "/outlier-ventures-token-launch-manager-ascent/",
+        "date": "17d",
+        "tags": [
+          "Crypto Pay",
+          "Finance",
+          "Investing",
+          "Non-Tech",
+          "Research",
+          "Tokens",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Site Reliability Engineer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Site Reliability Engineer",
+        "applyLink": "/engineering/gelato-network-site-reliability-engineer/",
+        "date": "19d",
+        "tags": [
+          "Cloud",
+          "Crypto Pay",
+          "DeFi",
+          "DevOps",
+          "Docker",
+          "Engineer",
+          "Kubernetes",
+          "SRE",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Head of Marketing or Director of Marketing ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Head of Marketing or Director of Marketing",
+        "applyLink": "/marketing/oasis-foundation-head-of-marketing-or-director-of-marketing/",
+        "date": "22d",
+        "tags": [
+          "Brand Marketing",
+          "Crypto Pay",
+          "DeFi",
+          "Gaming",
+          "Growth Marketing",
+          "NFT",
+          "Non-Tech",
+          "Product Marketing",
+          "Public Relations",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " DAO Governance (Business Operations) ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "DAO Governance (Business Operations)",
+        "applyLink": "/operations/exponent-dao-governance-business-operations/",
+        "date": "24d",
+        "tags": [
+          "Business Development",
+          "Crypto Pay",
+          "DAO",
+          "Governance",
+          "Non-Tech",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Operations",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Senior Data Analyst ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Senior Data Analyst",
+        "applyLink": "/other/safe-senior-data-analyst/",
+        "date": "26d",
+        "tags": [
+          "Data",
+          "Ethereum",
+          "Google Analytics",
+          "Product",
+          "Python",
+          "SQL",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Berlin",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Intern ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Intern",
+        "applyLink": "/other/edge-node-intern/",
+        "date": "1d",
+        "tags": [
+          "Entry-Level",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Other",
+        "jobType": "Internship",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Web3 Content Manager Intern ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Web3 Content Manager Intern",
+        "applyLink": "/marketing/ledger-web3-content-manager-intern/",
+        "date": "5d",
+        "tags": [
+          "Content Marketing",
+          "Entry-Level",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Internship",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Web3 Community and Social Media Manager ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Web3 Community and Social Media Manager",
+        "applyLink": "/marketing/rarimo-web3-community-and-social-media-manager/",
+        "date": "10d",
+        "tags": [
+          "Community Manager",
+          "Non-Tech",
+          "Social Media Marketing",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          "$40K",
+          "$75K"
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Senior Open Source Program Manager, IPFS ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Senior Open Source Program Manager, IPFS",
+        "applyLink": "/operations/protocol-labs-senior-open-source-program-manager-ipfs/",
+        "date": "14d",
+        "tags": [
+          "Open Source",
+          "Program Manager",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Operations",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Business Development Manager, Web3 ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Business Development Manager, Web3",
+        "applyLink": "/sales/circle-business-development-manager-web3/",
+        "date": "24d",
+        "tags": [
+          "Business Development",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote - US",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Account Manager ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Account Manager",
+        "applyLink": "/sales/nifty-s-account-manager/",
+        "date": "27d",
+        "tags": [
+          "Account Manager",
+          "NFT",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Enterprise Account Executive ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Enterprise Account Executive",
+        "applyLink": "/sales/magic-enterprise-account-executive/",
+        "date": "30d",
+        "tags": [
+          "Account Executive",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " ‍Brand Graphic Designer ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "‍Brand Graphic Designer",
+        "applyLink": "/design/zerion-brand-graphic-designer/",
+        "date": "4w",
+        "tags": [
+          "Brand Designer",
+          "Crypto Pay",
+          "DeFi",
+          "Graphic Designer",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Design",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Growth & Partnerships (Web3) ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Growth & Partnerships (Web3)",
+        "applyLink": "/sales/sismo-growth-partnerships-web3/",
+        "date": "5w",
+        "tags": [
+          "Non-Tech",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Blockchain Security Services Manager ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Blockchain Security Services Manager",
+        "applyLink": "/engineering/openzeppelin-blockchain-security-services-manager/",
+        "date": "7w",
+        "tags": [
+          "Ethereum",
+          "Open Source",
+          "Security",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Game Maker Fund Marketing Assistant ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Game Maker Fund Marketing Assistant",
+        "applyLink": "/marketing/the-sandbox-game-maker-fund-marketing-assistant/",
+        "date": "8w",
+        "tags": [
+          "Entry-Level",
+          "Ethereum",
+          "Metaverse",
+          "NFT",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Protocol Specialist ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Protocol Specialist",
+        "applyLink": "/other/alchemy-protocol-specialist/",
+        "date": "8w",
+        "tags": [
+          "L1",
+          "Layer 2",
+          "Research",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "San Francisco (CA)",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Senior Data Scientist ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Senior Data Scientist",
+        "applyLink": "/engineering/aztec-senior-data-scientist/",
+        "date": "9w",
+        "tags": [
+          "Data Scientist",
+          "Ethereum",
+          "Layer 2",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Head of Partnerships & Growth ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Head of Partnerships & Growth",
+        "applyLink": "/sales/paragraph-head-of-partnerships-growth/",
+        "date": "9w",
+        "tags": [
+          "Non-Tech",
+          "Partnerships",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Sales",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Social Media Specialist ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Social Media Specialist",
+        "applyLink": "/marketing/sky-mavis-social-media-specialist/",
+        "date": "9w",
+        "tags": [
+          "DeFi",
+          "NFT",
+          "Non-Tech",
+          "Social Media Marketing",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Marketing",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Community Manager & Support ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Community Manager & Support",
+        "applyLink": "/customer-support/alium-finance-community-manager-support/",
+        "date": "10w",
+        "tags": [
+          "Community Manager",
+          "Non-Tech",
+          "Social Media Marketing",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Remote",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Senior Counsel ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Senior Counsel",
+        "applyLink": "/operations/magic-senior-counsel/",
+        "date": "11w",
+        "tags": [
+          "Counsel",
+          "Legal",
+          "Non-Tech",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Operations",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " QA Analyst ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "QA Analyst",
+        "applyLink": "/engineering/zora-qa-analyst/",
+        "date": "12w",
+        "tags": [
+          "Engineer",
+          "NFT",
+          "QA",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Engineering",
+        "jobType": "Full-Time",
+        "compensation": [
+          ""
+        ]
+      },
+      {
+        "description": "",
+        "company": {
+          "name": " Crypto/Web3/Blockchain Research Intern ",
+          "slug": "",
+          "logo": {}
+        },
+        "title": "Crypto/Web3/Blockchain Research Intern",
+        "applyLink": "/other/claystack-crypto-web3-blockchain-research-intern/",
+        "date": "12w",
+        "tags": [
+          "Entry-Level",
+          "Entry-Level",
+          "Research",
+          "Web3"
+        ],
+        "remote": false,
+        "role": "Other",
+        "jobType": "Internship",
+        "compensation": [
+          ""
+        ]
+      }
+    ]
+  }
+}

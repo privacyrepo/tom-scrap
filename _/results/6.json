@@ -1,0 +1,1785 @@
+{
+  "type": "Feature",
+  "name": "Lotteria",
+  "POI:Category": "Restaurant",
+  "store_url": "https://www.lotteria.vn/rest/english/V1/branch",
+  "website": "https://www.lotteria.vn/",
+  "properties": {
+    "attributes": [
+      {
+        "name": "COOP NGUYỄN ĐÌNH CHIỂU",
+        "street": "168 Nguyễn Đình Chiểu, Phường 6, Quận 3",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 03",
+        "phone": "39.301.030",
+        "latitude": "10.781490",
+        "longitude": "106.692687"
+      },
+      {
+        "name": "PHÚ MỸ HƯNG",
+        "street": "SB 2-1 Mỹ Khánh 2, Phú Mỹ Hưng, Quận 7",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Đống Đa",
+        "phone": "02854.120.565",
+        "latitude": "10.728192",
+        "longitude": "106.708380"
+      },
+      {
+        "name": "NGUYỄN TRI PHƯƠNG",
+        "street": "114 Trần Hưng Đạo, Phường 7, Quận 5",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 05",
+        "phone": "39.239.122",
+        "latitude": "10.752884",
+        "longitude": "106.669570"
+      },
+      {
+        "name": "BIG C HẢI PHÒNG",
+        "street": "Lô 1/20 Ngã 5 Sân Bay Cát Bi, Lê Hồng Phong, Đằng Giang, Ngô Quyền, Hải Phòng",
+        "region_name": "HAI PHONG",
+        "district_name": "NULL",
+        "phone": "0225.3852 295",
+        "latitude": "20.845300",
+        "longitude": "106.707424"
+      },
+      {
+        "name": "BA THÁNG HAI",
+        "street": "572A Ba Tháng Hai, Phường 14, Quận 10",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 10",
+        "phone": "38.636.502",
+        "latitude": "10.766056",
+        "longitude": "106.663987"
+      },
+      {
+        "name": "HTV",
+        "street": "11Bis Nguyễn Thị Minh Khai, Bến Nghé, Quận 1",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 01",
+        "phone": "02839.101.633",
+        "latitude": "10.786462",
+        "longitude": "106.701608"
+      },
+      {
+        "name": "TRẦN HƯNG ĐẠO",
+        "street": "95A Trần Hưng Đạo, Cầu Ông Lãnh, Quận 1",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 01",
+        "phone": "028.38.385.362",
+        "latitude": "10.767748",
+        "longitude": "106.695367"
+      },
+      {
+        "name": "TÔ HIẾN THÀNH",
+        "street": "307A Tô Hiến Thành, Phường 13, Quận 10",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 10",
+        "phone": "028.38.624.155",
+        "latitude": "10.777851",
+        "longitude": "106.665562"
+      },
+      {
+        "name": "BIÊN HÒA PHAN ĐÌNH PHÙNG",
+        "street": "Nguyễn Văn Nghĩa, Quang Vinh, Biên Hòa, Đồng Nai",
+        "region_name": "Đồng Nai",
+        "district_name": "Thành Phố Biên Hòa",
+        "phone": "0251.3943.435",
+        "latitude": "10.948441",
+        "longitude": "106.816965"
+      },
+      {
+        "name": "HN PHẠM NGỌC THẠCH",
+        "street": "83 Tổ 27, Phương Liên, Đống Đa, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3573 7262",
+        "latitude": "21.011208",
+        "longitude": "105.836713"
+      },
+      {
+        "name": "VŨNG TÀU GA",
+        "street": "9 Hạ Long, Phường 2, Vũng Tàu",
+        "region_name": "Vung Tau",
+        "district_name": "NULL",
+        "phone": "2543533360",
+        "latitude": "10.339027",
+        "longitude": "107.071450"
+      },
+      {
+        "name": "GA SÀI GÒN",
+        "street": "1 Nguyễn Thông, Phường 9, Quận 3",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 03",
+        "phone": "028.35.262.406",
+        "latitude": "10.782396",
+        "longitude": "106.678155"
+      },
+      {
+        "name": "COOP PHAN THIẾT ",
+        "street": "1A Nguyễn Tất Thành, Bình Hưng, Phan Thiết, Bình Thuận",
+        "region_name": "Phan Thiet",
+        "district_name": "NULL",
+        "phone": "0252.3. 835.467",
+        "latitude": "10.929805",
+        "longitude": "108.105198"
+      },
+      {
+        "name": "COOP BÌNH TÂN",
+        "street": "158 Đường Số 19, Bình Trị Đông B, Bình Tân",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Tân",
+        "phone": "028.62.600.986",
+        "latitude": "10.753550",
+        "longitude": "106.613382"
+      },
+      {
+        "name": "HN TRẦN DUY HƯNG",
+        "street": "112 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội",
+        "region_name": "Hà Nội",
+        "district_name": "Cầu Giấy",
+        "phone": "024.3783 3645",
+        "latitude": "21.011174",
+        "longitude": "105.799569"
+      },
+      {
+        "name": "BIG C ĐỒNG NAI ",
+        "street": "Quốc Lộ 51, Long Bình Tân, Biên Hòa, Đồng Nai",
+        "region_name": "Đồng Nai",
+        "district_name": "Thành Phố Biên Hòa",
+        "phone": "0251.8.826.089",
+        "latitude": "10.905862",
+        "longitude": "106.850459"
+      },
+      {
+        "name": "HN KIM MÃ",
+        "street": "1 Núi Trúc, Kim Mã, Ba Đình, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3726.4202",
+        "latitude": "21.031080",
+        "longitude": "105.821818"
+      },
+      {
+        "name": "LOTTEMART NGUYỄN HỮU THỌ",
+        "street": "469 Nguyễn Hữu Thọ, Tân Hưng, Quận 7",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 07",
+        "phone": "028.37.712.239",
+        "latitude": "10.741164",
+        "longitude": "106.702226"
+      },
+      {
+        "name": "HN CẦU GIẤY",
+        "street": "298 Cầu Giấy, Quan Hoa, Cầu Giấy, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3767.6553",
+        "latitude": "21.034789",
+        "longitude": "105.795251"
+      },
+      {
+        "name": "HN HỒ TÂY",
+        "street": "2A Trấn Vũ, Quán Thánh, Ba Đình, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3715.3385",
+        "latitude": "21.043946",
+        "longitude": "105.836355"
+      },
+      {
+        "name": "STARMART QUANG TRUNG",
+        "street": "9 Quang Trung, Phường 11, Gò Vấp",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Gò Vấp",
+        "phone": "028.39.212.008",
+        "latitude": "10.836138",
+        "longitude": "106.660271"
+      },
+      {
+        "name": "COOP HUẾ",
+        "street": "6 Trần Hưng Đạo, Phú Hòa, Huế",
+        "region_name": "Hue",
+        "district_name": "NULL",
+        "phone": "0234.3.519.088",
+        "latitude": "16.470966",
+        "longitude": "107.587531"
+      },
+      {
+        "name": "HN VINMART VĂN QUÁN",
+        "street": "Khu đô thị mới Văn Quán, Phúc La, Hà Đông, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3354 7750",
+        "latitude": "20.974331",
+        "longitude": "105.789307"
+      },
+      {
+        "name": "BÌNH DƯƠNG  NGUYỄN KIM",
+        "street": "1 Trần Hưng Đạo, Phú Cường, Thủ Dầu Một, Bình Dương",
+        "region_name": "Binh Duong",
+        "district_name": "NULL",
+        "phone": "0274.385.5200",
+        "latitude": "10.979680",
+        "longitude": "106.653340"
+      },
+      {
+        "name": "HN HÀNG THAN",
+        "street": "23 Hàng Than, Nguyễn Trung Trực, Ba Đình, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3927.5442",
+        "latitude": "21.042059",
+        "longitude": "105.847307"
+      },
+      {
+        "name": "LOTTEMART BA THÁNG HAI",
+        "street": "940B Ba Tháng Hai, Phường 6, Quận 11",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 10",
+        "phone": "028.22.251.028",
+        "latitude": "10.762798",
+        "longitude": "106.657236"
+      },
+      {
+        "name": "BIG C GARDEN B1",
+        "street": "Tòa nhà Garden Tầng B1, Mễ Trì, Từ Liêm, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3787 7221",
+        "latitude": "21.015248",
+        "longitude": "105.777821"
+      },
+      {
+        "name": "PHAN XÍCH LONG",
+        "street": "1C5 Phan Xích Long, Phường 7, Phú Nhuận",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Phú Nhuận",
+        "phone": "0283.517.0111",
+        "latitude": "10.797562",
+        "longitude": "106.690747"
+      },
+      {
+        "name": "HN MỸ ĐÌNH",
+        "street": "Khu đô thị mới Mỹ Đình, Nguyễn Cơ Thạch, Mỹ Đình, Từ Liêm, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6287 2350",
+        "latitude": "21.031967",
+        "longitude": "105.764746"
+      },
+      {
+        "name": "HN COOP HÀ ĐÔNG 3F",
+        "street": "Km 10 Nguyễn Trãi, Mộ Lao, Hà Đông, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6285 3950",
+        "latitude": "20.982730",
+        "longitude": "105.790457"
+      },
+      {
+        "name": "COOP BÌNH DƯƠNG ",
+        "street": "Ba Mươi Tháng Tư, Chánh Nghĩa, Thủ Dầu Một, Bình Dương",
+        "region_name": "Binh Duong",
+        "district_name": "NULL",
+        "phone": "0274.3.868.111",
+        "latitude": "10.964621",
+        "longitude": "106.667678"
+      },
+      {
+        "name": "HP TRẦN PHÚ",
+        "street": "88 Trần Phú, Lương Khánh Thiện, Ngô Quyền, Hải Phòng",
+        "region_name": "HAI PHONG",
+        "district_name": "NULL",
+        "phone": "0225.3250 276",
+        "latitude": "20.857667",
+        "longitude": "106.685553"
+      },
+      {
+        "name": " BIG C VINH 4F",
+        "street": "2 Quang Trung, Vinh, Nghệ An",
+        "region_name": "NGHỆ AN",
+        "district_name": "NULL",
+        "phone": "0238.8602 988",
+        "latitude": "18.666136",
+        "longitude": "105.674913"
+      },
+      {
+        "name": " BIG C NAM ĐỊNH",
+        "street": "Quốc Lộ 10, Lộc Hòa, Nam Định",
+        "region_name": "Nam Định",
+        "district_name": "Huyện Mỹ Lộc",
+        "phone": "0228.3677 526",
+        "latitude": "20.438133",
+        "longitude": "106.152442"
+      },
+      {
+        "name": "THỦ ĐỨC",
+        "street": "283 Võ Văn Ngân, Linh Chiểu, Thủ Đức",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Thủ Đức",
+        "phone": "37228229",
+        "latitude": "10.849920",
+        "longitude": "106.767983"
+      },
+      {
+        "name": "HOÀNG DIỆU",
+        "street": "102 Lê Quốc Hưng, Phường 12, Quận 4",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 04",
+        "phone": "028.38.266.434",
+        "latitude": "10.763949",
+        "longitude": "106.704635"
+      },
+      {
+        "name": "MEGA MARKET AN PHÚ",
+        "street": "Khu An Phú An Khánh, Thảo Điền, Quận 2",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 02",
+        "phone": "028.35.037.071",
+        "latitude": "10.800576",
+        "longitude": "106.743335"
+      },
+      {
+        "name": "HN HOÀN KIẾM",
+        "street": "57C Đinh Tiên Hoàng, Hàng Bạc, Hoàn Kiếm, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3935 1673",
+        "latitude": "21.031402",
+        "longitude": "105.853338"
+      },
+      {
+        "name": " COOP PHAN RANG",
+        "street": "97 Trần Phú, Phú Hà, Phan Rang, Ninh Thuận",
+        "region_name": "Ninh Thuan",
+        "district_name": "NULL",
+        "phone": "0259.3827.566",
+        "latitude": "11.575580",
+        "longitude": "108.988445"
+      },
+      {
+        "name": "COOP CỦ CHI",
+        "street": "357 Quốc Lộ 22, Ấp Thượng, Xã Tân Thông Hội, Củ Chi",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Củ Chi",
+        "phone": "0283.790.2957",
+        "latitude": "10.959025",
+        "longitude": "106.504454"
+      },
+      {
+        "name": "HP TRẦN NGUYÊN HÃN",
+        "street": "118 Trần Nguyên Hãn, Lê Chân, Hải Phòng",
+        "region_name": "HAI PHONG",
+        "district_name": "NULL",
+        "phone": "0225.3719 628",
+        "latitude": "20.849211",
+        "longitude": "106.671170"
+      },
+      {
+        "name": "HN MEGA MARKET PHẠM VĂN ĐỒNG",
+        "street": "Phạm Văn Đồng, Cổ Nhuế, Từ Liêm, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3748.1107",
+        "latitude": "21.054777",
+        "longitude": "105.780417"
+      },
+      {
+        "name": "HN MINH KHAI",
+        "street": "203 Minh Khai, Hai Bà Trưng, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3632.1190",
+        "latitude": "20.996586",
+        "longitude": "105.861682"
+      },
+      {
+        "name": "COOP TÂY NINH CÁCH MẠNG THÁNG TÁM ",
+        "street": "576 Cách Mạng Tháng Tám, Phường 3, Tây Ninh",
+        "region_name": "Tay Ninh",
+        "district_name": "NULL",
+        "phone": "0276..3922.259",
+        "latitude": "11.307880",
+        "longitude": "106.108623"
+      },
+      {
+        "name": "HN SAVICO B1",
+        "street": "7-9 Nguyễn Văn Linh, Gia Thụy, Long Biên, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6257 3468",
+        "latitude": "21.050493",
+        "longitude": "105.893369"
+      },
+      {
+        "name": "COOP CAM RANH ",
+        "street": "2 Hùng Vương, Cam Phú, Cam Ranh, Khánh Hòa",
+        "region_name": "Nha Trang",
+        "district_name": "NULL",
+        "phone": "0258..3956.756",
+        "latitude": "11.917825",
+        "longitude": "109.145535"
+      },
+      {
+        "name": "DƯƠNG BÁ TRẠC",
+        "street": "111 Dương Bá Trạc, Phường 1, Quận 8",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 08",
+        "phone": "028.39.830.372",
+        "latitude": "10.748222",
+        "longitude": "106.688710"
+      },
+      {
+        "name": "NGUYỄN ẢNH THỦ",
+        "street": "160/1 Ấp Trung Mỹ Tây, Xã Tân Xuân, Hóc Môn",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 12",
+        "phone": "028.37.181.188",
+        "latitude": "10.855546",
+        "longitude": "106.607308"
+      },
+      {
+        "name": "HẢI DƯƠNG HỒNG QUANG",
+        "street": "2 Hồng Quang, Quang Trung, Hải Dương",
+        "region_name": "HAI DUONG",
+        "district_name": "NULL",
+        "phone": "0220.384.8489",
+        "latitude": "20.940404",
+        "longitude": "106.331062"
+      },
+      {
+        "name": "COOP BẢO LỘC ",
+        "street": "Thác Nước, Phường 2, Bảo Lộc, Lâm Đồng",
+        "region_name": "Bao Loc",
+        "district_name": "NULL",
+        "phone": "0263.373.6111",
+        "latitude": "11.544296",
+        "longitude": "107.802570"
+      },
+      {
+        "name": "BIG C THANH HÓA ",
+        "street": "Xã Đông Hải, Thanh Hóa",
+        "region_name": "THANH HOA",
+        "district_name": "NULL",
+        "phone": "0237.3917 919",
+        "latitude": "19.805550",
+        "longitude": "105.802242"
+      },
+      {
+        "name": "LONG KHÁNH HOÀNG ĐỨC MART",
+        "street": "198 Hùng Vương, Long Khánh, Đồng Nai",
+        "region_name": "Đồng Nai",
+        "district_name": "Thị Xã Long Khánh",
+        "phone": "0251.387.7117",
+        "latitude": "10.932232",
+        "longitude": "107.243596"
+      },
+      {
+        "name": "COOP VĨNH PHÚC  MÊ LINH",
+        "street": "Mê Linh, Khai Quang, Vĩnh Yên, Vĩnh Phúc",
+        "region_name": "Vĩnh Phúc",
+        "district_name": "Thành Phố Vĩnh Yên",
+        "phone": "0211.3712 802",
+        "latitude": "21.313045",
+        "longitude": "105.614310"
+      },
+      {
+        "name": "HN KEANGNAM 8F",
+        "street": "Khu E6 Phạm Hùng, Mễ Trì, Từ Liêm, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3837 8321",
+        "latitude": "21.018218",
+        "longitude": "105.784713"
+      },
+      {
+        "name": "BÌNH PHÚ",
+        "street": "211-213 Bình Phú, Phường 11, Quận 6",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 06",
+        "phone": "028.37.558.319",
+        "latitude": "10.745564",
+        "longitude": "106.630919"
+      },
+      {
+        "name": "HN NGUYỄN KHÁNH TOÀN",
+        "street": "Nguyễn Khánh Toàn, Quan Hoa, Cầu Giấy, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6281 3975",
+        "latitude": "21.038046",
+        "longitude": "105.801658"
+      },
+      {
+        "name": "HN BIG C THĂNG LONG 2F",
+        "street": "222 Trần Duy Hưng, Trung Hòa, Cầu Giấy, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3769 0421",
+        "latitude": "21.007158",
+        "longitude": "105.793413"
+      },
+      {
+        "name": "CHÂU VĂN LIÊM",
+        "street": "67 Vạn Kiếp, Phường 13, Quận 5",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 05",
+        "phone": "28.35398767",
+        "latitude": "10.750530",
+        "longitude": "106.659336"
+      },
+      {
+        "name": "COOP HÒA BÌNH",
+        "street": "175 Hòa Bình, Hiệp Tân, Tân Phú",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Tân Phú",
+        "phone": "73056588",
+        "latitude": "10.771414",
+        "longitude": "106.629144"
+      },
+      {
+        "name": "VINCOM BUÔN MÊ THUỘT 5F",
+        "street": "78 Lý Thường Kiệt, Thắng Lợi, Buôn Ma Thuột, Đắc Lắk",
+        "region_name": "Daklak",
+        "district_name": "NULL",
+        "phone": "0262.3784.455",
+        "latitude": "12.681944",
+        "longitude": "108.044002"
+      },
+      {
+        "name": "BIG C CẦN THƠ",
+        "street": "Lô 1 KDC Hưng Phú, Cái Răng, Cần Thơ",
+        "region_name": "Cần Thơ",
+        "district_name": "Quận Cái Răng",
+        "phone": "0292.3737.137",
+        "latitude": "10.014369",
+        "longitude": "105.784817"
+      },
+      {
+        "name": "MÝ THO NGÔ QUYỀN",
+        "street": "34 Ngô Quyền, Phường 1, Mỹ Tho",
+        "region_name": "Tien Giang",
+        "district_name": "NULL",
+        "phone": "0273.3979.767",
+        "latitude": "10.359967",
+        "longitude": "106.364519"
+      },
+      {
+        "name": "XÔ VIẾT NGHỆ TĨNH",
+        "street": "222 Xô Viết Nghệ Tĩnh, Phường 17, Bình Thạnh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Thạnh",
+        "phone": "028.35.141.571",
+        "latitude": "10.798695",
+        "longitude": "106.711157"
+      },
+      {
+        "name": "HN EBEST",
+        "street": "Đường Số 32, Minh Khai, Từ Liêm, Hà Nội",
+        "region_name": "Hà Nội",
+        "district_name": "Bắc Từ Liêm",
+        "phone": "024.3780 5289",
+        "latitude": "21.048712",
+        "longitude": "105.742564"
+      },
+      {
+        "name": "BÀU CÁT",
+        "street": "64-66 Bàu Cát, Phường 14, Tân Bình",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Tân Bình",
+        "phone": "028.38.494.554",
+        "latitude": "10.792504",
+        "longitude": "106.641780"
+      },
+      {
+        "name": "HN XA LA",
+        "street": "Khu đô thị Xa La, Phúc Lâm, Hà Đông, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.8589 4500",
+        "latitude": "20.965445",
+        "longitude": "105.789406"
+      },
+      {
+        "name": "BIG C BÌNH DƯƠNG ",
+        "street": "555B Đại lộ Bình Dương, Hiệp Thành, Thủ Dầu Một, Bình Dương",
+        "region_name": "Binh Duong",
+        "district_name": "NULL",
+        "phone": "0274.381.9087",
+        "latitude": "10.987087",
+        "longitude": "106.664661"
+      },
+      {
+        "name": "HN ME LINH PLAZA 4F",
+        "street": "Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3351.7925",
+        "latitude": "20.963886",
+        "longitude": "105.771866"
+      },
+      {
+        "name": "HẠ LONG LÊ THÁNH TÔNG",
+        "street": "162 Lê Thánh Tông, Bạch Đằng, Hạ Long, Quảng Ninh",
+        "region_name": "QUANG NINH",
+        "district_name": "NULL",
+        "phone": "0203.3812 396",
+        "latitude": "20.951426",
+        "longitude": "107.083209"
+      },
+      {
+        "name": "HN TRẦN THÁI TÔNG",
+        "street": "Khu đô thị mới Cầu Giấy, Dịch Vọng, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6328 5853",
+        "latitude": "21.032437",
+        "longitude": "105.788370"
+      },
+      {
+        "name": "BẾN XE MIỀN ĐÔNG",
+        "street": "292 Đinh Bộ Lĩnh, Phường 26, Bình Thạnh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Thạnh",
+        "phone": "028.38.984.090",
+        "latitude": "10.816691",
+        "longitude": "106.711404"
+      },
+      {
+        "name": "ĐÀ NẴNG LÊ DUẨN",
+        "street": "120 Nguyễn Thị Minh Khai, Hải Châu 1, Hải Châu, Đà Nẵng",
+        "region_name": "Da Nang",
+        "district_name": "NULL",
+        "phone": "0236.382.9929",
+        "latitude": "16.071033",
+        "longitude": "108.218640"
+      },
+      {
+        "name": "LOTTEMART ĐỒNG NAI ",
+        "street": "Lô B 03 Quốc Lộ 1A, Long Bình Tân, Biên Hòa, Đồng Nai",
+        "region_name": "Đồng Nai",
+        "district_name": "Thành Phố Biên Hòa",
+        "phone": "025.1389.2895",
+        "latitude": "10.948612",
+        "longitude": "106.870905"
+      },
+      {
+        "name": "VĂN THÁNH",
+        "street": "604 Điện Biên Phủ, Phường 22, Bình Thạnh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Thạnh",
+        "phone": "028.35.123.182",
+        "latitude": "10.799216",
+        "longitude": "106.718014"
+      },
+      {
+        "name": "HN LÒ ĐÚC",
+        "street": "66 Lò Đúc, Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3976.0283",
+        "latitude": "21.016101",
+        "longitude": "105.856265"
+      },
+      {
+        "name": "BÌNH LONG",
+        "street": "380 Thoại Ngọc Hầu, Phú Thạnh, Tân Phú",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Tân Phú",
+        "phone": "028.39.761.266",
+        "latitude": "10.773948",
+        "longitude": "106.621677"
+      },
+      {
+        "name": "BIG C DĨ AN ",
+        "street": "Quốc lộ 1K, Đông Hòa, Dĩ An, Bình Dương",
+        "region_name": "Binh Duong",
+        "district_name": "NULL",
+        "phone": "0274.377.3586",
+        "latitude": "10.889452",
+        "longitude": "106.776082"
+      },
+      {
+        "name": "CẨM PHẢ TRẦN KHÁNH DƯ",
+        "street": "2 Trần Khánh Dư, Cẩm Đông, Cẩm Phả, Quảng Ninh",
+        "region_name": "QUANG NINH",
+        "district_name": "NULL",
+        "phone": "0203.3719 959",
+        "latitude": "21.010491",
+        "longitude": "107.291552"
+      },
+      {
+        "name": "HN HOÀNG CẦU",
+        "street": "36 Hoàng Cầu, Ô Chợ Dừa, Đống Đa, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6256 4636",
+        "latitude": "21.019372",
+        "longitude": "105.824652"
+      },
+      {
+        "name": "PHAN THIẾT TRẦN HƯNG ĐẠO",
+        "street": "62 Thủ Khoa Huân, Bình Hưng, Phan Thiết, Bình Thuận",
+        "region_name": "Bình Thuận",
+        "district_name": "Thành Phố Phan Thiết",
+        "phone": "0252.3.827.282",
+        "latitude": "10.931831",
+        "longitude": "108.104398"
+      },
+      {
+        "name": "NHA TRANG THỐNG NHẤT",
+        "street": "73 Thống Nhất, Vạn Thạnh, Nha Trang, Khánh Hòa",
+        "region_name": "Nha Trang",
+        "district_name": "NULL",
+        "phone": "0258.3.828.086",
+        "latitude": "12.252121",
+        "longitude": "109.190274"
+      },
+      {
+        "name": "COOP THỦ ĐỨC",
+        "street": "934 Quốc Lộ 1, Linh Trung, Thủ Đức",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Thủ Đức",
+        "phone": "028.37.243.266",
+        "latitude": "10.869468",
+        "longitude": "106.776276"
+      },
+      {
+        "name": "BIG C NINH BÌNH ",
+        "street": "Trần Nhân Tông, Ninh Phúc, Ninh Bình",
+        "region_name": "NINH BINH",
+        "district_name": "NULL",
+        "phone": "0229.3893 822",
+        "latitude": "20.242555",
+        "longitude": "106.004310"
+      },
+      {
+        "name": "BIG C VIỆT TRÌ ",
+        "street": "Nguyễn Tất Thành, Thanh Miếu, Việt Trì, Phú Thọ",
+        "region_name": "PHU THO",
+        "district_name": "NULL",
+        "phone": "0210.372.2888",
+        "latitude": "21.306913",
+        "longitude": "105.431951"
+      },
+      {
+        "name": "COOP TUY LÝ VƯƠNG",
+        "street": "40-54 Tuy Lý Vương, Phường 13, Quận 8",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 08",
+        "phone": "028.39.503.257",
+        "latitude": "10.744088",
+        "longitude": "106.655091"
+      },
+      {
+        "name": "ĐÀ LẠT HÒA BÌNH",
+        "street": "1 Nguyễn Thị Minh Khai, Phường 1, Đà Lạt",
+        "region_name": "Da Lat",
+        "district_name": "NULL",
+        "phone": "0263.3.591.199",
+        "latitude": "11.940600",
+        "longitude": "108.437693"
+      },
+      {
+        "name": "ĐỒNG THÁP NGUYỄN HUỆ",
+        "street": "65 Nguyễn Huệ, Phường 1, Cao Lãnh, Đồng Tháp",
+        "region_name": "Dong Thap",
+        "district_name": "NULL",
+        "phone": "0277.3.853.859",
+        "latitude": "10.456007",
+        "longitude": "105.635216"
+      },
+      {
+        "name": "SÓC TRĂNG TRẦN HƯNG ĐẠO",
+        "street": "1 Trần Hưng Đạo, Phường 3, Sóc Trăng",
+        "region_name": "Soc Trang",
+        "district_name": "NULL",
+        "phone": "0299.3827.666",
+        "latitude": "9.602239",
+        "longitude": "105.974126"
+      },
+      {
+        "name": "LONG XUYÊN NGUYỄN TRÃI",
+        "street": "92 Nguyễn Trãi, Mỹ Long, Long Xuyên, An Giang",
+        "region_name": "An Giang",
+        "district_name": "NULL",
+        "phone": "0296.3.989.357",
+        "latitude": "10.378754",
+        "longitude": "105.439640"
+      },
+      {
+        "name": "BẠCH ĐẰNG",
+        "street": "445 Bạch Đằng, Phường 2, Bình Thạnh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Thạnh",
+        "phone": "028.38.412.633",
+        "latitude": "10.803755",
+        "longitude": "106.701495"
+      },
+      {
+        "name": "HẬU GIANG",
+        "street": "52 Hậu Giang, Phường 6, Quận 6",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 06",
+        "phone": "028.39.608.161",
+        "latitude": "10.749651",
+        "longitude": "106.647431"
+      },
+      {
+        "name": "ĐÀ NẴNG PHAN CHU TRINH",
+        "street": "92A Phan Chu Trinh, Phước Ninh, Hải Châu, Đà Nẵng",
+        "region_name": "Da Nang",
+        "district_name": "NULL",
+        "phone": "0236.352.2622",
+        "latitude": "16.065892",
+        "longitude": "108.219967"
+      },
+      {
+        "name": " BIG C ĐÀ LẠT",
+        "street": "Hồ Tùng Mậu, Phường 10, Đà Lạt",
+        "region_name": "Da Lat",
+        "district_name": "NULL",
+        "phone": "0263.3.823.399",
+        "latitude": "11.938578",
+        "longitude": "108.445597"
+      },
+      {
+        "name": " BIG C HUẾ",
+        "street": "105 Hùng Vương, Phú Hội, Huế",
+        "region_name": "Hue",
+        "district_name": "NULL",
+        "phone": "0234.3.966.566",
+        "latitude": "16.459808",
+        "longitude": "107.599480"
+      },
+      {
+        "name": "LOTTEMART BÌNH DƯƠNG ",
+        "street": "Khu đô thị Seasons, Lái Thiêu, Thuận An, Bình Dương",
+        "region_name": "Binh Duong",
+        "district_name": "NULL",
+        "phone": "0274.3.662.664",
+        "latitude": "10.905685",
+        "longitude": "106.711794"
+      },
+      {
+        "name": "COOP TRẢNG BÀNG ",
+        "street": "Quốc Lộ 22, Lộc An, Trảng Bàng, Tây Ninh",
+        "region_name": "Tay Ninh",
+        "district_name": "NULL",
+        "phone": "0276.3.767.555",
+        "latitude": "11.030673",
+        "longitude": "106.356129"
+      },
+      {
+        "name": " LOTTEMART PHAN THIẾT",
+        "street": "1 KDC Hùng Vương, Phú Thủy, Phan Thiết, Bình Thuận",
+        "region_name": "Phan Thiet",
+        "district_name": "NULL",
+        "phone": "0252.3.751.135",
+        "latitude": "10.938806",
+        "longitude": "108.110903"
+      },
+      {
+        "name": "HOÀNG SA",
+        "street": "158-160 Lê Bình, Phường 4, Tân Bình",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Tân Bình",
+        "phone": "028.39.930.424",
+        "latitude": "10.793173",
+        "longitude": "106.659079"
+      },
+      {
+        "name": "HỒNG BÀNG",
+        "street": "801 Hồng Bàng, Phường 9, Quận 6",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 06",
+        "phone": "028.39.609.267",
+        "latitude": "10.754112",
+        "longitude": "106.643173"
+      },
+      {
+        "name": "HN BÀ TRIỆU",
+        "street": "154 Bà Triệu, Hai Bà Trưng, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "2462783876",
+        "latitude": "21.017118",
+        "longitude": "105.849108"
+      },
+      {
+        "name": "HN HUỲNH THÚC KHÁNG",
+        "street": "63 Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6266.1398",
+        "latitude": "21.019481",
+        "longitude": "105.808295"
+      },
+      {
+        "name": "LÝ CHÍNH THẮNG",
+        "street": "250B Lý Chính Thắng, Phường 9, Quận 3",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 03",
+        "phone": "028.35.260.585",
+        "latitude": "10.779527",
+        "longitude": "106.682145"
+      },
+      {
+        "name": "CÀ MAU TRẦN HƯNG ĐẠO",
+        "street": "29 Trần Hưng Đạo, Phường 5, Cà Mau",
+        "region_name": "Cà Mau",
+        "district_name": "Thành Phố Cà Mau",
+        "phone": "0290.356.2582",
+        "latitude": "9.179019",
+        "longitude": "105.155794"
+      },
+      {
+        "name": "BIG C HẠ LONG ",
+        "street": "Cột 5 Hải Đông, Hồng Hà, Hạ Long, Quảng Ninh",
+        "region_name": "QUANG NINH",
+        "district_name": "NULL",
+        "phone": "0203.3820 411",
+        "latitude": "20.942293",
+        "longitude": "107.111095"
+      },
+      {
+        "name": "BIG C QUY NHƠN ",
+        "street": "Khu đô thị xanh Vũng Chua, Ghềnh Ráng, Quy Nhơn, Bình Định",
+        "region_name": "Quy Nhon",
+        "district_name": "NULL",
+        "phone": "0256.374.7410",
+        "latitude": "13.754659",
+        "longitude": "109.207409"
+      },
+      {
+        "name": "HN KHÂM THIÊN",
+        "street": "201 Khâm Thiên, Thổ Quan, Đống Đa, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.3513 5603",
+        "latitude": "21.019250",
+        "longitude": "105.834258"
+      },
+      {
+        "name": "ĐỘC LẬP",
+        "street": "175 Độc Lập, Tân Quý, Tân Phú",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Tân Phú",
+        "phone": "028.38.102.555",
+        "latitude": "10.792830",
+        "longitude": "106.629052"
+      },
+      {
+        "name": "NGUYỄN KIỆM",
+        "street": "679 Nguyễn Kiệm, Phường 3, Gò Vấp",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Gò Vấp",
+        "phone": "028.39.895.777",
+        "latitude": "10.825915",
+        "longitude": "106.679585"
+      },
+      {
+        "name": "VÕ VĂN NGÂN",
+        "street": "10 Võ Văn Ngân, Trường Thọ, Thủ Đức",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Thủ Đức",
+        "phone": "028.37.228.555",
+        "latitude": "10.851099",
+        "longitude": "106.756156"
+      },
+      {
+        "name": "NGÔ GIA TỰ",
+        "street": "145 Lý Thái Tổ, Phường 9, Quận 10",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 10",
+        "phone": "028.38.345.777",
+        "latitude": "10.767522",
+        "longitude": "106.674220"
+      },
+      {
+        "name": "LÊ VĂN VIỆT",
+        "street": "68 Lê Văn Việt, Hiệp Phú, Quận 9",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Thủ Đức",
+        "phone": "028.37.361.515",
+        "latitude": "10.847406",
+        "longitude": "106.776480"
+      },
+      {
+        "name": "BIG C NHA TRANG ",
+        "street": "Lô 4, KĐT Vĩnh Điềm Trung, Vĩnh Hiệp, Nha Trang, Khánh Hòa",
+        "region_name": "Nha Trang",
+        "district_name": "NULL",
+        "phone": "0258.3.893.949",
+        "latitude": "12.256395",
+        "longitude": "109.170352"
+      },
+      {
+        "name": "LOTTEMART VŨNG TÀU ",
+        "street": "71 Ba Tháng Hai, Phường 8, Vũng Tàu",
+        "region_name": "Vung Tau",
+        "district_name": "NULL",
+        "phone": "0254.3.853.838",
+        "latitude": "10.349887",
+        "longitude": "107.093833"
+      },
+      {
+        "name": "HN BẠCH MAI",
+        "street": "437 Bạch Mai, Trương Định, Hai Bà Trưng, Hà Nội",
+        "region_name": "HA NOI",
+        "district_name": "NULL",
+        "phone": "024.6687 7775",
+        "latitude": "20.998288",
+        "longitude": "105.850277"
+      },
+      {
+        "name": "LOTTEMART TÂN BÌNH",
+        "street": "20 Cộng Hòa, Phường 12, Tân Bình",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Tân Bình",
+        "phone": "028.38.112.046",
+        "latitude": "10.801092",
+        "longitude": "106.653023"
+      },
+      {
+        "name": "BÌNH DƯƠNG YERSIN",
+        "street": "231 Yersin, Hiệp Thành, Thủ Dầu Một, Bình Dương",
+        "region_name": "Binh Duong",
+        "district_name": "NULL",
+        "phone": "0274.38.68.288",
+        "latitude": "10.984301",
+        "longitude": "106.665850"
+      },
+      {
+        "name": "HN TRẦN ĐẠI NGHĨA",
+        "street": "138 Lê Thanh Nghị, Bách Khoa, Hai Bà Trưng, Hà Nội",
+        "region_name": "Hà Nội",
+        "district_name": "Hai Bà Trưng",
+        "phone": "024.3623 1791",
+        "latitude": "21.001902",
+        "longitude": "105.845009"
+      },
+      {
+        "name": "HN TRUNG KÍNH",
+        "street": "299 Trung Kính, Trung Hòa, Cầu Giấy, Hà Nội",
+        "region_name": "Hà Nội",
+        "district_name": "Cầu Giấy",
+        "phone": "024.3782 4705",
+        "latitude": "21.021273",
+        "longitude": "105.791022"
+      },
+      {
+        "name": "LOTTEMART GÒ VẤP",
+        "street": "242 Nguyễn Văn Lượng, Phường 10, Gò Vấp",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Gò Vấp",
+        "phone": "028.36.200.966",
+        "latitude": "10.838208",
+        "longitude": "106.670747"
+      },
+      {
+        "name": "COOP SA ĐÉC ",
+        "street": "371 Nguyễn Sinh Sắc, Phường 2, Sa Đéc, Đồng Tháp",
+        "region_name": "Đồng Tháp",
+        "district_name": "Thành Phố Sa Đéc",
+        "phone": "0277.3.853.857",
+        "latitude": "10.289924",
+        "longitude": "105.758329"
+      },
+      {
+        "name": "VINCOM TRÀ VINH ",
+        "street": "24 Nguyễn Thị Minh Khai, Phường 2, Trà Vinh",
+        "region_name": "Tra Vinh",
+        "district_name": "NULL",
+        "phone": "0294.3.86.82.82",
+        "latitude": "9.936106",
+        "longitude": "106.336968"
+      },
+      {
+        "name": "QUẢNG NGÃI HÙNG VƯƠNG",
+        "street": "117B Hùng Vương, Trần Hưng Đạo, Quảng Ngãi",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0255.3.819.999",
+        "latitude": "15.122595",
+        "longitude": "108.798380"
+      },
+      {
+        "name": "BIG C CITY LAND",
+        "street": "99 Nguyễn Thị Thập, Tân Phú, Quận 7",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 07",
+        "phone": "6658.3211",
+        "latitude": "10.737245",
+        "longitude": "106.725381"
+      },
+      {
+        "name": "HN LINH ĐÀM",
+        "street": "Bán Đảo Linh Đàm, Hoàng Mai, Hà Nội",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "2438288080",
+        "latitude": "20.965323",
+        "longitude": "105.824809"
+      },
+      {
+        "name": "GIA KIỆM HOÀNG ĐỨC MART",
+        "street": "166 Ấp Bạch Lâm 1, Gia Tân 2, Thống Nhất, Đồng Nai",
+        "region_name": "Đồng Nai",
+        "district_name": "Huyện Thống Nhất",
+        "phone": "2513686968",
+        "latitude": "11.0524779",
+        "longitude": "107.1696884"
+      },
+      {
+        "name": "SƯ VẠN HẠNH ",
+        "street": "11 Sư Vạn Hạnh, Phường 12, Quận 10",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 10",
+        "phone": "028.36.206.942",
+        "latitude": "10.770839048123728",
+        "longitude": "106.66983684921892"
+      },
+      {
+        "name": "GÒ CÔNG TRƯƠNG ĐỊNH",
+        "street": "11 Phan Đình Phùng, Phường 1, Gò Công",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0273.3979.776",
+        "latitude": "10.360138",
+        "longitude": "106.674393"
+      },
+      {
+        "name": "LÀO CAI ",
+        "street": "327 Lý Công Uẫn, Kim Tân, Lào Cai",
+        "region_name": "Lào Cai",
+        "district_name": "Thành Phố Lào Cai",
+        "phone": "214.388809",
+        "latitude": "22.481397",
+        "longitude": "103.974529"
+      },
+      {
+        "name": "GIA LAI QUANG TRUNG",
+        "street": "1 Phan Bội Châu, Hội Thương, Pleiku, Gia Lai",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0269.3.828.282",
+        "latitude": "13.977509",
+        "longitude": "108.005154"
+      },
+      {
+        "name": "BIG C MỸ THO ",
+        "street": "545 Lê Văn Phẩm, Phường 5, Mỹ Tho",
+        "region_name": "Tiền Giang",
+        "district_name": "Thành Phố Mỹ Tho",
+        "phone": "0273.397.9735",
+        "latitude": "10.358689",
+        "longitude": "106.340651"
+      },
+      {
+        "name": "COOP GIA LAI ",
+        "street": "21 Cách Mạng Tháng Tám, Hoa Lư, Pleiku, Gia Lai",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "02693.739.379",
+        "latitude": "13.987464",
+        "longitude": "108.008186"
+      },
+      {
+        "name": "COOP CẦN GIUỘC ",
+        "street": "Quốc Lộ 50, Ấp Thanh Ba, Xã Mỹ Lộc, Cần Giuộc, Long An",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0272.3733.466",
+        "latitude": "10.611650",
+        "longitude": "106.656872"
+      },
+      {
+        "name": "HN AEONMALL LONG BIÊN",
+        "street": "27 Cổ Linh, Long Biên, Hà Nội",
+        "region_name": "Hà Nội",
+        "district_name": "Long Biên",
+        "phone": "024.336.43688",
+        "latitude": "21.027010",
+        "longitude": "105.899010"
+      },
+      {
+        "name": "COOP CHÂU THÀNH ",
+        "street": "Ngã tư ĐT781 Hoàng Lê Kha, Châu Thành, Tây Ninh",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "2763789779",
+        "latitude": "11.312839",
+        "longitude": "106.030669"
+      },
+      {
+        "name": "COOP SƠN TRÀ",
+        "street": "Ngã tư Trần Nhân Tông, Bình Than, Sơn Trà, Đà Nẵng",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "2363566268",
+        "latitude": "16.094835",
+        "longitude": "108.241393"
+      },
+      {
+        "name": "HN AN BÌNH CITY",
+        "street": "232 Phạm Văn Đồng, Bắc Từ Liêm, Hà Nội",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "024 3227 2953",
+        "latitude": "21.050260",
+        "longitude": "105.778306"
+      },
+      {
+        "name": "HN TÂN MAI",
+        "street": "493 Tân Mai, Hoàng Mai, Hà Nội",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "024 3636 8615",
+        "latitude": "20.983872",
+        "longitude": "105.847788"
+      },
+      {
+        "name": "HN AEONMALL HA ĐÔNG",
+        "street": "Aeon Mall Hà Đông, Dương Nội, Hà Nội",
+        "region_name": "Hà Nội",
+        "district_name": "Hà Đông",
+        "phone": "024.3204.5069",
+        "latitude": "20.990293",
+        "longitude": "105.752435"
+      },
+      {
+        "name": "AN PHÚ",
+        "street": "2 Song Hành, An Phú, Quận 2",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Thủ Đức",
+        "phone": "028.3620.6640",
+        "latitude": "10.799242",
+        "longitude": "106.733544"
+      },
+      {
+        "name": "QUY NHƠN NGUYỄN THÁI HỌC",
+        "street": "2A Nguyễn Thái Học, Lê Hồng Phong, Quy Nhơn",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "02563.814.146",
+        "latitude": "13.776043",
+        "longitude": "109.223156"
+      },
+      {
+        "name": "TỈNH LỘ 10",
+        "street": "1271 Tỉnh Lộ 10, Tân Tạo, Bình Tân",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Tân",
+        "phone": "2836206643",
+        "latitude": "10.756485",
+        "longitude": "106.592470"
+      },
+      {
+        "name": "HN LĨNH NAM",
+        "street": "87 Lĩnh Nam, Mai Động, Hoàng Mai, Hà Nội",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "024.3204.5038",
+        "latitude": "20.989264",
+        "longitude": "105.865852"
+      },
+      {
+        "name": "LÊ QUANG ĐỊNH",
+        "street": "346B Lê Quang Định, Phường 11, Bình Thạnh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Thạnh",
+        "phone": "028.3620.3482",
+        "latitude": "10.810323",
+        "longitude": "106.692646"
+      },
+      {
+        "name": "HP KIẾN AN",
+        "street": "317 Trần Thành Ngọ, Kiến An, Hải Phòng",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "2257306800",
+        "latitude": "20.814533",
+        "longitude": "106.625718"
+      },
+      {
+        "name": "HP LẠCH TRAY",
+        "street": "207C Lạch Tray, Ngô Quyền, Hải Phòng",
+        "region_name": "Hải Phòng",
+        "district_name": "Quận Ngô Quyền",
+        "phone": "02257.309.968",
+        "latitude": "20.841141",
+        "longitude": "106.694026"
+      },
+      {
+        "name": " COOP CƯ M'GAR",
+        "street": "Hùng Vương, Quảng Phú, Cư Mgar, Đắc Lắk",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0262.3500.353",
+        "latitude": "12.823063",
+        "longitude": "108.077428"
+      },
+      {
+        "name": "CẦN THƠ CÁCH MẠNG THÁNG TÁM",
+        "street": "9/1 Cách Mạng Tháng Tám, An Hòa, Ninh Kiều, Cần Thơ",
+        "region_name": "Can Tho",
+        "district_name": "NULL",
+        "phone": "0292.3.896.689",
+        "latitude": "10.051791",
+        "longitude": "105.773283"
+      },
+      {
+        "name": "LONG AN HÙNG VƯƠNG",
+        "street": "107-109 Quốc Lộ 1A, Tân An, Long An",
+        "region_name": "Long An",
+        "district_name": "NULL",
+        "phone": "0272.3.664.567",
+        "latitude": "10.538342",
+        "longitude": "106.405323"
+      },
+      {
+        "name": "COOP VŨNG TÀU ",
+        "street": "36 Nguyễn Thái Học, Phường 7, Vũng Tàu",
+        "region_name": "Bà Rịa – Vũng Tàu",
+        "district_name": "Thành Phố Vũng Tàu",
+        "phone": "0254.3.576.231",
+        "latitude": "10.367261",
+        "longitude": "107.085496"
+      },
+      {
+        "name": "KIÊN GIANG BA THÁNG HAI",
+        "street": "B14 Ba Tháng Hai, Vĩnh Hảo, Rạch Giá, Kiên Giang",
+        "region_name": "Kien Giang",
+        "district_name": "NULL",
+        "phone": "0297.3.776.677",
+        "latitude": "9.999342",
+        "longitude": "105.083581"
+      },
+      {
+        "name": "LOTTEMART CẦN THƠ",
+        "street": "84 Mậu Thân, An Hòa, Ninh Kiều, Cần Thơ",
+        "region_name": "Can Tho",
+        "district_name": "NULL",
+        "phone": "0292.3.890.989",
+        "latitude": "10.042441",
+        "longitude": "105.766449"
+      },
+      {
+        "name": "BÀ RỊA NGUYỄN HỮU THỌ",
+        "street": "1-3 Nguyễn Hữu Thọ, Phước Trung, Bà Rịa, Vũng Tàu",
+        "region_name": "Bà Rịa – Vũng Tàu",
+        "district_name": "Thành Phố Bà Rịa",
+        "phone": "0254.3.822.866",
+        "latitude": "10.489515",
+        "longitude": "107.173565"
+      },
+      {
+        "name": "COOP BẾN TRE ",
+        "street": "26A Trần Quốc Tuấn, Phường 4, Bến Tre",
+        "region_name": "Bến Tre",
+        "district_name": "Thành Phố Bến Tre",
+        "phone": "0275.355.4849",
+        "latitude": "10.242306",
+        "longitude": "106.376454"
+      },
+      {
+        "name": "VĨNH LONG PHẠM THÁI BƯỜNG",
+        "street": "56/2 Phạm Thái Bường, Phường 4, Vĩnh Long",
+        "region_name": "Vinh Long",
+        "district_name": "NULL",
+        "phone": "0270.3.839.898",
+        "latitude": "10.245187",
+        "longitude": "105.977490"
+      },
+      {
+        "name": "LOTTEMART ĐÀ NẴNG",
+        "street": "Hoàng Cường Bắc, Hải Châu, Đà Nẵng",
+        "region_name": "Da Nang",
+        "district_name": "NULL",
+        "phone": "0236.361.1117",
+        "latitude": "16.034695",
+        "longitude": "108.229233"
+      },
+      {
+        "name": "Pandora City",
+        "street": "1/1 Trường Chinh, Tây Thạnh, Tân Phú, Hồ Chí Minh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Tân Phú",
+        "phone": "028.38.498.879",
+        "latitude": "10.806411",
+        "longitude": "106.634895"
+      },
+      {
+        "name": "COOP ĐỒNG XOÀI BÌNH PHƯỚC ",
+        "street": "Phú Riềng Đỏ, Tân Bình, Đồng Xoài, Bình Phước",
+        "region_name": "Binh Phuoc",
+        "district_name": "NULL",
+        "phone": "0271.388.6887",
+        "latitude": "11.532483",
+        "longitude": "106.897585"
+      },
+      {
+        "name": "LOTTEMART NHA TRANG ",
+        "street": "58 Đường 23 Tháng 10, Phương Sơn, Nha Trang, Khánh Hòa",
+        "region_name": "Khánh Hòa",
+        "district_name": "Thành Phố Nha Trang",
+        "phone": "0258.3.821.739",
+        "latitude": "12.251915",
+        "longitude": "109.176971"
+      },
+      {
+        "name": "Joy Citi Thủ Đức",
+        "street": "Khu chế xuất Linh Trung, Linh Trung, Thủ Đức",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Thủ Đức",
+        "phone": "028.38.975.208",
+        "latitude": "10.871127",
+        "longitude": "106.768898"
+      },
+      {
+        "name": "HÀ NAM LÊ CÔNG THANH",
+        "street": "136-138 Lê Công Thanh, Phủ Lý, Hà Nam",
+        "region_name": "Hà Nam",
+        "district_name": "Thành Phố Phủ Lý",
+        "phone": "0226.3661 666",
+        "latitude": "20.537620",
+        "longitude": "105.919495"
+      },
+      {
+        "name": "QUẢNG BÌNH ĐỒNG HỚI",
+        "street": "1 Mẹ Suốt, Đồng Hới, Quảng Bình",
+        "region_name": "BAC NIINH",
+        "district_name": "NULL",
+        "phone": "232.3855886",
+        "latitude": "17.463420",
+        "longitude": "106.624855"
+      },
+      {
+        "name": "COOP TÂY NINH  BA MƯƠI THÁNG TƯ",
+        "street": "217-219 Ba Mươi Tháng Tư, Phường 2, Tây Ninh",
+        "region_name": "Tay Ninh",
+        "district_name": "NULL",
+        "phone": "0276.3.777.929",
+        "latitude": "11.312487",
+        "longitude": "106.096532"
+      },
+      {
+        "name": "VĨNH LỘC",
+        "street": "D19/16C Vĩnh Lộc B, Bình Chánh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Chánh",
+        "phone": "028.36.201.222",
+        "latitude": "10.812318",
+        "longitude": "106.577622"
+      },
+      {
+        "name": "NGUYỄN VĂN QUÁ",
+        "street": "867A Nguyễn Văn Quá, Đông Hưng Thuận, Quận 12",
+        "region_name": "HCM",
+        "district_name": "12",
+        "phone": "028.62.569.335",
+        "latitude": "10.850891",
+        "longitude": "106.636453"
+      },
+      {
+        "name": "DABACO BẮC NINH ",
+        "street": "6 Nguyễn Cao, Ninh Xá, Bắc Ninh",
+        "region_name": "Bắc Ninh",
+        "district_name": "Thành Phố Bắc Ninh",
+        "phone": "0222.3692.666",
+        "latitude": "21.179291",
+        "longitude": "106.065814"
+      },
+      {
+        "name": "COOP HÙYNH TẤN PHÁT",
+        "street": "80/4A Huỳnh Tấn Phát, Phú Mỹ, Quận 7",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 07",
+        "phone": "3620.4849",
+        "latitude": "10.709851",
+        "longitude": "106.739044"
+      },
+      {
+        "name": "TÔ KÝ",
+        "street": "4C Tô Ký, Tân Chánh Hiệp, Quận 12",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "22534634",
+        "latitude": "10.871875",
+        "longitude": "106.613707"
+      },
+      {
+        "name": "Coop Buôn Ma Thuột",
+        "street": "71 Nguyễn Tất Thành, Tân An, Buôn Ma Thuột",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "2623788179",
+        "latitude": "12.692192",
+        "longitude": "108.061896"
+      },
+      {
+        "name": "HN MỸ ĐÌNH HÀM NGHI",
+        "street": "Hàm Nghi, Nam Từ Liêm, Hà Nội",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "2432191999",
+        "latitude": "21.036992",
+        "longitude": "105.761202"
+      },
+      {
+        "name": "TAM KỲ HÙYNH THÚC KHÁNG",
+        "street": "141-143 Huỳnh Thúc Kháng, Tam Kỳ, Quảng Nam",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "2353830333",
+        "latitude": "15.565237",
+        "longitude": "108.489132"
+      },
+      {
+        "name": "VINCOM LANDMARK 81",
+        "street": "B1-10A TTTM Vincom Landmark 81, 772 Điện Biên Phủ, Phường 22, Quận Bình Thạnh, TP. Hồ Chí Minh",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Bình Thạnh",
+        "phone": "0387224196",
+        "latitude": "10.794729",
+        "longitude": "106.721961"
+      },
+      {
+        "name": "LÂM ĐỒNG ĐỨC TRỌNG",
+        "street": "Chợ đầu mối Đức Trọng, Liên Nghĩa, Đức Trọng, Lâm Đồng",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0263.3622.268",
+        "latitude": "11.737520",
+        "longitude": "108.366039"
+      },
+      {
+        "name": "NGUYỄN THỊ KIỂU",
+        "street": "229 Nguyễn Thị Kiểu, Hiệp Thành, Quận 12",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "028.6272.7876",
+        "latitude": "10.868794",
+        "longitude": "106.643505"
+      },
+      {
+        "name": "VINCOM PHAN RANG  3F",
+        "street": "122 Đường 16/4, Mỹ Hải, Phan Rang, Ninh Thuận",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0259.366.2828",
+        "latitude": "11.563924",
+        "longitude": "109.009091"
+      },
+      {
+        "name": "THÁI BÌNH QUANG TRUNG",
+        "street": "Đề Thám, Thái Bình",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "0227.6539.539",
+        "latitude": "20.444539",
+        "longitude": "106.336940"
+      },
+      {
+        "name": "HN NGUYỄN TUÂN",
+        "street": "82 Nguyễn Tuân, Thanh Xuân, Hà Nội",
+        "region_name": "NULL",
+        "district_name": "NULL",
+        "phone": "024.7300.8468",
+        "latitude": "20.997025",
+        "longitude": "105.804799"
+      },
+      {
+        "name": "PHAN RANG NGÔ GIA TỰ",
+        "street": "242B Ngô Gia Tự,  Thanh Sơn, Phan Rang - Tháp Chàm, Ninh Thuận",
+        "region_name": "Ninh Thuận",
+        "district_name": "Thành Phố Phan Rang",
+        "phone": null,
+        "latitude": "11.567314",
+        "longitude": "108.994986"
+      },
+      {
+        "name": "VINCOM KONTUM  4F",
+        "street": "2 Phan Đình Phùng, Quyết Thắng, Kon Tum",
+        "region_name": null,
+        "district_name": null,
+        "phone": null,
+        "latitude": "14.349081",
+        "longitude": "108.000445"
+      },
+      {
+        "name": "BIG C TRÀ VINH ",
+        "street": "Võ Nguyên Giáp, Phường 7, Trà Vinh",
+        "region_name": "Trà Vinh",
+        "district_name": "Thành Phố Trà Vinh",
+        "phone": null,
+        "latitude": "9.923399",
+        "longitude": "106.328005"
+      },
+      {
+        "name": "HÀ TĨNH TRẦN PHÚ",
+        "street": "74 Trần Phú, Bắc Hà, Hà Tĩnh",
+        "region_name": null,
+        "district_name": null,
+        "phone": null,
+        "latitude": "18.341995",
+        "longitude": "105.892684"
+      },
+      {
+        "name": "THÁI NGUYÊN BẮC KẠN",
+        "street": "975-977 Bắc Cạn, Thái Nguyên",
+        "region_name": null,
+        "district_name": null,
+        "phone": null,
+        "latitude": "21.601154",
+        "longitude": "105.824287"
+      },
+      {
+        "name": "PHÚ MỸ HƯNG 1",
+        "street": "76 Phạm Văn Nghị, Tân Phong, Quận 7 (Sky Garden 1)",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Quận 07",
+        "phone": null,
+        "latitude": "10.733463",
+        "longitude": "106.706678"
+      },
+      {
+        "name": "BIG C QUẢNG NGÃI ",
+        "street": "Tầng 1 , Siêu Thị GO Mart Quãng Ngãi , đường Lý Thường Kiệt , Phường Chánh Nghĩa",
+        "region_name": "Quảng Ngãi",
+        "district_name": "Thành Phố Quảng Ngãi",
+        "phone": "02557303686",
+        "latitude": "15.099828",
+        "longitude": "108.816747"
+      },
+      {
+        "name": "BÌNH DƯƠNG BECAMEX",
+        "street": "230 Đại Lộ Bình Dương, Phường Phú Hòa, TP. Thủ Dầu Một",
+        "region_name": "Bình Dương",
+        "district_name": "Thành Phố Thủ Dầu Một",
+        "phone": "02743803070",
+        "latitude": "10.9762179",
+        "longitude": "106.6680663"
+      },
+      {
+        "name": "HP THỦY NGUYÊN",
+        "street": "Số 10+11 LK20 Khu Đô Thị Quang Minh Green City ",
+        "region_name": "Hải Phòng",
+        "district_name": "Huyện Thuỷ Nguyên",
+        "phone": "02256277877",
+        "latitude": "20.908951",
+        "longitude": "106.6710604"
+      },
+      {
+        "name": "HN HOÀNG ĐẠO THÚY",
+        "street": "Tầng 1, TN 17T3 Hoàng Đạo Thúy",
+        "region_name": "Hà Nội",
+        "district_name": "Cầu Giấy",
+        "phone": "02473000886",
+        "latitude": "21.0088134",
+        "longitude": "105.7992994"
+      },
+      {
+        "name": "CHÂU ĐỨC HÙNG VƯƠNG",
+        "street": "194 Hùng Vương, Thị Trấn Ngãi Giao, ",
+        "region_name": "Bà Rịa – Vũng Tàu",
+        "district_name": "Huyện Châu Đức",
+        "phone": null,
+        "latitude": "10.6450898",
+        "longitude": "107.2432396"
+      },
+      {
+        "name": "TUY HÒA DUY TÂN",
+        "street": "Sân Vận Động Lê Trung Kiên",
+        "region_name": "Phú Yên",
+        "district_name": "Thành Phố Tuy Hòa",
+        "phone": null,
+        "latitude": "13.0922705",
+        "longitude": "109.3085338"
+      },
+      {
+        "name": "QUY NHƠN CENTER (FC)",
+        "street": "Số 7, đường Lê Duẩn",
+        "region_name": "Bình Định",
+        "district_name": "Thành Phố Quy Nhơn",
+        "phone": "02563522679",
+        "latitude": "13.765659131402588",
+        "longitude": "109.22153704823099"
+      },
+      {
+        "name": " LOTTEMART GOLD COAST NHA TRANG",
+        "street": "Tầng 4 , số 01 Trần Hưng Đạo, phường Lộc Thọ,",
+        "region_name": "Khánh Hòa",
+        "district_name": "Thành Phố Nha Trang",
+        "phone": "02583522239",
+        "latitude": "12.2457112",
+        "longitude": "109.1926459,17z"
+      },
+      {
+        "name": "HUẾ NGUYEN HUỆ",
+        "street": "Số 9 đường Nguyễn Huệ , TP Huế ",
+        "region_name": "Thừa Thiên Huế",
+        "district_name": "Thành Phố Huế",
+        "phone": "0877006778",
+        "latitude": "16.4578944",
+        "longitude": "107.5800025,17z"
+      },
+      {
+        "name": "LONG KHÁNH AN BÌNH (FC)",
+        "street": "391 Hùng Vương P. Xuân Hoà TP Long Khánh Đồng Nai",
+        "region_name": "Đồng Nai",
+        "district_name": "Thị Xã Long Khánh",
+        "phone": "0812998080",
+        "latitude": "10.9218474",
+        "longitude": "107.2383778"
+      },
+      {
+        "name": "PHẠM VĂN CHIÊU (FC)",
+        "street": "65 Phạm Văn Chiêu P.14 Q. Gò Vấp, HCM",
+        "region_name": "Hồ Chí Minh",
+        "district_name": "Gò Vấp",
+        "phone": "02866867577",
+        "latitude": "10.845505",
+        "longitude": "106.6400321"
+      },
+      {
+        "name": " LOTTEMART VINH",
+        "street": "Tầng 3 - 16, Lottemart Vinh, 295 đường V.I Lê Ninh, Phường Hà Huy Tập, Thành Phố Vinh , Tỉnh Nghệ An",
+        "region_name": "Nghệ An",
+        "district_name": "Thành Phố Vinh",
+        "phone": "0238 730 6866",
+        "latitude": "18.693765",
+        "longitude": "105.688712"
+      },
+      {
+        "name": "ĐÀ NẴNG GO!",
+        "street": "Tầng 1,Siêu thị Go Đà Nẵng, 255-257 Hùng Vương, Q.Thanh Khê, TP Đà Nẵng",
+        "region_name": "Đà Nẵng",
+        "district_name": "Quận Thanh Khê",
+        "phone": "02363539369",
+        "latitude": "16.067564262501996",
+        "longitude": "108.21329459630456"
+      },
+      {
+        "name": "NGOẠI GIAO ĐOÀN",
+        "street": "Toà N03- T6 Ngoại Giao Đoàn ,Minh Tảo ,Xuân tảo ,Bắc từ Liêm , Hà Nội ",
+        "region_name": "Hà Nội",
+        "district_name": "Bắc Từ Liêm",
+        "phone": null,
+        "latitude": "21.06484416127287",
+        "longitude": "105.80006611164612"
+      },
+      {
+        "name": "Hạ Long Cái Dăm",
+        "street": "676 Hạ Long, Phường Bãi Cháy, Thành Phố Hạ Long, Tỉnh Quảng Ninh",
+        "region_name": "Quảng Ninh",
+        "district_name": "Thành Phố Hạ Long",
+        "phone": null,
+        "latitude": "20.959489841156635",
+        "longitude": "107.02189275092384"
+      }
+    ]
+  },
+  "item_scraped_count": 197
+}

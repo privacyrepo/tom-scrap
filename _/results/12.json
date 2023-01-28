@@ -1,0 +1,412 @@
+{
+  "type": "Feature",
+  "name": "Bsmart",
+  "POI:Category": "",
+  "store_url": "http://www.bsmartvina.com/bsmart_store/vn",
+  "website": "http://www.bsmartvina.com",
+  "properties": {
+    "attributes": [
+      {
+        "name": "Cửa hàng 2",
+        "address": "38/1 bis Trần Khắc Chân, Phường Tân Định, Quận 1",
+        "phone": "(08)38483880"
+      },
+      {
+        "name": "Cửa hàng 49",
+        "address": "39 Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1",
+        "phone": "(08)38385712"
+      },
+      {
+        "name": "Cửa hàng 10",
+        "address": "406C Cách Mạng Tháng 8, Phường 7, Quận 3",
+        "phone": "(08)39310510"
+      },
+      {
+        "name": "Cửa hàng 32",
+        "address": "63 Trần Quang Diệu, Phường 13, Quận 3",
+        "phone": "(08)39311631"
+      },
+      {
+        "name": "Cửa hàng 40",
+        "address": "268 Lê Văn Sỹ, Phường 14, Quận 3",
+        "phone": "(08)35262446"
+      },
+      {
+        "name": "Cửa hàng 70",
+        "address": "112 Nguyễn Phúc Nguyên, Phường 9, Quận 3",
+        "phone": "(08) 39311257"
+      },
+      {
+        "name": "Cửa hàng 72",
+        "address": "250A Lý Chính Thắng, Phường 9, Quận 3",
+        "phone": "(08) 35260669"
+      },
+      {
+        "name": "Cửa hàng 87",
+        "address": "2C Vĩnh Hội, Phường 3, Quận 4",
+        "phone": "(08) 39409866"
+      },
+      {
+        "name": "Cửa hàng 80",
+        "address": "288 Khánh Hội, Phường 5, Quận 4",
+        "phone": "(08) 39410166"
+      },
+      {
+        "name": "Cửa hàng 82",
+        "address": "25C Sư Vạn Hạnh, Phường 9, Quận 5",
+        "phone": "(08) 38305197"
+      },
+      {
+        "name": "Cửa hàng 56",
+        "address": "352 Lê Văn Lương, Phường Tân Hưng, Quận 7",
+        "phone": "(08)37711988"
+      },
+      {
+        "name": "Cửa hàng 61",
+        "address": "35 Tân Mỹ, Phường Tân Phú, Quận 7",
+        "phone": "(08) 37711712"
+      },
+      {
+        "name": "Cửa Hàng 137",
+        "address": "198/37 Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7",
+        "phone": "(08)38722699"
+      },
+      {
+        "name": "Cửa hàng 60",
+        "address": "126 Dương Bá Trạc, Phường 2, Quận 8",
+        "phone": "(08) 38523651"
+      },
+      {
+        "name": "Cửa hàng 63",
+        "address": "11N Nguyễn Thị Tần, Phường 2, Quận 8",
+        "phone": "(08) 38511104"
+      },
+      {
+        "name": "Cửa hàng 67",
+        "address": "769D Phạm Thế Hiển, Phường 4, Quận 8",
+        "phone": "(08) 38520577"
+      },
+      {
+        "name": "Cửa hàng 100",
+        "address": "8A Bùi Minh Trực, Phường 5, Quận 8",
+        "phone": "(08) 39813650"
+      },
+      {
+        "name": "Cửa hàng 106",
+        "address": "17 Huỳnh Thị Phụng, phường 4, quận 8",
+        "phone": "(08) 38500758"
+      },
+      {
+        "name": "Cửa hàng 108",
+        "address": "425 Hưng Phú, Phường 8, Quận 8.",
+        "phone": "38 595 686"
+      },
+      {
+        "name": "Cửa hàng 122",
+        "address": "111-113 Hưng Phú, Phường 8, Quận 8",
+        "phone": "38595718"
+      },
+      {
+        "name": "Cửa hàng 116",
+        "address": "711 Ba Đình, P. 10, Q. 8",
+        "phone": "38 597 990"
+      },
+      {
+        "name": "Cửa hàng 125",
+        "address": "2 Bình Đông, Phường 15, Quận 8",
+        "phone": "(08)39500906"
+      },
+      {
+        "name": "Cửa Hàng 148",
+        "address": "61 Cao Xuân Dục, Phường 12, Quận 8",
+        "phone": "(08) 39 501 508"
+      },
+      {
+        "name": "Cửa hàng 172",
+        "address": "02 & 04 đường số 13 (Tám Danh) P4, Quận 8",
+        "phone": "028 3620.4942"
+      },
+      {
+        "name": "Cửa hàng 76",
+        "address": "131 Tô Hiến Thành, Phường 13, Quận 10",
+        "phone": "(08) 38680196"
+      },
+      {
+        "name": "Cửa hàng 20",
+        "address": "223 Tôn Thất Hiệp, Phường 12, Quận 11",
+        "phone": "(08)39625801"
+      },
+      {
+        "name": "Cửa hàng 113",
+        "address": "19 Nguyễn Văn Phú, Phường 5, Quận 11",
+        "phone": "38 602 126"
+      },
+      {
+        "name": "Cửa Hàng 142",
+        "address": "203 Nguyễn Thị Nhỏ, Phường 16, Quận 11",
+        "phone": "(08) 39 603 936"
+      },
+      {
+        "name": "Cửa Hàng 163",
+        "address": "109 Lạc Long Quân, P. 1, Q. 11",
+        "phone": "(08) 38 580 115"
+      },
+      {
+        "name": "Cửa hàng 74",
+        "address": "104 Trịnh Đình Trọng, Phường Phú Trung, Quận Tân Phú",
+        "phone": "(08) 39744377"
+      },
+      {
+        "name": "Cửa hàng 79",
+        "address": "164A Tân Kỳ Tân Quý, Phường Sơn Kỳ, Quận Tân Phú",
+        "phone": "(08) 38125620"
+      },
+      {
+        "name": "Cửa hàng 90",
+        "address": "47 Đường S11, Phường Tây Thạnh, Quận Tân phú",
+        "phone": "(08) 38164067"
+      },
+      {
+        "name": "Cửa hàng 105",
+        "address": "24 Hoa Bằng, phường Tân Sơn Nhì, quận Tân Phú.",
+        "phone": "(08) 38106007"
+      },
+      {
+        "name": "Cửa hàng 115",
+        "address": "147 Lý Thánh Tông, P. Tân Thới Hoà, Q. Tân Phú",
+        "phone": "39 612 326"
+      },
+      {
+        "name": "Cửa hàng 141",
+        "address": "17 Khuông Việt, Phường Phú Trung, Quận Tân Phú",
+        "phone": "(08) 38 601 832"
+      },
+      {
+        "name": "Cửa hàng 175",
+        "address": "324 Tân Kỳ Tân Quý, Phường Sơn Kỳ, Quận Tân Phú",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 66",
+        "address": "226D Lê Văn Sỹ, Phường 1, Quận Tân Bình",
+        "phone": "(08) 39970188"
+      },
+      {
+        "name": "Cửa hàng 112",
+        "address": "72 Thân Nhân Trung, Phường 13, Quận Tân Bình.",
+        "phone": "38 122 282"
+      },
+      {
+        "name": "Cửa hàng 136",
+        "address": "5 Nguyễn Sỹ Sách, Phường 15, Quận Tân Bình",
+        "phone": "(08)38155525"
+      },
+      {
+        "name": "Cửa Hàng 139",
+        "address": "294 Hồng Lạc, Phường 11, Quận Tân Bình",
+        "phone": "(08) 38 691 816"
+      },
+      {
+        "name": "Cửa hàng 54",
+        "address": "156 Quốc lộ 13, Phường 26, Quận Bình Thạnh",
+        "phone": "(08)35119959"
+      },
+      {
+        "name": "Cửa hàng 103",
+        "address": "43 Nguyễn Thượng Hiền, phường 9, quận Bình Thạnh.",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 135",
+        "address": "28 Đường 8, Phường 26, Quận Bình Thạnh",
+        "phone": "(08)35550014"
+      },
+      {
+        "name": "Cửa Hàng 134",
+        "address": "245D Chu Văn An, Phường 12, Quận Bình Thạnh.",
+        "phone": "(08)38060868"
+      },
+      {
+        "name": "Cửa hàng 138",
+        "address": "11 Phú Mỹ, Phường 22, Quận Bình Thạnh",
+        "phone": "(08) 38 408 098"
+      },
+      {
+        "name": "Cửa Hàng 147",
+        "address": "31 Bùi Đình Túy, Phường 26, Quận Bình Thạnh",
+        "phone": "(08) 35 111 328"
+      },
+      {
+        "name": "Cửa hàng 12",
+        "address": "141A02 Đặng Văn Ngữ, Phường 14, Quận Phú Nhuận",
+        "phone": "(08)39917320"
+      },
+      {
+        "name": "Cửa hàng 26",
+        "address": "36 Nguyễn Văn Đậu, Phường 5, Quận Phú Nhuận",
+        "phone": "(08)35150885"
+      },
+      {
+        "name": "Cửa hàng 35",
+        "address": "29 Đặng Văn Ngữ, Phường 10, Quận Phú Nhuận",
+        "phone": "(08)39915103"
+      },
+      {
+        "name": "Cửa Hàng 155",
+        "address": "553/73 Nguyễn Kiệm, phường 9, Quận Phú Nhuận",
+        "phone": "(08) 39 976 966"
+      },
+      {
+        "name": "Cửa hàng 117",
+        "address": "240 Phạm Văn Chiêu, Phường 9, Quận Gò Vấp",
+        "phone": "38 312 342"
+      },
+      {
+        "name": "Cửa hàng 111",
+        "address": "338-340 Dương Quảng Hàm, P. 5, Q. Gò Vấp",
+        "phone": "39 852 251"
+      },
+      {
+        "name": "Cửa hàng 128",
+        "address": "99A Huỳnh Khương An, Phường 5, Quận Gò Vấp",
+        "phone": "(08)35888991"
+      },
+      {
+        "name": "Cửa Hàng 149",
+        "address": "921 Phạm Văn Bạch, Phường 12, Quận Gò Vấp",
+        "phone": "(08) 38 311 877"
+      },
+      {
+        "name": "Cửa Hàng 157",
+        "address": "383/7 Quang Trung, Phường 10, Quận Gò Vấp",
+        "phone": "(08) 39 890 086"
+      },
+      {
+        "name": "Cửa Hàng 162",
+        "address": "117/4 Đường Số 3 (Dương Quảng Hàm), Phường 5, Quận Gò Vấp",
+        "phone": "(08) 38 953 315"
+      },
+      {
+        "name": "Cửa Hàng 164",
+        "address": "634 Lê Văn Thọ, P. 13, Q. Gò Vấp",
+        "phone": ""
+      },
+      {
+        "name": "Cửa Hàng 168",
+        "address": "708 Phan Văn Tri, Phường 10, Quận Gò Vấp",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 96",
+        "address": "535 Nguyễn Thị Định, Phường Cát Lái, Quận 2",
+        "phone": "(08) 38976710"
+      },
+      {
+        "name": "Cửa hàng 124",
+        "address": "66 Đường 15 Phường An Phú, Quận 2",
+        "phone": "(08)62814448"
+      },
+      {
+        "name": "Cửa Hàng 156",
+        "address": "114 Nguyễn Duy Trinh, Phường Bình Trưng Tây, Quận 2",
+        "phone": "(08) 37 438 086"
+      },
+      {
+        "name": "Cửa hàng 86",
+        "address": "201 Minh Phụng, Phường 9, Quận 6",
+        "phone": "(08) 39600001"
+      },
+      {
+        "name": "Cửa Hàng 144",
+        "address": "171 Gia Phú, Phường 1, Quận 6",
+        "phone": "(08) 39 675 508"
+      },
+      {
+        "name": "Cửa Hàng 145",
+        "address": "210A Phạm Văn Chí, Phường 4, Quận 6",
+        "phone": "(08) 38 540 048"
+      },
+      {
+        "name": "Cửa Hàng 150",
+        "address": "118A Văn Thân, Phường 8, Quận 6",
+        "phone": "(08) 38 543 859"
+      },
+      {
+        "name": "Cửa Hàng 154",
+        "address": "163A Tân Hòa Đông, Phường 14, Quận 6",
+        "phone": "(08) 38 777 098"
+      },
+      {
+        "name": "Cửa hàng 160",
+        "address": "173 Phan Văn Khỏe, Phường 5, Quận 6",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 102",
+        "address": "436 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 120",
+        "address": "29 Đường 18, Phường Phước Bình, Quận 9",
+        "phone": "37282188"
+      },
+      {
+        "name": "Cửa Hàng 165",
+        "address": "105 Dương Đình Hội, P. Phước Long B, Q. 9",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 173",
+        "address": "Sky9- Số 1 đường số 1, Phường Phú Hữu, Quận 9",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 126",
+        "address": "175 KP5, Phường Đông Hưng Thuận, Quận 12",
+        "phone": "(08)35921126"
+      },
+      {
+        "name": "Cửa hàng 109",
+        "address": "43 Chương Dương, Linh Chiểu, Quận Thủ Đức",
+        "phone": "37 201 686"
+      },
+      {
+        "name": "Cửa Hàng 159",
+        "address": "18A Phú Châu, Phường Tam Phú, Quận Thủ Đức",
+        "phone": "(08) 37 298 202"
+      },
+      {
+        "name": "Cửa Hàng 158",
+        "address": "240 Hoàng Diệu 2, P. Linh Chiểu, Q. Thủ Đức",
+        "phone": "(08) 38 973 866"
+      },
+      {
+        "name": "Cửa Hàng 166",
+        "address": "357 Tô Ngọc Vân, P. Linh Đông, Q. Thủ Đức",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 169",
+        "address": "211 Tô Ngọc Vân, Phường Linh Đông, Quận Thủ Đức",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 174",
+        "address": "Số 82 đường 17, Phường Linh Chiểu, Quận Thủ Đức",
+        "phone": ""
+      },
+      {
+        "name": "Cửa hàng 91",
+        "address": "48 Đường số 10 Bình Hưng Quận Bình Chánh",
+        "phone": "(08) 3 758 9175"
+      },
+      {
+        "name": "Cửa hàng 107",
+        "address": "221 Đường số 5, phường Bình Hưng Hòa, quận Bình Tân.",
+        "phone": "(028) 37673024"
+      }
+    ]
+  },
+  "item_scraped_count": 80
+}

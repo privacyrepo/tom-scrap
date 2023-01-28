@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "name": "Web3 Jobs",
+  "website": "https://web3.career/",
+  "properties": {
+    "entities": {
+      "jobs": []
+    }
+  }
+}

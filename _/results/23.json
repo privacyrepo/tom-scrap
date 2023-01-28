@@ -1,0 +1,216 @@
+{
+  "type": "Feature",
+  "name": "Post office",
+  "POI:Category": "",
+  "store_url": "http://www.vnpost.vn/buu-cuc/tim-kiem/province/48/district/273/service",
+  "website": "http://www.vnpost.vn",
+  "properties": {
+    "entities": [
+      {
+        "code": "790000",
+        "post_office": "Bưu cục cấp 1 Vũng Tàu",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: 02543858419)",
+        "phone": "02543858419"
+      },
+      {
+        "code": "791080",
+        "post_office": "Bưu cục cấp 3 Bãi Trước",
+        "address": "Sô´156,   Đường Hạ Long, Phường 1, Thành phố Vũng Tàu (ÐT: 02543524844)",
+        "phone": "02543524844"
+      },
+      {
+        "code": "793650",
+        "post_office": "Bưu cục cấp 3 Phường 1",
+        "address": "Sô´56,   Đường Trưng Trắc, Phường 1, Thành phố Vũng Tàu (ÐT: 02543.853667)",
+        "phone": "02543.853667"
+      },
+      {
+        "code": "793420",
+        "post_office": "Bưu cục cấp 3 Bến Đá",
+        "address": "Sô´480,   Đường Trần Phú, Phường 5, Thành phố Vũng Tàu (ÐT: 02543551700)",
+        "phone": "02543551700"
+      },
+      {
+        "code": "792370",
+        "post_office": "Bưu cục cấp 3 Bến Đình",
+        "address": "Sô´295,  Ngõ 281, Đường Nguyễn An Ninh, Phường 6, Thành phố Vũng Tàu (ÐT: 02543561700)",
+        "phone": "02543561700"
+      },
+      {
+        "code": "792001",
+        "post_office": "Bưu cục cấp 3 5 Tầng",
+        "address": "Sô´2,   Đường Nguyễn Thái Học, Phường 7, Thành phố Vũng Tàu (ÐT: 02543575800)",
+        "phone": "02543575800"
+      },
+      {
+        "code": "793190",
+        "post_office": "Bưu cục cấp 3 Long Sơn",
+        "address": "Thôn 01, Xã Long Sơn, Thành phố Vũng Tàu (ÐT: 02543844003)",
+        "phone": "02543844003"
+      },
+      {
+        "code": "791870",
+        "post_office": "Bưu cục cấp 3 Phước Thắng",
+        "address": "Sô´1230,   Đường 30/4, Phường 12, Thành phố Vũng Tàu (ÐT: 02543624700)",
+        "phone": "02543624700"
+      },
+      {
+        "code": "792810",
+        "post_office": "Bưu cục cấp 3 Chí Linh",
+        "address": "Sô´59c,   Đường Nguyễn Hữu Cảnh, Phường Thắng Nhất, Thành phố Vũng Tàu (ÐT: 02543594600)",
+        "phone": "02543594600"
+      },
+      {
+        "code": "793970",
+        "post_office": "Bưu cục cấp 3 KHL Vũng Tàu",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: 02543811040)",
+        "phone": "02543811040"
+      },
+      {
+        "code": "793980",
+        "post_office": "Bưu cục cấp 3 TMĐT Vũng Tàu",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: 0254385996/1)",
+        "phone": "0254385996/1"
+      },
+      {
+        "code": "793990",
+        "post_office": "Bưu cục cấp 3 HCC TP Vũng Tàu",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: 02543859966/)",
+        "phone": "02543859966/"
+      },
+      {
+        "code": "794080",
+        "post_office": "Bưu cục cấp 3 18 Tầng",
+        "address": "Sô´A7 - 4/4, Dãy nhà A4, Khu đô thị A7 - 4/4 Trung Tâm Đô Thị Chí Linh, Phường Nguyễn An Ninh, Thành phố Vũng Tàu (ÐT: 02543853689)",
+        "phone": "02543853689"
+      },
+      {
+        "code": "793730",
+        "post_office": "Bưu cục cấp 3 Thắng Nhất",
+        "address": "Sô´382,  Hẻm 36, Đường Lưu Chí Hiếu, Phường Rạch Dừa, Thành phố Vũng Tàu (ÐT: 02543834545)",
+        "phone": "02543834545"
+      },
+      {
+        "code": "791543",
+        "post_office": "Đại lý bưu điện Bình Giã 3",
+        "address": "Sô´273A,   Đường Bình Giã, Phường 8, Thành phố Vũng Tàu (ÐT: 585809)",
+        "phone": "585809"
+      },
+      {
+        "code": "793733",
+        "post_office": "Đại lý bưu điện Chợ Phường 10",
+        "address": "Sô´566,   Đường 30/4, Phường Rạch Dừa, Thành phố Vũng Tàu (ÐT: 840899)",
+        "phone": "840899"
+      },
+      {
+        "code": "793537",
+        "post_office": "Hòm thư Công cộng 04 Hoàng Diệu",
+        "address": "Sô´04,   Đường Hoàng Diệu, Phường 1, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793538",
+        "post_office": "Hòm thư Công cộng 83 Lý Thường Kiệt",
+        "address": "Sô´83,   Đường Lý Thường Kiệt, Phường 1, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793541",
+        "post_office": "Hòm thư Công cộng 17B Trần Hưng Đạo",
+        "address": "Sô´17B,   Đường Trần Hưng Đạo, Phường 1, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793387",
+        "post_office": "Hòm thư Công cộng 68 Cô Giang",
+        "address": "Sô´68,   Đường Cô Giang, Phường 4, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "792539",
+        "post_office": "Hòm thư Công cộng 231 Lê Lợi",
+        "address": "Sô´231,   Đường Lê Lợi, Phường 6, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "792005",
+        "post_office": "Hòm thư Công cộng 284 Nguyễn An Ninh",
+        "address": "Sô´284,   Đường Nguyễn An Ninh, Phường 7, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "792008",
+        "post_office": "Hòm thư Công cộng A12 Khu 5 Tầng",
+        "address": "Sô´A12, Dãy nhà A12 Tầng 1 Tứ 101-114, Khu tập thể Liên Doanh Việt Xô, Phường 7, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "792683",
+        "post_office": "Hòm thư Công cộng 35/1 Đưởng 30/04",
+        "address": "Sô´35/1,   Đường 30/4, Phường 9, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793057",
+        "post_office": "Hòm thư Công cộng TTĐT Chí Linh",
+        "address": "Đường Nguyễn Hữu Cảnh, Phường 10, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793723",
+        "post_office": "Hòm thư Công cộng 514 Nguyễn An Ninh",
+        "address": "Sô´514,   Đường Nguyễn An Ninh, Phường Nguyễn An Ninh, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793726",
+        "post_office": "Hòm thư Công cộng 44 Lương Thế Vinh",
+        "address": "Sô´44,   Đường Lương Thế Vinh, Phường Nguyễn An Ninh, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793738",
+        "post_office": "Hòm thư Công cộng 1620 Đường 30/4",
+        "address": "Sô´1620,   Đường 30/4, Phường Rạch Dừa, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "794201",
+        "post_office": "Hòm thư Công cộng 1221 Đường 30/4",
+        "address": "Sô´1221,   Đường 30/4, Phường Rạch Dừa, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "791165",
+        "post_office": "Bưu cục Phát cấp 2 BCP hàng nặng Vũng Tàu 1",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "791175",
+        "post_office": "Bưu cục Phát cấp 2 BCP hàng nặng Vũng Tàu 2",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "790900",
+        "post_office": "Bưu cục văn phòng Hệ 1 Bà Rịa Vũng Tàu",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      },
+      {
+        "code": "793966",
+        "post_office": "Bưu cục văn phòng Văn phòng Bưu Điện Tỉnh",
+        "address": "Sô´408,   Đường Lê Hồng Phong, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: 02543525968)",
+        "phone": "02543525968"
+      },
+      {
+        "code": "793968",
+        "post_office": "Bưu cục văn phòng VP BĐTP Vũng Tàu",
+        "address": "Đường Nam Kỳ Khởi Nghĩa, Phường Thắng Tam, Thành phố Vũng Tàu (ÐT: )",
+        "phone": ""
+      }
+    ]
+  },
+  "item_scraped_count": 34
+}

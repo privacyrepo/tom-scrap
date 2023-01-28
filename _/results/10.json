@@ -1,0 +1,176 @@
+{
+  "type": "Feature",
+  "name": "studio-25fit",
+  "POI:Category": "",
+  "store_url": "https://phongtap.25fit.net/vi/studio-25fit",
+  "website": "https://phongtap.25fit.net",
+  "properties": {
+    "attributes": [
+      {
+        "name": " 25 FIT Huỳnh Thúc Kháng",
+        "description": " 45 - 47 Huỳnh Thúc Kháng, Phường Bến Nghé, Quận 1. "
+      },
+      {
+        "name": " 25 FIT Nguyễn Trãi",
+        "description": " 125, Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1."
+      },
+      {
+        "name": " 25 FIT Hai Bà Trưng",
+        "description": " 156, Hai Bà Trưng, Phường Đa Kao, Quận 1."
+      },
+      {
+        "name": " 25 FIT Vinhomes Golden River",
+        "description": " SH02, Tòa nhà Aqua 3, Vinhomes Golden River, Tôn Đức Thắng, Bến Nghé, Quận 1."
+      },
+      {
+        "name": " 25 FIT Trương Định",
+        "description": " 105C, Trương Định, Phường Võ Thị Sáu, Quận 3."
+      },
+      {
+        "name": " 25 FIT Cao Thắng",
+        "description": " 101, Cao Thắng, Phường 3, Quận 3."
+      },
+      {
+        "name": " 25 FIT Khánh Hội",
+        "description": " 198, Khánh Hội, Phường 6, Quận 4."
+      },
+      {
+        "name": " 25 FIT An Dương Vương",
+        "description": " 10, An Dương Vương, Phường 9, Quận 5."
+      },
+      {
+        "name": " 25 FIT Nguyễn Đức Cảnh",
+        "description": " Mỹ Khánh 1 - 3, Nguyễn Đức Cảnh, Tân Phong, Quận 7."
+      },
+      {
+        "name": " 25 FIT Nguyễn Lương Bằng",
+        "description": " 280, Nguyễn Lương Bằng, Phú Mỹ, Quận 7."
+      },
+      {
+        "name": " 25 FIT Nguyễn Thị Thập",
+        "description": " 67, Nguyễn Thị Thập, KDC Him Lam, Tân Hưng, Quận 7."
+      },
+      {
+        "name": " 25 FIT Sư Vạn Hạnh",
+        "description": " 678, Sư Vạn Hạnh, Phường 10, Quận 10."
+      },
+      {
+        "name": " 25 FIT Phan Xích Long",
+        "description": " 223, Phan Xích Long, Phường 2, Quận Phú Nhuận."
+      },
+      {
+        "name": " 25 FIT Vinhomes Central Park",
+        "description": " SH4-Park 6, Vinhomes Central Park, 208 Nguyễn Hữu Cảnh, Quận Bình Thạnh."
+      },
+      {
+        "name": " 25 FIT Phan Văn Trị",
+        "description": " 352/4, Phan Văn Trị, Phường 5, Quận Bình Thạnh."
+      },
+      {
+        "name": " 25 FIT Saigon Pearl",
+        "description": " CH PF 06C, 92, Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh."
+      },
+      {
+        "name": " 25 FIT Phổ Quang",
+        "description": " TB01.11, The Botanica, 104, Phổ Quang, Phường 2, Tân Bình."
+      },
+      {
+        "name": "25 FIT Cộng Hòa",
+        "description": " 69, Cộng Hòa, Phường 4, Quận Tân Bình."
+      },
+      {
+        "name": " 25 FIT Thảo Điền",
+        "description": " 49J, Quốc Hương, Thảo Điền, TP. Thủ Đức."
+      },
+      {
+        "name": "25 FIT Cantavil",
+        "description": " Tầng trệt Cantavil, Số 1 đường Song Hành, Xa Lộ Hà Nội, Phường An Phú, TP. Thủ Đức. "
+      },
+      {
+        "name": "25 FIT Võ Văn Ngân",
+        "description": " 252, Võ Văn Ngân, Bình Thọ, TP. Thủ Đức."
+      },
+      {
+        "name": "25 FIT Vinhomes Grand Park",
+        "description": " S1.05 01S06 Vinhomes Grand Park, 512 Nguyễn Xiển, Phường Long Thạnh Mỹ, TP. Thủ Đức."
+      },
+      {
+        "name": " 25 FIT Lý Thường Kiệt",
+        "description": " 42Z, Lý Thường Kiệt, Hoàn Kiếm, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Phan Chu Trinh",
+        "description": " 49, Phan Chu Trinh, Hoàn Kiếm, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Vũ Phạm Hàm",
+        "description": " 34, Vũ Phạm Hàm, Cầu Giấy, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Khúc Thừa Dụ",
+        "description": " 74, Khúc Thừa Dụ, Cầu Giấy, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Duy Tân",
+        "description": " 22, Duy Tân, Cầu Giấy, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Lê Đại Hành",
+        "description": " 13, Lê Đại Hành, Hai Bà Trưng, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Times City",
+        "description": " Tòa 1, SO 02, Times City, Vĩnh Tuy, Hai Bà Trưng, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Park Hill",
+        "description": " Park Hill, SH0206, Park 7, Khu đô thị Times City, Hoàng Mai, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Giảng Võ",
+        "description": " 128b, Giảng Võ, Kim Mã, Ba Đình, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Thái Hà",
+        "description": " 23, Thái Hà, Trung Liệt, Đống Đa, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Nguyễn Tuân ",
+        "description": " 168, Nguyễn Tuân, Thanh Xuân, Hà Nội."
+      },
+      {
+        "name": "  25 FIT Royal City ",
+        "description": " Sảnh R2 Mega Mall, Khu đô thị Royal City, số 72A Nguyễn Trãi, Thượng Đình, Thanh Xuân, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Nguyễn Văn Cừ ",
+        "description": " 376, Nguyễn Văn Cừ, Ngọc Lâm, Long Biên, Hà Nội."
+      },
+      {
+        "name": " 25 FIT Xuân Diệu ",
+        "description": " 72 Xuân Diệu, Từ Liêm, Tây Hồ, Hà Nội. "
+      },
+      {
+        "name": " 25 FIT Nguyễn Văn Lộc ",
+        "description": " 56 Nguyễn Văn Lộc, KĐT Mỗ Lao, P. Mỗ Lao, Q. Hà Đông."
+      },
+      {
+        "name": " 25 FIT The Manor ",
+        "description": " 57 TT4 KĐT Mỹ Đình Mễ Trì, Phường Mỹ Đình 1, Quận Nam Từ Liêm."
+      },
+      {
+        "name": " 25 FIT Vinhomes Hàm Nghi ",
+        "description": " B17 05A Shophouse Vinhomes Gardenia, Hàm Nghi, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội"
+      },
+      {
+        "name": " 25 FIT Bình Dương",
+        "description": " LÔ 9, NP5, Đường 30/4, Thủ Dầu Một , Bình Dương. "
+      },
+      {
+        "name": " 25 FIT Đà Nẵng",
+        "description": " 94, Bạch Đằng, P. Hải Châu 1, Q. Hải Châu, Đà Nẵng."
+      }
+    ]
+  },
+  "item_scraped_count": 41
+}

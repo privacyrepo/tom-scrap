@@ -1,0 +1,1047 @@
+{
+  "type": "Feature",
+  "name": "Yody",
+  "POI:Category": "",
+  "store_url": "https://yody.vn/he-thong-cua-hang",
+  "website": "https://yody.vn",
+  "properties": {
+    "attributes": [
+      {
+        "name": "YODY Xuân Mai",
+        "address": "Số nhà 17, Tổ 2 , Khu phố Xuân Hà, TT Xuân Mai, Chương Mỹ, Hà Nội",
+        "phone": "0911211258"
+      },
+      {
+        "name": "YODY Sóc Sơn",
+        "address": "Tổ 9 khu B Thị trấn Sóc Sơn,  Hà Nội",
+        "phone": "0919936258"
+      },
+      {
+        "name": "YODY Hoàng Mai",
+        "address": "43 Kim Đồng, Phường Giáp Bát,Quận Hoàng Mai, TP Hà Nội",
+        "phone": "0888084258"
+      },
+      {
+        "name": "YODY Long Biên",
+        "address": "489 Nguyễn Văn Cừ Hà Nội",
+        "phone": "0888469258"
+      },
+      {
+        "name": "YODY Yên Hòa",
+        "address": "207 Trung Kính, Yên Hòa, Cầu Giấy, HN",
+        "phone": "0888783258"
+      },
+      {
+        "name": "YODY Linh Đàm",
+        "address": "Biệt thự 19 BT1, Khu đô thị Bắc Linh Đàm, Hoàng Mai, Hà Nội",
+        "phone": "0859244258"
+      },
+      {
+        "name": "YODY Thái Hà",
+        "address": "175 Thái Hà, Láng Hạ, Đống Đa, Hà Nội",
+        "phone": "0827846258"
+      },
+      {
+        "name": "YODY Thanh Trì",
+        "address": "308 Phan Trọng Tuệ, xã Thanh Liệt, huyện Thanh Trì, Hà Nội",
+        "phone": "0888134258"
+      },
+      {
+        "name": "YODY Trần Đại Nghĩa",
+        "address": "98- 100 Trần Đại Nghĩa, phường Đồng Tâm, quận Hai Bà Trưng, Hà Nội",
+        "phone": "0888247258"
+      },
+      {
+        "name": "YODY Đông Anh",
+        "address": "số 333 đường Cao Lỗ - huyện Đông Anh - thành phố Hà Nội",
+        "phone": "0888474258"
+      },
+      {
+        "name": "YODY Nguyễn Tuân",
+        "address": "Số 187 đường Nguyễn Tuân, phường Nhân Chính, quận Thanh Xuân",
+        "phone": "0911628258"
+      },
+      {
+        "name": "YODY Nguyễn Lương Bằng",
+        "address": "số 55 Nguyễn Lương Bằng, phường Nam Đồng, quận Đống Đa, TP. Hà Nội",
+        "phone": "0856073258"
+      },
+      {
+        "name": "YODY Sơn Tây",
+        "address": "Số nhà 28-30-32 Phùng Khắc Khoan, Sơn Tây, Hà Nội",
+        "phone": "0915310258"
+      },
+      {
+        "name": "YODY Xuân La",
+        "address": "Số 29 Đường Xuân La, Phường Xuân La, Tây Hồ, Hà Nội",
+        "phone": "0824736258"
+      },
+      {
+        "name": "YODY Nguyễn Văn Lộc",
+        "address": "Toà nhà LK 1-2-3 đường Nguyễn Văn Lộc, Khu đô thị Bắc Hà, Hà Đông, Hà Nội",
+        "phone": "0836484258"
+      },
+      {
+        "name": "YODY Nguyễn Viết Xuân",
+        "address": "156 Nguyễn Viết Xuân, Phường Quang Trung, Quận Hà Đông",
+        "phone": "0888429258"
+      },
+      {
+        "name": "YODY Thường Tín",
+        "address": "Khu Cầu Dừa, xã Văn Bình, Thị trấn Thường Tín, Hà Nội",
+        "phone": "0888 597 258"
+      },
+      {
+        "name": "YODY Quang Trung",
+        "address": "Số 558 - 560 Quang Trung, Hà Đông, Hà Nội",
+        "phone": "0839317258"
+      },
+      {
+        "name": "YODY Chũ",
+        "address": "Số 333, Khu Lê Lợi, Thị trấn Chũ , Huyện Lục Ngạn, Tỉnh Bắc Giang",
+        "phone": "0912636258"
+      },
+      {
+        "name": "YODY Đồi Ngô",
+        "address": "Số 210 Phố Bình Minh, Thị trấn Đồi Ngô, Huyện Lục Nam, Bắc Giang",
+        "phone": "0888012258"
+      },
+      {
+        "name": "YODY Hiệp Hòa",
+        "address": "KIOT A15 - Chợ Trung Tâm Thương Mại Hiệp Hoà - Bắc Giang",
+        "phone": "0916163258"
+      },
+      {
+        "name": "YODY Bích Động",
+        "address": "Số 379 Thân Nhân Trung, Thị trấn Bích Động, Việt Yên, Bắc Giang",
+        "phone": "0911368258"
+      },
+      {
+        "name": "YODY Bắc Giang",
+        "address": "Toà nhà Hapro, Quảng trường 3/2, Hoàng Văn Thụ, P.Ngô Quyền, TP.Bắc Giang",
+        "phone": "0888239258"
+      },
+      {
+        "name": "YODY Yên Thế",
+        "address": "TT Bố Hạ, Huyện Yên Thế, Tỉnh Bắc Giang",
+        "phone": "0888016258"
+      },
+      {
+        "name": "YODY Yên Dũng",
+        "address": "662X+7Q9, TT. Neo, Yên Dũng, Bắc Giang",
+        "phone": "0826594258"
+      },
+      {
+        "name": "YODY Trần Hưng Đạo",
+        "address": "66 Trần Hưng Đạo - Quang Trung - TP Hải Dương",
+        "phone": "0914152258"
+      },
+      {
+        "name": "YODY Kẻ Sặt",
+        "address": "110 đường Trần Hưng Đạo, Thị Trấn Kẻ Sặt, Huyện Bình Giang, Tỉnh Hải Dương",
+        "phone": "0917174258"
+      },
+      {
+        "name": "YODY Chí Linh 2",
+        "address": "Ngã 3 Sao Đỏ, TP Chí Linh",
+        "phone": "0888452258"
+      },
+      {
+        "name": "YODY Tứ Kỳ 2",
+        "address": "Tòa nhà CTECH - thị trấn Tứ Kỳ",
+        "phone": "0888412258"
+      },
+      {
+        "name": "YODY Kinh Môn",
+        "address": "Ngã tư Hiệp Sơn, Thị Xã Kinh Môn, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "phone": "0918133258"
+      },
+      {
+        "name": "YODY Thanh Miện",
+        "address": "Số 93, 95 Đường Tuệ Tĩnh, Thị trấn Thanh Miện, Huyện Thanh Miện, Hải Dương",
+        "phone": "0919000258"
+      },
+      {
+        "name": "YODY Thanh Hà",
+        "address": "Khu 1, Đường 25 tháng 5, Thị trấn Thanh Hà, Huyện Thanh Hà, Hải Dương",
+        "phone": "0888616258"
+      },
+      {
+        "name": "YODY Gia Lộc",
+        "address": "337A Nguyễn Chế Nghĩa, Thị trấn Gia Lộc, Huyện Gia Lộc, Hải Dương",
+        "phone": "0911569258"
+      },
+      {
+        "name": "YODY Ninh Giang",
+        "address": "Thôn Tranh Xuyên, xã Đồng Tâm, thị trấn Ninh Giang, HD",
+        "phone": "0911567258"
+      },
+      {
+        "name": "YODY Kim Thành",
+        "address": "Thôn Quyết Thắng, xã Kim Anh, huyện Kim Thành",
+        "phone": "0888599258"
+      },
+      {
+        "name": "YODY Quý Cao",
+        "address": "Ngã 3 Quý Cao, phố Quý Cao, Tứ Kỳ, Hải Dương",
+        "phone": "0911296258"
+      },
+      {
+        "name": "YODY Nam Sách",
+        "address": "644 Trần Phú - khu La Văn Cầu - thị trấn Nam Sách - Hải Dương",
+        "phone": "0911056258"
+      },
+      {
+        "name": "YODY Ghẽ",
+        "address": "Nhà 7 tầng , phố Ghẽ, Tân Trường , Cẩm Giàng",
+        "phone": "0912048258"
+      },
+      {
+        "name": "YODY Outlet",
+        "address": "Số 8 đường Trường Chinh, tp. Hải Dương",
+        "phone": "0888382258"
+      },
+      {
+        "name": "YODY Phủ",
+        "address": "Xã Thái Học, huyện Bình Giang, tỉnh Hải Dương",
+        "phone": "0818536258"
+      },
+      {
+        "name": "YODY Hưng Yên",
+        "address": "24 Điện Biên 1, P. Lê Lợi, Thành phố Hưng Yên, Hưng Yên",
+        "phone": "0914204258"
+      },
+      {
+        "name": "YODY Phố Nối",
+        "address": "Ngã tư chợ Bao Bì, Phố Nối, Mỹ Hào, Hưng Yên.",
+        "phone": "0911168258"
+      },
+      {
+        "name": "YODY Dân Tiến",
+        "address": "Xã Dân Tiến, huyện Khoái Châu, tỉnh Hưng Yên",
+        "phone": "0911023258"
+      },
+      {
+        "name": "YODY Văn Giang",
+        "address": "212 Thị trấn Văn Giang, Hưng Yên",
+        "phone": "0888026258"
+      },
+      {
+        "name": "YODY Kim Động",
+        "address": "Số 298, 300, 302, Thị Trấn Lương Bằng, Huyện Kim Động, Hưng Yên",
+        "phone": "0813598258"
+      },
+      {
+        "name": "YODY Tiên Lữ",
+        "address": "Đường Minh Khai, Thị Trấn Vương, huyện Tiên Lữ, tỉnh Hưng Yên",
+        "phone": "0888449258"
+      },
+      {
+        "name": "YODY Yên Mỹ",
+        "address": "thôn Liêu Thượng, xã Liêu Xá, huyện Yên Mỹ, Hưng Yên",
+        "phone": "0856473258"
+      },
+      {
+        "name": "YODY Việt Trì",
+        "address": "Số 1594 Đường Hùng Vương, Phường Gia Cẩm, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "phone": "0913413358"
+      },
+      {
+        "name": "YODY Phú Thọ",
+        "address": "Số 6 Lê Đồng, phố Tân Thành, phường Hùng Vương, thị xã Phú Thọ",
+        "phone": "0837437258"
+      },
+      {
+        "name": "YODY Tuyên Quang",
+        "address": "225 Quang Trung - Tân Quang – TP Tuyên Quang",
+        "phone": "0912084929"
+      },
+      {
+        "name": "YODY Yên Bái",
+        "address": "Số 8 đại lộ Nguyễn Thái Học, phường Nguyễn Thái Học, TP.Yên Bái",
+        "phone": "0915909129"
+      },
+      {
+        "name": "YODY Phúc Yên",
+        "address": "Số 90 Trần Hưng Đạo, Tp. Phúc Yên, Vĩnh Phúc",
+        "phone": "0913616258"
+      },
+      {
+        "name": "YODY Bình Xuyên",
+        "address": "Khu phố số 1, Thị trấn Hương Canh, Huyện Bình Xuyên, Vĩnh Phúc",
+        "phone": "0888356258"
+      },
+      {
+        "name": "YODY Yên Lạc",
+        "address": "Số 186, Dương Tĩnh, Khu 3 thôn Đoài , TT.Yên Lạc, huyện Yên Lạc, Vĩnh Phúc",
+        "phone": "0888345258"
+      },
+      {
+        "name": "YODY Vĩnh Tường",
+        "address": "P. Cổng Xung, tt Thổ Tang, Vĩnh Tường, Vĩnh Phúc",
+        "phone": "0888287258"
+      },
+      {
+        "name": "YODY Sông Công",
+        "address": "206 đường Cách Mạng Tháng 8, Phường Thắng Lợi, TP. Sông Công, Thái Nguyên",
+        "phone": "0916883258"
+      },
+      {
+        "name": "YODY Phổ Yên",
+        "address": "139 Phạm Văn Đồng, Ba Hàng, TX Phổ Yên, Thái Nguyên",
+        "phone": "0915568258"
+      },
+      {
+        "name": "YODY Thái Nguyên 3",
+        "address": "66 Hoàng Văn Thụ, P.Hoàng Văn Thụ, TP.Thái Nguyên",
+        "phone": "0888269258"
+      },
+      {
+        "name": "YODY Đại Từ",
+        "address": "Tổ dân phố Cầu Thành 1- Thị Trấn Hùng Sơn - Đại Từ - Thái Nguyên",
+        "phone": "0827894258"
+      },
+      {
+        "name": "YODY Đồng Hỷ",
+        "address": "Số 161, Tổ 6, Phường Chùa Hang, Thái Nguyên",
+        "phone": "0823496258"
+      },
+      {
+        "name": "YODY Hà Giang",
+        "address": "50 Nguyễn Thái Học, phường Minh Khai, thành phố Hà Giang, tỉnh Hà Giang",
+        "phone": "0839046258"
+      },
+      {
+        "name": "YODY Lào Cai",
+        "address": "079 đường Hoàng Liên, Phường Cốc Lếu, TP. Lào Cai",
+        "phone": "0915989258"
+      },
+      {
+        "name": "YODY Lạng Sơn",
+        "address": "Số 3 Tam Thanh, P. Tam Thanh, TP. Lạng Sơn",
+        "phone": "0916969258"
+      },
+      {
+        "name": "YODY Điện Biên",
+        "address": "29 Võ Nguyên Giáp, phường Him Lam, tp Điện Biên Phủ, Điện Biên",
+        "phone": "0912526258"
+      },
+      {
+        "name": "YODY Hòa Bình",
+        "address": "Số 601 Đường Cù Chính Lan, Phương Lâm, TP. Hoà Bình",
+        "phone": "0888628258"
+      },
+      {
+        "name": "YODY Hòa Bình 2",
+        "address": "Số 716 Đường Cù Chính Lan, phường Đồng Tiến, TP Hòa Bình",
+        "phone": "0888466258"
+      },
+      {
+        "name": "YODY Mai Sơn",
+        "address": "Số 603, Tiểu khu 19, Thị Trấn Hát Lót, Huyện Mai Sơn, Tỉnh Sơn La",
+        "phone": "0826374258"
+      },
+      {
+        "name": "YODY Sơn La",
+        "address": "169 Trường Chinh, Phường Quyết Thắng, TP Sơn La",
+        "phone": "0888798258"
+      },
+      {
+        "name": "YODY Lai Châu",
+        "address": "118 Trần Hưng Đạo, phường Đoàn Kết, TP Lai Châu",
+        "phone": "0888019258"
+      },
+      {
+        "name": "YODY Bắc Ninh",
+        "address": "363 Ngô Gia Tự, Phường Tiền An, Bắc Ninh",
+        "phone": "0916296258"
+      },
+      {
+        "name": "YODY Quế Võ",
+        "address": "Toà nhà Vĩnh Cát 2 ngã 4 TT Phố Mới ,Quế Võ ,Bắc Ninh",
+        "phone": "0911369258"
+      },
+      {
+        "name": "YODY Thuận Thành",
+        "address": "Số nhà 310 , 312 Đông Côi, Thị Trấn Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "phone": "0912119258"
+      },
+      {
+        "name": "YODY Yên Phong",
+        "address": "Số nhà 284, đường 295, Thị trấn Chờ, Yên Phong, BN",
+        "phone": "0911026258"
+      },
+      {
+        "name": "YODY Lương Tài",
+        "address": "Số 12 Đường Phá Lãng -Thị Trấn Thứa - huyện Lương Tài - Bắc Ninh",
+        "phone": "0886956258"
+      },
+      {
+        "name": "YODY Gia Bình",
+        "address": "29, Nguyễn Văn Cừ, TT Gia Bình, Gia Bình, Bắc Ninh",
+        "phone": "0888586258"
+      },
+      {
+        "name": "YODY Từ Sơn",
+        "address": "148 Trần Phú, thị trấn Từ Sơn, Từ Sơn, Bắc Ninh",
+        "phone": "0911658258"
+      },
+      {
+        "name": "YODY Thị Trấn Hồ",
+        "address": "Phố đường Âu Cơ- Thị trấn Hồ, huyện Thuận Thành, tỉnh Bắc Ninh",
+        "phone": "0886399258"
+      },
+      {
+        "name": "YODY Thủy Nguyên",
+        "address": "thôn 1, phố Mới, xã Thủy Sơn, Thủy Nguyên, Hải Phòng",
+        "phone": "0917819258"
+      },
+      {
+        "name": "YODY Kiến An",
+        "address": "126 Phan Đăng Lưu - Quận Kiến An - TP Hải Phòng",
+        "phone": "0913562258"
+      },
+      {
+        "name": "YODY Vĩnh Bảo",
+        "address": "số 37, Khu phố 1/5, TT Vĩnh Bảo, Hải Phòng",
+        "phone": "0913516258"
+      },
+      {
+        "name": "YODY Tiên Lãng",
+        "address": "Khu 3 - thị trấn Tiên Lãng - huyện Tiên Lãng, HP",
+        "phone": "0918282258"
+      },
+      {
+        "name": "YODY An Dương",
+        "address": "141 Thị trấn An Dương, Huyện An Dương, Hải Phòng",
+        "phone": "0911356258"
+      },
+      {
+        "name": "YODY Kiến Thụy",
+        "address": "Thôn Cẩm La, Xã Thanh Sơn, Thị trấn Kiến Thụy, TP Hải Phòng",
+        "phone": "0888538258"
+      },
+      {
+        "name": "YODY Lê Chân",
+        "address": "39, Hai Bà Trưng, quận Lê Chân, Hải Phòng",
+        "phone": "0888121258"
+      },
+      {
+        "name": "YODY Quán Toan",
+        "address": "567 Hùng Vương, Quán Toan, Hồng Bàng, Hải Phòng",
+        "phone": "0888300258"
+      },
+      {
+        "name": "YODY Ngô Quyền",
+        "address": "280B Đường Đà Nẵng - Quận Ngô Quyền - TP. Hải Phòng",
+        "phone": "0888663258"
+      },
+      {
+        "name": "YODY An Lão",
+        "address": "84 Trần Tất Văn, TT An Lão, Hải Phòng",
+        "phone": "0833999258"
+      },
+      {
+        "name": "YODY Nam Định",
+        "address": "230 Điện Biên - TP Nam Định",
+        "phone": "0915479258"
+      },
+      {
+        "name": "YODY Nam Định 2",
+        "address": "151 Nguyễn Du - TP. Nam Định",
+        "phone": "0886856258"
+      },
+      {
+        "name": "YODY Hải Hậu",
+        "address": "06 tổ dân phố số 1, TT.Yên Định, Huyện Hải Hậu, Nam Định",
+        "phone": "0888393258"
+      },
+      {
+        "name": "YODY Ý Yên",
+        "address": "Đường 38B. Cầu bệnh viện . Thị trấn Lâm. Huyện Ý Yên. Tỉnh Nam Định",
+        "phone": "0829666258"
+      },
+      {
+        "name": "YODY Cổ Lễ",
+        "address": "Số nhà 100 xóm 3, cầu điện biên  thị trấn Cổ Lễ trực Ninh Nam Định",
+        "phone": "0833515258"
+      },
+      {
+        "name": "YODY Vụ Bản",
+        "address": "18b Non Côi , TT Gôi , Vụ Bản , Nam Định",
+        "phone": "0836515258"
+      },
+      {
+        "name": "YODY Giao Thuỷ",
+        "address": "Xóm 14 , Xã Hoành Sơn, Huyện Giao Thuỷ, Tỉnh Nam Định",
+        "phone": "0829668258"
+      },
+      {
+        "name": "YODY Ninh Bình",
+        "address": "165 Lương Văn Thăng – TP Ninh Bình",
+        "phone": "0919866258"
+      },
+      {
+        "name": "YODY Ninh Bình 2",
+        "address": "23 Lê Hồng Phong, Phường Đông Thành TP Ninh Bình",
+        "phone": "0918363258"
+      },
+      {
+        "name": "YODY Tam Điệp",
+        "address": "396 Tổ 10B Đường Quang Trung, TP Tam Điệp",
+        "phone": "0911329258"
+      },
+      {
+        "name": "YODY Yên Khánh",
+        "address": "Phố 4, TT Yên Ninh, Yên Khánh, Ninh Bình",
+        "phone": "0818505258"
+      },
+      {
+        "name": "YODY Yên Mô",
+        "address": "Số 14 đường Phạm Thận Duật ,khu Trung Yên,Thị Trấn Yên Thịnh, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "phone": "0852666258"
+      },
+      {
+        "name": "YODY Ninh Bình 3",
+        "address": "506 Nguyễn Công Trứ, phường Ninh Sơn, thành phố Ninh Bình, Ninh Bình",
+        "phone": "0888266258"
+      },
+      {
+        "name": "YODY Mạo Khê",
+        "address": "Số 80, Hoàng Hoa Thám, Thị trấn Mạo Khê, Đông Triều, Quảng Ninh",
+        "phone": "0915135258"
+      },
+      {
+        "name": "YODY Mạo Khê 2",
+        "address": "Số nhà 52, Khu Vĩnh Thông, Phường Mạo Khê, Tx Đông Triều, Quảng Ninh",
+        "phone": "0911606258"
+      },
+      {
+        "name": "YODY Cẩm Phả 1",
+        "address": "289 Trần Phú - TP Cẩm Phả - Quảng Ninh",
+        "phone": "0911363258"
+      },
+      {
+        "name": "YODY Hạ Long",
+        "address": "286 Cao Thắng- TP Hạ Long",
+        "phone": "0911016258"
+      },
+      {
+        "name": "YODY Giếng Đáy",
+        "address": "377 Giếng Đáy, TP Hạ Long, Tỉnh Quảng Ninh",
+        "phone": "0826515258"
+      },
+      {
+        "name": "YODY Móng Cái",
+        "address": "27 Hùng Vương, Hòa Lạc, Móng Cái",
+        "phone": "0916959258"
+      },
+      {
+        "name": "YODY Quảng Yên",
+        "address": "khu 9, phường Quảng Yên, Tx Quảng Yên, tỉnh Quảng Ninh",
+        "phone": "0916562258"
+      },
+      {
+        "name": "YODY Cẩm Phả 2",
+        "address": "Số 26-28 Bà Triệu , Cẩm Đông , Cẩm Phả , Quảng Ninh",
+        "phone": "0918816258"
+      },
+      {
+        "name": "YODY Đông Triều",
+        "address": "136 Nguyễn Bình, P.Đông Triều, Tx.Đông Triều, Quảng Ninh",
+        "phone": "0911633258"
+      },
+      {
+        "name": "YODY Uông Bí",
+        "address": "237 đường Trần Nhân Tông - TP Uông Bí - Quảng Ninh",
+        "phone": "0915465258"
+      },
+      {
+        "name": "YODY Vân Đồn",
+        "address": "Số 216 , đường 334 Khu 1 thị trấn Cái Rồng, huyện Vân Đồn, tỉnh Quảng Ninh",
+        "phone": "0911606258"
+      },
+      {
+        "name": "YODY Thái Bình 3",
+        "address": "192 Hai Bà Trưng, TP Thái Bình",
+        "phone": "0914118258"
+      },
+      {
+        "name": "YODY Thái Bình 2",
+        "address": "297 Lý Bôn, Phường Tiền Phong, TP Thái Bình",
+        "phone": "0911393258"
+      },
+      {
+        "name": "YODY Tiền Hải",
+        "address": "Số 5B, Tiểu Hoàng, Thị trấn Tiền Hải, Thái Bình",
+        "phone": "0915136258"
+      },
+      {
+        "name": "YODY Diêm Điền",
+        "address": "Số 267, khu 6, Thị trấn Diêm Điền, Thái Thụy, Thái Bình",
+        "phone": "0888233258"
+      },
+      {
+        "name": "YODY Đông Hưng",
+        "address": "Lô 01+02, khu LK36, TT.Đông Hưng, Huyện Đông Hưng, Thái Bình",
+        "phone": "0888556258"
+      },
+      {
+        "name": "YODY Hưng Hà",
+        "address": "Khu Nhân Cầu 1 - thị trấn Hưng Hà - huyện Hưng Hà",
+        "phone": "0888295258"
+      },
+      {
+        "name": "YODY Quỳnh Côi",
+        "address": "92 Nguyễn Du, TT Quỳnh Côi, Quỳnh Phụ, Thái Bình",
+        "phone": "0911779258"
+      },
+      {
+        "name": "YODY Kiến Xương",
+        "address": "khu Cộng Hoà, TT Thanh Nê, huyện Kiến Xương, tỉnh Thái Bình",
+        "phone": "0827666258"
+      },
+      {
+        "name": "YODY Bỉm Sơn",
+        "address": "Số 7, Đường Nguyễn Huệ, Phường Ngọc Trạo, TX Bỉm Sơn, Thanh Hóa",
+        "phone": "0913876258"
+      },
+      {
+        "name": "YODY Ngọc Lặc",
+        "address": "892 Lê Lai - TT. Ngọc Lặc – Thanh Hóa",
+        "phone": "0941270468"
+      },
+      {
+        "name": "YODY Tĩnh Gia",
+        "address": "Số 16 Quang Trung, Tĩnh Gia, Thanh Hóa",
+        "phone": "0918013258"
+      },
+      {
+        "name": "YODY Triệu Sơn",
+        "address": "Số 46 phố Giắt , thị trấn Triệu Sơn, Huyện Triệu Sơn, Tỉnh Thanh Hóa",
+        "phone": "0888185258"
+      },
+      {
+        "name": "YODY Thanh Hóa",
+        "address": "Lô 7+8, Lê Hoàn, TP Thanh Hóa",
+        "phone": "0828117358"
+      },
+      {
+        "name": "YODY Thanh Hóa 3",
+        "address": "Số nhà 340, Nguyễn Trãi, Phường Tân Sơn, Thanh Hóa",
+        "phone": "0888116258"
+      },
+      {
+        "name": "YODY Quảng Xương",
+        "address": "117 Tố Hữu - TT Tân Phong - Quảng Xương - Thanh Hoá",
+        "phone": "0888136258"
+      },
+      {
+        "name": "YODY Quán Lào",
+        "address": "Khu 4, TT Quán Lào, huyện Yên Định, tỉnh Thanh Hóa",
+        "phone": "0839319258"
+      },
+      {
+        "name": "YODY Thạch Thành",
+        "address": "Khu phố 1, thị trấn Kim Tân, huyện Thạch Thành, Tỉnh Thanh Hoá",
+        "phone": "0919952258"
+      },
+      {
+        "name": "YODY Hậu Lộc",
+        "address": "Số nhà 496 , đường Bà Triệu, thị trấn Hậu Lộc, Hậu Lộc, tỉnh Thanh Hoá",
+        "phone": "0835505258"
+      },
+      {
+        "name": "YODY Cẩm Thuỷ",
+        "address": "Tổ dân phố Đại Đồng, thị trấn Phong Sơn, huyện Cẩm Thuỷ, tỉnh Thanh Hoá",
+        "phone": "0888198258"
+      },
+      {
+        "name": "YODY Thiệu Hoá",
+        "address": "308 QL45 Thị Trấn Vạn Hà, Huyện Thiệu Hoá, Tỉnh Thanh Hoá.",
+        "phone": "0886899258"
+      },
+      {
+        "name": "YODY Vĩnh Lộc",
+        "address": "Khu 1, thị trấn Vĩnh Lộc, huyện Vĩnh Lộc, tỉnh Thanh Hoá",
+        "phone": "0886322258"
+      },
+      {
+        "name": "YODY Nga Sơn",
+        "address": "số nhà 341 - Tiểu Khu 2 - Thị Trấn Nga Sơn - Huyện Nga Sơn - Tỉnh Thanh Hóa",
+        "phone": "0886883258"
+      },
+      {
+        "name": "YODY Sầm Sơn",
+        "address": "11 Đ. Lê Lợi, P. Trường Sơn, Sầm Sơn, Thanh Hoá",
+        "phone": "0888129259"
+      },
+      {
+        "name": "YODY Vinh",
+        "address": "110A Đặng Thái Thân, Phường Cửa Nam, TP Vinh, tỉnh Nghệ An",
+        "phone": "0911003258"
+      },
+      {
+        "name": "YODY Vinh 2",
+        "address": "76 Nguyễn Thị Minh Khai, TP.Vinh, Nghệ An",
+        "phone": "0918268258"
+      },
+      {
+        "name": "YODY Cầu Giát",
+        "address": "khối 6 thị trấn Cầu Giát, huyện Quỳnh Lưu, Nghệ An",
+        "phone": "0832515258"
+      },
+      {
+        "name": "YODY Huế",
+        "address": "179 Bà Triệu, phường Xuân Phú, thành phố Huế, tỉnh Thừa Thiên Huế.",
+        "phone": "0888709259"
+      },
+      {
+        "name": "YODY Hà Nam",
+        "address": "Quốc lộ 1A - TP. Phủ Lý, Hà Nam (cạnh ngân hàng Vietcombank cũ và xe máy Nam Hạnh)",
+        "phone": "0915169258"
+      },
+      {
+        "name": "YODY Đồng Văn",
+        "address": "126 Nguyễn Hữu Tiến, thị trấn Đồng Văn, huyện Duy Tiên, tỉnh Hà Nam",
+        "phone": "0856219258"
+      },
+      {
+        "name": "YODY Hà Lam",
+        "address": "89 Tiểu La, thị trấn Hà Lam, tỉnh Quảng Nam",
+        "phone": "0915459259"
+      },
+      {
+        "name": "YODY Vĩnh Điện",
+        "address": "224 - 226 Đường Trần Nhân Tông , Vĩnh Điện, Điện Bàn, Quảng Nam",
+        "phone": "0919754259"
+      },
+      {
+        "name": "YODY Vĩnh Điện 2",
+        "address": "120 - 122 Trần Nhân Tông, P Vĩnh Điện, Thị Xã Điện Bàn, Quảng Nam.",
+        "phone": "0888684259"
+      },
+      {
+        "name": "YODY Tam Kỳ 1",
+        "address": "số 196- 198 Phan Chu Trinh, phường An Mỹ, thành phố Tam Kỳ, tỉnh Quảng Nam",
+        "phone": "0886632259"
+      },
+      {
+        "name": "YODY Tam Kỳ 2",
+        "address": "45 Phan Chu Trinh, Tam Kỳ ,Quảng Nam",
+        "phone": "0916780259"
+      },
+      {
+        "name": "YODY Hội An",
+        "address": "552 - 554 Hai Bà Trưng , phường Cẩm Phổ , Thành phố Hội An , Tỉnh Quảng Nam.",
+        "phone": "0919909258"
+      },
+      {
+        "name": "YODY Núi Thành",
+        "address": "125 Nguyễn Văn Linh, thị trấn Núi Thành, huyện Núi Thành, Quảng Nam",
+        "phone": "0888586259"
+      },
+      {
+        "name": "YODY Quảng Ngãi",
+        "address": "139 - 141 Quang Trung - TP Quảng Ngãi – Tỉnh Quảng Ngãi",
+        "phone": "0919232259"
+      },
+      {
+        "name": "YODY Bình Sơn",
+        "address": "240 Phạm Văn Đồng, Thị Trấn Châu Ổ, Bình Sơn, Quảng Ngãi",
+        "phone": "0819484259"
+      },
+      {
+        "name": "YODY Quảng Ngãi 2",
+        "address": "374 Quang Trung, TP Quảng Ngãi, Quảng Ngãi",
+        "phone": "0888396259"
+      },
+      {
+        "name": "YODY Đức Phổ",
+        "address": "376 Đường Nguyễn Nghiêm, Phường Nguyễn Nghiêm, Thị xã Đức Phổ, Tỉnh Quảng Ngãi",
+        "phone": "0888653259"
+      },
+      {
+        "name": "YODY Đông Hà",
+        "address": "Số 01, Hùng Vương, TP. Đông Hà, Quảng Trị",
+        "phone": "0919654259"
+      },
+      {
+        "name": "YODY Quảng Trị",
+        "address": "36 Trần Hưng Đạo - Thị xã Quảng Trị - tỉnh Quảng Trị",
+        "phone": "0888450259"
+      },
+      {
+        "name": "YODY Hồ Xá",
+        "address": "52 Hùng Vương, thị trấn Hồ Xá, huyện Vĩnh Linh, Quảng Trị",
+        "phone": "0888470259"
+      },
+      {
+        "name": "YODY Lê Duẩn 1",
+        "address": "187 Lê Duẩn, Đà Nẵng.",
+        "phone": "0888332259"
+      },
+      {
+        "name": "YODY Lê Duẩn 2",
+        "address": "412 Lê Duẩn, Đà Nẵng.",
+        "phone": "0917455259"
+      },
+      {
+        "name": "YODY Liên Chiểu",
+        "address": "691 Tôn Đức Thắng, Hoà Khánh Bắc, Liên Chiểu, Đà Nẵng",
+        "phone": "0919942259"
+      },
+      {
+        "name": "YODY Điện Biên Phủ",
+        "address": "478 Điện Biên Phủ - Thanh Khê - Đà Nẵng",
+        "phone": "0888131259"
+      },
+      {
+        "name": "YODY Xô VIết Nghệ Tĩnh",
+        "address": "68 Xô Viết Nghệ Tĩnh, Cẩm Lệ, TP Đà Nẵng",
+        "phone": "0888398259"
+      },
+      {
+        "name": "YODY Hoàng Diệu",
+        "address": "299 Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, TP. Đà Nẵng",
+        "phone": "0888309259"
+      },
+      {
+        "name": "YODY Đồng Hới 1",
+        "address": "180 Trần Hưng Đạo, Đồng Hới, Quảng Bình",
+        "phone": "0919689259"
+      },
+      {
+        "name": "YODY Đồng Hới 2",
+        "address": "59 Trần Hưng Đạo, Phường Đồng Phú, Đồng Hới, Quảng Bình",
+        "phone": "0812773259"
+      },
+      {
+        "name": "YODY Kiến Giang",
+        "address": "149 Hùng Vương, thị trấn Kiến Giang, huyện Lệ Thủy, tỉnh Quảng Bình",
+        "phone": "0888442259"
+      },
+      {
+        "name": "YODY Ba Đồn",
+        "address": "196 Quang Trung, Phường Quảng Thọ, Thị Xã Ba Đồn, Tỉnh Quảng Bình",
+        "phone": "0888683259"
+      },
+      {
+        "name": "YODY Hoàn Lão",
+        "address": "347 Hùng Vương - Thị trấn Hoàn Lão - huyện Bố Trạch - tỉnh Quảng Bình",
+        "phone": "0888360259"
+      },
+      {
+        "name": "YODY Gia Lai",
+        "address": "01 Lê Duẩn, phường Phù Đổng, TP Pleiku, Gia Lai",
+        "phone": "0819234259"
+      },
+      {
+        "name": "YODY An Khê",
+        "address": "348 Quang Trung, thị xã An Khê, Gia Lai",
+        "phone": "0819334259"
+      },
+      {
+        "name": "YODY Chư Sê",
+        "address": "807A Hùng Vương, thị trấn Chư Sê, Huyện Chư Sê, tỉnh Gia Lai",
+        "phone": "0888161259"
+      },
+      {
+        "name": "YODY Kỳ Anh",
+        "address": "Số 01 Việt Lào, phường Hưng Trí, thị xã Kỳ Anh, tỉnh Hà Tĩnh",
+        "phone": "0819324259"
+      },
+      {
+        "name": "YODY Hà Tĩnh",
+        "address": "157 Trần Phú - TP Hà Tĩnh",
+        "phone": "0819404259"
+      },
+      {
+        "name": "YODY Cẩm Xuyên",
+        "address": "03 Trần Muông - thị trấn Cẩm Xuyên - huyện Cẩm Xuyên - Hà Tĩnh",
+        "phone": "0888381259"
+      },
+      {
+        "name": "YODY Hương Khê",
+        "address": "376 Trần Phú, Thị Trấn Hương Khê, Tỉnh Hà Tĩnh",
+        "phone": "0888456259"
+      },
+      {
+        "name": "YODY Hồng Lĩnh",
+        "address": "58 Trần Phú, phường Bắc Hồng, Thị Xã Hồng Lĩnh, tỉnh Hà Tĩnh",
+        "phone": "0888727259"
+      },
+      {
+        "name": "YODY Ngô Mây",
+        "address": "333 Quang Trung, Thị trấn Ngô Mây, Phù Cát, Bình Định",
+        "phone": "0888210259"
+      },
+      {
+        "name": "YODY An Nhơn",
+        "address": "119 Trần Phú - Phường Bình Định -Thị xã An Nhơn - Tỉnh Bình Định",
+        "phone": "0888370259"
+      },
+      {
+        "name": "YODY Bồng Sơn",
+        "address": "230 Quang Trung, Bồng Sơn, Bình Định",
+        "phone": "0888362259"
+      },
+      {
+        "name": "YODY Quy Nhơn",
+        "address": "16 Ngô Mây, phường Ngô Mây, TP Quy Nhơn, tỉnh Bình Địn",
+        "phone": "0888336259"
+      },
+      {
+        "name": "YODY Quy Nhơn 2",
+        "address": "số 442A đường Trần Hưng Đạo, phường Trần Hưng Đạo, thành phố Quy Nhơn, tỉnh Bình Định",
+        "phone": "0888589259"
+      },
+      {
+        "name": "YODY Buôn Ma Thuột",
+        "address": "142 Phan Chu Trinh, Buôn Ma Thuột, Đắk Lắk",
+        "phone": "0888545259"
+      },
+      {
+        "name": "YODY Buôn Trấp",
+        "address": "01 - 03 Nguyễn Tất Thành, TT. Buôn Trấp, Huyện krong Ana, tỉnh ĐăkLak",
+        "phone": "0888356259"
+      },
+      {
+        "name": "YODY Ea Kar",
+        "address": "143 Nguyễn Tất Thành, Thị trấn Eakar, Huyện Eakar, Đăklăk",
+        "phone": "0888561259"
+      },
+      {
+        "name": "YODY Quảng Phú",
+        "address": "84-86 Hùng Vương, TT Quảng Phú, huyện Cưmgar, Đắk Lắk",
+        "phone": "0888691259"
+      },
+      {
+        "name": "YODY Phước An",
+        "address": "279 Giải Phóng, Thị Trấn Phước An, Huyện Krông Pắc",
+        "phone": "0888342259"
+      },
+      {
+        "name": "YODY Buôn Hồ",
+        "address": "43-45 Trần Hưng Đạo, Thị xã Buôn Hồ, Đắk Lắk",
+        "phone": "0888034259"
+      },
+      {
+        "name": "YODY Kon Tum",
+        "address": "127 - 129 Lê Hồng Phong, P. Quyết Thắng, TP KonTum, Tỉnh KonTum",
+        "phone": "0888245259"
+      },
+      {
+        "name": "YODY Phú Yên",
+        "address": "134-136 Trần Hưng Đạo, TP Tuy Hòa, Phú Yên",
+        "phone": "0888352259"
+      },
+      {
+        "name": "YODY Vĩnh Long",
+        "address": "55A Phạm Thái Bường, phường 4, TP Vĩnh Long, tỉnh Vĩnh Long",
+        "phone": "0834999258"
+      },
+      {
+        "name": "YODY Bắc Kạn",
+        "address": "Tổ 11A phường Đức Xuân, Thành phố Bắc Kạn, Bắc Kạn",
+        "phone": "0838367258"
+      },
+      {
+        "name": "YODY Nha Trang",
+        "address": "57 Lý Thánh Tôn, Phường Lộc Thọ, Thành Phố Nha Trang, Tỉnh Khánh Hòa",
+        "phone": "0888023259"
+      },
+      {
+        "name": "YODY 172 Hoà Bình",
+        "address": "172 Hòa Bình, Tân Thới Hoà, Tân Phú, Thành phố Hồ Chí Minh",
+        "phone": "0859819258"
+      },
+      {
+        "name": "YODY Nguyễn Thị Thập",
+        "address": "số 495 Nguyễn Thị Thập, phường Tân Phong, quận 7, thành phố Hồ Chí Minh",
+        "phone": "0886332258"
+      },
+      {
+        "name": "YODY Tân Sơn Nhì",
+        "address": "396 Tân Sơn Nhì ,Phường Tân Sơn Nhì, Quận Tân Phú, Thành phố Hồ Chí Minh",
+        "phone": "0886286258"
+      },
+      {
+        "name": "YODY Cao Lỗ",
+        "address": "120 - 128 đường Cao Lỗ, phường 4, quận 8, HCM",
+        "phone": "0888598258"
+      },
+      {
+        "name": "YODY Thống Nhất",
+        "address": "Số 239 -241-241A-241B Thống Nhất phường 11, quận Gò Vấp, thành phố Hồ Chí Minh",
+        "phone": "0816688258"
+      },
+      {
+        "name": "YODY Phạm Văn Chiêu",
+        "address": "450 Phạm Văn Chiêu, Phường 9, Gò Vấp, Thành phố Hồ Chí Minh",
+        "phone": "0836125258"
+      },
+      {
+        "name": "YODY 651 Hương Lộ 3",
+        "address": "651 Hương Lộ 3, Bình Hưng Hoà, Bình Tân, Thành phố Hồ Chí Minh",
+        "phone": ""
+      },
+      {
+        "name": "YODY Đà Lạt",
+        "address": "54B Phan Đình Phùng, phường 1, thành phố Đà Lạt, tỉnh Lâm Đồng",
+        "phone": "0888279259"
+      },
+      {
+        "name": "YODY Liên Nghĩa",
+        "address": "số 25-27-29 Thống Nhất, Thị Trấn Liên Nghĩa, Đức Trọng, Lâm Đồng.",
+        "phone": "0888509259"
+      },
+      {
+        "name": "YODY Di Linh",
+        "address": "1046 Hùng Vương, tt Di Linh, huyện Di Linh, Lâm Đồng",
+        "phone": "0888508259"
+      },
+      {
+        "name": "YODY Gia Nghĩa",
+        "address": "số 01 - 03 đường Chu Văn An, tổ dân phố 04, phường Nghĩa Thành, Thành phố Gia Nghĩa, tỉnh Đăk Nông",
+        "phone": "0888296259"
+      },
+      {
+        "name": "YODY Thuận An",
+        "address": "đường 22/12, phường An Phú, thị xã Thuận An, tỉnh Bình Dương",
+        "phone": "0839313258"
+      },
+      {
+        "name": "YODY Dĩ An",
+        "address": "171 Đường Nguyễn Trãi - Phường Dĩ An - Thành Phố Dĩ An - tỉnh Bình Dương",
+        "phone": "0816333258"
+      },
+      {
+        "name": "YODY Phan Thiết",
+        "address": "số 199-201 Trần Hưng Đạo, phường Phú Thủy, thành phố Phan Thiết, tỉnh Bình Thuận",
+        "phone": "0888238259"
+      },
+      {
+        "name": "YODY Nguyễn Trãi - Cần Thơ",
+        "address": "90-92 Nguyễn Trãi - phường Cái Khế - quận Ninh Kiều, Cần Thơ",
+        "phone": "0888064258"
+      },
+      {
+        "name": "YODY 30/4 - Cần Thơ",
+        "address": "số 272 đường 30/4, phường Hưng Lợi, quận Ninh Kiều, Cần Thơ",
+        "phone": "0837184258"
+      },
+      {
+        "name": "YODY Nguyễn Văn Cừ - Cần Thơ",
+        "address": "102 Nguyễn Văn Cừ - P. An Hoà - Q. Ninh Kiều - Cần Thơ",
+        "phone": ""
+      },
+      {
+        "name": "YODY Hai Bà Trưng - Long Xuyên",
+        "address": "70-72 Hai Bà Trưng - P. Mỹ Long - TP. Long Xuyên - An Giang",
+        "phone": "0834074258"
+      }
+    ]
+  },
+  "item_scraped_count": 207
+}

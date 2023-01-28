@@ -1,0 +1,231 @@
+{
+  "type": "Feature",
+  "name": "BRG Mart",
+  "POI:Category": "",
+  "store_url": "https://brgshopping.vn/new_detail/he-thong-sieu-thi-cua-brgmart.html",
+  "website": "https://brgshopping.vn/new_detail/he-thong-sieu-thi-cua-brgmart.html",
+  "properties": {
+    "entities": [
+      {
+        "name": "HỆ THỐNG SIÊU THỊ BRGMART",
+        "locations": [
+          {
+            "name": "QUẬN NAM TỪ LIÊM",
+            "locations": [
+              "Tòa MD Complex 68 Nguyễn Cơ Thạch, Nam Từ Liêm, Hà Nội / 0243.204.7149",
+              "Tầng 1, CT2 Chung Cư The Light, Khu đô thị Trung Văn,",
+              " Nam Từ Liêm, Hà Nội / 0363.886.333 "
+            ]
+          },
+          {
+            "name": "QUẬN ĐÔNG ANH",
+            "locations": [
+              "Intracom Vĩnh Ngọc, Đông Anh, Hà Nội / ",
+              "0243.205.2061"
+            ]
+          },
+          {
+            "name": "QUẬN HAI BÀ TRƯNG",
+            "locations": [
+              "89 Bùi Ngọc Dương, P Bạch Mai, Q Hai Bà Trưng, Hà Nội - 0243 204 5661/ 0243 204 5662 ",
+              "UDIC Riverside, 122 Vĩnh Tuy, Hai Bà Trưng, Hà Nội - 024 32047206",
+              "",
+              "51 Lê Đại Hành, Hai Bà Trưng, Hà Nội - 0243 633 14 66"
+            ]
+          },
+          {
+            "name": "QUẬN HOÀN KIẾM",
+            "locations": [
+              "120 Hàng Trống, Hoàn Kiếm, Hà Nội - 0243 825 61 48",
+              "Số 1 Lý Nam Đế, Hoàn Kiếm, Hà Nội - 0243 211 53 25",
+              "63 Hàng Trống, Hoàn Kiếm, Hà Nội - 0243 717 33 05"
+            ]
+          },
+          {
+            "name": "QUẬN ĐỐNG ĐA",
+            "locations": [
+              "Số 8 Phạm Ngọc Thạch, Đống Đa, Hà Nội - 0243 574 24 51"
+            ]
+          },
+          {
+            "name": "QUẬN TÂY HỒ",
+            "locations": [
+              "174 Lạc Long Quân, Tây Hồ;Hà Nội - 0243 664 83 72"
+            ]
+          },
+          {
+            "name": "QUẬN BA ĐÌNH",
+            "locations": [
+              "15-17 Ngọc Khánh, Ba Đình, Hà Nội - 0243 773 64 16",
+              "11-13 Thành Công, Ba Đình, Hà Nội - 0243 772 45 62",
+              "Tầng 1 D2 Giảng Võ, Ba Đình, Hà Nội - 0243 2065 888"
+            ]
+          },
+          {
+            "name": "QUẬN LONG BIÊN",
+            "locations": [
+              "Ngõ 390, tòa nhà Berriver, Nguyễn Văn Cừ, Long Biên, Hà Nội - 0246 253 45 71",
+              "Le Grand Jardin Sài Đồng, Long Biên, Hà Nội / ",
+              "0243.202.4004",
+              "K3 Việt Hưng, Long Biên, Hà Nội - 0243 652 38 75"
+            ]
+          },
+          {
+            "name": "QUẬN THANH XUÂN",
+            "locations": [
+              "Tầng 1, tòa A, 275 Nguyễn Trãi, Thanh Xuân, Hà Nội - 0243 201 01 52",
+              "C12 Thanh Xuân Bắc, Thanh Xuân, Hà Nội - 0243 554 11 57"
+            ]
+          },
+          {
+            "name": "HUYỆN CHƯƠNG MỸ",
+            "locations": [
+              "Tòa nhà Lộc Ninh Singashine 104, Ninh Kiều, TT. Chúc Sơn, Chương Mỹ, Hà Nội - 0243 204 71 46"
+            ]
+          },
+          {
+            "name": "TP HẢI PHÒNG",
+            "locations": [
+              "23 Minh Khai, Hồng Bàng, Hải Phòng - 0225 374 66 58"
+            ]
+          },
+          {
+            "name": "TỈNH HƯNG YÊN",
+            "locations": [
+              "TTTM Phố Nối, xã Nghĩa Hiệp, tỉnh Hưng Yên - 0221 358 91 61",
+              "Thị trấn Như Quỳnh-Văn Lâm-Hưng Yên - 0221 378 67 11"
+            ]
+          },
+          {
+            "name": "TỈNH HẢI DƯƠNG",
+            "locations": [
+              "Số 1 Nguyễn Lương Bằng, Phạm Ngũ Lão, Hải Dương - 0220 389 56 84"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HỆ THỐNG SIÊU THỊ HAPROFOOD/BRGMART",
+        "locations": [
+          {
+            "name": " TỈNH QUẢNG NINH",
+            "locations": [
+              "Tổ 2, Khu Vĩnh Xuân, Phường Mạo Khê, Thị xã Đông Triều, Tỉnh Quảng Ninh - 0203 390 16 26",
+              ""
+            ]
+          },
+          {
+            "name": "QUẬN BẮC TỪ LIÊM",
+            "locations": [
+              "Tòa N03, Ecohome 3, P Đông Ngạc, Q Bắc Từ Liêm, Hà Nội - 0978 969 808"
+            ]
+          },
+          {
+            "name": "QUẬN HOÀN KIẾM",
+            "locations": [
+              "53D Hàng Bài, Hoàn Kiếm, Hà Nội - 0243 204 51 43",
+              "5 Hàm Tử Quan, Hoàn Kiếm, Hà Nội - 0243 204 51 87",
+              "36 Hàng Ngang, Hoàn Kiếm, Hà Nội - 0243 204 52 43",
+              "7 Hàng Đường, Hoàn Kiếm, Hà Nội - 0243 204 53 31",
+              "63 Cầu Gỗ, Hoàn Kiếm, Hà Nội - 0243 204 52 97",
+              "66 Hàng Chiếu, Hoàn Kiếm, Hà Nội - 0243 204 53 42",
+              "5-7 Cửa Nam, Hoàn Kiếm, Hà Nội - 0243 204 71 25",
+              "105 Lê Duẩn, Hoàn Kiếm, Hà Nội - 0243 204 71 20",
+              "24 Trần Nhật Duật, Hoàn Kiếm, Hà Nội "
+            ]
+          },
+          {
+            "name": "QUẬN BA ĐÌNH",
+            "locations": [
+              "G3 Vĩnh Phúc, Ba Đình, Hà Nội - 0243 761 57 94 ",
+              "15-17 Đội Cấn, Ba Đình, Hà Nội - 0243 204 51 54",
+              "166 Nguyễn Thái Học, Ba Đình, Hà Nội - 0247 300 06 90",
+              " 12 Quán Thánh, Ba Đình, Hà Nội"
+            ]
+          },
+          {
+            "name": "QUẬN ĐỐNG ĐA ",
+            "locations": [
+              "160 - 162 Ngõ Thái Thịnh 1, Đống Đa, Hà Nội - 0243 204 53 12",
+              "94 Láng Hạ, Đống Đa, Hà Nội - 0243 204 54 40",
+              "135 Lương Định Của, Đống Đa, Hà Nội - 0243 574 55 16",
+              "41 Đông Tác, Đống Đa, Hà Nội - 0243 204 52 27",
+              "162 Tôn Đức Thắng, Đống Đa, Hà Nội - 0243 204 71 06",
+              "9-11 Thổ Quan, Đống Đa, Hà Nội "
+            ]
+          },
+          {
+            "name": "QUẬN THANH XUÂN",
+            "locations": [
+              "N4C Trung Hòa, Thanh Xuân, Hà Nội - 0243 204 51 57"
+            ]
+          },
+          {
+            "name": "QUẬN TÂY HỒ",
+            "locations": [
+              "Chợ Bưởi, Tây Hồ, Hà Nội - 0243 757 27 34",
+              "96 Tô Ngọc Vân, Tây Hồ, Hà Nội - 0243 933 55 41",
+              "98 Tô Ngọc Vân, Tây Hồ, Hà Nội - 0243 933 55 42"
+            ]
+          },
+          {
+            "name": "QUẬN HAI BÀ TRƯNG",
+            "locations": [
+              "E6 Quỳnh Mai, Hai Bà Trưng, Hà Nội - 0243 220 24 45",
+              "E7 Bách Khoa, Hai Bà Trưng, Hà Nội - 0243 623 10 85",
+              "198 Lò Đúc, Hai Bà Trưng, Hà Nội - 0243 204 52 17 ",
+              "",
+              "9 Lê Quý Đôn, Hai Bà Trưng, Hà Nội - 0243 204 52 17 "
+            ]
+          },
+          {
+            "name": "QUẬN HOÀNG MAI",
+            "locations": [
+              "83 Nguyễn An Ninh, Hoàng Mai, Hà Nội - 0243 204 54 10"
+            ]
+          },
+          {
+            "name": "QUẬN LONG BIÊN",
+            "locations": [
+              "156 Ngọc Lâm, Long Biên, Hà Nội - 0243 204 54 12",
+              "362 Ngọc Lâm, Long Biên, Hà Nội - 0243 204 54 93"
+            ]
+          },
+          {
+            "name": "ĐÔNG ANH",
+            "locations": [
+              "Chợ Sa, Cổ Loa, Đông Anh, Hà Nội - 0243 204 54 62",
+              "Chợ Tó. Uy Nỗ, Đông Anh, Hà Nội - 0243 204 70 64"
+            ]
+          },
+          {
+            "name": "SÓC SƠN",
+            "locations": [
+              "Khu C, TT Sóc Sơn, Hà Nội - 0243 201 50 33"
+            ]
+          },
+          {
+            "name": "QUẬN THANH TRÌ",
+            "locations": [
+              "66 Cổ Điển, Thanh Trì, Hà Nội - 0243 204 71 30"
+            ]
+          },
+          {
+            "name": "THÀNH PHỐ VŨNG TÀU",
+            "locations": [
+              "2 Hoàng Hoa Thám,phường 2, Vũng Tàu - 025 4354 3969",
+              "124 -126 Đường Lê Lợi, phường 4, Vũng Tàu - 025 4354 3959",
+              "155 Trương Công Định, phường 3, Vũng Tàu - 025 4354 3929",
+              "1 Lê Hồng Phong, Phường 7, Vũng Tàu - 025 4354 3919"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "",
+        "locations": []
+      }
+    ]
+  },
+  "item_scraped_count": 3
+}

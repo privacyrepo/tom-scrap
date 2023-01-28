@@ -1,0 +1,6700 @@
+{
+  "type": "Feature",
+  "name": "yamaha-motor.",
+  "POI:Category": "",
+  "store_url": "https://yamaha-motor.com.vn/dai-ly/?province=0&district=0&type=0",
+  "website": "https://yamaha-motor.com.vn/dai-ly/?province=0&district=0&type=0",
+  "properties": {
+    "entities": [
+      {
+        "name": "Tuấn Đại Dương 8",
+        "phone": "",
+        "address": "B26-B27 Khu phố 3, Thị trấn Trảng Bom, Huyện Trảng Bom, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9530625, 106.9998125"
+          ]
+        }
+      },
+      {
+        "name": "Việt Duy 2",
+        "phone": "02433551919",
+        "address": "Ngọc Giả-Chúc Sơn-Chương Mỹ-Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9623125, 105.7659375"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Nam Việt",
+        "phone": "0914143147 | 0909094684 | 0909094684",
+        "address": "104 đường An Bình, khu phố Bình Đường 3, phường An Bình, thành phố Dĩ An, tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8698125, 106.7559375"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Tri Phương",
+        "phone": "0932120047 | 0798 455599",
+        "address": "75/3, Bình Quới, phường 27, quận Bình Thạnh, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8166875, 106.7190625"
+          ]
+        }
+      },
+      {
+        "name": "An Phu 3",
+        "phone": "0859 007 000",
+        "address": "65 Nguyễn Văn Tăng, Phường Long Thạnh Mỹ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8469375, 106.8161875"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Bình Tiến",
+        "phone": "02868841811 | 0798455599",
+        "address": "464 Lã Xuân Oai, Phường Long Trường, thành phố Thủ Đức, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8189375, 106.8098125"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Cầu Thủ Đức",
+        "phone": "0973841039",
+        "address": "70 Đường số 5, khu phố 4, phường Linh Xuân, Quận Thủ Đức, TP Thủ Đức",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8793125, 106.7638125"
+          ]
+        }
+      },
+      {
+        "name": "Revzone Yamaha Motor",
+        "phone": "",
+        "address": "Tòa nhà UOA, Số 6 Tân Trào, Q. Tân Phú, TP. Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7301724, 106.7250779"
+          ]
+        }
+      },
+      {
+        "name": "Thanh Vương Phát",
+        "phone": "0333 999 888 - 0274 7773777",
+        "address": "Thửa đất 687, tờ bản đồ số 36, Ấp Lồ Ồ, Xã An Tây, Thị Xã Bến Cát, Tỉnh Bình Dương, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.1239839744304,  106.53113858960668"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha Hưng Hà",
+        "phone": "094 491 95 35",
+        "address": "Khối 5, thị trấn Mường Xén, huyện Kỳ Sơn, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.3933125, 104.1558125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha Quang Phương 3",
+        "phone": "",
+        "address": "135 Phạm Hữu Chí, Phường 15, Quận 5, Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.755414622151266,  106.65399721070605"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Duy Hưng 2",
+        "phone": "0907012359 / 0836810552",
+        "address": "Tổ 3, ấp 4, xã An Viễn, huyện Trảng Bom, tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8802875, 106.9935469"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Ngọc Bảo Trang",
+        "phone": "0982710229",
+        "address": "G271 + G272,Khu Phố 7,đường Bùi Văn Hòa, Phường Long Bình, Thành Phố Biên Hòa, tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9680625, 106.8535625"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thanh Bình",
+        "phone": "0966004444",
+        "address": "Thôn Cát Lại, xã Bình Nghĩa, huyện Bình Lục, tỉnh Hà Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.5580625, 106.0193125"
+          ]
+        }
+      },
+      {
+        "name": "Khánh Thao",
+        "phone": "0973641017-0376.011992",
+        "address": "Km8, QL 18, Xã Phượng Mao, huyện Quế Võ , Tỉnh Bắc Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1550625, 106.1394375"
+          ]
+        }
+      },
+      {
+        "name": "Hương Quỳnh",
+        "phone": "0973680182",
+        "address": "Bãi Dé, Nội Duệ, huyện Tiên Du, Bắc Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1330625, 105.9971875"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Hải Anh",
+        "phone": "02835511136",
+        "address": "101 Nơ Trang Long, F11, Quân Bình Thạnh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8104375, 106.6950625"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S  Thiên Phước",
+        "phone": "0941855991",
+        "address": "Thôn Ngọc Sơn, xã Phú Sơn, huyện Lâm Hà, tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.8824375, 108.1984375"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hiệp Phước",
+        "phone": "0286 2711335 / 0337256262",
+        "address": "91B Nguyễn Văn Tạo, ấp 2, xã Long Thới, huyện Nhà Bè, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.6544375, 106.7290625"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Mạnh Hùng Phú Mỹ",
+        "phone": "0254 3851381 / 0939132999",
+        "address": "Khu phố 4, phường Hắc Dịch, thị xã Phú Mỹ, tỉnh Bà Rịa Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.6225625, 107.1216875"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Long Thành",
+        "phone": "0938950562",
+        "address": "Số 2011, ấp 5, xã Xuân Tâm, huyện Xuân Lộc, tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8773125, 107.4440625"
+          ]
+        }
+      },
+      {
+        "name": "Đức Tâm",
+        "phone": "097 353 07 75",
+        "address": "Tiểu khu 5, Thị trấn Quán Hàu, Huyện Quảng Ninh, Tỉnh Quảng Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "17.4035625, 106.6386875"
+          ]
+        }
+      },
+      {
+        "name": "Việt Hà Anh",
+        "phone": "0971 350 633",
+        "address": "Số nhà 22, Tổ 6, Khu Tân Bình, Xuân Mai, Chương Mỹ, TP Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8949375, 105.5723125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha YFS Đà Nẵng",
+        "phone": "0236.3649.544",
+        "address": "123 Điện Biên Phủ, Quận Thanh Khê, Đà Nẵng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0654375, 108.1993125"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Phúc 2 VT",
+        "phone": "0292 3730919",
+        "address": "72 Trần Hưng Đạo, Phường An Nghiệp,Quận  Ninh Kiều,Thành Phố Cần Thơ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0375625, 105.7763125"
+          ]
+        }
+      },
+      {
+        "name": "Hớn Quản",
+        "phone": "",
+        "address": "68 Quốc lộ 13, Khu phố 3, Thị trấn Tân Khai, Huyện Hớn Quản, Tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8654375, 106.7249375"
+          ]
+        }
+      },
+      {
+        "name": "Thuan Phat 2",
+        "phone": "0935245769",
+        "address": "Số 134 Nguyễn Huệ, Phường Phú Nhuận, Thành phố Huế, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.4458125, 107.6125625"
+          ]
+        }
+      },
+      {
+        "name": "Lý Anh",
+        "phone": "097 169 99 68",
+        "address": "Quốc lộ 13, Tổ 4, Khu phố Phú Trung, Phường Hưng Chiến, Thị xã Bình Long, Tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.6423125, 106.6074375"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha YFS TP. Hồ Chí Minh",
+        "phone": "02838441433/ 122",
+        "address": "627 Cách Mạng Tháng Tám, F15, Quận 10",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7851875, 106.6673125"
+          ]
+        }
+      },
+      {
+        "name": "An Khánh",
+        "phone": "082 515 7777",
+        "address": "Lô số D1-NV1, ô số 21,22, khu D, khu đô thị mới Lê Trọng Tấn – Gelexinco, Phường Dương Nội, Quận Hà Đông, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9864375, 105.7404375"
+          ]
+        }
+      },
+      {
+        "name": "Nha Trang",
+        "phone": "025.83870309",
+        "address": "Số 1 Trần Qúy Cáp, Vạn Thạnh, Nha Trang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.2530625, 109.1905625"
+          ]
+        }
+      },
+      {
+        "name": "Cầu Giấy",
+        "phone": "0243. 7574999",
+        "address": "98 Xuân Thủy, Cầu Giấy, Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0366875, 105.7876875"
+          ]
+        }
+      },
+      {
+        "name": "Đống Đa",
+        "phone": "0243 366 8222",
+        "address": "123 Ô Chợ Dừa- Đống Đa- Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0197582, 105.8276732"
+          ]
+        }
+      },
+      {
+        "name": "Minh Long",
+        "phone": "0933.739.112",
+        "address": "117A Lê Văn Khương, Phường Hiệp Thành, Quận 12, TP.HCM (Cách cầu vượt Tân Thới Hiệp 500m)",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8765113, 106.6488301"
+          ]
+        }
+      },
+      {
+        "name": "An Thư",
+        "phone": "090 4582444",
+        "address": "Số 168, Khu 2 Thị trấn Hậu Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.9121557, 105.8906859"
+          ]
+        }
+      },
+      {
+        "name": "Quang Phương",
+        "phone": "02839559068",
+        "address": "365A/15 Quốc lộ 1A, Xã An Phú Tây, Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.6872267, 106.5937363"
+          ]
+        }
+      },
+      {
+        "name": "Hà Thành",
+        "phone": "02862873666",
+        "address": "Số 880, Quốc lộ 1A, Khu phố 7, Phường Bình Trị Đông A, Quận Bình Tân, Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.769944, 106.5912973"
+          ]
+        }
+      },
+      {
+        "name": "Quang Võ",
+        "phone": "0252 3813333",
+        "address": "Số 511 Trần Hưng Đạo, Khu Phố Lập Hòa, Thị Trấn Thuận Nam, Huyện Hàm Thuận Nam, Tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8406545, 107.86225349999995"
+          ]
+        }
+      },
+      {
+        "name": "Su Su",
+        "phone": "02825536941",
+        "address": "1507 Đường Tỉnh lộ 8, Ấp 4, Xã Hòa Phú, Huyện Củ Chi, Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9811423, 106.60608550000006"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Giang 2",
+        "phone": "0271 3863 333",
+        "address": "515 Phú Riềng Đỏ (Ngã ba Hùng Vương), P. Tân Đồng, Tp. Đồng Xoài, Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5376862, 106.90344519999996"
+          ]
+        }
+      },
+      {
+        "name": "Hữu Tình",
+        "phone": "0283.456.1216",
+        "address": "Quốc lộ 13, Khu phố 2, Thị trấn Mỹ Phước, Thị xã Bến Cát, Tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.14755,  106.59825"
+          ]
+        }
+      },
+      {
+        "name": "Mai Long",
+        "phone": "091 328 72 22",
+        "address": "Lô 11-12, Ngã 6, tổ 12, Phường Kim Tân, Thành phố Lào Cai, Lào Cai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.4815625, 103.97531249999997"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Thành Đạt",
+        "phone": "02276.526.526",
+        "address": "Số 297, Phố Lý Bôn, Phường Tiền Phong, Thành Phố Thái Bình, tỉnh Thái Bình, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4505625, 106.33868749999999"
+          ]
+        }
+      },
+      {
+        "name": "Hiếu Hằng",
+        "phone": "02323.84.88.99",
+        "address": "Số 32, Đường Quang Trung, Phường Hải Đình, Thành phố Đồng Hới, Tỉnh Quảng Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "17.4638125, 106.62381249999999"
+          ]
+        }
+      },
+      {
+        "name": "Tiến Thu 2",
+        "phone": "0236 3566 887",
+        "address": "207-209, Phan Châu Trinh, Phường Phước Ninh, Quận Hải Châu,Thành phố Đà Nẵng, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0618125, 108.21993750000001"
+          ]
+        }
+      },
+      {
+        "name": "THÁI BÌNH",
+        "phone": "0236.3.650.340",
+        "address": "224 Nguyễn Văn Linh, Quận Thanh Khê, Thành phố Đà Nẵng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0598125, 108.20843749999995"
+          ]
+        }
+      },
+      {
+        "name": "THÀNH XUÂN 2",
+        "phone": "0238.3881368",
+        "address": "Khối Tây Hồ 1, Phường Quang Tiến, Thị xã Thái Hòa, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.3233125, 105.42231249999998"
+          ]
+        }
+      },
+      {
+        "name": "Bến Thành",
+        "phone": "0239.3822666",
+        "address": "Khố́i 1, Thị trấn Xuân An, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.6349375, 105.70831250000003"
+          ]
+        }
+      },
+      {
+        "name": "Phúc",
+        "phone": "0905082077",
+        "address": "Thôn 2, Xã Hòa Phú, Tp Buôn Ma Thuột, Tỉnh Đăk Lăk",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.6164375, 107.9380625"
+          ]
+        }
+      },
+      {
+        "name": "Hoàn Cầu 2",
+        "phone": "093 219 44 84",
+        "address": "456B Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Thành phố Đà Nẵng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0313125, 108.20843749999995"
+          ]
+        }
+      },
+      {
+        "name": "Nhơn 7",
+        "phone": "02563 839 939",
+        "address": "Khu vực Bả Canh, Phường Đập Đá, An Nhon Town, Binh Dinh Province",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.7811875, 109.22206249999999"
+          ]
+        }
+      },
+      {
+        "name": "Loan Thanh Bình 2.1",
+        "phone": "0270.3750279",
+        "address": "Tổ 21, Khóm 5, phường cái vồn, Thị Xã Bình Minh, Vĩnh Long",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0706875, 105.82231249999995"
+          ]
+        }
+      },
+      {
+        "name": "MINH HẰNG CR",
+        "phone": "0258 3956797",
+        "address": "2429 Đại lộ Hùng Vương, TDP Lợi Hưng, P. Cam Lợi, TP. Cam Ranh, Tỉnh Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.9143125, 109.1378125"
+          ]
+        }
+      },
+      {
+        "name": "Toàn Nga B",
+        "phone": "02773851777",
+        "address": "Đường 30/4, tổ 8, khóm Mỹ Phú, Phường Mỹ Phú, Tp. Cao Lãnh, Tỉnh Đồng Tháp",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4553125, 105.64881250000008"
+          ]
+        }
+      },
+      {
+        "name": "An Châu Chương",
+        "phone": "02773771539",
+        "address": "88/13 Xã Hòa Khánh, Phường 2,Thị Xã Sa Đéc Tỉnh Đồng Tháp",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2885625, 105.77181250000001"
+          ]
+        }
+      },
+      {
+        "name": "Hưng Vượng",
+        "phone": "0899 523799",
+        "address": "Số 890 đường 30/4, phường 11, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.357197,  107.081376"
+          ]
+        }
+      },
+      {
+        "name": "ANH DƯƠNG GOLD A",
+        "phone": "0254.3858088",
+        "address": "Số 188 Lê Hồng Phong, Phường 4, thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.357197,  107.081376"
+          ]
+        }
+      },
+      {
+        "name": "Huy Hoàng 6",
+        "phone": "0275.3816596",
+        "address": "Thưa đất số 215, 653, 659; tờ bản đồ số 6, ấp thạnh hòa B, Thị trấn Thạnh phú, Huyện Thạnh Phú, Tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.959937499999999, 106.50568750000002"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Lộc Thắng 5",
+        "phone": "0833666667",
+        "address": "762 đường Trần Phú, Phường Lộc Tiến, Thành Phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5348125, 107.78393749999998"
+          ]
+        }
+      },
+      {
+        "name": "VẠN PHONG SÀI GÒN",
+        "phone": "02862607288",
+        "address": "290B/44A Dương Bá Trạc, Phường 1, Q8, TPHCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7440625, 106.68906249999998"
+          ]
+        }
+      },
+      {
+        "name": "Kim Hoàng",
+        "phone": "0283.8467588",
+        "address": "311A Lê Văn Sỹ, Quận 3, Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7875625, 106.67818750000004"
+          ]
+        }
+      },
+      {
+        "name": "Tiến Phát",
+        "phone": "02253.748989",
+        "address": "Khu 4, Phường Quán Toan, Quận Hồng Bàng, Thành phố Hải Phòng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8893125, 106.60506250000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Phạm Tuyên",
+        "phone": "02203747440 / 0915292222",
+        "address": "Số nhà 183 đường 391, thị trấn Tứ Kỳ, huyện Tứ Kỳ, tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8230625, 106.4023125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Vũ Hiệp",
+        "phone": "0969599883",
+        "address": "Phố Ngã Ba, Xã Gia Phù, Huyện Phù Yên, Tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1976434, 104.60413370000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Đức Lộc",
+        "phone": "0963987987",
+        "address": "Tổ dân phố Đức Thịnh, thị trấn Thắng, huyện Hiệp Hòa, tỉnh Bắc Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.4001793, 106.00962370000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Biển Huyền",
+        "phone": "0972875500 / 0213 3870929",
+        "address": "Khu 5, thị trấn Sìn Hồ, huyện Sìn Hồ, tỉnh Lai Châu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.3579375, 103.25268749999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Bảo Huân",
+        "phone": "02543676379 / 0933040411",
+        "address": "Tổ 3, ấp Hải Lâm, xã Phước Hưng, huyện Long Điền, tỉnh Bà Rịa Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4233104, 107.22138930000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Thịnh Thảo",
+        "phone": "02373600447",
+        "address": "Khu 2, Thị trấn Thường Xuân, Huyện Thường Xuân, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.9038125, 105.34593749999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Lợi Bình",
+        "phone": "0932559555",
+        "address": "Khối phố Bình Phước, Thị trấn Tiên Kỳ, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.5236875, 108.30068749999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Vĩnh Lộc",
+        "phone": "0979885329/0913885329",
+        "address": "Số 276 Hùng Vương, Thị trấn Đông Phú, Huyện Quế Sơn, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.6741875, 108.22081249999997"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Minh Nhật",
+        "phone": "0986012342",
+        "address": "Thôn Thạch Bình, Thị trấn Sịa, Huyện Quảng Điền, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.5840625, 107.50606249999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thanh Thu Ba",
+        "phone": "02603821315 / 0935001259",
+        "address": "Số 259 đường Trần Hưng Đạo, thị trấn Sa Thầy, huyện Sa Thầy, tỉnh Kon Tum",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.406498, 107.79850310000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Công Hoa",
+        "phone": "0977868414 / 0220 3710866",
+        "address": "Số nhà 42, đường Nguyễn Chế Nghĩa, thị trấn Gia Lộc, huyện Gia Lộc, tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8783125, 106.29706250000004"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Đức Thanh",
+        "phone": "0915544139",
+        "address": "Thôn An Lạc, Xã Trung Giã, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3221875, 105.89043749999996"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Phong Hằng",
+        "phone": "02633847762",
+        "address": "Số 278 Thôn Nam Hiệp 1,Xã Ka Đô, Huyện Đơn Dương, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7593125, 108.52668749999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Vân Trang",
+        "phone": "02253772268 / '0936877077",
+        "address": "Số 21 Phố Trần Tất Văn, thị trấn An Lão,  huyện An Lão,  TP Hải phòng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8216875, 106.55881249999993"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Nguyễn Thạch",
+        "phone": "0982601575",
+        "address": "Tổ Dân Phố 1, Thị Trấn Trà Xuân, Huyện Trà Bồng, tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.2580625, 108.51931250000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hùng Mạnh",
+        "phone": "02422168477 / 0904996979",
+        "address": "Số 245 đường Lĩnh Nam, phường Vĩnh Hưng, quận Hoàng Mai, TP. Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9844375, 105.8733125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hòa Huy Hoàng",
+        "phone": "028383738028 / 0902977727",
+        "address": "321A-321B Trần Hưng Đạo, Phường Cô Giang, Quận 1, Tp. HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7620803, 106.69051330000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Ngoc Thanh",
+        "phone": "02378979007",
+        "address": "SN 167. tổ 6, Thị trấn Cẩm Thủy, Huyện Cẩm Thủy, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.2124375, 105.47206249999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Vinh Nga",
+        "phone": "0913958636 / 0207 3843197",
+        "address": "Tổ dân phố Tân Quang, thị trấn Tân Yên, huyện Hàm Yên, tỉnh Tuyên Quang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.0395625, 105.03693750000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Khánh An",
+        "phone": "0985949879 / 0989744757",
+        "address": "321 Huỳnh Thúc Kháng, phường Mũi Né, thành phố Phan Thiết, tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9375306, 108.28557410000008"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Hà Trung",
+        "phone": "0978269249",
+        "address": "SN 36, Đường Lý Tự Trọng, Khu phố Thành Ngọc, Phường Trường Sơn, Thị xã Sầm Sơn, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.7350625, 105.89243750000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Tùng Lâm",
+        "phone": "0977500937",
+        "address": "Tổ dân phố 2C, Thị trấn Đạ Tẻh, Huyện Đạ Tẻh, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5043125, 107.4815625"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thới Phượng",
+        "phone": "0982658685",
+        "address": "Số 54/A, khu phố 3, thị trấn Giồng Riềng, huyện Giồng Riềng, tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.902687499999999, 105.30931250000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Anh Đạt",
+        "phone": "0963752885",
+        "address": "Xóm Đoàn Kết, Xã Chiềng Hặc, Huyện Yên Châu, Tỉnh Sơn La, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0165625, 104.38093750000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Sơn Hải",
+        "phone": "0988460646",
+        "address": "Thôn 2, xã Tân Thanh, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7518125, 108.10293750000005"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Hoa Trang",
+        "phone": "0982279678",
+        "address": "Thôn Đồng Nhơn Nam, Xã Tịnh Đông, Huyện Sơn Tịnh, Tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.1855625, 108.73568750000004"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Minh Tấn",
+        "phone": "0977519737",
+        "address": "Số 311, ấp Thạnh Hòa (đường 785), xã Thạnh Bình, huyện Tân Biên, tỉnh Tây Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5901502, 106.08753260000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Bảo Ngọc Khang Phú",
+        "phone": "02743680766 / 0909072890",
+        "address": "371, tổ 5, ấp 1, thị trấn Lạc An, huyện Bắc Tân Uyên, tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.6624375, 107.20106250000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S A Lành",
+        "phone": "02753879517 / 0918267647",
+        "address": "36/3 ấp Thạnh Trị Hạ, thị trấn Thạnh Phú, huyện Thạnh Phú, tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.9479375, 106.51406250000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Tấn Tài",
+        "phone": "0909444847 / 027 36260330",
+        "address": "Ấp 1, xã Tân Hưng, huyện Cái Bè, tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3259375, 105.84193749999997"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Duy Hưng",
+        "phone": "0907012359 / 0251 3511007",
+        "address": "Số 492, tổ 9, khu phố Long Đức, phường Tam Phước, thành phố Biên Hòa, tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8574375, 106.94481250000001"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Khôi",
+        "phone": "0919662264",
+        "address": "Số 68, ấp Đặng Văn Do, xã Thạnh Yên, huyện U Minh Thượng, tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.6711875, 105.12718749999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Phú Toàn",
+        "phone": "02633854433",
+        "address": "149 Thôn Tân Trung, Xã Tân Hà, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7441875, 108.1941875"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thành Dũng Motor",
+        "phone": "02513713730 / 0824605555",
+        "address": "Ấp 9, xã Sông Rây, huyện Cẩm Mỹ, tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7613125, 107.3493125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thanh Liêm",
+        "phone": "0918526285",
+        "address": "393 ấp Vĩnh Đông 2, thị trấn Vĩnh Thuận, huyện Vĩnh Thuận, tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.5108125, 105.25856249999993"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Vĩnh Phúc",
+        "phone": "02753875486 / 0907117071",
+        "address": "432/24 ấp An Thạnh, xã Long Thới, huyện Chợ Lách, tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2204375, 106.20493750000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thuận Cường",
+        "phone": "0945256999 / 0258 397111 / 0258 3600000",
+        "address": "216 Nguyễn Chí Thanh, phường Cam Nghĩa, TP. Cam Ranh, tỉnh Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.9874375, 109.19243749999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Phước Thịnh",
+        "phone": "0913687410",
+        "address": "Đường ĐT741, tổ 99, khu phố Bàu Ké, thị trấn Tân Phú, huyện Đồng Phú, tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.4701875, 106.8828125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Đức Diện",
+        "phone": "0963693793",
+        "address": "124-126, ĐT 721, Khu 8, Thị Trấn Đồng Nai , Huyện Cát Tiên ,Tỉnh Lâm Đồng.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.4176875, 107.67331250000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hưng Lễ",
+        "phone": "02523879359 / 0984369939",
+        "address": "274 Nguyễn Huệ, thị Trấn Tân Minh, huyện Hàm Tân, tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8425625, 107.6328125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Đức Trí",
+        "phone": "01693249939",
+        "address": "Số 30, Tổ dân phố 6, Thị trấn Đạ M'Ri, Huyện Đạ Hoai, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.4176875, 107.67331250000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Vĩnh Phú",
+        "phone": "02713742345 / 0984054036",
+        "address": "Số 177A, đường DT 312, xã Phú Riềng, huyện Phú Riềng, tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8331875, 106.60856250000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Tiến Motor",
+        "phone": "0945477199",
+        "address": "51 Võ Thị Sáu, thị trấn Liên Hương, huyện Tuy Phong, tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.2249375, 108.73243750000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Tất Trọn",
+        "phone": "02713610429 / 0839224499",
+        "address": "Tổ 6, ấp Trung Sơn, xã Thanh An, huyện Hớn Quản, tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7361875, 106.72806249999996"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Thanh Dũng",
+        "phone": "0974275108",
+        "address": "Số 28 khu phố Chợ Thăng Long, Thị trấn Nam Ban, Huyện Lâm Hà, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.8432429, 108.34196980000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Minh",
+        "phone": "0963899272",
+        "address": "Thôn 1, xã Bắc Ruộng, huyện Tánh Linh, tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.2120463, 107.68948410000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thanh Tuấn SP",
+        "phone": "02523889449 / 0986513813",
+        "address": "518 Trần Hưng Đạo, thị trấn Lạc Tánh, huyện Tánh Linh, tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.0786613, 107.68194160000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thọ",
+        "phone": "0388726594 / 0919363586",
+        "address": "Ấp Thống Nhất, xã Long Toàn, thị xã Duyên Hải, tỉnh Trà Vinh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.629187499999999, 106.48731250000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Bảo Toàn",
+        "phone": "02763877557 / 0944402939",
+        "address": "283 khu phố 1, thị trấn Dương Minh Châu, huyện Dương Minh Châu, tỉnh Tây Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.3833125, 106.22806249999996"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thành Công",
+        "phone": "0933072425 / 0933072425",
+        "address": "Số 63, tổ 1, khu phố 3, thị trấn Chơn Thành, huyện Chơn Thành, tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.4231875, 106.61268749999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Phước Nguyên",
+        "phone": "02513860155 / 0918863963",
+        "address": "Tổ 3, khu phố 6, TT Vĩnh An, huyện Vĩnh Cửu, tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.0836875, 107.03356250000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Ven",
+        "phone": "02973857171 / 0949262232",
+        "address": "số 776, quốc lộ 80, khu phố Ngã Ba, TT Kiên Lương, huyện Kiên Lương, tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2828125, 104.6378125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Nguyễn Quốc Hân",
+        "phone": "0919245414 / 0297 3884483",
+        "address": "Số 99, tổ 2, khu phố 2, thị trấn thứ 11, huyện An Minh, tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.6083125, 104.94843749999995"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Trần Hải",
+        "phone": "0989001825 / 0283 7160433",
+        "address": "84/3 Hà Huy Giáp, khu phố 3, phường Thạnh Xuân, Q.12, TP. Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8868125, 106.68331250000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Công Thương",
+        "phone": "0915566813 / 0912041899",
+        "address": "Tổ 11B, thị trấn Bằng Lũng, huyện Chợ Đồn, tỉnh Bắc Kan",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.1594375, 105.59443750000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hồng Quang",
+        "phone": "0345197701",
+        "address": "Bản Tà Làng Thấp, xã Tú Nang, huyện Yên Châu, tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.1594375, 105.59443750000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thảo Dung",
+        "phone": "02363695460 / 0905245569",
+        "address": "Số 153 Cách mạng tháng 8, phường Khuê Trung, quận Cẩm Lệ, thành phố Đà Nẵng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0256875, 108.2200625"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Nguyên Giáp",
+        "phone": "02253688869",
+        "address": "Số nhà 47B, tổ dân phố 12, Khu 3, Thị trấn Cát Bà, Huyện Cát Hải, Thành phố Hải Phòng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7145625, 107.0658125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Nhật Hải",
+        "phone": "0946346530/0369037368",
+        "address": "Đường số 1, lô 14-16, thôn A Grồng, Xã A Tiêng, Huyện Tây Giang, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.9805625, 107.52606249999997"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Ngọc Cân",
+        "phone": "0936795015 / 0203 3857311",
+        "address": "Số nhà 120, tổ 3, khu 5, phường Đại Yên, thành phố Hạ Long, tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9828115, 106.92405540000004"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hoàng Lơ",
+        "phone": "0983469868 / 0212 3873535",
+        "address": "Thôn 6, xã Chiềng Mung, huyện Mai Sơn, tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2386875, 104.0028125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Đinh Trung",
+        "phone": "02123849118 / 0972148118",
+        "address": "Thôn 1, xã Tông Lạnh, huyện Thuận Châu, tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.4631513, 103.66499099999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Ngọc Quý",
+        "phone": "01659590548",
+        "address": "Thôn Ngã Ba, Thị trấn P Rao, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.9265844, 107.63854979999996"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thảo Hồng",
+        "phone": "0975999800",
+        "address": "Khu TTHC huyện Tam Đường, thị trấn Tam Đường, huyện Tam Đường, tỉnh Lai Châu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.3229375, 103.6210625"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Mỵ Hiến",
+        "phone": "03203760043 / 0989239543",
+        "address": "Chân Cầu Ràm, xã Nghĩa An, huyện Ninh Giang, tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7775625, 106.36656249999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Viết Hồng",
+        "phone": "0914662929",
+        "address": "Tổ dân phố 7, thị trấn Mường Ảng, huyện Mường Ảng, tỉnh Điện Biên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.5204375, 103.22493750000001"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Quang Hùng",
+        "phone": "0913590444",
+        "address": "160 Lê Duẩn, Thị Trấn Gio Linh, Huyện Gio Linh Tỉnh Quảng Trị",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.9255625, 107.07618750000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Hoàn Vũ",
+        "phone": "0917527969",
+        "address": "Số 270 Nguyễn Nghiêm, Thị trấn Đức Phổ, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.7855625, 108.9693125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Nam Lời",
+        "phone": "0903530441",
+        "address": "Khối 7, Thị Trấn Khâm Đức, Huyện Phước Sơn, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.4390625, 107.79418750000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Huy Hoàng",
+        "phone": "01665927082",
+        "address": "Xóm 7, xã Nga Liên, Huyện Nga Sơn, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.0590625, 106.02643749999993"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Dũng Nga",
+        "phone": "0988773138",
+        "address": "Tiểu khu 1, Thị trấn Bắc Yên, Huyện Bắc Yên, Tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2441875, 104.43181249999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Tiến Thùy",
+        "phone": "0901135119",
+        "address": "Thôn Trung Mang, Xã Ba, Huyện Đông Giang, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.5840625, 107.50606249999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Nhật Thống",
+        "phone": "0968153676",
+        "address": "Thôn Phú Tuyên, Xã Bình Thành, Thị xã Hương Trà, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.9805625, 107.52606249999997"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hùng Hằng",
+        "phone": "0919229468 / 0220 3815458",
+        "address": "Phố mới Cầu Rặng, xã Thanh Khê, huyện Thanh Hà, tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9373413, 106.31455419999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Thành Tiến",
+        "phone": "02373989168",
+        "address": "Khu phố 1, Thị trấn Quan Hóa, Huyện Quan Hóa, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.3894375, 105.10018749999995"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Tùng Dương",
+        "phone": "01652625212",
+        "address": "Thôn Trung Phú, Xã Thịnh Lộc, Huyện Hậu Lộc, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.9188125, 105.89581250000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Tuấn Tâm",
+        "phone": "0903514959",
+        "address": "Chợ A Lưới, thị trấn A Lưới, Huyện A Lưới, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.2693125, 107.23468750000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Minh Vũ",
+        "phone": "0935011979",
+        "address": "386 Bùi Thị Xuân, Thành phố Huế, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.4501875, 107.55381250000005"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Việt Tiệp",
+        "phone": "0902005586",
+        "address": "Thôn Đông Lâm, xã Văn Tố, huyện Tứ Kỳ, tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7899375, 106.44468749999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Bằng Hương",
+        "phone": "02373571567",
+        "address": "Tổ 2, phố 1, xã Ngọc Khê, Huyện Ngọc Lặc, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.0681875, 105.39193750000004"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Công Bắc",
+        "phone": "0396301863 / 0222 3880234",
+        "address": "Số 110 phố Chờ, thị trấn Chờ, huyện Yên Phong, tỉnh Bắc Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1953125, 105.95243749999997"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thế Ngọc",
+        "phone": "0989128007",
+        "address": "Số 315, phố Đức Hinh I, thị trấn Văn Quan, huyện Văn Quan, tỉnh Lạng Sơn",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.8619375, 106.53231249999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Thanh Tịnh",
+        "phone": "0914690444",
+        "address": "Tổ Dân Phố Gò Dép, Thị Trấn Di Lăng, Huyện Sơn Hà , Tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.0450625, 108.47081249999997"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Trường Hà",
+        "phone": "0213786878 / 0985337423",
+        "address": "Tổ dân phố 32, thị trấn Tân Uyên, huyện Tân Uyên, tỉnh Lai Châu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.1709375, 103.77518750000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Minh Phúc",
+        "phone": "0978466673",
+        "address": "Nhà bà Phan Thị Hồng Minh, khối 2, Thị trấn Mường Xén, Huyện Kỳ Sơn, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.4004375, 104.14893749999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Đại Vĩ",
+        "phone": "02373880372",
+        "address": "Số nhà 139, phố 01, Thị trấn Cành Nàng, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.3534375, 105.21868749999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Phúc Điệp",
+        "phone": "0985800696",
+        "address": "Thôn Phú Cường, Xã Lộc Thủy, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.2413125, 107.94018749999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Hải Thắng",
+        "phone": "0986066892",
+        "address": "Thôn Thọ Vực, Xã Vĩnh Ninh, Huyện Vĩnh Lộc, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.0400625, 105.61268749999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Tấn Hùng",
+        "phone": "02373874711",
+        "address": "Bản Trãi, Thị trấn Lang Chánh, Huyện Lang Chánh, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.1578125, 105.24243750000005"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Minh Thơm",
+        "phone": "0915082466",
+        "address": "Nhà ông Biện Trọng Minh, khối 9, Thị trấn Tân Kỳ, Huyện Tân Kỳ, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.0540625, 105.26468750000004"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Hồng Thái",
+        "phone": "0912146279",
+        "address": "Số 59 Phạm Văn Đồng, Thị Trấn Ba Tơ, Huyện Ba Tơ, Tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.7696875, 108.73743749999994"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Xuân Vui",
+        "phone": "0909833199 / 0211 833199",
+        "address": "Thôn Nội Điện, xã An Hòa, huyện Tam Dương, tỉnh Vĩnh Phúc",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.4005625, 105.52856250000002"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Ngọc Trung",
+        "phone": "0982569335",
+        "address": "Số nhà 345 đường Nguyễn Tất Thành, thị trấn Yên Thế, huyện Lục Yên, tỉnh Yên Bái",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.1121875, 104.76718749999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Ngọc Khương",
+        "phone": "01686147636",
+        "address": "167 Lý Thường Kiệt, Thị Trấn Quy Đạt, Huyện Minh Hoá, Tỉnh Quảng Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "17.8000625, 105.97256249999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hải Vân",
+        "phone": "0977903001 / 0210 3875242",
+        "address": "Khu 10B, xã Tân Phú, huyện Tân Sơn, tỉnh Phú Thọ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2201875, 105.01981249999994"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Mạnh Cường",
+        "phone": "02033878202 / 0915411646",
+        "address": "Khu Bình Quyền, thị trấn Bình Liêu, huyện Bình Liêu, tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.5249375, 107.39918749999993"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Thành Mãi",
+        "phone": "0935041779",
+        "address": "Khối Phố Mỹ Hòa, Thị Trấn Nam Phước, Huyện Duy Xuyên, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.8278125, 108.25856249999993"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Kiên Cường",
+        "phone": "0964445441 / 0914865702",
+        "address": "Tổ 4, thị trấn Cốc Pài, huyện Xín Mần, tỉnh Hà Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.6779375, 104.46281249999993"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Hữu Chính",
+        "phone": "0914424446",
+        "address": "Thôn An Sơn, Xã Lộc Sơn, Huyện Phú Lộc, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.9659375, 107.91768750000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Thanh Sơn",
+        "phone": "02283505246",
+        "address": "Số 108, Khu phố 3, Thị trấn Liễu Đề, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.2095625, 106.18056249999995"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Trang Thành",
+        "phone": "0985800848",
+        "address": "Thôn Khánh Mỹ, Thị trấn Phong Điền, Huyện  Phong Điền, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.4501875, 107.55381250000005"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Anh Tuấn 1",
+        "phone": "0914263303",
+        "address": "Số nhà 58, khối Thắng Lợi, thị trấn Tuần Giáo, huyện Tuần Giáo, tỉnh Điện Biên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.5934375, 103.4239375"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Tân Quý",
+        "phone": "02203720811 / 0989056797",
+        "address": "Thôn Văn Minh 2, xã Kim Anh, huyện Kim Thành, tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9546875, 106.50731250000001"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Trang Xuân",
+        "phone": "0912039686",
+        "address": "Tiểu khu 7, thị trấn Chợ Rã, huyện Ba Bể, tỉnh Bắc Kạn",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.4549375, 105.7288125"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Đức Chính",
+        "phone": "02283823397",
+        "address": "Tổ 1, Khu A, Thị trấn Lâm, Huyện Ý Yên, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.3210625, 106.02031250000005"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Đức Thọ",
+        "phone": "0914046485",
+        "address": "Khu vực 1, Thị trấn Khe Tre, Huyện Nam Đông, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.1721875, 107.71943750000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Long Thu",
+        "phone": "0912292469 / 0917556377 / 0203 882469",
+        "address": "Tổ 9, thị trấn Khánh Yên, huyện Văn Bàn, tỉnh Lào Cai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.0858125, 104.25331249999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Trần Minh",
+        "phone": "0218 3874482 / 098481567",
+        "address": "Khu 10, thị trấn Chi Nê, huyện Lạc Thủy, tỉnh Hòa Bình (Nhà ông Trần Ngọc Minh)",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4885625, 105.78381250000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Đức Long",
+        "phone": "0988132762 / 0209 3874438",
+        "address": "Khu phố, xã Vân Tùng, huyện Ngân Sơn, tỉnh Bắc Kạn",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.4286875, 105.99543749999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Đức Độ",
+        "phone": "0974866689 / 0862119689",
+        "address": "Tổ 4, thị trấn Mèo Vạc, huyện Mèo Vạc, tỉnh Hà Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "23.1555625, 105.41268749999995"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thành Phố Neo",
+        "phone": "02203733304 / 0983733304",
+        "address": "Số 86, khu 3, thị trấn Thanh Miện, huyện Thanh Miện, tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.795769028679093, 106.23962699862292"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Duy Trưởng",
+        "phone": "0218 3867431 /  0917361241",
+        "address": "Tiểu khu 4, thị trấn Mai Châu, huyện Mai Châu, tỉnh Hòa Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.6595625, 105.08218750000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Huy Phương",
+        "phone": "0986314517",
+        "address": "Số nhà 763, Khối 4, Thị trấn Con Cuông, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.0521875, 104.87531250000006"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Minh Đức",
+        "phone": "0905090702",
+        "address": "Km41, Quốc Lộ 9,Thị Trấn KrongKlang, Huyện Đarkrong, Tỉnh Quảng Trị",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.6843125, 106.88093750000007"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2s Minh Công",
+        "phone": "02283872796",
+        "address": "Đội 5, Xã Nghĩa Tân, Huyện Nghĩa Hưng, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.0500625, 106.17256250000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hợp Dần",
+        "phone": "0963803929 / 0914648809",
+        "address": "Số nhà 79-81, đường Trần Nhân Tông, tổ dân phố thượng 2,  thị trấn An Châu, huyện Sơn Động, tỉnh Bắc Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3333125, 106.84531249999998"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Toản Hương",
+        "phone": "0204 3882109 / 0982112317",
+        "address": "Khu Lê Duẩn, thị trấn Chũ, huyện Lục Ngạn, tỉnh Bắc Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3584375, 106.54931250000004"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Quyết Chiến",
+        "phone": "02433882439",
+        "address": "Số nhà 266, Phố Lê Lợi, Thị trấn Vân Đình, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7344375, 105.77068750000001"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Duy Tân",
+        "phone": "02253883644 / 0979883644",
+        "address": "Thôn An Thung (Tại nhà Bà Đỗ Thị Xoan), xã Tiên Cường, huyện Tiên Lãng, TP Hải Phòng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7803125, 106.51481250000006"
+          ]
+        }
+      },
+      {
+        "name": "Tấn Vinh",
+        "phone": "",
+        "address": "Quốc lộ 1A, Khu phố 5, Thị trấn Liên Hương, Huyện Tuy Phong, Tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.2292006, 108.71831020000002"
+          ]
+        }
+      },
+      {
+        "name": "Thành Công",
+        "phone": "02633 646 999",
+        "address": "Số 90 Phan Chu Trinh, Phường 9, TP Đà Lạt, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.9486875, 108.46381250000002"
+          ]
+        }
+      },
+      {
+        "name": "Phú Lộc 3",
+        "phone": "0254 3866777",
+        "address": "Khu phố Phước Trung, Thị trần Đất Đỏ, Huyện Đất Đỏ, Tỉnh Bà Rịa Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.486968, 107.26958739999998"
+          ]
+        }
+      },
+      {
+        "name": "Hải Thuý",
+        "phone": "02183834517",
+        "address": "Khu 3, Thị trấn Mường Khến, Huyện Tân Lạc, Tỉnh Hòa Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.6141875, 105.27931250000006"
+          ]
+        }
+      },
+      {
+        "name": "Lam Sơn 2",
+        "phone": "02553930999",
+        "address": "Tổ dân phố 2, Thị trấn Mộ Đức, Huyện Mộ Đức, Tỉnh Quảng Ngãi, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.9491875, 108.88993749999997"
+          ]
+        }
+      },
+      {
+        "name": "Thuỷ Tuyên Phát 2",
+        "phone": "0274.3535459",
+        "address": "Số 17, Ấp Đồng Số, Xã Lai Uyên, Huyện Bàu Bàng, Tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.09625,  106.62682"
+          ]
+        }
+      },
+      {
+        "name": "Gia Hoa Hung",
+        "phone": "02623.633595",
+        "address": "Thôn 1, Xã Ea Ktur, Huyện Cư Kuin, Tỉnh Đăk Lăk",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.6100625, 108.13218749999999"
+          ]
+        }
+      },
+      {
+        "name": "Lê Văn Lương",
+        "phone": "035 642 6868",
+        "address": "Số 68, Đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0015625, 105.79893749999997"
+          ]
+        }
+      },
+      {
+        "name": "Hùng Hương Linh Chi",
+        "phone": "0259.3839098",
+        "address": "Số 27B Đường 21/8, Phường Phủ Hà, Tp. Phan Rang - Tháp Chàm, Tỉnh Ninh Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5719375, 108.98681250000004"
+          ]
+        }
+      },
+      {
+        "name": "Tám Thái",
+        "phone": "0903382817",
+        "address": "Đường 3 tháng 2, Tổ dân phố 2D, Thị Trấn Đạ Tẻh, huyện Đạ Tẻh, tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.505860598126, 107.48366862753"
+          ]
+        }
+      },
+      {
+        "name": "Liên Thái",
+        "phone": "0263.3930999",
+        "address": "390 Quốc lộ 20, thị trấn liên nghĩa, Huyện Đức Trọng, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7331875, 108.37356249999993"
+          ]
+        }
+      },
+      {
+        "name": "Trí Khoa",
+        "phone": "0263.3930999",
+        "address": "232B Trần Phú, Phường Lộc Sơn, Thành Phố Bảo Lộc, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5344375, 107.8180625"
+          ]
+        }
+      },
+      {
+        "name": "Đại Phát Lợi",
+        "phone": "0986061591",
+        "address": "Tổ 82, Khu phố Vĩnh Phước 2, Thị Trấn Vĩnh Thuận, Huyện Vĩnh Thuận, Tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.510645499999999, 105.26044090000005"
+          ]
+        }
+      },
+      {
+        "name": "Trực 4",
+        "phone": "02973.765.965",
+        "address": "Thửa số 52, Tờ bản đồ số 4/1, khu phố  6, Thị trấn Giồng Riềng, Huyện Giồng Riềng, Tỉnh Kiên Giang.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.9103125, 105.31668749999994"
+          ]
+        }
+      },
+      {
+        "name": "Minh Ngọc Anh 3",
+        "phone": "028 38558358",
+        "address": "Số 126 An Dương Vương, Phường 9, Quận 5, Tp HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7576875, 106.61506250000002"
+          ]
+        }
+      },
+      {
+        "name": "Sài Gòn 5",
+        "phone": "0989799890",
+        "address": "822 Quốc lộ 61, Ấp Cầu Xáng, Xã Tân Bình, Huyện Phụng Hiệp, Tỉnh Hậu Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.8233125, 105.64906250000001"
+          ]
+        }
+      },
+      {
+        "name": "Duy Anh Vũ",
+        "phone": "02613.544123",
+        "address": "Đường 23/3, Tổ 1, Nghĩa Tân, Gia Nghĩa, Đăk Nông",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.0039375, 107.6860625"
+          ]
+        }
+      },
+      {
+        "name": "Luân Huỳnh",
+        "phone": "0907464646",
+        "address": "Số 90 Quốc Lộ 13, Kp. Ninh Thịnh, Thị Trấn Lộc Ninh, Huyện Lộc Ninh, Tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.8513125, 106.5870625"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Cầu 3",
+        "phone": "1900636667",
+        "address": "Số 6, Đường ĐT 746, Phường Khánh Bình, thị xã Tân Uyên, tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.049503,  106.756156"
+          ]
+        }
+      },
+      {
+        "name": "Huy Hoàng 5",
+        "phone": "0903913948",
+        "address": "Thửa đất số 29,30, tờ bản đồ số 18, ấp Phước Hậu, xã Phước Mỹ Hưng, huyện Mỏ Cày Bắc, tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2421875, 106.30481250000003"
+          ]
+        }
+      },
+      {
+        "name": "Tân Thành Phát",
+        "phone": "0254 6516516",
+        "address": "Ấp Ông Trịnh, Xã Tân Phước, Huyện Tân Thành, Tỉnh Bà Rịa - Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.562485,  107.061074"
+          ]
+        }
+      },
+      {
+        "name": "Út My 2",
+        "phone": "01257999949",
+        "address": "Số 220 Đường Tân Lộ Kiều Lương, Khóm 8, Phường Châu Phú A, Tp. Châu Đốc , Tỉnh An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4293125, 105.00143750000007"
+          ]
+        }
+      },
+      {
+        "name": "Thanh Giang",
+        "phone": "0983 880 150",
+        "address": "Xóm Tân Thành, Xã Bảo Cường, Huyện Định Hóa, Tỉnh Thái Nguyên, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.8976875, 105.63843750000001"
+          ]
+        }
+      },
+      {
+        "name": "Tân Miên",
+        "phone": "0944.787.357",
+        "address": "Số nhà 25, Đường Lê Duẫn, Phường 2, Thành Phố Đông Hà,Tỉnh Quảng Trị",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.7404375, 107.18568749999997"
+          ]
+        }
+      },
+      {
+        "name": "Hải Hà",
+        "phone": "020.33761188",
+        "address": "Phố Nguyễn Du, Thị trấn Quảng Hà, Huyện Hải Hà, Tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3546875, 107.58681249999995"
+          ]
+        }
+      },
+      {
+        "name": "Phú Phương Hinh 2",
+        "phone": "0235.6279.579",
+        "address": "Số 130 Trần Cao Vân, P. An Xuân, TP Tam Kỳ, T. Quảng Nam, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.5610625, 108.48968749999995"
+          ]
+        }
+      },
+      {
+        "name": "Hải Liên 3",
+        "phone": "02296337799",
+        "address": "Đường Đinh Tiên Hoàng - Phố 9, Phường Đông Thành - TP Ninh Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.2646875, 105.97381250000001"
+          ]
+        }
+      },
+      {
+        "name": "Phú Lộc Long Giang",
+        "phone": "02388970555",
+        "address": "Khối 4, Thị trấn Thanh Chương, Huyện Thanh Chương, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.7801875, 105.33418749999998"
+          ]
+        }
+      },
+      {
+        "name": "Văn Minh 3",
+        "phone": "02383885789",
+        "address": "Khối 1, thị trấn Kim Sơn, Huyện Quế Phong, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.6189375, 104.92981250000003"
+          ]
+        }
+      },
+      {
+        "name": "Vạn Tuyết Trung 2",
+        "phone": "0228.3775677",
+        "address": "Khu 4B, Thị trấn Cồn, Huyện Hải Hậu, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.1185625, 106.27756249999993"
+          ]
+        }
+      },
+      {
+        "name": "Mạnh Đạt 3",
+        "phone": "02133883886",
+        "address": "Tổ 11, Phường Đoàn Kết, Thành Phố Lai Châu, Tỉnh Lai Châu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.3862227, 103.47026310000001"
+          ]
+        }
+      },
+      {
+        "name": "Bình Thủy 3",
+        "phone": "02393 891 789",
+        "address": "Số 379, Đường Mòn Hồ Chí Minh, Khối Phố 1, Thị Trấn Hương Khê, Huyện Hương Khê, Tỉnh Hà Tĩnh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.1741875, 105.69456250000007"
+          ]
+        }
+      },
+      {
+        "name": "Nam Hạnh",
+        "phone": "0226.3857219",
+        "address": "Số 170, Tổ 7, Phường Quang Trung, Thành phố Phủ Lý, Tỉnh Hà Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.5375625, 105.91256250000004"
+          ]
+        }
+      },
+      {
+        "name": "Kiên Nga",
+        "phone": "0984790843",
+        "address": "302 Hùng Vương, Thị trấn Ia Kha, Huyện Ia Grai, Tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.9608125, 107.85306249999996"
+          ]
+        }
+      },
+      {
+        "name": "Đại Thành",
+        "phone": "028.38777370/0963090433",
+        "address": "442 Nguyễn Văn Luông, P.12, Q.6, HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7521875, 106.63518750000003"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Thịnh 2",
+        "phone": "0907696979",
+        "address": "744 quốc lộ 20, tổ 1, Khu 9, Thị trấn Tân Phú, Huyện Tân Phú, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.2683686, 107.43376660000001"
+          ]
+        }
+      },
+      {
+        "name": "Phúc Lộc Toàn 2",
+        "phone": "02836367469",
+        "address": "439A Lê Trọng Tấn, Phường Sơn Kỳ, Quận Tân Phú, TP. HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8088125, 106.61593749999997"
+          ]
+        }
+      },
+      {
+        "name": "Tây Hồ",
+        "phone": "0243.224.7212",
+        "address": "Số 79 Âu Cơ, phường Tứ Liên, quận Tây Hồ, Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0634375, 105.83193749999998"
+          ]
+        }
+      },
+      {
+        "name": "Vĩnh Tường",
+        "phone": "097 968 58 28",
+        "address": "Đường Lê Xoay, thị trấn Vĩnh Tường, Huyện Vĩnh Tường, tỉnh Vĩnh Phúc",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2139375, 105.51481250000006"
+          ]
+        }
+      },
+      {
+        "name": "Minh Quang 5",
+        "phone": "02873012988",
+        "address": "5 Cộng Hòa, Phường 4, Quận Tân Bình, Tp Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8006875, 106.6601875"
+          ]
+        }
+      },
+      {
+        "name": "Tân Phương Nam 5",
+        "phone": "0909243484",
+        "address": "179A, Ấp Bình Tiền 2, Xã Đức Hòa Hạ, H. Đức Hòa, tỉnh Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8065625, 106.48293749999993"
+          ]
+        }
+      },
+      {
+        "name": "Minh Huy",
+        "phone": "0273.3849164",
+        "address": "Ấp Phú Hữu, Xã Phú Mỹ, Huyện Tân Phước, Tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5416875, 106.33243749999997"
+          ]
+        }
+      },
+      {
+        "name": "Trang Hoàng 2",
+        "phone": "0273.6577979",
+        "address": "Ấp Hòa trí, xã Long Khánh, TX Cai Lậy, tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3890625, 106.12131249999993"
+          ]
+        }
+      },
+      {
+        "name": "Dương Hùng 2",
+        "phone": "091 3817678",
+        "address": "Số 17-19-21-23, Đường Mai Thanh Thế, Khóm 1, Phường 1, Thị xã Ngã Năm, tỉnh Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.5636212, 105.59671279999998"
+          ]
+        }
+      },
+      {
+        "name": "Kỳ Hưng 2",
+        "phone": "02993881666",
+        "address": "49-51 Lê Lợi, Ấp Châu Thành, Thị Trấn Mỹ Xuyên, Huyện Mỹ Xuyên, Tỉnh Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.561187499999999, 105.9860625"
+          ]
+        }
+      },
+      {
+        "name": "Trần Thêm",
+        "phone": "094 6365655",
+        "address": "17A đường Chu Văn An, Ấp Nội Ô, Thị Trấn Ngan Dừa, Huyện Hồng Dân, Tỉnh Bạc Liêu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.5638125, 105.44793749999997"
+          ]
+        }
+      },
+      {
+        "name": "Liên Thành Nam",
+        "phone": "0269.6282929",
+        "address": "209-211 Trần Hưng Đạo, Phường Đoàn Kết, Thị Xã Ayunpa, Tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.4044375, 108.44368750000001"
+          ]
+        }
+      },
+      {
+        "name": "Tín Trung 3",
+        "phone": "0996287999",
+        "address": "663 Quang Trung, Phường An Bình, Thị Xã An Khê, Tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.0343125, 108.25143750000007"
+          ]
+        }
+      },
+      {
+        "name": "Tiến Bắc",
+        "phone": "0260.3501009",
+        "address": "739-741 Đường Hùng Vương, Thị Trấn Đắk Hà, Huyện Đắk Hà, Tỉnh Kon Tum",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.5286482, 107.91994339999997"
+          ]
+        }
+      },
+      {
+        "name": "Tín Trung 2",
+        "phone": "0981304166",
+        "address": "312 Quang Trung, Tổ 10, Thị trấn K'Bang, Huyện K'Bang, Tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.0343125, 108.25143750000007"
+          ]
+        }
+      },
+      {
+        "name": "Ba Đình 2",
+        "phone": "0258.3762279",
+        "address": "23/10 Diên An, Diên Khánh, Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.2570625, 109.10593749999998"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Thanh 3",
+        "phone": "0258.3523435",
+        "address": "26-28 Lê Thành Phương, Phường Phương Sài, TP Nha Trang, Tỉnh Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.4983125, 109.13556249999999"
+          ]
+        }
+      },
+      {
+        "name": "Nhơn 6",
+        "phone": "02563 858 989",
+        "address": "Số 07 Đường Nguyễn Huệ, Thị Trấn Bình Dương, Huyện Phù Mỹ, Tỉnh Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.2984375, 109.07818750000001"
+          ]
+        }
+      },
+      {
+        "name": "Hoàn Phước 2",
+        "phone": "0255.3735739",
+        "address": "42 Nguyễn Nghiêm, phường Nghĩa Chánh, TP Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.1230625, 108.8108125"
+          ]
+        }
+      },
+      {
+        "name": "Hiền Lợi",
+        "phone": "090 327 54 53",
+        "address": "Khu 5, TT Quan Hóa, Quốc lộ 15A, Huyện Quan Hóa, tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.3765104, 105.11405539999998"
+          ]
+        }
+      },
+      {
+        "name": "Chung Dung 2",
+        "phone": "02373.857.666",
+        "address": "Số 180 Tống Duy Tân, Thành Phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.8190625, 105.6065625"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Lý 3",
+        "phone": "02373611256",
+        "address": "Số 25 Đại lộ Lê Lợi, Phường Lam Sơn, Thành Phố Thanh Hóa, tình Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.8073125, 105.77856250000002"
+          ]
+        }
+      },
+      {
+        "name": "Triệu Đô",
+        "phone": "0251 3568 888",
+        "address": "Ấp 3, xã Hiệp Phước, Huyện Nhơn Trạch, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7374375, 106.94218750000005"
+          ]
+        }
+      },
+      {
+        "name": "Trảng Bom",
+        "phone": "0979719239",
+        "address": "705 Quốc Lộ 1A, Ấp An Bình, Xã Trung Hòa, Huyện Trảng Bom, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9443125, 107.06281250000006"
+          ]
+        }
+      },
+      {
+        "name": "Trực 3",
+        "phone": "02973.833399",
+        "address": "Tổ 5, Khu phố Đông Tiến, Thị trấn Tân Hiệp, Huyện Tân Hiệp, Tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.1043125, 105.27193750000004"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phúc 6",
+        "phone": "0297.3811919",
+        "address": "134 Nguyễn Trung Trực, Khu Phố 8, Huyện Phú Quốc, Tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2226875, 103.9631875"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phúc 7",
+        "phone": "0299.3835919",
+        "address": "Số 69, Ấp Xây Đá, Thị trấn Châu Thành, Huyện Châu Thành, Tỉnh Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.7078125, 105.89643750000005"
+          ]
+        }
+      },
+      {
+        "name": "Huy Hoàng 4",
+        "phone": "0275.3815669",
+        "address": "Thửa đất số 18, tờ bản đồ số 53, Đường Tỉnh 883, Ấp Tân Huề Đông, Xã Tân Thạch, Huyện Châu Thành, Tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3099174, 106.3600844"
+          ]
+        }
+      },
+      {
+        "name": "Quang Trung 2",
+        "phone": "0966.504.866",
+        "address": "Ngã tư Gia Lễ, Xã Đông Mỹ, Huyện Đông Hưng, Tỉnh Thái Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4959375, 106.3610625"
+          ]
+        }
+      },
+      {
+        "name": "Quang Trung 1",
+        "phone": "0919 521 668",
+        "address": "Số 24, Đường Quang Trung, Phường Trần Hưng Đạo, Thành phố Thái Bình, tỉnh Thái Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4406875, 106.33356249999997"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Sáng",
+        "phone": "01628070999",
+        "address": "Thôn Trương Xá, Xã Toàn Thắng, Huyện Kim Động, Tỉnh Hưng Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7795625, 106.0485625"
+          ]
+        }
+      },
+      {
+        "name": "Việt Đức",
+        "phone": "0903.276.559.",
+        "address": "265 Điện Biên Phủ - P Bình Hàn - TP HẢI DƯƠNG.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9438125, 106.32181249999996"
+          ]
+        }
+      },
+      {
+        "name": "Mạnh Phong",
+        "phone": "0941183666",
+        "address": "Khu Đô thị Kim Sơn, phường Kim Sơn, thị xã Đông Triều, tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0660625, 106.56906249999997"
+          ]
+        }
+      },
+      {
+        "name": "YAMAHA 2S VIỄN DƯƠNG",
+        "phone": "01668972706",
+        "address": "Khối 7, Thị Trấn Khâm Đức, Huyện Phước Sơn, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.4394771, 107.79326709999998"
+          ]
+        }
+      },
+      {
+        "name": "YAMAHA TOWN ANH TUẤN 2",
+        "phone": "02153811789",
+        "address": "Tổ dân phố 3, Thị trấn Mường Chà, Huyện Mường Chà, Tỉnh Điện Biên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.7585625, 103.09056250000003"
+          ]
+        }
+      },
+      {
+        "name": "YAMAHA 2S VIỆT HIỆP",
+        "phone": "0280827909",
+        "address": "Phố Thái Long, Thị trấn Đình Cả, Huyện Võ Nhai, Tỉnh Thái Nguyên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.750939, 106.06556899999998"
+          ]
+        }
+      },
+      {
+        "name": "Kim Thùy Linh",
+        "phone": "0274.6553366",
+        "address": "Thuở đất số 263, tờ bản đồ số 32, Khu phố Phú Nghị, Phường Hòa Lợi, Thị xã Bến Cát, Tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.07631,  106.66223"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Đại Dương 5",
+        "phone": "0274.3777.485",
+        "address": "12/5,khu phố 4,Phường An Phú, Thị xã Thuận An,tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.94838, 106.73209"
+          ]
+        }
+      },
+      {
+        "name": "Hùng Lương",
+        "phone": "096 430 61 22",
+        "address": "Số 308, Tổ 7, Phường Quyết Tâm, Thành phố Sơn La, Tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2668125, 103.97706249999999"
+          ]
+        }
+      },
+      {
+        "name": "Kim Huệ",
+        "phone": "0866820389",
+        "address": "Tổ dân phố Thống Nhất, thị trấn Tủa Chùa, huyện Tủa Chùa, tỉnh Điện Biên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.8588125, 103.3348125"
+          ]
+        }
+      },
+      {
+        "name": "Sơn Lam Tuyên Quang",
+        "phone": "02073811889",
+        "address": "Số Nhà 379, Đường Phạm Văn Đồng, Tổ 5, Phường Hưng Thành,  Thành Phố Tuyên Quang, Tỉnh Tuyên Quang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.8016875, 105.21056249999992"
+          ]
+        }
+      },
+      {
+        "name": "Mạnh Đạt 2",
+        "phone": "02133881886",
+        "address": "Khu 8 -TT Mường Tè - Huyện Mường Tè, Tỉnh Lai Châu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.3839375, 102.8013125"
+          ]
+        }
+      },
+      {
+        "name": "Hà Anh",
+        "phone": "0987 338 393",
+        "address": "Khu Phố Đông Yên, Thị Trấn Yên Thịnh, Huyện Yên Mô, Tỉnh Ninh Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.1601193, 106.00965109999993"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Tráng",
+        "phone": "0228.3989999",
+        "address": "Số 166, Phố Tây Sơn, Thị trấn Gôi, Huyện Vụ Bản, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.3299375, 106.07018749999997"
+          ]
+        }
+      },
+      {
+        "name": "Chín Linh",
+        "phone": "02293.866124",
+        "address": "Phố Bắc Sơn, Thị trấn Nho Quan, Huyện Nho Quan, Tỉnh Ninh Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.3221875, 105.74768749999998"
+          ]
+        }
+      },
+      {
+        "name": "Đạt Bình",
+        "phone": "0228.3859886",
+        "address": "Số 293, Đường Đặng Xuân Bảng, Xã Nam Vân, Thành phố Nam Định, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4114375, 106.18981250000002"
+          ]
+        }
+      },
+      {
+        "name": "Phù Đổng",
+        "phone": "0989187109",
+        "address": "Tổ 7, đường Võ Nguyên Giap, TP Thái Bình, tỉnh Thái Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4641875, 106.35706249999998"
+          ]
+        }
+      },
+      {
+        "name": "Minh Phương",
+        "phone": "0203 3858 686",
+        "address": "Khu 10, Thị Trấn Trới, Huyện Hoành Bồ, Tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0236875, 106.98693750000007"
+          ]
+        }
+      },
+      {
+        "name": "Kim Đức",
+        "phone": "203.3723899",
+        "address": "Tổ 3, Khu Diêm Thủy, Phường Cẩm Bình, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0495625, 107.39256249999994"
+          ]
+        }
+      },
+      {
+        "name": "Thành Đạt",
+        "phone": "0203.3660118",
+        "address": "Tòa nhà Công Nghĩa, Số 295, Phố Trần Nhân Tông, Phường Yên Thanh, Thị xã Uông Bí, Tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8088125, 105.67668750000007"
+          ]
+        }
+      },
+      {
+        "name": "Giang Nhàn 2",
+        "phone": "02203.788.099",
+        "address": "Quốc lộ 38, Bình Phiên, Ngọc Liên, Cẩm Giàng, Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9663125, 106.16718749999995"
+          ]
+        }
+      },
+      {
+        "name": "Hưng Đào",
+        "phone": "0220.3754972",
+        "address": "Số 503, Đường Trần Phú, Thị trấn Nam Sách, Huyện Nam Sách, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9960625, 106.33418749999998"
+          ]
+        }
+      },
+      {
+        "name": "Bình Thủy 2",
+        "phone": "0239.3852888",
+        "address": "Số 94, đường Xô Viết Nghệ Tĩnh, Thị trấn Nghèn, Huyện Can Lộc, Tỉnh Hà Tĩnh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.4726875, 105.76818750000007"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Huy",
+        "phone": "091 566 64 44",
+        "address": "Khối Phố Tiên Bình, Thị Trấn Tiên Kỳ, Huyện Tiên Phước, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.4884375, 108.30668749999995"
+          ]
+        }
+      },
+      {
+        "name": "Chung Dung",
+        "phone": "083.979.0000",
+        "address": "Thị Trấn Triệu Sơn, Huyện Triệu Sơn, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.8039375, 105.78006249999999"
+          ]
+        }
+      },
+      {
+        "name": "Đồng Phát",
+        "phone": "02343955998/9",
+        "address": "Số 285, Đường Nguyễn Tất Thành, Tổ 10, Phường Thủy Dương, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.4398125, 107.62343750000002"
+          ]
+        }
+      },
+      {
+        "name": "Ngà Đức",
+        "phone": "",
+        "address": "Đội 1, Xã Đông Lĩnh, Thành phố Thanh Hóa, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.8179375, 105.74268749999999"
+          ]
+        }
+      },
+      {
+        "name": "Mai Dũng",
+        "phone": "037 306 8895",
+        "address": "630 Đường Kim Giang, Xã Thanh Liệt, Huyện Thanh Trì, Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9670625, 105.82181249999996"
+          ]
+        }
+      },
+      {
+        "name": "Toàn Thắng",
+        "phone": "0869698199",
+        "address": "Thôn An Hòa - Xã Tản Lĩnh-Huyện Ba Vì - TP Hà Nội.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1156875, 105.40281249999998"
+          ]
+        }
+      },
+      {
+        "name": "Gia Minh",
+        "phone": "0243.830.3838",
+        "address": "Lô 8, Ô số 1, Đường Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, TP Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0383125, 105.79993749999994"
+          ]
+        }
+      },
+      {
+        "name": "Minh Quang 3",
+        "phone": "0283.8688278",
+        "address": "270 Lý Thường Kiệt, Phường 14, Quận 10, TP HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7754655, 106.65697019999993"
+          ]
+        }
+      },
+      {
+        "name": "Nhung Ngọc Yến",
+        "phone": "0296.3569688",
+        "address": "289-289 Tôn Đức Thắng, Phường Vinh Mỹ, Thị xã Châu Đốc. An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7009375, 105.13443749999999"
+          ]
+        }
+      },
+      {
+        "name": "Sơn Ngọc Yến",
+        "phone": "0296 3512626",
+        "address": "Đường Nguyễn Hữu Cảnh, Ấp An Hưng, Thị Trấn An Phú, Huyện An Phú, Tỉnh An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8135625, 105.08943750000003"
+          ]
+        }
+      },
+      {
+        "name": "Nguyễn Huệ 4",
+        "phone": "02963652779",
+        "address": "ấp Hoàng long 1, Thị Trấn An châu, Huyện Châu thành, Tỉnh An Giang.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4435625, 105.38593749999995"
+          ]
+        }
+      },
+      {
+        "name": "Thành Nam",
+        "phone": "0296.3935987",
+        "address": "23/1 Trần Hưng Đạo, Mỹ Quí, Long Xuyên, tỉnh An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3599375, 105.45393749999994"
+          ]
+        }
+      },
+      {
+        "name": "Trường Phượng",
+        "phone": "0209.6265999",
+        "address": "Suối Hón, Xã Yên Đĩnh, Huyện Chợ Mới, Tỉnh Bắc Kạn",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.8894375, 105.78556249999997"
+          ]
+        }
+      },
+      {
+        "name": "Như Lai",
+        "phone": "0291.3845647",
+        "address": "Ấp 3, Thị trấn Gành Hào, Huyện Đông Hải, Tỉnh Bạc Liêu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.0268125, 105.42118749999997"
+          ]
+        }
+      },
+      {
+        "name": "Nhơn 5",
+        "phone": "02563 548 548",
+        "address": "Số 376 hùng Vương, Phường Nhơn Bình, Thành Phố Quy Nhơn , TỈnh Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.7910544, 109.19216870000002"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Ý",
+        "phone": "0252.3860161",
+        "address": "108 Nguyễn Tất Thành, Thị Trấn Chợ Lầu, Huyện Bắc Bình, tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.2211875, 108.5078125"
+          ]
+        }
+      },
+      {
+        "name": "Kim Hưng",
+        "phone": "0252.3510646",
+        "address": "Thôn 4, Xã Đưc Hạnh, Huyện Đức Linh, Tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.1394375, 107.49918750000006"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Anh 5",
+        "phone": "0290.3873979",
+        "address": "171 Nguyễn Tất Thành, Thị trấn Năm Căn, H. Năm Căn, T.Cà Mau",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "8.7600346, 104.99427689999993"
+          ]
+        }
+      },
+      {
+        "name": "Huân Lai Hương",
+        "phone": "02613.692222",
+        "address": "Số 165 Nguyễn Tất Thành, THị Trấn Đăk Mâm, Huyện Krông Nô, Tỉnh Đăk Nông",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.4728125, 107.86256249999997"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Vũ",
+        "phone": "02623.625039",
+        "address": "Khối 3B, thị trấn Eakar , huyện Eakar, Đăk Lăk",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.8116875, 108.45156250000002"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc An",
+        "phone": "0251.3679578",
+        "address": "Số 149 ấp Thái Hòa, Quốc Lộ 1A, Xã Hố Nai 3, Huyện Trảng Bom, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9658125, 106.93243749999999"
+          ]
+        }
+      },
+      {
+        "name": "YMT Biên Hoà",
+        "phone": "0251.3818456",
+        "address": "108 Nguyễn Ái Quốc, Phường Trung Dũng, Biên Hòa , Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9558125, 106.82156250000003"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Thập Nhất Phong 2",
+        "phone": "",
+        "address": "Số 245, Quốc lộ 30, Phường Mỹ Phú, Thành phố Cao Lãnh, Tỉnh Đồng Tháp",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4566946, 105.64803610000001"
+          ]
+        }
+      },
+      {
+        "name": "Thập Nhất Phong 1",
+        "phone": "02773872779",
+        "address": "Số 35, đường Lê Lợi,Phường An Thạnh, Thị xã Hồng Ngự, Dong Thap",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8081875, 105.3465625"
+          ]
+        }
+      },
+      {
+        "name": "Thu Vân",
+        "phone": "02773772888",
+        "address": "18 Trần Hưng Đạo,Khóm 1,Phường 1,TX Sa đéc,Tỉnh Đồng Tháp",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2969375, 105.76568750000001"
+          ]
+        }
+      },
+      {
+        "name": "Tài Lợi",
+        "phone": "02773856589",
+        "address": "319 Phạm Hữu Lầu, Phường 6, TP. Cao Lãnh, Đồng Tháp",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4399375, 105.6316875"
+          ]
+        }
+      },
+      {
+        "name": "Tuyến Hạnh",
+        "phone": "0914030369",
+        "address": "178 Hùng Vương, Thị Trấn Chu Prong, huyện Chư Prong, Tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.758323, 107.88427339999998"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phát",
+        "phone": "02253 87 36 36",
+        "address": "Số 138, Đường Bạch Đằng, Thị trấn Núi Đèo, Huyện Thủy Nguyên, Thành phố Hải Phòng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9206875, 106.68006250000008"
+          ]
+        }
+      },
+      {
+        "name": "Long Biên",
+        "phone": "024 3766 4666",
+        "address": "158 Nguyễn Văn Cừ, Ngọc Lâm, Long Biên, Hà Nội, Vietnam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0416875, 105.87031249999995"
+          ]
+        }
+      },
+      {
+        "name": "Đại Phát Đại Lợi",
+        "phone": "0297.3696777",
+        "address": "Tổ 21, khu phố Cư xá, Thị trấn Kiên Lương, Huyện Kiên Lương, Tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2853125, 104.64168749999999"
+          ]
+        }
+      },
+      {
+        "name": "Hùng Vân",
+        "phone": "0221.3942357",
+        "address": "Số 273, Ngã tư Phố Nối, Thị trấn Bần Yên Nhân, Huyện Mỹ Hào, Tỉnh Hưng Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9334375, 106.05831250000006"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Lộc Thắng 2",
+        "phone": "",
+        "address": "103 Lê Hồng Phong ,Phường 1 ,Tp Bảo Lộc ,Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5419375, 107.81156250000004"
+          ]
+        }
+      },
+      {
+        "name": "Thắng Lợi 5 IV",
+        "phone": "0263.3822028",
+        "address": "205 đường 2 tháng 4, Thạnh Nghĩa Thị Trấn Thạnh Mỹ, Huyện Đơn Dương, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.9539375, 108.4319375"
+          ]
+        }
+      },
+      {
+        "name": "Thắng Lợi 5",
+        "phone": "0263.3822028",
+        "address": "A11, Hải Thượng, Phường 1-Thành Phố Đà Lạt, Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.9539375, 108.4319375"
+          ]
+        }
+      },
+      {
+        "name": "Việt Quân",
+        "phone": "02143.876266",
+        "address": "Số nhà 42, Quốc lộ 70, Khu 6B1, Thị trấn Phố Ràng, Huyện Bảo Yên, Tỉnh Lào Cai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.2323125, 104.47743749999995"
+          ]
+        }
+      },
+      {
+        "name": "Tuệ Đức",
+        "phone": "02143.861.666",
+        "address": "Phú Thành 3, Thị trấn Phố Lu, Huyện Bảo Thắng, tỉnh Lào Cai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.3276875, 104.20356249999998"
+          ]
+        }
+      },
+      {
+        "name": "Trung Dũng",
+        "phone": "02053.870.493",
+        "address": "Số 71, Đường Tam Thanh, Phường Tam Thanh, Thành phố Lạng Sơn, Tỉnh Lạng Sơn",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.8541875, 106.75456250000002"
+          ]
+        }
+      },
+      {
+        "name": "Dũng Phong 6",
+        "phone": "02723.679.679",
+        "address": "197-205 Đường 827, Thị Trấn Tầm Vu, Châu Thành, Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4459375, 106.4681875"
+          ]
+        }
+      },
+      {
+        "name": "Dũng Phong 5 VVT",
+        "phone": "0272.3521521",
+        "address": "14 Võ Văn Tần, Phường 2, Thành Phố Tân An, Tỉnh Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5383411, 106.40512999999999"
+          ]
+        }
+      },
+      {
+        "name": "Quang Dũng",
+        "phone": "0238.3873134",
+        "address": "Khối 6, Thị trấn Con Cuông, Huyện Con Cuông, Tỉnh Nghệ An, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.0521875, 104.87531250000006"
+          ]
+        }
+      },
+      {
+        "name": "Quý Thể",
+        "phone": "0257 382 7127",
+        "address": "02A Trần Hưng Đạo, Phường 1, Thành Phố Tuy Hòa, Tỉnh Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.0839375, 109.29806250000001"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Anh Dũng Nữ",
+        "phone": "0257 382 3316",
+        "address": "87-89 Trần Hưng Đạo KP7, Thị trấn Hai Riêng, Huyện Sông Hinh, Tỉnh Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.9821875, 108.90031249999993"
+          ]
+        }
+      },
+      {
+        "name": "IDP",
+        "phone": "0257.382 3316",
+        "address": "160-162 Quốc Lộ 1A,Thị Trấn Chí Thạnh, Huyện Tuy An, Tỉnh Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.3175625, 109.21581249999997"
+          ]
+        }
+      },
+      {
+        "name": "Nhông 3",
+        "phone": "0257.353 2666",
+        "address": "Khu phố  2, Phường Hòa Vinh- Thị xã Đông Hòa, Tỉnh Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.9989375, 109.32906249999996"
+          ]
+        }
+      },
+      {
+        "name": "Trang Nhật Phong",
+        "phone": "0259.3855001",
+        "address": "Khu Phố 8, Thị Trấn Tân Sơn, Huyện Ninh Sơn, Tỉnh Ninh Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7723125, 108.78893749999997"
+          ]
+        }
+      },
+      {
+        "name": "Phước Thịnh",
+        "phone": "0259.3877979",
+        "address": "Lô B1 - B2 - B3 - B4 Khu Dân Cư Trường Tiểu Học Dư Khánh, Thị Trấn Khánh Hải, Huyện Ninh Hải, Tỉnh Ninh Thuận.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5965625, 109.03843749999999"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Sơn",
+        "phone": "",
+        "address": "354 Tiểu La, Thị trấn Hà Lam, Huyện Thăng Bình, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.7349375, 108.34906249999995"
+          ]
+        }
+      },
+      {
+        "name": "Phú Phương Hinh",
+        "phone": "02352.479.479",
+        "address": "Số 203, Đường Phạm Văn Đồng, Khối phố 2, Thị trấn Núi Thành, Huyện Núi Thành. Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.4349375, 108.64656250000007"
+          ]
+        }
+      },
+      {
+        "name": "Phan Khánh Hưng",
+        "phone": "02 353 887 888",
+        "address": "Số 82, Đường Phan Bội Châu, Phường Tân Thạnh, Thành phố Tam Kỳ, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.5818125, 108.47093749999999"
+          ]
+        }
+      },
+      {
+        "name": "Phan Khánh Hưng",
+        "phone": "02 363 738 555",
+        "address": "Số 90, Trần Nhân Tông, Thị trấn Vĩnh Điện, Huyện Điện Bàn, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.8868125, 108.25681250000002"
+          ]
+        }
+      },
+      {
+        "name": "Thành Vân",
+        "phone": "0299.2466664",
+        "address": "Thửa đất số 106, Tờ bản đồ số 03, Ấp Đầu Giồng, Thị Trấn Trần Đề, Huyện Trần Đề, Tỉnh Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.5199375, 106.19206250000002"
+          ]
+        }
+      },
+      {
+        "name": "Kỳ Hưng",
+        "phone": "02993 855888",
+        "address": "161-163-165 Trần Hưng Đạo, Phường 3, Thành phố Sóc Trăng, Tính Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.5954375, 105.97056250000003"
+          ]
+        }
+      },
+      {
+        "name": "Đông Phương 3",
+        "phone": "0276.3747777",
+        "address": "Tổ 14, Khu Phố 3, Thị Trấn Tân Biên, Huyện Tân Biên, Tỉnh Tây Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5364375, 106.00656249999997"
+          ]
+        }
+      },
+      {
+        "name": "Đông Phương",
+        "phone": "0276.3840022",
+        "address": "208 Hùng Vương, Khu Phố 4, Thị Trấn Hoà Thành, Huyện Hòa Thành, Tỉnh Tây Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.2926875, 106.12906250000003"
+          ]
+        }
+      },
+      {
+        "name": "Khương Huê 2",
+        "phone": "0276.3733666",
+        "address": "Đường 785 Thạnh Đông, Huyện Tân Châu, Tỉnh Tây Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5428125, 106.15968750000002"
+          ]
+        }
+      },
+      {
+        "name": "Tâm Anh Thư",
+        "phone": "0237.3880574",
+        "address": "Số nhà 45, Phố 4, Thị trấn Cành Nàng, Huyện Bá Thước, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.3464375, 105.22931249999999"
+          ]
+        }
+      },
+      {
+        "name": "Chung Anh",
+        "phone": "02373.872.666",
+        "address": "Yên Khoái, Xã Nga Yên, Huyện Nga Sơn, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.0149375, 105.9743125"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Lý 2",
+        "phone": "02373611256",
+        "address": "Thôn Tân Hưng, Xã Quảng Tân, Huyện Quảng Xương, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.8073125, 105.77856250000002"
+          ]
+        }
+      },
+      {
+        "name": "Bảy Truyền",
+        "phone": "02736522228",
+        "address": "41 Nguyễn Huệ, Khu phố 2, Phường 3, Thị xã Gò Công, Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3609375, 106.68068749999998"
+          ]
+        }
+      },
+      {
+        "name": "Phú Lộc Bà Rịa 2",
+        "phone": "0254 3674477",
+        "address": "Khu phố Hải Bình, Thị trấn Long Hải, H. Long Điền, tỉnh Bà Rịa - Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.415748, 107.219198"
+          ]
+        }
+      },
+      {
+        "name": "Linh Hoàng Thịnh",
+        "phone": "0254.3882999",
+        "address": "202 Hùng Vương, Thị Trấn Ngãi Giao, Huyện Châu Đức, tỉnh Bà Rịa - Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.646442, 107.246112"
+          ]
+        }
+      },
+      {
+        "name": "Linh Hoàng Thịnh 2",
+        "phone": "0567 727272",
+        "address": "Ấp Bến Đình, Xã Mỹ Xuân, Huyện Tân Thành, Bà Rịa Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.625597, 107.052742"
+          ]
+        }
+      },
+      {
+        "name": "Phúc Đại Lợi",
+        "phone": "0254.3772772",
+        "address": "122/3 Phước Hòa, Phước Bửu, huyện Xuyên Mộc, tỉnh Bà Rịa-Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.534614,  107.396371"
+          ]
+        }
+      },
+      {
+        "name": "Phú Lộc Bà Rịa",
+        "phone": "0254.3747222",
+        "address": "1215A, 1215F, 1215E, 1215G đường Bạch Đằng, phường Phước Trung, thành phố Bà Rịa, tỉnh Bà Rịa Vũng Tàu.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.492176, 107.173219"
+          ]
+        }
+      },
+      {
+        "name": "Quang Trung Hải",
+        "phone": "0254.373109",
+        "address": "326 Cách Mạng Tháng Tám, Phường Phước Trung  ,Thị Xã Bà Rịa, tỉnh Bà Rịa - Vũng Tàu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.495228,  107.172000"
+          ]
+        }
+      },
+      {
+        "name": "Thiện Anh",
+        "phone": "02163712568/  0971642222",
+        "address": "Thôn 9, Xã Hợp Minh, Thành phố Yên Bái, Tỉnh Yên Bái",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.6943125, 104.86656249999999"
+          ]
+        }
+      },
+      {
+        "name": "Liêm Thủy",
+        "phone": "029.3870376",
+        "address": "Số 150, Đường Hoàng Liên Sơn, Tổ 15, Phường Trung Tâm, Thị xã Nghĩa Lỗ, Tỉnh Yên Bái",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.6010625, 104.51356250000003"
+          ]
+        }
+      },
+      {
+        "name": "Đức Thịnh 3",
+        "phone": "02943.849777",
+        "address": "403, Nguyễn Đáng, Khóm 10, Phường 9, TP Trà Vinh, Trà Vinh.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.9239375, 106.33843750000005"
+          ]
+        }
+      },
+      {
+        "name": "Lê Hoàng",
+        "phone": "02073.851178",
+        "address": "Tổ Đồng Tụ, Thị trấn Vĩnh Lộc, Huyện Chiêm Hóa, Tỉnh Tuyên Quang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.1445625, 105.25843750000001"
+          ]
+        }
+      },
+      {
+        "name": "Khai Phát",
+        "phone": "02073.841568",
+        "address": "Tổ dân phố Tân An, Thị trấn Tân Yên, Huyện Hàm Yên, Tỉnh Tuyên Quang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.0549375, 105.03393749999998"
+          ]
+        }
+      },
+      {
+        "name": "Trường Thọ",
+        "phone": "0981210868",
+        "address": "Tổ nhân dân Tân Bắc, Thị trấn Sơn Dương, Huyện Sơn Dương, Tỉnh Tuyên Quang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.6945625, 105.3866875"
+          ]
+        }
+      },
+      {
+        "name": "Loan Thanh Bình 2",
+        "phone": "0270.3963999",
+        "address": "Số 64/20 Đường Phó Cơ Điều, Phường 4, Thành Phố Vĩnh Long, Tỉnh Vĩnh Long",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2380663, 105.95984640000006"
+          ]
+        }
+      },
+      {
+        "name": "Sài Gòn 4",
+        "phone": "0270.3976888",
+        "address": "291 ấp An Nhơn, xã Trung Thành, huyện Vũng Liêm, tỉnh Vĩnh Long",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0806875, 106.19106250000004"
+          ]
+        }
+      },
+      {
+        "name": "Loan Thanh Bình 2.2",
+        "phone": "0270.3918888-0270.3918999",
+        "address": "62Z Phạm Hùng, phường 9, thành phố Vĩnh Long, tỉnh Vĩnh Long",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2595625, 105.94343750000007"
+          ]
+        }
+      },
+      {
+        "name": "Tùng Dương VP",
+        "phone": "211.3636889",
+        "address": "Phố Vĩnh Thịnh, Thị trấn Lập Thạch, Huyện Lập Thạch, Tỉnh Vĩnh Phúc",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.4150625, 105.45881250000002"
+          ]
+        }
+      },
+      {
+        "name": "Dung Thọ 1",
+        "phone": "0211.3843518",
+        "address": "Số 418, Đường Mê Linh, Phường Khai Quang, Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3040625, 105.62068750000003"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Cầu 2",
+        "phone": "02746568777",
+        "address": "189 Đường Nguyễn Trãi, Khu phố Thống Nhất, Phường Dĩ An, Thị xã Dĩ An, Tỉnh Bình Dương,",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.90262,  106.75514"
+          ]
+        }
+      },
+      {
+        "name": "Vân Anh 4",
+        "phone": "0283.7718187",
+        "address": "Số 507 Nguyễn Thị Thập, Phường Tân Phong, Quận 7, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7391875, 106.7075625"
+          ]
+        }
+      },
+      {
+        "name": "Minh Quang",
+        "phone": "0283.8720755",
+        "address": "327 Huỳnh Tấn Phát - Phường Tân Thuận Đông - Quận7 - Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7508054, 106.72873609999999"
+          ]
+        }
+      },
+      {
+        "name": "Mai An",
+        "phone": "0909647456",
+        "address": "164 Lê Văn Việt - phường Tăng Nhơn Phú B, Quận Thủ Đức, thành phố Thủ Đức",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8441875, 106.78143750000004"
+          ]
+        }
+      },
+      {
+        "name": "Loan Thanh Bình 5",
+        "phone": "0294.3881888",
+        "address": "Khóm 2, TT Càng Long, Huyện Càng Long, Trà Vinh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0058125, 106.20581249999998"
+          ]
+        }
+      },
+      {
+        "name": "Đức Thịnh",
+        "phone": "02943.875599",
+        "address": "Khóm 4, Thị Trấn Trà Cú, huyện Trà Cú, tỉnh Trà Vinh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.6875625, 106.26031250000005"
+          ]
+        }
+      },
+      {
+        "name": "Tuyết Công",
+        "phone": "0294 3833 199",
+        "address": "160-162, Khóm 2, Phường 1, Thị Xã Duyên Hải, Tỉnh Trà Vinh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.635562499999999, 106.49506250000002"
+          ]
+        }
+      },
+      {
+        "name": "Nghiệp Phát",
+        "phone": "02 943 612 688",
+        "address": "128,130 QuỐc Lộ 60,Khóm 1, thị trấn Tiểu Cần, huyện Tiểu Cần, tỉnh Trà vinh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.8120009, 106.18959459999996"
+          ]
+        }
+      },
+      {
+        "name": "Đức Thịnh 2",
+        "phone": "02943.875599",
+        "address": "Khóm Minh Thuận B, Thị Trấn Cầu Ngang, Huyện Cầu Ngang, Tỉnh Trà Vinh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.7939375, 106.45206250000001"
+          ]
+        }
+      },
+      {
+        "name": "Kim Nhật Phát",
+        "phone": "1900636639",
+        "address": "1235 B Tỉnh lộ 43, khu phố 2, P Bình Chiểu, Q Thủ Đức",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8903125, 106.7265625"
+          ]
+        }
+      },
+      {
+        "name": "Phúc Nguyên Phát",
+        "phone": "0283.8209046",
+        "address": "Số 46 Điện Biên Phủ, Phường Đakao,Quận 1, Thành Phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7911875, 106.69806249999999"
+          ]
+        }
+      },
+      {
+        "name": "Hồ Chí Minh",
+        "phone": "02838441433/124",
+        "address": "38 Trương Quốc Dung, Quận phú Nhuận, TP. HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7971875, 106.6724375"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Tế",
+        "phone": "0283.6368102",
+        "address": "382 Hà Huy Giáp, F Thạnh Lộc, Q12",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.882251676101734, 106.6868701997522"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Hải Anh 2",
+        "phone": "028.37185001",
+        "address": "153D Khối 3, Phường Trung Mỹ Tây, Quận 12, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8524364, 106.60924130000001"
+          ]
+        }
+      },
+      {
+        "name": "An Phú",
+        "phone": "0282.2408299",
+        "address": "177 Trần Não - P. An Bình - Thành Phố Thủ Đức - Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7910625, 106.73056250000002"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Huy An",
+        "phone": "0938905587",
+        "address": "209 Nguyễn Duy Trinh, Phường Bình Trung Tây, Thành Phố Thủ Đức, Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7879375, 106.76231250000001"
+          ]
+        }
+      },
+      {
+        "name": "Nam Tiến",
+        "phone": "0286.2691827",
+        "address": "463B Nguyễn Thị Tú ,Phường Bình Hưng Hoà B ,Quận Bình Tân,Thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8149375, 106.58531249999999"
+          ]
+        }
+      },
+      {
+        "name": "Tuyết Khôi",
+        "phone": "0285.4002570",
+        "address": "101-103 Lê Văn Qưới, phường Bình Trị Đông, quận Bình Tân, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7744375, 106.61881249999999"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hồng Hải Anh",
+        "phone": "0283.5511136",
+        "address": "136 Nơ Trang Long, P.11, Q. Bình Thạnh, TP.HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8104375, 106.69518749999997"
+          ]
+        }
+      },
+      {
+        "name": "Long Thành Đạt",
+        "phone": "1900636222(201)",
+        "address": "1077 Phan Văn Trị, Phuong 10, Q.Gò Vấp, Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8311875, 106.67618749999997"
+          ]
+        }
+      },
+      {
+        "name": "Long Thành Đạt 2 QT",
+        "phone": "028.39877775",
+        "address": "913 - 915 Quang Trung, P14, Q.Gò Vấp, Tp.HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8448125, 106.63918749999993"
+          ]
+        }
+      },
+      {
+        "name": "Long Thành Đạt 3 TK",
+        "phone": "0283.7153491",
+        "address": "Lô B5 Khu phố 82- Tô Ký, Phường Tân Chánh Hiệp,Quận 12, Tp HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8609375, 106.61768749999999"
+          ]
+        }
+      },
+      {
+        "name": "Việt Nhật",
+        "phone": "02838126751",
+        "address": "751 TRƯỜNG CHINH, PHƯỜNG TÂY THẠNH, QUẬN TÂN PHÚ,TP. HCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8103125, 106.6334375"
+          ]
+        }
+      },
+      {
+        "name": "Hữu Nghĩa 1",
+        "phone": "0273.3872343",
+        "address": "Ấp 5, xã Phú An, Cai Lậy, Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3738125, 106.04206249999993"
+          ]
+        }
+      },
+      {
+        "name": "Trang Hoàng",
+        "phone": "0273.3710666",
+        "address": "Số 690/1 Khu 2, phường 5, thị xã Cai Lậy, Tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4016875, 106.11918749999995"
+          ]
+        }
+      },
+      {
+        "name": "Tân Phương Nam 3",
+        "phone": "0273.3622222",
+        "address": "Ấp Rẫy, Thị trấn Tân Hiệp, Huyện Châu Thành, Tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4459375, 106.34268750000001"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Vĩnh Trường",
+        "phone": "0273.3653939",
+        "address": "478 Ấp 1, Khu 2, Thị Trấn Chợ Gaọ, Chợ Gạo, Tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3545625, 106.45993750000002"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Vĩnh Trường 2",
+        "phone": "02733.535.599",
+        "address": "Ấp Bắc, Thị trấn Vĩnh Bình, Huyện gò công tây, tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3539375, 106.58968749999997"
+          ]
+        }
+      },
+      {
+        "name": "Vân Hải",
+        "phone": "0273.3838973/868.999",
+        "address": "Quoc lo 50. Khu Phố 4, Phường 9, Thành Phố Mỹ Tho",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3515625, 106.38656249999997"
+          ]
+        }
+      },
+      {
+        "name": "Hữu Nghĩa 2",
+        "phone": "0273.3978343",
+        "address": "Số 83, đường Ấp Bắc, Phường 10, Thành phố Mỹ Tho, Tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3753125, 106.34506250000004"
+          ]
+        }
+      },
+      {
+        "name": "Hữu Nghĩa 3",
+        "phone": "0273.3872343",
+        "address": "123A,B Nam Kỳ Khởi Nghĩa, Phường 4, TP mỹ tho, Tỉnh Tiền Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3590625, 106.36168750000002"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Long",
+        "phone": "028.66827754",
+        "address": "624 Kinh Dương Vương, Phường An Lạc, Quận Bình Tân, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7294441, 106.60787870000001"
+          ]
+        }
+      },
+      {
+        "name": "Sang Trọng",
+        "phone": "0283.7908179",
+        "address": "Quốc Lộ  22, Khu phố 5. Thị Trấn Củ Chi, Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9660625, 106.49168750000001"
+          ]
+        }
+      },
+      {
+        "name": "An Phú 2",
+        "phone": "0286.2598466",
+        "address": "65 Quốc Lộ 22, Ấp Dân Thắng 1, xã Tân Thới Nhì, huyện Hóc Môn, Tp.Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8926875, 106.58068750000007"
+          ]
+        }
+      },
+      {
+        "name": "Long Thành Đạt 6 HM",
+        "phone": "0283.5901768",
+        "address": "23 Phan Văn Hớn, ấp 7, xã Xuân Thới Thượng, Huyện Hóc Môn, TPHCM",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8464375, 106.59181250000006"
+          ]
+        }
+      },
+      {
+        "name": "Đại Thành 2",
+        "phone": "028 22123754",
+        "address": "601 tỉnh lộ 10, phường Bình Trị Đông B, quận Bình Tân, thành phố Hồ Chí Minh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7576875, 106.61506250000002"
+          ]
+        }
+      },
+      {
+        "name": "Hoằng Hóa",
+        "phone": "0237.3865599",
+        "address": "Phố Vĩnh Sơn, Thị trấn Bút Sơn, Huyện Hoằng Hóa, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.8508125, 105.85456249999993"
+          ]
+        }
+      },
+      {
+        "name": "Huệ Lương",
+        "phone": "02373.878299",
+        "address": "Thôn Mỹ Ré, Xã Yên Lễ, Huyện Như Xuân, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.6694375, 105.44656250000003"
+          ]
+        }
+      },
+      {
+        "name": "Long Tơ",
+        "phone": "0237.3993993",
+        "address": "Ngã 3, Đường 10, Quốc lộ 45, Thị trấn Nông Cống, Huyện Nông Cống, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.6235572, 105.65597419999995"
+          ]
+        }
+      },
+      {
+        "name": "Hậu Dung",
+        "phone": "02373.877048",
+        "address": "Khu phố 1, Thị trấn Kim Tân, Huyện Thạch Thành, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.1329375, 105.6774375"
+          ]
+        }
+      },
+      {
+        "name": "Lâm Minh Tám",
+        "phone": "0237.3534779",
+        "address": "Ngã tư đường mòn HCM, Xã Thọ Xương, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.9089527, 105.40424989999997"
+          ]
+        }
+      },
+      {
+        "name": "Mạnh Hải",
+        "phone": "02373.883199",
+        "address": "Phố Neo, Xã Nam Giang, Huyện Thọ Xuân, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.9113125, 105.54493750000006"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Lý",
+        "phone": "02373611256",
+        "address": "Thôn Xuân Hòa, Xã Hải Hòa, Huyện Tĩnh Gia, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.4591875, 105.7868125"
+          ]
+        }
+      },
+      {
+        "name": "Yên Định",
+        "phone": "0237.3513669",
+        "address": "Khu 3 thị trấn Quán Lào, Huyện Yên Định, Tỉnh Thanh Hóa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.9654375, 105.65943749999997"
+          ]
+        }
+      },
+      {
+        "name": "Mai Mạnh",
+        "phone": "0276.3884546",
+        "address": "Số 1425 QL 22, Ấp An Bình, Xã An Tịnh, Huyện Trảng Bàng, Tỉnh Tây Ninh.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.0301875, 106.37093749999997"
+          ]
+        }
+      },
+      {
+        "name": "Đông Phương 2",
+        "phone": "0276.3520777",
+        "address": "Kiot 22-25 Khu Văn Hóa Thể Thao Gò Dầu, Huyện Gò Dầu, Tỉnh Tây Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.0880625, 106.26456250000001"
+          ]
+        }
+      },
+      {
+        "name": "Khương Huê",
+        "phone": "0276.3818122",
+        "address": "666 Cách Mạng Tháng Tám, Tp Tây Ninh ,Tinh Tay Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.3085625, 106.11181250000004"
+          ]
+        }
+      },
+      {
+        "name": "Quang Vinh",
+        "phone": "090 494 79 26",
+        "address": "Khu 5, TT Tiền Hải, Huyện Tiền Hải, Tỉnh Thái Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4003125, 106.50793750000003"
+          ]
+        }
+      },
+      {
+        "name": "Hưng Thịnh Phát",
+        "phone": "02273.641.688",
+        "address": "Số 173, Đường Trần Thái Tông, Phường Trần Hưng Đạo, Thành phố Thái Bình, Tỉnh Thái Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4483125, 106.33181250000007"
+          ]
+        }
+      },
+      {
+        "name": "Hợp Xuân",
+        "phone": "0208.3863154",
+        "address": "Số nhà 241, Tổ dân phố 5, Phường Ba Hàng, Thị xã Phổ Yên, Tỉnh Thái Nguyên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.4121875, 105.87281250000001"
+          ]
+        }
+      },
+      {
+        "name": "Lương Trang",
+        "phone": "0208.3858595",
+        "address": "Số 410/1, Đường Bắc Kạn, Tổ 14, Phường Hoàng Văn Thụ, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.5994375, 105.83393750000005"
+          ]
+        }
+      },
+      {
+        "name": "Trần Minh",
+        "phone": "0208.240299",
+        "address": "Số 653, Đường Lương Ngọc Quyến, Phường Phan Đình Phùng, Thành phố Thái Nguyên, Tỉnh Thái Nguyên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.5823125, 105.83606250000003"
+          ]
+        }
+      },
+      {
+        "name": "Hòa Phát",
+        "phone": "0299.3862344",
+        "address": "156/157D Đường 30 tháng 04, khu 2, thị trấn Vĩnh Châu, huyện Vĩnh Châu, tỉnh Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.3278125, 105.9799375"
+          ]
+        }
+      },
+      {
+        "name": "Ánh Phụng",
+        "phone": "0299.3825566",
+        "address": "Số 163 Hùng Vương, Phường 6, Thành Phố Sóc Trăng, Tỉnh Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.614937500000002, 105.96693749999997"
+          ]
+        }
+      },
+      {
+        "name": "Thắng Thủy",
+        "phone": "0212.3569644",
+        "address": "Tiểu khu Cơ Quan, Thị trấn Nông Trường Mộc Châu, Huyện Mộc Châu, Tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8908125, 104.69968749999998"
+          ]
+        }
+      },
+      {
+        "name": "Trọng Loan",
+        "phone": "0212.3868999",
+        "address": "Tiểu khu 10, Thị trấn Mộc Châu, Huyện Mộc Châu, Tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8436875, 104.64418750000004"
+          ]
+        }
+      },
+      {
+        "name": "Yamaha 2S Hà Hường",
+        "phone": "022.3840206 / 022.3841808",
+        "address": "Tiểu khu 4, xã ít Ong, Huyện Mường La, tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0478215, 104.29808149999997"
+          ]
+        }
+      },
+      {
+        "name": "Tú Khởi",
+        "phone": "02123.736999",
+        "address": "Tổ 12, Thị trấn Sông Mã, Huyện Sông Mã, Tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0496875, 103.75131250000004"
+          ]
+        }
+      },
+      {
+        "name": "Hà Hường",
+        "phone": "0212.3851089",
+        "address": "Số 125, Đường Chu Văn Thịnh, Tổ 1, Phường Tô Hiệu, Thành phố Sơn La, Tỉnh Sơn La",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3299375, 103.9106875"
+          ]
+        }
+      },
+      {
+        "name": "Kim Đức",
+        "phone": "0203.3874718",
+        "address": "Thôn Đông Tiến, Xã Đông Xá, Huyện Vân Đồn, Tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0495625, 107.39256249999994"
+          ]
+        }
+      },
+      {
+        "name": "Bảo Vinh",
+        "phone": "0203.3825804/0203.3823083",
+        "address": "Số 99A/99B, Tổ 36, Khu 2B, Phường Bạch Đằng, Thành phố Hạ Long, Tỉnh Quảng Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9521875, 107.07918749999999"
+          ]
+        }
+      },
+      {
+        "name": "Bảo Cường",
+        "phone": "02333 782 782",
+        "address": "Số 86, Đường Lê Duẩn, Thị trấn Khe Sanh, Huyện Hướng Hóa, Tỉnh Quảng trị",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.6305625, 106.74018750000005"
+          ]
+        }
+      },
+      {
+        "name": "Trung Tá",
+        "phone": "0233.3820234",
+        "address": "Số 59, Đường Lê Duẩn, Thị trấn Hồ Xá, Huyện Vĩnh Linh, Tỉnh Quảng Trị",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "17.0726875, 106.99956250000002"
+          ]
+        }
+      },
+      {
+        "name": "Mai Liêm",
+        "phone": "0233.3858.000",
+        "address": "Số 242, Đường Lê Duẩn, Khu phố 2, Phường Đông Lễ, Thành phố Đông Hà, Tỉnh Quảng Trị",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.8140625, 107.11131249999994"
+          ]
+        }
+      },
+      {
+        "name": "Thảo Ái",
+        "phone": "0233 3577 777",
+        "address": "Số 23, Đường Lê Duẩn, Phường 2, Thành phố Đông Hà, Tỉnh Quảng Trị",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.8226875, 107.10193750000008"
+          ]
+        }
+      },
+      {
+        "name": "Mỹ Ngọc",
+        "phone": "0299.3624455",
+        "address": "92-94 Lê Hồng Phong, Thành phố Sóc Trăng, tỉnh Sóc Trăng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.5954375, 105.97406249999995"
+          ]
+        }
+      },
+      {
+        "name": "An Chín",
+        "phone": "96.2229789",
+        "address": "Đường Quốc lộ 12A, Tiểu khu Đồng Văn, Thị trấn Đồng Lê, Huyện Tuyên Hóa, Tỉnh Quảng Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "17.8809375, 106.02856250000002"
+          ]
+        }
+      },
+      {
+        "name": "Thịnh Toàn",
+        "phone": "235.3765235",
+        "address": "Khu 7, Thị trấn Ái Nghĩa, Huyện Đại Lộc, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.8825625, 108.11506250000002"
+          ]
+        }
+      },
+      {
+        "name": "Hoàn Cầu",
+        "phone": "235.3939909",
+        "address": "Số 510,  Hai Bà Trưng, Phường Tân An, Thành phố Hội An, Tỉnh Quảng Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.8891875, 108.32843750000006"
+          ]
+        }
+      },
+      {
+        "name": "Sáng Thu 2",
+        "phone": "0255.3515999",
+        "address": "Km 1037+920, Quốc lộ 1A, thôn Long Vĩnh, xã Bình Long, huyện Bình Sơn, tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.2889375, 108.76493749999997"
+          ]
+        }
+      },
+      {
+        "name": "Lam Sơn",
+        "phone": "0255.3985555",
+        "address": "Tổ dân phố 5, Thị trấn Đức Phổ, Huyện Đức Phổ, Tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.8148125, 108.95456250000007"
+          ]
+        }
+      },
+      {
+        "name": "Hoàn Phước 1",
+        "phone": "0255.3831715",
+        "address": "789-791-793 Quang Trung – Phường Nghĩa Chánh – TP Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.1114375, 108.8096875"
+          ]
+        }
+      },
+      {
+        "name": "Sáng Thu",
+        "phone": "0255.3710151",
+        "address": "Số 10, Phố Bà Triệu, Phường Lê Hồng Phong, Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "15.1328125, 108.80193750000001"
+          ]
+        }
+      },
+      {
+        "name": "Phát Thịnh",
+        "phone": "0259.3825226",
+        "address": "448-450  Ngô Gia Tự, Kinh Dinh, TP. Phan Rang - Tháp Chàm, Tỉnh Ninh Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.557395, 108.98973679999995"
+          ]
+        }
+      },
+      {
+        "name": "Lê Thìn",
+        "phone": "0210.388.0138",
+        "address": "Thôn 9, Xã Sóc Đăng, Huyện Đoan Hùng, Tỉnh Phú Thọ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.6159375, 105.18518749999998"
+          ]
+        }
+      },
+      {
+        "name": "Sơn Hải",
+        "phone": "0210.3845145",
+        "address": "Số 2183, Đường Hùng Vương, Phường Gia Cẩm, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3225625, 105.38443749999999"
+          ]
+        }
+      },
+      {
+        "name": "Việt Lâm",
+        "phone": "0210.364.9999",
+        "address": "Khu 1, Đường Hùng Vương, Phường Vân Phú, Thành phố Việt Trì, Tỉnh Phú Thọ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3656875, 105.34681249999994"
+          ]
+        }
+      },
+      {
+        "name": "Dung Thọ 2",
+        "phone": "0210.3732666",
+        "address": "Khu 8, Xã Phú Hộ, Thị xã Phú Thọ, Tỉnh Phú Thọ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.4266875, 105.23568750000004"
+          ]
+        }
+      },
+      {
+        "name": "Nhông 2",
+        "phone": "0257.382 6474",
+        "address": "204-206-208-210 Lê Lợi, Phường 5, Thành phố Tuy Hòa, tỉnh Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.0899375, 109.31006249999996"
+          ]
+        }
+      },
+      {
+        "name": "Nhông",
+        "phone": "0257.3826474",
+        "address": "224-226-228 Hùng Vương, P.7, TP. Tuy Hoà, Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.0933125, 109.3130625"
+          ]
+        }
+      },
+      {
+        "name": "Dũng Tiến PY",
+        "phone": "02573578919",
+        "address": "Khu phố Phú Thứ, Thị trấn Phú Thứ, Huyện Tây Hòa, Tỉnh Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.0549375, 109.31056250000006"
+          ]
+        }
+      },
+      {
+        "name": "Nghiêm",
+        "phone": "0915 744 579",
+        "address": "179 Phạm Văn Đồng, Phường Xuân Phú, Thị Xã Sông Cầu, tỉnh Phú Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.4558125, 109.22131250000007"
+          ]
+        }
+      },
+      {
+        "name": "Huy Hoàng",
+        "phone": "0912149477",
+        "address": "Tổ dân phố 6, Thị trấn Kiến Giang, Huyện Lệ Thủy, Tỉnh Quảng Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "17.2225625, 106.7924375"
+          ]
+        }
+      },
+      {
+        "name": "Hiếu Hằng (Ba Đồn)",
+        "phone": "0973.245.999",
+        "address": "Ngã tư Quảng Thọ, thị trấn Ba Đồn, xã Quảng Thọ, Huyện Quảng Trạch, Tỉnh Quảng Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "17.7519375, 106.44156250000003"
+          ]
+        }
+      },
+      {
+        "name": "Tiến Nam",
+        "phone": "02383.711399",
+        "address": "Khối 4, Thị trấn Đô Lương, Huyện Đô Lương,Tỉnh Nghệ An, Việt Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.9030625, 105.31068749999997"
+          ]
+        }
+      },
+      {
+        "name": "Trung Hải",
+        "phone": "0238.3984777",
+        "address": "Khối Bắc Hồ, Thị trấn Quỳ Hợp, Huyện Quỳ Hợp, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.3250625, 105.18668750000006"
+          ]
+        }
+      },
+      {
+        "name": "Quang Xuân",
+        "phone": "0238.8646666",
+        "address": "Khối 5, Thị trấn Cầu Giát, Huyện Quỳnh Lưu, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.1444375, 105.62881249999998"
+          ]
+        }
+      },
+      {
+        "name": "Hà Vinh",
+        "phone": "0238.3586668",
+        "address": "Số 11, Đường Quang Trung, Thành phố Vinh, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.6676875, 105.67381249999994"
+          ]
+        }
+      },
+      {
+        "name": "Phú Lộc",
+        "phone": "0238.8688969",
+        "address": "Số 39A, Đường Lê Hồng Phong, Phường Hưng Bình, Thành phố Vinh, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.6769375, 105.68068749999998"
+          ]
+        }
+      },
+      {
+        "name": "Tiến Phát NA",
+        "phone": "0238.3557866",
+        "address": "Số 58, đường Nguyễn Trãi, khối 3, phường Hà Huy Tập, tp Vinh, Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.7011875, 105.6739375"
+          ]
+        }
+      },
+      {
+        "name": "Xuân Bình",
+        "phone": "238.3598984",
+        "address": "Số 58, Đường Lê Lợi, Thành phố Vinh, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.6856875, 105.67443750000007"
+          ]
+        }
+      },
+      {
+        "name": "Dũng Phong",
+        "phone": "0272.3828343",
+        "address": "53 Nguyễn Đình Chiểu, Phường 1, TP. Tân An, Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5371875, 106.41568749999999"
+          ]
+        }
+      },
+      {
+        "name": "Cao Minh 2",
+        "phone": "0272.3832773",
+        "address": "368 Quốc lộ 1, Phường 4, Thành Phố Tân An, Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5383411, 106.40512999999999"
+          ]
+        }
+      },
+      {
+        "name": "Cao Minh 1",
+        "phone": "0272.3833785",
+        "address": "66-68 Trương Định, Phường 1, TP. Tân An, Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5383411, 106.40512999999999"
+          ]
+        }
+      },
+      {
+        "name": "Dũng Phong 2 BL",
+        "phone": "0272.3635235",
+        "address": "168-172 Quốc lộ 1, Thị trấn Bến Lức, Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.6361875, 106.48656249999999"
+          ]
+        }
+      },
+      {
+        "name": "Dũng Phong 4 MH",
+        "phone": "0272.3843943",
+        "address": "78-82 khu phố 9, phường 1- TX kiến tường, tỉnh long an",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7739375, 105.93593750000002"
+          ]
+        }
+      },
+      {
+        "name": "Vạn Tuyết Trung",
+        "phone": "0228.3509917",
+        "address": "Số nhà 28, Khu I, Thị trấn Yên Định, Huyện Hải Hậu, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.1986875, 106.30181249999998"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Hà",
+        "phone": "0228.3845618",
+        "address": "Số 76, Đường Giải Phóng nối dài, Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4323125, 106.16231249999998"
+          ]
+        }
+      },
+      {
+        "name": "Tùng Sơn",
+        "phone": "0228.3660888",
+        "address": "Số 45A, Đường Giải Phóng, Phường Trường Thi, Thành phố Nam Định, Tỉnh Nam Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.4228125, 106.15881250000007"
+          ]
+        }
+      },
+      {
+        "name": "Hải Quân",
+        "phone": "02383.677789",
+        "address": "Thôn 7, Xã Diễn Kỷ, Huyện Diễn Châu, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "19.0053125, 105.59006249999993"
+          ]
+        }
+      },
+      {
+        "name": "Văn Minh 1",
+        "phone": "0238.3623334",
+        "address": "Khối 4, Thị trấn Diễn Châu, Huyện Diễn Châu, Tỉnh Nghệ An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.9758125, 105.60056250000002"
+          ]
+        }
+      },
+      {
+        "name": "Huy Bộ",
+        "phone": "0253.825176",
+        "address": "Số 8, Đường Chi Lăng, Khu An Ninh, Thị trấn Hữu Lũng, Huyện Hữu Lũng, Tỉnh Lạng Sơn",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.4988125, 106.35193750000008"
+          ]
+        }
+      },
+      {
+        "name": "Đức Dung",
+        "phone": "0272.3886515",
+        "address": "269-279 Khu phố 3, xã Long Hòa, huyện Cần Đước, tỉnh Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5903125, 106.58831250000003"
+          ]
+        }
+      },
+      {
+        "name": "Tiến Thành",
+        "phone": "0272.3505888",
+        "address": "Khu phố 4, Nguyễn Thái Bình, Thị Trấn Cần Giuộc, huyện Cần Giuộc, Tỉnh Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.6033125, 106.65618749999999"
+          ]
+        }
+      },
+      {
+        "name": "Tân Phương Nam 2",
+        "phone": "02723.814.678",
+        "address": "Ấp Gò Cao, Thị trấn Hậu Nghĩa, Huyện Đức Hòa, Tỉnh Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8973125, 106.40356250000002"
+          ]
+        }
+      },
+      {
+        "name": "Tân Phương Nam 1",
+        "phone": "0272.3763986",
+        "address": "12E, Khu 5, thị trấn Đức Hòa, huyện Đức Hòa, Long An",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.8265625, 106.4575625"
+          ]
+        }
+      },
+      {
+        "name": "Vĩnh Hưng 2",
+        "phone": "0260.3855819",
+        "address": "546 Trần Phú, thị trấn PleyKần, huyện Ngọc Hồi, tỉnh KonTum",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.3578125, 108.00031250000006"
+          ]
+        }
+      },
+      {
+        "name": "Vĩnh Hưng",
+        "phone": "0260.3863819",
+        "address": "152 Phan Đình Phùng, thị xã Kon Tum, tỉnh Kon Tum",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.3578125, 108.00031250000006"
+          ]
+        }
+      },
+      {
+        "name": "Vĩnh Tín",
+        "phone": "02603866668",
+        "address": "1059-1061 Phan Đình Phùng, thành phố Kon Tum- Tỉnh Kon tum",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.3507263, 108.00064980000002"
+          ]
+        }
+      },
+      {
+        "name": "Mười Diên",
+        "phone": "0213.3783888",
+        "address": "Khu 7B, Thị trấn Than Uyên, Huyện Than Uyên, Tỉnh Lai Châu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.9601875, 103.88818749999996"
+          ]
+        }
+      },
+      {
+        "name": "Mạnh Đạt",
+        "phone": "02133791688",
+        "address": "Đường Điện Biên Phủ, Phường Tân Phong, Thành phố Lai Châu, Tỉnh Lai Châu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.3966875, 103.45418749999999"
+          ]
+        }
+      },
+      {
+        "name": "Thắng Lợi 5 II",
+        "phone": "0263.3821383",
+        "address": "459 Phan Đình Phùng ,Phường 2 , Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.9539375, 108.4319375"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Lộc Thắng",
+        "phone": "02633686909",
+        "address": "Khu 2, Thị Trấn Lộc Thắng, Huyện Bảo Lâm, Tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.6193565, 107.83921750000002"
+          ]
+        }
+      },
+      {
+        "name": "Bảo Trân",
+        "phone": "0263.364717",
+        "address": "662 Hùng Vương, Di Linh, tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5740625, 108.07193749999999"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Anh LD",
+        "phone": "0263.822028",
+        "address": "601 QL.20 - TT Liên Nghĩa - Huyện Đức Trọng -Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7318125, 108.37518750000004"
+          ]
+        }
+      },
+      {
+        "name": "Lộc Tín",
+        "phone": "0263.822028",
+        "address": "68 Khu Phố Văn Tâm, Thị Trấn Đinh Văn, Huyện Lâm Hà, tỉnh Lâm Đồng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.7864375, 108.25256250000007"
+          ]
+        }
+      },
+      {
+        "name": "Toản Sen",
+        "phone": "02053.837.444",
+        "address": "Thôn Long Hưng, Xã Long Đống, Huyện Bắc Sơn, Tỉnh Lạng Sơn",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.9134375, 106.33168750000004"
+          ]
+        }
+      },
+      {
+        "name": "Hoàng Hải",
+        "phone": "0221.3502178",
+        "address": "Số 611, Thị trấn Vương, Huyện Tiên Lữ, Tỉnh Hưng Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7076875, 106.13706249999996"
+          ]
+        }
+      },
+      {
+        "name": "Nam Khánh",
+        "phone": "0221.3933355",
+        "address": "Số 190, Đường 179, Thị trấn Văn Giang, Huyện Văn Giang, Tỉnh Hưng Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9460625, 105.93881250000004"
+          ]
+        }
+      },
+      {
+        "name": "Hà Quỳnh",
+        "phone": "221.3987575",
+        "address": "Số 42, Phố Mới, Thị trấn Như Quỳnh, Huyện Văn Lâm, Tỉnh Hưng Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9805625, 105.98556250000001"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Thanh NT 2",
+        "phone": "0258 3983111",
+        "address": "509 Trường Chinh - Thị trấn Cam Đức- Thị Xã Cam Lâm, Tỉnh Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.0513125, 109.16143750000003"
+          ]
+        }
+      },
+      {
+        "name": "Ba Đình",
+        "phone": "0258.3762279",
+        "address": "15 Lạc Long Quân, Thị Trấn Diên Khánh, Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.2570625, 109.10593749999998"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Thanh NT",
+        "phone": "0258 3635599",
+        "address": "45 Trần Quý Cáp, Phường Ninh Hiệp, Tx Ninh Hòa, Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.4983125, 109.13556249999999"
+          ]
+        }
+      },
+      {
+        "name": "Thanh Tùng",
+        "phone": "0258 3841596",
+        "address": "10 Hùng Vương, Xã Vạn Giã, huyện Vạn Ninh, tỉnh Khánh Hòa.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.7026875, 109.22681250000005"
+          ]
+        }
+      },
+      {
+        "name": "Tường Nghiêm",
+        "phone": "0258.3827927",
+        "address": "01 Quang Trung - Vạn Thạnh - Nha Trang, Khánh Hòa",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.2516875, 109.1903125"
+          ]
+        }
+      },
+      {
+        "name": "Trực 2",
+        "phone": "02973.515.555",
+        "address": "Tổ 14, khu vực 2, Thị Trấn Thứ Ba, Huyện An Biên, Tỉnh Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.8086875, 105.05568749999998"
+          ]
+        }
+      },
+      {
+        "name": "Đại Lợi",
+        "phone": "0297.384197",
+        "address": "Khu phố Tri Tôn, TT Hòn Đất, huyện Hòn Đất, Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.1889375, 104.9246875"
+          ]
+        }
+      },
+      {
+        "name": "Đại Lợi 4",
+        "phone": "02973701133",
+        "address": "Lô 16,Nền 31, Khu phố 5, Phường Bình San, Thi xã Hà Tiên, Tỉnh Kiên Giang.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3878125, 104.47956249999993"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Thái",
+        "phone": "0297.3920606",
+        "address": "191 Trần Phú,TX Rạch Gía, Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0114375, 105.08493750000002"
+          ]
+        }
+      },
+      {
+        "name": "Trực",
+        "phone": "02973.963.009",
+        "address": "97-99-101 Mai Thị Hồng Hạnh, Phường Vĩnh lợi, TP Rạch giá, Kiên Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.952832599999999, 105.12260370000001"
+          ]
+        }
+      },
+      {
+        "name": "Anh Phong",
+        "phone": "02183.895179",
+        "address": "Số 720, Đường Cù Chính Lan, Phường Đồng Tiến, Thành phố Hòa Bình, Tỉnh Hòa Bình",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8224375, 105.34481249999999"
+          ]
+        }
+      },
+      {
+        "name": "Thuận Phát",
+        "phone": "02343955526",
+        "address": "Số 933-935, Đường Nguyễn Tất Thành, Phường Phú Bài, Thị xã Hương Thủy, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.4164375, 107.66843749999998"
+          ]
+        }
+      },
+      {
+        "name": "Văn Tường",
+        "phone": "0234.3737979",
+        "address": "128 Nguyễn Trãi , Phường Thuận Hoà , Thành Phố Huế , Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.4714375, 107.56981250000001"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Hùng",
+        "phone": "0234.3814989",
+        "address": "Số 86, Đường An Dương Vương, Phường An Cựu, Thành phố Huế, Tỉnh Thừa Thiên Huế",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.4514375, 107.60331250000002"
+          ]
+        }
+      },
+      {
+        "name": "Sáng Hiển",
+        "phone": "0221.3685350",
+        "address": "Thị tứ Bô Thời, Xã Hồng Tiến, Huyện Khoái Châu, Tỉnh Hưng Yên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8291875, 106.01268749999997"
+          ]
+        }
+      },
+      {
+        "name": "Kường Ngân 1",
+        "phone": "024.39439697",
+        "address": "Số 62, Phố Huế, Quận Hai Bà Trưng, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.027964, 105.85101320000001"
+          ]
+        }
+      },
+      {
+        "name": "Việt Duy",
+        "phone": "024.33828670",
+        "address": "Số 525, Đường Quang Trung, Phường Phú La, Quận Hà Đông, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9624375, 105.76518750000002"
+          ]
+        }
+      },
+      {
+        "name": "Thương mại I",
+        "phone": "0239.3721789",
+        "address": "Tổ dân phố số 2, Phường Sông Trí, Thị xã Kỳ Anh, Huyện Kỳ Anh, Tỉnh Hà Tĩnh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.0775625, 106.28893749999997"
+          ]
+        }
+      },
+      {
+        "name": "Bình Thủy 1",
+        "phone": "02393.609.899",
+        "address": "Km 516 Quốc lộ 1A, Thạch Bình, thành phố Hà Tĩnh, tỉnh Hà Tĩnh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "18.3153125, 105.91993750000006"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phúc 4 HG",
+        "phone": "0293.3953919",
+        "address": "380/3 Quốc lộ 1A ,Thi Trấn Cái Tắc,H.Châu Thành A, Hậu Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.9296875, 105.72556250000002"
+          ]
+        }
+      },
+      {
+        "name": "Dương Hùng",
+        "phone": "0293.3873333",
+        "address": "142LM Đường 30/4,Phường Thuận An,Thị Xã Long Mỹ, Hậu Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.679437499999999, 105.56768750000003"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Hưng",
+        "phone": "0293.3961678",
+        "address": "Quốc lộ 1, Khu vực  3 , phường Ngã 7,thị xã Ngã 7,Tỉnh Hậu Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.8180625, 105.81456249999997"
+          ]
+        }
+      },
+      {
+        "name": "Hiệp Hà 4",
+        "phone": "0293.3870123",
+        "address": "97 Đường 3 tháng 2,khu vực 2,  Phường 5, thành phố Vị Thanh, Hậu Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.7828125, 105.47193749999997"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Phúc",
+        "phone": "0293.3582919",
+        "address": "427-429-431 Trần Hưng đạo, khu vực 3, Phường 1, TP. Vị Thanh, Hậu Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.779937499999999, 105.46281249999993"
+          ]
+        }
+      },
+      {
+        "name": "Việt Sơn 2",
+        "phone": "024.35840615",
+        "address": "Đầu quốc lộ 2, xã phú lỗ, huyện sóc sơn, TP Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1996875, 105.84493750000001"
+          ]
+        }
+      },
+      {
+        "name": "Dương Tiến Phát",
+        "phone": "024.37639893",
+        "address": "Số 60, Đường Cầu Diễn, Tổ 7, Phường Phúc Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0466875, 105.74881249999999"
+          ]
+        }
+      },
+      {
+        "name": "Anh Duy",
+        "phone": "024.33883336",
+        "address": "Số 21, Phố Lê Lợi, Thị trấn Vân Đình, Huyện Ứng Hòa, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9689277, 105.77954720000002"
+          ]
+        }
+      },
+      {
+        "name": "Việt Nhật 2",
+        "phone": "024.35116532",
+        "address": "Số 231 Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0211875, 105.83131249999997"
+          ]
+        }
+      },
+      {
+        "name": "Xe máy 74",
+        "phone": "024.38510610",
+        "address": "Số 74, Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.027964, 105.85101320000001"
+          ]
+        }
+      },
+      {
+        "name": "Hà Nội",
+        "phone": "024 37754466/4488",
+        "address": "62 Nguyễn Chí Thanh, Đống Đa, Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.02167, 105.80881920000002"
+          ]
+        }
+      },
+      {
+        "name": "Đức Hùng",
+        "phone": "024.36645239",
+        "address": "Số 921, Đường Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9788125, 105.84118749999993"
+          ]
+        }
+      },
+      {
+        "name": "Hạnh Đạt",
+        "phone": "024.36369775",
+        "address": "Số 539, Phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0009375, 105.8705625"
+          ]
+        }
+      },
+      {
+        "name": "Phương Đông",
+        "phone": "225.3523879",
+        "address": "Số 215, Đường Lạch Tray, Phường Đằng Giang, Quận Ngô Quyền, Thành phố Hải Phòng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8359375, 106.69631249999998"
+          ]
+        }
+      },
+      {
+        "name": "Thọ Huyền",
+        "phone": "2263.578248",
+        "address": "Số 10, Đường Nguyễn Văn Trỗi, Thị trấn Đồng Văn, Huyện Duy Tiên, Tỉnh Hà Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.6310625, 105.92056249999996"
+          ]
+        }
+      },
+      {
+        "name": "Nam Hạnh 2",
+        "phone": "0973.057.017",
+        "address": "Quốc lộ 1A,Hai Bà Trưng, Phủ Lý, Hà Nam",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.5623125, 105.91531250000003"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Việt 2",
+        "phone": "0243 754 3466",
+        "address": "Số 493, Đường Hoàng Quốc Việt, Quận Cầu Giấy, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0459375, 105.78231249999999"
+          ]
+        }
+      },
+      {
+        "name": "Việt Phú",
+        "phone": "024.36789210",
+        "address": "Km số 10 + 500, Quốc lộ 5, Xã Dương Xá, Huyện Gia Lâm, Thành phố Hà nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0021875, 105.96518749999996"
+          ]
+        }
+      },
+      {
+        "name": "Thành Đạt HN",
+        "phone": "024.33643245",
+        "address": "Thôn Thượng Lộc, xã Thọ Lộc, huyện Phúc Thọ, Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1128125, 105.53143750000004"
+          ]
+        }
+      },
+      {
+        "name": "Tú An Phát",
+        "phone": "024.38843502",
+        "address": "Số nhà 78, Khu D, Thị Trấn Sóc Sơn, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2544375, 105.84793749999994"
+          ]
+        }
+      },
+      {
+        "name": "Việt Sơn",
+        "phone": "024.35840615",
+        "address": "Km 7, Quốc lộ 2, Thôn Thụy Hương, Xã Phú Cường, Huyện Sóc Sơn, Thành phố Hà Nội",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2213125, 105.7723125"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Hương",
+        "phone": "0220.3786727",
+        "address": "Số 110, Khu 18, Thị trấn Lai Cách, Huyện Cẩm Giàng, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9344375, 106.25006250000001"
+          ]
+        }
+      },
+      {
+        "name": "Hương Lụa",
+        "phone": "0220.3882409",
+        "address": "Số 239, Phố Nguyễn Trãi 2, Thị trấn Sao Đỏ, Huyện Chí Linh, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1100625, 106.3878125"
+          ]
+        }
+      },
+      {
+        "name": "Hùng Huệ",
+        "phone": "0220.3614567",
+        "address": "Thôn Minh Tân (Tram Bóng), Xã Quang Minh, Huyện Gia Lộc, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7941875, 106.27406250000001"
+          ]
+        }
+      },
+      {
+        "name": "Ứng Tâm",
+        "phone": "0220.3721688",
+        "address": "Phố Ga, Thị trấn Phú Thái, Huyện Kim Thành, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9664375, 106.51181250000002"
+          ]
+        }
+      },
+      {
+        "name": "Mạnh Phong",
+        "phone": "0220.3822134",
+        "address": "Phố Phúc Lân, Thị trấn Kinh Môn, Huyện Kinh Môn, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9971875, 106.54356250000001"
+          ]
+        }
+      },
+      {
+        "name": "Thành Trung",
+        "phone": "0220.3760706",
+        "address": "Cầu Ràm, Xã Tân Hương, Huyện Ninh Giang, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.7705625, 106.37031249999995"
+          ]
+        }
+      },
+      {
+        "name": "Phước Anh",
+        "phone": "0220.3813456",
+        "address": "Lô 33-34-35, Đường 390, Khu đô thị phía Tây, Thị trấn Thanh Hà, Huyện Thanh Hà, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8976755, 106.42330229999993"
+          ]
+        }
+      },
+      {
+        "name": "Tùng Khang",
+        "phone": "0220.3734405",
+        "address": "Khu 2, Xã Đoàn Tùng, Huyện Thanh Miện, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8223125, 106.22718750000001"
+          ]
+        }
+      },
+      {
+        "name": "Doanh Mỵ",
+        "phone": "0220.3745745",
+        "address": "Thôn An Nhân, Thị trấn Tứ Kỳ, Huyện Tứ Kỳ, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.8235625, 106.4006875"
+          ]
+        }
+      },
+      {
+        "name": "Tiến An",
+        "phone": "0220.3896797",
+        "address": "Số 236, Đường Nguyễn Lương Bằng, Phường Phạm Ngũ Lão, Thành Phố Hải Dương, Tỉnh Hải Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "20.9375625, 106.31393750000007"
+          ]
+        }
+      },
+      {
+        "name": "Phúc Tuấn Kiệt",
+        "phone": "02693.768555",
+        "address": "827 Hùng Vương,Thi trấn Chư Sê, Tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.6904375, 108.07906249999996"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Thanh GL",
+        "phone": "0269.3848116",
+        "address": "209 Quang Trung, TT. Chư Ti, H. Đức Cơ, tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.7999375, 107.69693749999999"
+          ]
+        }
+      },
+      {
+        "name": "Lĩnh 2",
+        "phone": "0269.2242227",
+        "address": "360 Quang Trung, huyện KBang, tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.1511109, 108.60233740000001"
+          ]
+        }
+      },
+      {
+        "name": "Tín Trung",
+        "phone": "0964017599",
+        "address": "325 Trần Hưng Đạo, Thị Trấn Kon Dỡn, Huyện Mang Yang, Tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.0343125, 108.25143750000007"
+          ]
+        }
+      },
+      {
+        "name": "Hàm Tín",
+        "phone": "02693.824519",
+        "address": "119-121 Hùng Vương, Pleiku, Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.5926875, 107.89918749999993"
+          ]
+        }
+      },
+      {
+        "name": "Hàm Tín 2",
+        "phone": "0269 371 5479",
+        "address": "34 Trần Phú (nối dài), thành phố Pleiku, tỉnh Gia Lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.9780625, 107.99793750000003"
+          ]
+        }
+      },
+      {
+        "name": "Gia Huy Tín",
+        "phone": "02693.828459/ 02692.221879",
+        "address": "289 Trường Chinh, Phường Trà Bá,thành phố Pleiku, tỉnh gia lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.9584375, 108.01581250000004"
+          ]
+        }
+      },
+      {
+        "name": "Lĩnh",
+        "phone": "0269.2242224",
+        "address": "803 Quang Trung, huyện An Khê, tỉnh Gia lai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.9558125, 108.64681250000001"
+          ]
+        }
+      },
+      {
+        "name": "Nhật Tân",
+        "phone": "0219.3823616",
+        "address": "Số 128, Tổ 13, Thị trấn Việt Quang, Huyện Bắc Quang, Tỉnh Hà Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.3973125, 104.82068750000008"
+          ]
+        }
+      },
+      {
+        "name": "Sơn Lam",
+        "phone": "0219.3826423",
+        "address": "Tổ 9, Thị trấn Vị Xuyên, Huyện Vị Xuyên, Tỉnh Hà Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.6631875, 104.98743749999994"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Bảo Bảo",
+        "phone": "0251.38826622",
+        "address": "10+11/F6, KP 1, Phường Long Bình Tân, Thành phố Biên Hòa, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9006875, 106.85393750000003"
+          ]
+        }
+      },
+      {
+        "name": "Hà Đặng",
+        "phone": "0589555777",
+        "address": "Số 2, Đường Đồng Khởi, Khu phố 3, phường Tam hòa, TP Biên Hòa, Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9515625, 106.87043749999998"
+          ]
+        }
+      },
+      {
+        "name": "Tân Thái Bình 2 LK",
+        "phone": "0251 3647 487",
+        "address": "Số 902, KP 05, phường Xuân Hòa, thành phố Long Khánh, tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9226875, 107.23956250000003"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Kim 2",
+        "phone": "0251.3214310",
+        "address": "Khu Văn Hải, Thị Trấn Long Thành, Huyện Long Thành, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7893125, 106.94718749999993"
+          ]
+        }
+      },
+      {
+        "name": "Thiên Kim 2B",
+        "phone": "02513 849753",
+        "address": "Đường 319 Ấp Bến Cam,Huyện Phước Thiền , Huyện Nhơn Trạch, Tỉnh Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7550625, 106.92368750000003"
+          ]
+        }
+      },
+      {
+        "name": "Toàn Nga",
+        "phone": "02773940959",
+        "address": "Số 167, đường Hùng Vương, Thị Trấn Mỹ An, huyện Tháp Mười, tỉnh Đồng Tháp",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5193125, 105.84156250000001"
+          ]
+        }
+      },
+      {
+        "name": "Minh Trí 2",
+        "phone": "02773859345",
+        "address": "42 Lý Thường Kiệt, Phường 1, TP. Cao Lãnh, Đồng Tháp",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4596875, 105.63406250000003"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Vân",
+        "phone": "0905105919",
+        "address": "310-312 Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, Thành phố Đà Nẵng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0670625, 108.2131875"
+          ]
+        }
+      },
+      {
+        "name": "Thái Bình 2",
+        "phone": "0236.3.945.369",
+        "address": "Số 1050, Đường Ngô Quyền, Phường An Hải Tây, Quận Sơn Trà, Thành phố Đà Nẵng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0590625, 108.23506250000003"
+          ]
+        }
+      },
+      {
+        "name": "Tiến Thu",
+        "phone": "0236 3566 887",
+        "address": "Số 41, Đường Điện Biên Phủ, Quận Thanh Khê, Thành phố Đà Nẵng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "16.0655625, 108.20181249999996"
+          ]
+        }
+      },
+      {
+        "name": "Anh Tuấn",
+        "phone": "0230.3811789",
+        "address": "Số nhà 517, Tổ dân phố 15, Phường Him Lam, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3984375, 103.02243750000002"
+          ]
+        }
+      },
+      {
+        "name": "Thịnh Tuyết",
+        "phone": "0215.3862520",
+        "address": "Khối Tân Thủy, Thị trấn Tuần Giáo, Huyện Tuần Giáo, Tỉnh Điện Biên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.5876875, 103.41993750000006"
+          ]
+        }
+      },
+      {
+        "name": "Thọ Hà",
+        "phone": "0215.735979",
+        "address": "Tổ dân phố 16, Phường Thanh Bình, Thành phố Điện Biên Phủ, Tỉnh Điện Biên",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3966875, 103.00906250000003"
+          ]
+        }
+      },
+      {
+        "name": "Quốc Thịnh",
+        "phone": "0251.3661528",
+        "address": "Tổ 1 ,Ấp Thanh Thọ, Xã Phú Thanh, Huyện Tân Phú, Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.2815625, 107.48193749999996"
+          ]
+        }
+      },
+      {
+        "name": "Phạm Văn Hưng",
+        "phone": "0251.3871193",
+        "address": "Khu 3, Thị Trấn Gia Ray, Xuân Lộc, Đồng nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9258125, 107.40431250000006"
+          ]
+        }
+      },
+      {
+        "name": "Tân Thái Bình",
+        "phone": "02513.899 292",
+        "address": "126 Nguyễn Ái Quốc Phường .Trảng Dài ,Thành phố Biên Hòa, Đồng Nai",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9670625, 106.85456249999993"
+          ]
+        }
+      },
+      {
+        "name": "Việt Nhật CB",
+        "phone": "0206.707222",
+        "address": "Ngã tư Nà Cáp, Tổ 7, Phường Sông Hiến, Thành phố Cao Bằng, Tỉnh Cao Bằng",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "22.6769375, 106.24168750000001"
+          ]
+        }
+      },
+      {
+        "name": "Chiến",
+        "phone": "02623.958195",
+        "address": "27 Tỉnh lộ 8 , Xã Quảng Tiến, Huyện Crumgar, Daklak",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.8105625, 108.07581249999998"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Phụng",
+        "phone": "02623.778899",
+        "address": "367 Giải Phóng,Thị Trấn Eadrang, Huyện Ealeo, Daklak",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.1974375, 108.20381250000003"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Vũ 2",
+        "phone": "02623.674747",
+        "address": "Khối 4, Thị Trấn Krông Năng, Huyện Krông Năng, Tỉnh Đăk Lăk",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.9494439, 108.36233059999995"
+          ]
+        }
+      },
+      {
+        "name": "An Phát",
+        "phone": "02623.522549",
+        "address": "Khối 10,Thi trấn Phước An ,Huyện Krông Pack, Đăklăk",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.7123125, 108.32456249999996"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Vũ 3",
+        "phone": "0913475480",
+        "address": "Số 14A-14B-14C, đường Nguyễn Tất Thành, Phường Tự An, TP Buôn Ma Thuột",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.6859375, 108.05368750000002"
+          ]
+        }
+      },
+      {
+        "name": "Lai Hương",
+        "phone": "02623.870087",
+        "address": "115 Hùng Vương, thị Xã Buôn Hồ, Daklak",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.9195625, 108.26481250000006"
+          ]
+        }
+      },
+      {
+        "name": "Hòa Phát Lợi",
+        "phone": "02623.836888",
+        "address": "109 -111 Phan Bội Châu, Phường Thống Nhất, Thành Phố Buôn Mê Thuột, Tỉnh Đăk Lăk",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.6823125, 108.03981249999993"
+          ]
+        }
+      },
+      {
+        "name": "Việt Tín Nguyên",
+        "phone": "02613.883789",
+        "address": "245 Nguyễn Tất Thành,Thi trấn Eatlin, Huyện Cu Jut, Đăknông",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.5926875, 107.89918749999993"
+          ]
+        }
+      },
+      {
+        "name": "Vương Văn Minh",
+        "phone": "02613.750308",
+        "address": "186 Nguyễn Tất Thành ,Khối 6 ,Thị Trấn Đăk Mil ,Huyện Đăk Mil ,Đăk Nông",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "12.4530625, 107.6278125"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Trí 2",
+        "phone": "0252.3560999",
+        "address": "514-516 Thống Nhất-Phường Tân An , Huyện Lagi-Hàm Tân ,Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.6800625, 107.75318749999997"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Trí",
+        "phone": "0252.381905",
+        "address": "312-314 Trần Hưng Đạo, thành phố Phan Thiết, tỉnh Bình Thuận",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.9249828, 108.09949989999996"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Anh CM",
+        "phone": "0290.3830516",
+        "address": "307 Lý Thường Kiệt, Phường 6, TP. Cà Mau",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.1658125, 105.14443749999998"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Anh 2 TVT",
+        "phone": "0290.3896677",
+        "address": "Khóm 9, TT Tràn Văn Thời, H.Trần Văn Thời, tỉnh Cà Mau",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.0750625, 104.96556250000003"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Anh 3 CN",
+        "phone": "0290.3882110",
+        "address": "33QL1A-TT Cái Nước, H. Cái Nước, Tỉnh Cà Mau",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "8.9421875, 105.01131250000003"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phúc 2 TN",
+        "phone": "0292.3612919",
+        "address": "557 Ấp Long Thạnh  A, P Thốt Nốt, Q.Thốt Nốt, TP. Cần Thơ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2730625, 105.52981249999993"
+          ]
+        }
+      },
+      {
+        "name": "Sài Gòn 2",
+        "phone": "0292.3783.979",
+        "address": "Số 45( kios 15 - 17 - 19 - 21 CVVH Miền Tây) Cách Mạng Tháng Tám, phường An Thới, Quận Bình Thủy, Thành phố Cần Thơ.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0539375, 105.77143750000005"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phúc",
+        "phone": "0292.3811919",
+        "address": "57,59,61 Trần Văn Khéo, Phường Cái Khế , Q.Ninh Kiều,TPCần Thơ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0443125, 105.78368750000004"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phúc 5",
+        "phone": "0292.3735919",
+        "address": "39A đường Mậu Thân, phường An Hòa, quận Ninh Kiều, thành phố Cần Thơ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0413125, 105.76693750000004"
+          ]
+        }
+      },
+      {
+        "name": "Sài Gòn",
+        "phone": "0292.3780164",
+        "address": "164 – 166C Đường 3/2, P. Hưng Lợi, Q. Ninh Kiều, Tp. Cần Thơ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0249088, 105.76803259999997"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Phúc 3 OM",
+        "phone": "0292.3665919",
+        "address": "KV4, P. Châu Văn Liêm, Q. Ô Môn, TP. Cần Thơ",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.1093125, 105.62206249999997"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Đại Dương 2",
+        "phone": "0274.3747696",
+        "address": "01/18B Quốc Lộ 13, KP. Hòa Lân, P. Thuận Giao, TX. Thuận An, tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.95519, 106.70241"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Đại Dương 6",
+        "phone": "0274.3990779",
+        "address": "186 D9T747 Hội Nghĩa, Tân Uyên, Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.0986875, 106.7694375"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Đại Dương 4",
+        "phone": "0274.3636.778",
+        "address": "14/13 Khu phố Bình Phước B, Phường Bình Chuẩn, TX Thuận An, Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.97819, 106.74063"
+          ]
+        }
+      },
+      {
+        "name": "Công Thành Dĩ An",
+        "phone": "0274 3736670",
+        "address": "8/32 KP.Bình Minh 2, thị trấn Dĩ An, tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.90312, 106.76825"
+          ]
+        }
+      },
+      {
+        "name": "Công Thành 1",
+        "phone": "0274.3840584",
+        "address": "49/5 Đại lộ Bình Dương ,Thị Xã Thủ Dầu Một ,Tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.97162, 106.67358"
+          ]
+        }
+      },
+      {
+        "name": "Thành Phát 3S",
+        "phone": "02713975888",
+        "address": "Khu Đức Lập, Thị Trấn Đức Phong, Huyện Bù Đăng, Tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.8099827, 107.24595269999998"
+          ]
+        }
+      },
+      {
+        "name": "Hiệp Phong Phú",
+        "phone": "0271.3563797",
+        "address": "Khu phố Thanh Xuân, thị trấn Thanh Bình, huyện Bù Đốp, tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.9571875, 106.7963125"
+          ]
+        }
+      },
+      {
+        "name": "Thắng Lợi BP",
+        "phone": "0271.3780308",
+        "address": "Khu phố 1, thị trấn Thác Mơ, huyện Phước Long, tỉnh Bình Phước",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.8398125, 106.99368749999996"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Giang",
+        "phone": "0271.3887779",
+        "address": "356 Quốc Lộ 14 Khu Phố 2, Phường Tân Đồng, Đồng Xoài, Tỉnh Bình Phước.",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.5376875, 106.90356250000002"
+          ]
+        }
+      },
+      {
+        "name": "Phương Tiến Dũng",
+        "phone": "0256.3635968",
+        "address": "107-109, Trần Phú Phường Bình Đinh,Thị xã An Nhơn , Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.8905625, 109.11318749999998"
+          ]
+        }
+      },
+      {
+        "name": "Nhơn 2",
+        "phone": "0256.3765567",
+        "address": "Tân Thành 2, xã Hoài Hảo, huyện Hoài Nhơn, tỉnh Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.5353125, 109.03831250000007"
+          ]
+        }
+      },
+      {
+        "name": "Khiêm 2",
+        "phone": "0256.6269099",
+        "address": "49 đường 3 tháng 2, thị trấn Ngô Mây, Phù Cát, tỉnh Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.0128263, 109.05522040000005"
+          ]
+        }
+      },
+      {
+        "name": "Hưng Lợi",
+        "phone": "0256.3855998",
+        "address": "167-169 Quang Trung, thị trấn Phù Mỹ, huyện Phù Mỹ, tỉnh Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "14.1770625, 109.05181249999998"
+          ]
+        }
+      },
+      {
+        "name": "Ba Đàm",
+        "phone": "0256.3880141",
+        "address": "28 Quang Trung,Thị Trấn Phú phong, Huyện tây Sơn, Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.910602, 108.91273990000002"
+          ]
+        }
+      },
+      {
+        "name": "Khiêm",
+        "phone": "0256.3833251",
+        "address": "Số 135, đường Trần Phú, Thị Trấn Diêu Trì, Huyện Tuy Phước, Tỉnh Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.8045625, 109.1473125"
+          ]
+        }
+      },
+      {
+        "name": "Nhơn",
+        "phone": "0256.3821419",
+        "address": "554 Trần Hưng Đạo, Qui Nhơn, Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.7813125, 109.22181249999994"
+          ]
+        }
+      },
+      {
+        "name": "Nhơn 4",
+        "phone": "0256.3841841",
+        "address": "444 Lạc Long Quân, phường Trần Quang Diệu, Tp Qui Nhơn, tỉnh Bình Định",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "13.7816875, 109.14831249999997"
+          ]
+        }
+      },
+      {
+        "name": "Thủy Tuyên Phát",
+        "phone": "0274.3555459",
+        "address": "7 Quốc Lộ 13, Tổ 1, P.Thới Hòa, TX. Bến Cát, tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "11.09625, 106.62682"
+          ]
+        }
+      },
+      {
+        "name": "Nghĩa Thành",
+        "phone": "0274.3612427",
+        "address": "217 Khu Phố Bình Hòa, Thị Trấn Tân Phước Khánh, Tân Uyên, Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.99926,  106.71078"
+          ]
+        }
+      },
+      {
+        "name": "Nghĩa Thành 2",
+        "phone": "0274 3642727",
+        "address": "Số 061/B- 062/B - 063/B Khu phố 1,thị Trấn Uyên Hưng, Huyện Tân Uyên, Tỉnh Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.99926,  106.71078"
+          ]
+        }
+      },
+      {
+        "name": "Tuấn Đại Dương",
+        "phone": "0274.3754235",
+        "address": "80 Nguyễn Văn Tiết, Bình Hoa, Lái Thiều, Thuận An, Bình Dương",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.92102, 106.71331"
+          ]
+        }
+      },
+      {
+        "name": "Thành Nên",
+        "phone": "0291.3848277",
+        "address": "300 Khóm 2, phường 1, Thị xã Giá Rai ,Tinh  Bạc  Liêu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.2388125, 105.4598125"
+          ]
+        }
+      },
+      {
+        "name": "Văn Tươi 1",
+        "phone": "0291.3969313",
+        "address": "Số 278, đường 23 tháng 08, khóm Trà Kha, phường 8, thành Phố Bạc Liêu, tỉnh Bạc Liêu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.2965625, 105.7048125"
+          ]
+        }
+      },
+      {
+        "name": "Anh Phương",
+        "phone": "0291.3828494",
+        "address": "59/5 Trần Phú, Phường 7, TP. Bạc liêu",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "9.2994375, 105.72143749999998"
+          ]
+        }
+      },
+      {
+        "name": "Quang Tuyết",
+        "phone": "02223.506818/02223.505206",
+        "address": "Lô 19, Đường bờ Nam Kênh Bắc, Phố Mới,Thị trấn Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.0590625, 106.08681249999995"
+          ]
+        }
+      },
+      {
+        "name": "Trung Thành",
+        "phone": ">0222.3855464",
+        "address": "Số 320, Phố Trần Hưng Đạo, Phường Đại Phúc, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.1765625, 106.07506250000006"
+          ]
+        }
+      },
+      {
+        "name": "Hồng Vân",
+        "phone": "0275.3850231",
+        "address": "SỐ 2, ĐƯỜNG 19/5, KHU PHỐ 5, THỊ TRẤN BA TRI, TỈNH BẾN TRE",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0439375, 106.59568749999994"
+          ]
+        }
+      },
+      {
+        "name": "Hùng Dũng",
+        "phone": "0275.3762808",
+        "address": "90A Đường 19-5 , Khu Phố 2, Thị Trấn Ba Tri,Tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.0454375, 106.58768750000002"
+          ]
+        }
+      },
+      {
+        "name": "Cao Phong",
+        "phone": "0275.3742333",
+        "address": "Số 72, Ấp Bình Hòa, Thị Trấn Bình Đại, Huyện Bình Đại, Tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.1951875, 106.68968749999999"
+          ]
+        }
+      },
+      {
+        "name": "Trí Tâm",
+        "phone": "0275.3850167",
+        "address": "Ấp số 5, thị trấn Bình Thành, huyện Giồng Trôm, Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.1480625, 106.50618750000001"
+          ]
+        }
+      },
+      {
+        "name": "Huy Hoàng 2",
+        "phone": "0275.3661661",
+        "address": "Số 75A Khu phố 7, Thị trấn Mỏ Cày, huyện Mỏ Cày Nam, tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.1330625, 106.33143749999999"
+          ]
+        }
+      },
+      {
+        "name": "Huy Hoàng 3",
+        "phone": "0275.3815669",
+        "address": "43C Đại lộ Đồng khởi,phường  Phú Khương tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2451875, 106.37506250000001"
+          ]
+        }
+      },
+      {
+        "name": "Nguyễn Hoàng 1",
+        "phone": "0275.3662999",
+        "address": "234A Đồng Khởi, P. Phú  Tân , Tp Bến Tre ,Tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2564375, 106.3660625"
+          ]
+        }
+      },
+      {
+        "name": "Huy Hoàng 1",
+        "phone": "0275.3816596",
+        "address": "100 Đại lộ Đồng Khởi, phường Phú Khương, tỉnh Bến Tre",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2485625, 106.37393750000001"
+          ]
+        }
+      },
+      {
+        "name": "Thành Nam 3",
+        "phone": "0296.3712787",
+        "address": "Khu Dân Cư Cầu Cống Vong, Thị Trấn Núi Sập,Huyện Thoại Sơn, Tỉnh An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.2704375, 105.26781249999999"
+          ]
+        }
+      },
+      {
+        "name": "Út Quyên",
+        "phone": "0296.37416",
+        "address": "Quốc Lộ 91,Khóm Hòa Hưng ,Thị Trấn Nhà Bàng ,Huyện Tịnh Biên ,An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.6240625, 105.00581250000005"
+          ]
+        }
+      },
+      {
+        "name": "Út My",
+        "phone": "0296.3773999",
+        "address": "Số 32, Trần Hưng Đạo, Khóm 3, thị trấn Tri tôn, huyện Tri Tôn, tỉnh An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.4293125, 105.00143750000007"
+          ]
+        }
+      },
+      {
+        "name": "Nguyễn Huệ",
+        "phone": "02963940488",
+        "address": "372 Trần Hưng Đạo, P. Mỹ Xuyên, TP. Long Xuyên, An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.3780625, 105.43943749999994"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Yến CD",
+        "phone": "02966270070",
+        "address": "177-179-181 Nguyễn Văn Thoại , Phưởng Châu Phú B, TP. Châu Đốc, An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7038125, 105.13131250000004"
+          ]
+        }
+      },
+      {
+        "name": "Sơn Nhung",
+        "phone": "0296.3688788",
+        "address": "209-211 Quốc lộ 91,ấp Vĩnh Lộc, Thị trấn Cái Dầu, huyện Châu Phú, tỉnh An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5718125, 105.2399375"
+          ]
+        }
+      },
+      {
+        "name": "Thu Trang",
+        "phone": "0204.3578888",
+        "address": "Số 117, Đường Hoàng Hoa Thám, Thị trấn Cao Thượng, Huyện Tân Yên, Tỉnh Bắc Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3854375, 106.12743750000004"
+          ]
+        }
+      },
+      {
+        "name": "Tú Tiếp",
+        "phone": "0204.3638567",
+        "address": "Phố Vôi, Thị trấn Vôi, Huyện Lạng Giang, Tỉnh Bắc Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.3531875, 106.25968749999993"
+          ]
+        }
+      },
+      {
+        "name": "Toàn Phương",
+        "phone": "0204.6260021",
+        "address": "Số 332, Đường Lê Lợi, Phường Hoàng Văn Thụ, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2741875, 106.19968749999998"
+          ]
+        }
+      },
+      {
+        "name": "Việt Nhật 1",
+        "phone": "0204.6252056",
+        "address": "Số 4B, Đường Xương Giang, Phường Trần Phú, Thành phố Bắc Giang, Tỉnh Bắc Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "21.2765625, 106.18943749999994"
+          ]
+        }
+      },
+      {
+        "name": "Hòa Bình AG 2",
+        "phone": "0296.3611998",
+        "address": "Đường Nguyễn hữu Cảnh,  ấp long hòa, Thị Trấn Chợ mới, An giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.5473125, 105.4034375"
+          ]
+        }
+      },
+      {
+        "name": "Ngọc Yến",
+        "phone": "02963822743",
+        "address": "265 Tôn Đức Thắng,Khóm Long Thanh D,Phường Long Thạnh ,Thị Xã Tân Châu,Tỉnh  An Giang",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            "10.7963125, 105.24068750000004"
+          ]
+        }
+      }
+    ]
+  },
+  "item_scraped_count": 608
+}

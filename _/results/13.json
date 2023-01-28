@@ -1,0 +1,366 @@
+{
+  "type": "Feature",
+  "name": "banhmituanmap",
+  "POI:Category": "Restaurant",
+  "store_url": "http://www.banhmituanmap.com.vn/He-thong-cua-hang.html",
+  "website": "http://www.banhmituanmap.com.vn",
+  "properties": {
+    "attributes": [
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "12 Phạm Phú Thứ, Phường 11, Quận Tân Binh",
+        "phone": "0926 414 717",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "14/3A ấp Mỹ Hòa 4, Xuân Thới Đông, H.Hóc Môn",
+        "phone": "0938 171 760",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "91B - Đồng Khởi - Phường Tam Hiệp - Biên Hòa - Đồng Nai",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "15 Phan Huy Ích, Phường 14, Quận  Gò Vấp",
+        "phone": "0913 177 199",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "23 Tây Thạnh,Phường Tây Thạnh,Quận, Tân Phú",
+        "phone": "0988 629 974",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "486 Huỳnh Tấn Phát,Phường Bình Thuận, Quận 7",
+        "phone": "0932 597 309",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "25Đ Nguyễn Văn Đậu,Phường Bình Thạnh",
+        "phone": "0122 952 0637",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "479 Hương Lộ 3, Phường Bình Hưng Hòa, Bình Tân",
+        "phone": "0926 414 717",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "373 Phan Văn Trị, Phường 11, Quận. Bình Thạnh",
+        "phone": "0902 580 039",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "81 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP.HCM",
+        "phone": "0909841291",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "68 Nguyễn Văn Cừ, TT An Thới, Phú Quốc",
+        "phone": "0938148611",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "196 Paster, Phường 6, Quận 3, TPHCM",
+        "phone": "0909 506 588",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "68/1 Trần Nhân Tông, Phường 2, Quận 10",
+        "phone": "0983 171 760",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "160C Kên Tân Hóa, P.Phú Trung, Q.Tân Phú",
+        "phone": "0903.50.58.56",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "123 Tân Kỳ Tân Quý, Phường Sơn Kỳ, Q. Tân Phú",
+        "phone": "0902 879 978",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "275 Gò Xoài, Phường Bình Hưng Hòa A, Quận Tân Phú",
+        "phone": "0902 879 978",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "129 Lê Văn Việt, Phường Hiệp Phú, Quận 9",
+        "phone": "0973 569 123",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "231 Nơ Trang Long, Phường 11, Quận Bình Thạnh",
+        "phone": "0986 469 049",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "126 Phó Cơ Điều, Phường 4, Quận 11",
+        "phone": "",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "173 Trường Chinh, Phường 12, quận Tân Bình",
+        "phone": "0918 731 973",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "196 Phạm Văn Chiêu, Quận Gò Vấp",
+        "phone": "0918 882 774",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "Ngã Tư Bà Điểm ( Giao Lộ Phan Văn Hớn Và Quốc Lộ 1A)",
+        "phone": "0909 163 029",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "165 Hòa Bình, Phường Hiệp Thành, Quận Tân Phú",
+        "phone": "0933 164 252",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "282 Bùi Hữu Nghĩa, Phường 2, Quận Tân Bình",
+        "phone": "0984 559 905",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "59/3 Quang Trung, Huyện Hóc Môn",
+        "phone": "0935 225 030",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "904 Tỉnh Lộ 10, Bình Trị Đông A, Bình Tân",
+        "phone": "0902 962 343",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "338 Đường Số 7, KP 8, Phường Tân Tạo, Quận Bình Tân",
+        "phone": "0126 4479 4022",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "270 Tùng Thiện Vương, Phường 13, Quận 8",
+        "phone": "0938 787 207",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "358 Phạm Văn Hai, Phường 15 Quận Tân Bình",
+        "phone": "0902 66 11 55",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "683 Hưng phú, Phường 9, Quận 8, TP HCM",
+        "phone": "0902 879 978",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "65 Nguyễn Thị Nhỏ, Phường 9, Quận Tân Bình",
+        "phone": "0913644528",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "1244 Đường 3 Tháng 2",
+        "phone": "0162 794 1057",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "66A Nguyễn Văn Quá, Đông Hưng Thuận, Q 12",
+        "phone": "0902 66 11 55",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "358 Phạm Văn Bạch, Phường 15, Quận Tân Bình",
+        "phone": "0902 66 11 55",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "23A Khu Phố 2, Nguyễn Ảnh Thủ, Q.12,P .Hiệp Thành",
+        "phone": "0902 66 11 55",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "646 trường chinh, phường tây thạnh, quận tân phú",
+        "phone": "0902 66 11 55",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "Ngã tư Tô Ký - Nguyễn Ảnh Thủ",
+        "phone": "0902 66 11 55",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "D17/20 ấp 4, Vĩnh Lộc B",
+        "phone": "0902 66 11 55",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "Cách mạng tháng 8, Biên Hòa, Đồng Nai",
+        "phone": "",
+        "email": "banhmituanmap@gmail.com"
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "62/13 Phạm Văn Thuận - KP1 Phường Tam Hoa - Biên Hòa - Đồng Nai",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "1010 Kha Vạn Cân, Phường Trường Thọ, Quận Thủ  Đức",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "380 Lê Hồng Phong -  Phường 8 -  Thành phố Vũng Tàu",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "1/36 Nguyễn An Ninh -  Dĩ An -  Bình Dương",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "Bùi Chu, Trảng Bom, Đồng Nai",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "91 Đồng Khởi -  Tam Hiệp -  Biên Hòa -  Đồng Nai",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "203 Đường số 10 - Phường Tân Kiên -  Quận 7",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "Khu phố Hải Hà - Thị trấn Long Hải -  Vũng Tàu",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "619 Đường 30/4 - Phường Rạch Dưa - Vũng Tàu",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "43 Nguyễn Văn Cừ -  Phường Long Toàn - Vũng Tàu",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "182 Đinh Tiên Hoàng - Thừa Thiên Huế",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "Số 93 - Đường 21-8 - Phan Rang - Tháp Chàm -",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "160C Kênh Tân Hóa, P.Phú Trung, Q.Tân Phú",
+        "phone": "0903.50.58.56",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "475 Phạm Văn Đồng, TT Châu Ổ, Bình Sơn, Quảng Ngãi",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "2C Ấp Bắc, P13, Q.Tân Bình, TP.HCM",
+        "phone": "0938.748.052",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "160C Kênh Tân Hóa, P.Phú Trung, Q.Tân Phú",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "372 KP1, TT Gò Dầu, Tây Ninh",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "815B Nguyễn Trãi, Q5, TP.HCM",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "16 Phạm Hùng, K12, TT Tân Biên, Tây Ninh",
+        "phone": "",
+        "email": ""
+      },
+      {
+        "name": "Hệ thống cửa hàng",
+        "address": "196 pasteur. f6. q3, TP.HCM",
+        "phone": "0909 506 588",
+        "email": "028.38.23.21.49"
+      }
+    ]
+  },
+  "item_scraped_count": 59
+}
